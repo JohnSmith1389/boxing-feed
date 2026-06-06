@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 21:04:25 +0000</lastBuildDate>
-    <item>
-      <title>Bam Rodriguez Does It His Own Way</title>
-      <link>https://www.boxinginsider.com/headlines/bam-rodriguez-does-it-his-own-way/</link>
-      <description>By: Sean Crose It's a part of contemporary boxing. Fighters watch footage of other fighters who they're going to face as often as possible.</description>
-      <guid isPermaLink="false">63f736159e408546c50a4861caa8cdac</guid>
-      <enclosure url="https://www.boxinginsider.com/wp-content/uploads/2026/06/Screenshot_20260605-2206142.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 12:20:55 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxinginsider.com/wp-content/uploads/2026/06/Screenshot_20260605-2206142.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Thomas Hearns admits there was one fight he wishes he could've had before retirement: "I prayed for it"</title>
-      <link>https://boxingnewsonline.net/news/thomas-hearns-on-fight-he-wishes-he-had/</link>
-      <description>The résumé of Thomas Hearns was long, legendary and littered with talent, but there is one fight that ‘The Motor City Cobra’ prayed for, that he did not get</description>
-      <guid isPermaLink="false">9c1aec62a38ddf8ec7ae62ad048b1d22</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1780748507661862405/thomas-hearns.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 12:24:23 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1780748507661862405/thomas-hearns.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 06 Jun 2026 22:36:12 +0000</lastBuildDate>
     <item>
       <title>Prediction, pick for Jack Massey vs. Cheavon Clarke at Zuffa Boxing 07</title>
       <link>https://dknetwork.draftkings.com/2026/06/06/prediction-pick-for-jack-massey-vs-cheavon-clarke-at-zuffa-boxing-07/</link>
@@ -281,6 +259,28 @@
       <pubDate>Sat, 06 Jun 2026 21:06:00 +0000</pubDate>
       <media:group>
         <media:content url="https://e0.365dm.com/26/06/1600x900/skysports-boxing-clarke-massey_7267098.jpg?20260606211321" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing 07 results, highlights: Chris Billam-Smith stops Ryan Rozicki in dramatic slugfest</title>
+      <link>https://www.cbssports.com/boxing/news/zuffa-boxing-07-results-chris-billam-smith-ryan-rozicki-knockout/</link>
+      <description>Rozicki showed unreal heart but was ultimately unable to continue after seven rounds</description>
+      <guid isPermaLink="false">f6e1ef00a0f15c6cc657642abcf27cd0</guid>
+      <enclosure url="https://sportshub.cbsistatic.com/i/r/2026/06/06/5dfe554b-1f88-4558-9af5-dfd63a05e35f/thumbnail/1200x675/1c495b3e763073d1354e1ae5fcb9c185/billam-smith-rozicki-action.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 06 Jun 2026 21:09:48 +0000</pubDate>
+      <media:group>
+        <media:content url="https://sportshub.cbsistatic.com/i/r/2026/06/06/5dfe554b-1f88-4558-9af5-dfd63a05e35f/thumbnail/1200x675/1c495b3e763073d1354e1ae5fcb9c185/billam-smith-rozicki-action.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing 7 result: Chris Billam-Smith outlasts Ryan Rozicki in war of attrition</title>
+      <link>https://www.badlefthook.com/boxing-results/116217/zuffa-boxing-7-result-chris-billam-smith-outlasts-ryan-rozicki-war-attrition-clarke-massey-boxing-news-2026</link>
+      <description>Your best source for Boxing news, results, rumors, fights and rankings from the fan perspective.</description>
+      <guid isPermaLink="false">323026fe9227d9f6662466c708303e21</guid>
+      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/06/gettyimages-2279578221.jpg?quality=90&amp;strip=all&amp;crop=0,15.627370552259,100,77.643622894184&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 06 Jun 2026 21:13:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/06/gettyimages-2279578221.jpg?quality=90&amp;strip=all&amp;crop=0,15.627370552259,100,77.643622894184&amp;w=1200" medium="image"/>
       </media:group>
     </item>
   </channel>
