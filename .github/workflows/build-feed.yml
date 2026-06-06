@@ -1,0 +1,49 @@
+name: Build AI-summarized boxing feed
+
+# Runs every 30 minutes (and on demand). Reads your source feed, writes an
+# AI-summarized feed to docs/feed.xml, and commits it so GitHub Pages serves it.
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate summarized feed
+        env:
+          # ---- EDIT THESE TWO ----
+          SOURCE_FEED_URL: "https://rss.app/feeds/tMRcPMxWTVKyc7sj.xml"
+          FEED_TITLE: "Boxing News (AI summaries)"
+          # ------------------------
+          OUTPUT_PATH: "docs/feed.xml"
+          CACHE_PATH: "summaries_cache.json"
+          MAX_ITEMS: "25"
+          AI_PROVIDER: "gemini"          # gemini | openai | anthropic
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python summarize_feed.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name  "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add docs/feed.xml summaries_cache.json
+          git commit -m "Update feed" || echo "No changes"
+          git push
