@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 21:12:35 +0000</lastBuildDate>
-    <item>
-      <title>Fights on Fremont boxing event draws amateur athletes from across region</title>
-      <link>https://www.kmvt.com/2026/06/07/fights-fremont-boxing-event-draws-amateur-athletes-across-region/</link>
-      <description>The fifth annual Fights on Fremont brought amateur boxers from across Idaho and surrounding states to showcase their skills.</description>
-      <guid isPermaLink="false">e45abba4d4d8bc4032d612700d610f61</guid>
-      <enclosure url="https://gray-kmvt-prod.gtv-cdn.com/resizer/v2/NDH2RCPJLFEWNJJVZMHV3PMLQU.png?auth=4690372ec5ae8dbf821b60ce983f28b67579bdc6e8db58238f2d53838a16df0c&amp;width=1200&amp;height=600&amp;smart=true" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 07 Jun 2026 03:03:45 +0000</pubDate>
-      <media:group>
-        <media:content url="https://gray-kmvt-prod.gtv-cdn.com/resizer/v2/NDH2RCPJLFEWNJJVZMHV3PMLQU.png?auth=4690372ec5ae8dbf821b60ce983f28b67579bdc6e8db58238f2d53838a16df0c&amp;width=1200&amp;height=600&amp;smart=true" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Eddie Hearn Questions Zuffa Boxing Hype After Bournemouth Card</title>
-      <link>https://www.boxingnews24.com/2026/06/eddie-hearn-questions-zuffa-boxing-hype-after-bournemouth-card/</link>
-      <description>Eddie Hearn wasn't impressed by the praise being directed at Zuffa Boxing's first UK event in Bournemouth and took several shots at Dana White's promotion</description>
-      <guid isPermaLink="false">a6ab8c3573f2d771056a25c110d898d4</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/06/Eddie-Hearn666.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 07 Jun 2026 05:58:55 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/06/Eddie-Hearn666.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 22:37:10 +0000</lastBuildDate>
     <item>
       <title>Boxing: Sky Sports team watch in AWE as Ryan Rozicki eats HUGE Chris Billam-Smith shots!</title>
       <link>https://www.skysports.com/boxing/video/37488/13551541/boxing-sky-sports-team-watch-in-awe-as-ryan-rozicki-eats-huge-chris-billam-smith-shots</link>
@@ -229,6 +207,17 @@
       </media:group>
     </item>
     <item>
+      <title>Phoenix Fury vs Houston Hitmen Live Stream: How To Watch TCL Team Boxing League</title>
+      <link>https://www.fubo.tv/news/boxing/phoenix-fury-vs-houston-hitmen-live-stream-how-to-watch-tcl-team-boxing-league/</link>
+      <description>Watch Fury vs Hitmen live with TV channel, start time and streaming info. Stream TCL Team Boxing League on Fubo — no cable required, free trial available.</description>
+      <guid isPermaLink="false">7b66476f8f8f236f216b098106cd59c1</guid>
+      <enclosure url="https://www.fubo.tv/news/wp-content/uploads/2024/12/msg-networks-black-logo-e1682704538980.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 07 Jun 2026 17:41:07 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.fubo.tv/news/wp-content/uploads/2024/12/msg-networks-black-logo-e1682704538980.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Roberto Duran says he never should have fought one fight: "That was bad"</title>
       <link>https://boxingnewsonline.net/news/duran-on-one-fight-he-shouldnt-have-had/</link>
       <description>Roberto Duran believes he was coerced by his manager to take an unfavourable fight, shortly after sustaining major injuries from a car accident.</description>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 07 Jun 2026 20:06:22 +0000</pubDate>
       <media:group>
         <media:content url="https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/S4ERJETOKREAPCGFJF7DF5EY6E.JPG?auth=f68265e6482a78a61938ef497ba8fd2516058c5233b551c7e9f420fdac5f0e8c&amp;width=1440" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Regis Prograis predicts Devin Haney vs Shakur Stevenson after facing Haney: "He's more skilled"</title>
+      <link>https://boxingnewsonline.net/news/regis-prograis-on-haney-vs-stevenson/</link>
+      <description>After sharing twelve rounds with Devin Haney, Regis Prograis has weighed in on how his former rival may fare against Shakur Stevenson.</description>
+      <guid isPermaLink="false">3964e5653e001a00c5c69f550854d6f5</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1780862374063776587/Devin-Haney-and-Shakur-Stevenson-mid-shot.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 07 Jun 2026 20:10:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1780862374063776587/Devin-Haney-and-Shakur-Stevenson-mid-shot.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
