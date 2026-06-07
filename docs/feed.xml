@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 19:54:39 +0000</lastBuildDate>
-    <item>
-      <title>Owner of Sharpsburg boxing club looking forward to summer full of fights</title>
-      <link>https://triblive.com/sports/owner-of-sharpsburg-boxing-club-looking-forward-to-summer-full-of-fights/</link>
-      <description>Jose Caraballo, owner of the Ray Schafer Boxing Association in Sharpsburg, hopes 2026 will be a busy year in the ring. Caraballo, who trains Colleen Davis, has the Shaler graduate lined up for a pair of professional bouts five weeks apart this summer.</description>
-      <guid isPermaLink="false">617860b7712e03eb4734532d03d18eac</guid>
-      <enclosure url="https://assets-varnish.triblive.com/2026/06/9638539_web1_her-Boxing3-022119.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 07 Jun 2026 02:41:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://assets-varnish.triblive.com/2026/06/9638539_web1_her-Boxing3-022119.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 21:12:35 +0000</lastBuildDate>
     <item>
       <title>Fights on Fremont boxing event draws amateur athletes from across region</title>
       <link>https://www.kmvt.com/2026/06/07/fights-fremont-boxing-event-draws-amateur-athletes-across-region/</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 07 Jun 2026 19:34:04 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/081A3463.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Jahyae Brown retains the WBC Silver belt in Fight Night at Fenway</title>
+      <link>https://www.bostonglobe.com/2026/06/07/sports/boxing-fenway-park/</link>
+      <description>10 fights took place in the concourse underneath the center field bleachers at Fenway Park.</description>
+      <guid isPermaLink="false">4694450017adb4e7b0c7f8f6f634d920</guid>
+      <enclosure url="https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/S4ERJETOKREAPCGFJF7DF5EY6E.JPG?auth=f68265e6482a78a61938ef497ba8fd2516058c5233b551c7e9f420fdac5f0e8c&amp;width=1440" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 07 Jun 2026 20:06:22 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/S4ERJETOKREAPCGFJF7DF5EY6E.JPG?auth=f68265e6482a78a61938ef497ba8fd2516058c5233b551c7e9f420fdac5f0e8c&amp;width=1440" medium="image"/>
       </media:group>
     </item>
   </channel>
