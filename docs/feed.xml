@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 08:35:07 +0000</lastBuildDate>
-    <item>
-      <title>Boxing: Sam Hickey lands HUGE right hand knockout!</title>
-      <link>https://www.skysports.com/boxing/video/37488/13551486/boxing-sam-hickey-lands-huge-right-hand-knockout</link>
-      <description>Boxing: Sam Hickey lands HUGE right hand knockout!</description>
-      <guid isPermaLink="false">963dcad55f8f61c713f2da804a9b72be</guid>
-      <enclosure url="https://e0.365dm.com/26/06/1600x900/skysports-boxing-hickey-tompkins_7267045.jpg?20260606193535" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 19:34:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/06/1600x900/skysports-boxing-hickey-tompkins_7267045.jpg?20260606193535" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Chev Clarke Gets 7th Round TKO | Zuffa Boxing 07</title>
-      <link>https://www.ufc.com/video/157430</link>
-      <description>Cruiserweight Talks His Incredible Comeback Victory At Zuffa Boxing 07 In Bournemouth On June 6, 2026</description>
-      <guid isPermaLink="false">435b69818bb29ff699dda1f37cf682b2</guid>
-      <enclosure url="https://ufc.com/images/2026-06/EM1_7276_resized.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 20:08:45 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-06/EM1_7276_resized.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxing: BIZARRE ending as Lee Cutler secures TKO after opponent pulls out with shoulder injury</title>
-      <link>https://www.skysports.com/boxing/video/30998/13551491/boxing-bizarre-ending-as-lee-cutler-secures-tko-after-opponent-pulls-out-with-shoulder-injury</link>
-      <description>Boxing: BIZARRE ending as Lee Cutler secures TKO after opponent pulls out with shoulder injury</description>
-      <guid isPermaLink="false">f20bb30a6369e79e8cecfb2c7f64c6f3</guid>
-      <enclosure url="https://e0.365dm.com/26/06/1600x900/skysports-boxing-cutler-sutton_7267069.jpg?20260606202449" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 20:19:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/06/1600x900/skysports-boxing-cutler-sutton_7267069.jpg?20260606202449" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 11:08:57 +0000</lastBuildDate>
     <item>
       <title>Chev Clarke Post-Fight Interview | Zuffa Boxing 07</title>
       <link>https://www.ufc.com/video/157431</link>
@@ -196,6 +163,17 @@
       </media:group>
     </item>
     <item>
+      <title>Dana White: Watch What Happens In The Next 30 Days</title>
+      <link>https://www.boxingnews24.com/2026/06/dana-white-watch-what-happens-in-the-next-30-days/</link>
+      <description>Dana White is not backing away from his claim that Zuffa Boxing will be involved in the highly anticipated Tyson Fury vs. Anthony Joshua fight.</description>
+      <guid isPermaLink="false">b13c99bfdde9a32bf91f7bdbb58be1fd</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/06/Dana-White111.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 06 Jun 2026 22:59:03 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/06/Dana-White111.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>45-year-old YouTube star 'Dad' bizarrely quits in the middle of boxing fight</title>
       <link>https://bloodyelbow.com/2026/06/06/45-year-old-youtube-star-dad-bizarrely-quits-in-the-middle-of-boxing-fight/</link>
       <description>YouTube boxer 'Dad' still has yet to see a second round in his boxing career</description>
@@ -281,6 +259,28 @@
       <pubDate>Sun, 07 Jun 2026 07:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://e0.365dm.com/26/06/1600x900/skysports-cbs-comms-cam_7267204.jpg?20260606231340" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Deontay Wilder offered fast track route back to his old world title: "Let's do it"</title>
+      <link>https://boxingnewsonline.net/news/deontay-wilder-fast-track-back-to-wbc-belt/</link>
+      <description>Deontay Wilder could soon find himself involved in an unexpected world title fight, possibly against an unbeaten heavyweight whose last six outings have ended</description>
+      <guid isPermaLink="false">162ac2ac03fcb5d2291ee861a284e7c9</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1780816394815399258/Wilder-with-WBC-belt.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 07 Jun 2026 07:14:32 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1780816394815399258/Wilder-with-WBC-belt.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Dana White Uses Bam Rodriguez to Shut Down Eddie Hearn’s Aspinall Ultimatum</title>
+      <link>https://www.si.com/fannation/boxing/dana-white-uses-bam-rodriguez-to-shut-down-eddie-hearn-aspinall-ultimatum</link>
+      <description>Dana White is not willing to budge on Eddie Hearn's latest business request. Although the two are known as rivals in boxing, they are now involved in MMA, with</description>
+      <guid isPermaLink="false">a17cfd77f868333e549c3d68dd37010d</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4707,h_2647/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jqrpq4gx8awsxy96az.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 07 Jun 2026 10:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4707,h_2647/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jqrpq4gx8awsxy96az.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
