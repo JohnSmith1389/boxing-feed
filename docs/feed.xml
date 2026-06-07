@@ -7,51 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 11:08:57 +0000</lastBuildDate>
-    <item>
-      <title>Chev Clarke Post-Fight Interview | Zuffa Boxing 07</title>
-      <link>https://www.ufc.com/video/157431</link>
-      <description>Cruiserweight Talks His Comeback Win At Zuffa Boxing 07 In Bournemouth On June 6, 2026</description>
-      <guid isPermaLink="false">6925ba0a70ff223a59f3307326acda77</guid>
-      <enclosure url="https://ufc.com/images/2026-06/ZB07-Chev-Clarke-thumb.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 20:20:44 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-06/ZB07-Chev-Clarke-thumb.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Factory by Beer Tree Brew hosts fundraiser for Rock Steady Boxing</title>
-      <link>https://www.wbng.com/2026/06/06/factory-by-beer-tree-brew-hosts-fundraiser-rock-steady-boxing/</link>
-      <description>Factory by Beer Tree Brew is hosting a fundraiser for Rock Steady Boxing of the Southern Tier on Sunday, June 7, from 4 p.m. to 7 p.m.</description>
-      <guid isPermaLink="false">68357c87ea17fc35ae5551628f818127</guid>
-      <enclosure url="https://gray-wbng-prod.gtv-cdn.com/resizer/v2/HYK4J6424BDDZHYV67TDUHRYVI.png?auth=00cd79c7eef12b672675bccd06aa82cbb0bb7c46f26c631f24f0f36d9e2af799&amp;width=1200&amp;height=600&amp;smart=true" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 20:34:06 +0000</pubDate>
-      <media:group>
-        <media:content url="https://gray-wbng-prod.gtv-cdn.com/resizer/v2/HYK4J6424BDDZHYV67TDUHRYVI.png?auth=00cd79c7eef12b672675bccd06aa82cbb0bb7c46f26c631f24f0f36d9e2af799&amp;width=1200&amp;height=600&amp;smart=true" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxing: Chev Clarke seals remarkable comeback knockout win</title>
-      <link>https://www.skysports.com/boxing/video/13273/13551504/boxing-chev-clarke-seals-remarkable-comeback-knockout-win</link>
-      <description>Boxing: Chev Clarke seals remarkable comeback knockout win</description>
-      <guid isPermaLink="false">a34d1f5479e8d297c0b25ad5bfae8ab9</guid>
-      <enclosure url="https://e0.365dm.com/26/06/1600x900/skysports-boxing-clarke-massey_7267098.jpg?20260606211321" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 21:06:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/06/1600x900/skysports-boxing-clarke-massey_7267098.jpg?20260606211321" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxing: Chev Clarke seals remarkable comeback knockout win</title>
-      <link>https://www.skysports.com/boxing/video/37488/13551504/boxing-chev-clarke-seals-remarkable-comeback-knockout-win</link>
-      <description>Boxing: Chev Clarke seals remarkable comeback knockout win</description>
-      <guid isPermaLink="false">f2a7b5ad568cc8cef4172729ce45480b</guid>
-      <enclosure url="https://e0.365dm.com/26/06/1600x900/skysports-jack-massey_7267110.jpg?20260606212806" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 06 Jun 2026 21:06:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/06/1600x900/skysports-jack-massey_7267110.jpg?20260606212806" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 13:02:27 +0000</lastBuildDate>
     <item>
       <title>Zuffa Boxing 07 results, highlights: Chris Billam-Smith stops Ryan Rozicki in dramatic slugfest</title>
       <link>https://www.cbssports.com/boxing/news/zuffa-boxing-07-results-chris-billam-smith-ryan-rozicki-knockout/</link>
@@ -273,6 +229,17 @@
       </media:group>
     </item>
     <item>
+      <title>Fighters swarm to Zuffa Boxing event, Dana White keen to sign ‘everybody’</title>
+      <link>https://www.boxingscene.com/articles/fighters-swarm-to-zuffa-boxing-event-dana-white-keen-to-sign-everybody</link>
+      <description>Among the stars already contracted to the TKO Group from the worlds of UFC, WWE and Zuffa Boxing, there were many notable faces in the crowd at the Bournemouth International Centre to watch Chris Billam-Smith’s dramatic victory over Ryan Rozicki on Saturday</description>
+      <guid isPermaLink="false">49e95ecbbc138e05bb437fc2c105c7d7</guid>
+      <enclosure url="https://photo.boxingscene.com/uploads/DanaWhite-Press-Conference-1212026-02.webp" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 07 Jun 2026 09:08:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://photo.boxingscene.com/uploads/DanaWhite-Press-Conference-1212026-02.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Dana White Uses Bam Rodriguez to Shut Down Eddie Hearn’s Aspinall Ultimatum</title>
       <link>https://www.si.com/fannation/boxing/dana-white-uses-bam-rodriguez-to-shut-down-eddie-hearn-aspinall-ultimatum</link>
       <description>Dana White is not willing to budge on Eddie Hearn's latest business request. Although the two are known as rivals in boxing, they are now involved in MMA, with</description>
@@ -281,6 +248,39 @@
       <pubDate>Sun, 07 Jun 2026 10:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4707,h_2647/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jqrpq4gx8awsxy96az.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Anthony Joshua gives honest answer when asked if he would ever face Moses Itauma</title>
+      <link>https://boxingnewsonline.net/news/joshua-on-when-he-would-face-itauma/</link>
+      <description>Moses Itauma hopes to rule over the next generation of heavyweights, but there currently appears to be a lack of willing dance partners. Anthony Joshua</description>
+      <guid isPermaLink="false">edf94aa0e48d64933f48cf6b18eb8921</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1780826567083276031/itauma-joshua.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 07 Jun 2026 10:03:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1780826567083276031/itauma-joshua.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Team Captains</title>
+      <link>https://boxingireland.ie/team-captains-four-nations-tournament/</link>
+      <description>The team captains for Team Ireland’s Four Nations U15, U17 and U19 teams have been appointed. The tournament will take place at Ravenscraig Regional Sports Facility, Motherwell, Scotland from Thursday 11th June to Sunday 14th June 2026.</description>
+      <guid isPermaLink="false">f0dc18ec9a8f82cadd9f5bd50d25053f</guid>
+      <enclosure url="https://boxingireland.ie/wp-content/uploads/Four-Nations-Collection-25-04-2026-4-768x960.png" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 07 Jun 2026 10:41:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://boxingireland.ie/wp-content/uploads/Four-Nations-Collection-25-04-2026-4-768x960.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Undefeated South Jersey Heavyweight Boxers To Fight In Atlantic City</title>
+      <link>https://wpgtalkradio.com/undefeated-boxers-fight-in-atlantic-city/</link>
+      <description>Larry Goldberg continues to bring high-quality boxing to Atlantic City, New Jersey. Goldberg is the founder and CEO of Boxing Insider Promotions.</description>
+      <guid isPermaLink="false">8c42d38e00d8910d7360a60cf908a9ae</guid>
+      <enclosure url="https://townsquare.media/site/564/files/2026/06/attachment-img_3730-1.jpeg?w=1200&amp;format=natural" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 07 Jun 2026 12:11:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://townsquare.media/site/564/files/2026/06/attachment-img_3730-1.jpeg?w=1200&amp;format=natural" medium="image"/>
       </media:group>
     </item>
   </channel>
