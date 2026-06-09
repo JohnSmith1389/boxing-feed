@@ -7,73 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 13:44:35 +0000</lastBuildDate>
-    <item>
-      <title>Sugar Ray Leonard admits he should have had more losses in legendary Four Kings era: "He beat me"</title>
-      <link>https://boxingnewsonline.net/news/leonard-says-he-should-have-more-losses/</link>
-      <description>Sugar Ray Leonard fought each of his fellow Four Kings – Marvin Hagler, Thomas Hearns and Roberto Duran – but admits he was fortunate to escape without a loss</description>
-      <guid isPermaLink="false">d302e07ad98cd9e39864ea8d511e3acd</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1780951301321749019/hagler-hearns-duran-and-leonard.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 20:43:23 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1780951301321749019/hagler-hearns-duran-and-leonard.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Spence and Cornejo Clash for WBA International Middleweight Crown</title>
-      <link>https://www.wbaboxing.com/boxing-news/spence-and-cornejo-clash-for-wba-international-middleweight-crown</link>
-      <description>Yakama Legends Casino in Washington will host a compelling showdown between Canadian contender Natasha Spence and seasoned American veteran Maricela...</description>
-      <guid isPermaLink="false">e73eb5be672503ca9cf7d6c8345e52a8</guid>
-      <enclosure url="https://i0.wp.com/www.wbaboxing.com/wp-content/uploads/2026/06/IMG_8268.jpg?fit=955,1200&amp;ssl=1" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 20:51:38 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i0.wp.com/www.wbaboxing.com/wp-content/uploads/2026/06/IMG_8268.jpg?fit=955,1200&amp;ssl=1" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Cleveland brothers prepare for hometown bout</title>
-      <link>https://spectrumnews1.com/oh/cleveland/news/2026/06/08/mason-brothers-boxing-fight-cleveland</link>
-      <description>Abdullah Mason is preparing to defend his WBO lightweight title in his hometown with two of his brothers fighting on the same card.</description>
-      <guid isPermaLink="false">87247e8ef3626515d2d701eec6a216c8</guid>
-      <enclosure url="https://s7d2.scene7.com/is/image/TWCNews/Mason_brothers_for_web" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 21:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s7d2.scene7.com/is/image/TWCNews/Mason_brothers_for_web" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Cleveland brothers prepare for hometown bout</title>
-      <link>https://spectrumnews1.com/oh/columbus/news/2026/06/08/mason-brothers-boxing-fight-cleveland</link>
-      <description>Abdullah Mason is preparing to defend his WBO lightweight title in his hometown with two of his brothers fighting on the same card.</description>
-      <guid isPermaLink="false">1939d22085273f599a17ce3a3f428d40</guid>
-      <enclosure url="https://s7d2.scene7.com/is/image/TWCNews/Mason_brothers_for_web" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 21:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s7d2.scene7.com/is/image/TWCNews/Mason_brothers_for_web" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Gervonta Davis now in negotiations with undefeated rival after 16 months of inactivity</title>
-      <link>https://boxingnewsonline.net/news/davis-in-negotiations-with-top-contender/</link>
-      <description>After an extended period away, Gervonta Davis is now in negotiations for a world title defence against an unbeaten rising star.</description>
-      <guid isPermaLink="false">eebe905471b5dfad2fe7b1086531147c</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1780950420965522942/Gervonta-Tank-Davis.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 21:02:11 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1780950420965522942/Gervonta-Tank-Davis.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Red Owl Boxing hits EL Paso Coliseum with a WBA championship boxing event on Friday, Aug. 7, live on DAZN</title>
-      <link>https://sports.yahoo.com/articles/red-owl-boxing-hits-el-210902918.html</link>
-      <description>Red Owl Boxing hits EL Paso Coliseum with a WBA championship boxing event on Friday, Aug. 7, live on DAZN</description>
-      <guid isPermaLink="false">8a8c6f260fdd65b13d22937a3e8953b5</guid>
-      <enclosure url="https://s.yimg.com/os/en/the_sporting_tribune_articles_423/99b571c826f5d26db21ce076fae3712b" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 08 Jun 2026 21:09:02 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/os/en/the_sporting_tribune_articles_423/99b571c826f5d26db21ce076fae3712b" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 16:31:41 +0000</lastBuildDate>
     <item>
       <title>David Benavidez most likely next opponent becomes clear as other targets 'aren't responding'</title>
       <link>https://boxingnewsonline.net/news/benavidez-most-likely-next-opponent/</link>
@@ -251,10 +185,32 @@
       </media:group>
     </item>
     <item>
+      <title>Top trainer Robert Garcia says one undefeated fighter would beat Usyk: "He should face him next"</title>
+      <link>https://boxingnewsonline.net/news/robert-garcia-on-who-beats-usyk/</link>
+      <description>World class trainer and former IBF super-featherweight world champion, Robert Garcia, believes that Oleksandr Usyk’s undefeated streak could soon come to an</description>
+      <guid isPermaLink="false">2e5099944b86457a402d5d66a05c0fc9</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1781000765745296118/usyk-garcia.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 10:27:03 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1781000765745296118/usyk-garcia.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Tommy Fury: Boxing helped me get back on track after alcohol battles</title>
       <link>https://www.espn.com/boxing/story/_/id/49008225/tommy-fury-boxing-helped-get-back-track-alcohol-battles-misfits-eddie-hall</link>
       <description>Tommy Fury returns to the ring against Eddie Hall on Saturday and he credits boxing with helping him get back on track after a relationship breakdown and battles with alcohol.</description>
       <guid isPermaLink="false">035652c91c37a3e4439b9bc763b37cc4</guid>
+      <enclosure url="https://a2.espncdn.com/combiner/i?img=/photo/2026/0609/r1670166_1296x729_16-9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 11:36:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://a2.espncdn.com/combiner/i?img=/photo/2026/0609/r1670166_1296x729_16-9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Tommy Fury: Boxing helped me get back on track after alcohol battles</title>
+      <link>https://www.espn.com.sg/boxing/story/_/id/49008225/tommy-fury-boxing-helped-get-back-track-alcohol-battles-misfits-eddie-hall</link>
+      <description>Tommy Fury returns to the ring against Eddie Hall on Saturday and he credits boxing with helping him get back on track after a relationship breakdown and battles with alcohol.</description>
+      <guid isPermaLink="false">7b13c8924a900896a3928492d525b4cf</guid>
       <enclosure url="https://a2.espncdn.com/combiner/i?img=/photo/2026/0609/r1670166_1296x729_16-9.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 09 Jun 2026 11:36:00 +0000</pubDate>
       <media:group>
@@ -281,6 +237,50 @@
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4031,h_2267/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/boxing/01ktnjvt9qqaxqm661v7.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>David Benavidez's team says they want to fight former champion with 90% KO ratio: "Let's do it"</title>
+      <link>https://boxingnewsonline.net/news/david-benavidez-wants-to-face-ko-artist/</link>
+      <description>Last week, claims that David Benavidez avoided a fight with Artur Beterbiev emerged, suggested as one reason behind the inactivity of the latter.</description>
+      <guid isPermaLink="false">47bfa2e5a652a648588e1ea6ecb68649</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1781008388963495890/david-benavidez-weigh-in.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 12:37:01 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1781008388963495890/david-benavidez-weigh-in.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Naoya Inoue's place in the barbershop boxing debate</title>
+      <link>https://lindyssports.com/other-sports/naoya-inoues-place-in-the-barbershop-boxing-debate</link>
+      <description>Boxing pundits are discussing a potential blockbuster matchup between Inoue and Bam Rodriguez.</description>
+      <guid isPermaLink="false">04c83802163b55b893c8135c602420d8</guid>
+      <enclosure url="https://lindyssports.com/.image/NTI6MDAwMDAwMDAwMTkxODM0/japanese-boxer-naoya-inoue-the-current-unified-wba-wbc-ibf-and-wbo-world-superbantamweight-champion-attends-a-press-conference-ahead-of-his-may-2-boxing-match-with-junto-nakatani-in-tokyo-on-april-30.jpg?profile=share16-9" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 14:22:59 +0000</pubDate>
+      <media:group>
+        <media:content url="https://lindyssports.com/.image/NTI6MDAwMDAwMDAwMTkxODM0/japanese-boxer-naoya-inoue-the-current-unified-wba-wbc-ibf-and-wbo-world-superbantamweight-champion-attends-a-press-conference-ahead-of-his-may-2-boxing-match-with-junto-nakatani-in-tokyo-on-april-30.jpg?profile=share16-9" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Universum Boxing Night # 19 On June 20</title>
+      <link>https://fightnews.com/universum-boxing-night-19-on-june-20/190151</link>
+      <description>By Per-Åke Persson Universum Boxing Promotions’ Boxing Night #18 took place this past weekend at the Universum Gym</description>
+      <guid isPermaLink="false">6c36fc84cb81e79aac8e79897996a0e3</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Universim19June20.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 14:56:13 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Universim19June20.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Amanda Serrano Named To Inaugural TIME100 Sports List</title>
+      <link>https://fightnews.com/amanda-serrano-named-to-inaugural-time100-sports-list/190154</link>
+      <description>Today, TIME named MVP’s boxing trailblazer and seven division champion Amanda “The Real Deal” Serrano (49-4-1, 32 KOs)</description>
+      <guid isPermaLink="false">0614446798ce39dc76dda07148a5c8ad</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Serrano.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 09 Jun 2026 15:01:46 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Serrano.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
