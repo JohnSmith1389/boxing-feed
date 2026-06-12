@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 19:29:43 +0000</lastBuildDate>
-    <item>
-      <title>“Guts” Ishimatsu Suzuki Passes</title>
-      <link>https://fightnews.com/guts-ishimatsu-suzuki-passes/190312</link>
-      <description>By Joe Koizumi Former WBC lightweight champion Guts Ishimatsu Suzuki, 76, passed away on June 2. His relatives</description>
-      <guid isPermaLink="false">cf49d29d0ca79d9fe6e76ad52bf7aaa1</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Guts-Ishimatsu.jpeg.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jun 2026 11:17:11 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Guts-Ishimatsu.jpeg.jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>How 'Bam' Rodriguez became boxing's next pound-for-pound star</title>
-      <link>https://africa.espn.com/boxing/story/_/id/49029877/from-overlooked-boxing-prospect-p4p-star-rise-jesse-bam rodriguez</link>
-      <description>After Roman "Chocolatito" Gonzalez and Juan Francisco Estrada, Jesse "Bam" Rodriguez is carrying the torch for the lower divisions.</description>
-      <guid isPermaLink="false">6d36f287c7906dffb47549b968c15b7c</guid>
-      <enclosure url="https://a1.espncdn.com/combiner/i?img=/photo/2026/0611/r1671314_1296x729_16-9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jun 2026 11:49:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a1.espncdn.com/combiner/i?img=/photo/2026/0611/r1671314_1296x729_16-9.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 21:17:17 +0000</lastBuildDate>
     <item>
       <title>How 'Bam' Rodriguez became boxing's next pound-for-pound star</title>
       <link>https://www.espn.com/boxing/story/_/id/49029877/from-overlooked-boxing-prospect-p4p-star-rise-jesse-bam rodriguez</link>
@@ -281,6 +259,28 @@
       <pubDate>Fri, 12 Jun 2026 18:25:03 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/1cd7bb6b2e14292e552aeaae6b72d8c56d8db7eea92a44a77387874201ea7020/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:/media.zenfs.com/en/great_big_story_videos_380/a85c09e2f9b6f69c3e4559c38afb6103" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pair of local boxers set to compete at USA Boxing National Junior Olympics &amp; Summer Festival</title>
+      <link>https://www.reporterherald.com/2026/06/12/darren-mendoza-danika-korgan-boxing/</link>
+      <description>Mendoza is ranked first in the country in his division while Korgan is ranked No. 3 in hers</description>
+      <guid isPermaLink="false">087a10fd02be87963a56fa7b41ec0af4</guid>
+      <enclosure url="https://www.reporterherald.com/wp-content/uploads/2026/06/RHC-L-Boxing2Danika061326-01.jpg?w=1024&amp;h=686" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jun 2026 19:19:25 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.reporterherald.com/wp-content/uploads/2026/06/RHC-L-Boxing2Danika061326-01.jpg?w=1024&amp;h=686" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ryan Garcia vs. Conor Benn: Golden Boy issues Zuffa Boxing with cease-and-desist</title>
+      <link>https://sports.yahoo.com/boxing/article/ryan-garcia-vs-conor-benn-golden-boy-issues-zuffa-boxing-with-cease-and-desist-193923907.html</link>
+      <description>Ryan Garcia vs. Conor Benn: Golden Boy issues Zuffa Boxing with cease-and-desist</description>
+      <guid isPermaLink="false">53bf41866a012ca0bff327d042837b6d</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/A6JLDx_WGcPOAauQySgqTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/2026-05/6c481d9d-64e3-4e2b-8848-57abb076c16f" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 12 Jun 2026 19:39:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/A6JLDx_WGcPOAauQySgqTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/2026-05/6c481d9d-64e3-4e2b-8848-57abb076c16f" medium="image"/>
       </media:group>
     </item>
   </channel>
