@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 16:55:27 +0000</lastBuildDate>
-    <item>
-      <title>IBHOF Fight Night Results</title>
-      <link>https://fightnews.com/ibhof-fight-night-results/190342</link>
-      <description>Christy Martin Promotions staged and exciting fight card at the Turning Stone Casino and Resort in Verona, New</description>
-      <guid isPermaLink="false">22106a3ba3aa810cd6582751c5822889</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Pasillas-scaled.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 13 Jun 2026 03:07:09 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Pasillas-scaled.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tommy Fury vs. Eddie Hall Results: Misfits Boxing</title>
-      <link>https://www.mmafighting.com/boxing/493784/tommy-fury-vs-eddie-hall-results-misfits-boxing</link>
-      <description>Get Tommy Fury vs. Eddie Hall results for the Misfits Boxing event Saturday afternoon.</description>
-      <guid isPermaLink="false">0c0460e5d67c020eae5fa64836c83b53</guid>
-      <enclosure url="https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/06/gettyimages-2280409598.jpg?quality=90&amp;strip=all&amp;crop=0,7.7810710351315,100,78.527382185654&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 13 Jun 2026 04:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/06/gettyimages-2280409598.jpg?quality=90&amp;strip=all&amp;crop=0,7.7810710351315,100,78.527382185654&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tommy Fury vs. Eddie Hall start time, full fight card details</title>
-      <link>https://www.mmamania.com/boxing/448002/tommy-fury-vs-eddie-hall-start-time-full-fight-card-details-dazn-ppv</link>
-      <description>Complete “Fury vs. Hall” fight card preview for the boxing event streaming live tonight (Sat., June 13, 2026) on DAZN PPV.</description>
-      <guid isPermaLink="false">f5d0a61b43e4e316a2b0a34a06caf763</guid>
-      <enclosure url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/06/gettyimages-2280409598.jpg?quality=90&amp;strip=all&amp;crop=0,10.736308907173,100,78.527382185654&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 13 Jun 2026 04:01:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/06/gettyimages-2280409598.jpg?quality=90&amp;strip=all&amp;crop=0,10.736308907173,100,78.527382185654&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 13 Jun 2026 18:07:59 +0000</lastBuildDate>
     <item>
       <title>Bryan boxer fighting for WBC Featherweight World title Saturday</title>
       <link>https://www.kbtx.com/2026/06/13/bryan-boxer-fighting-wbc-featherweight-world-title-saturday/</link>
@@ -273,6 +240,28 @@
       </media:group>
     </item>
     <item>
+      <title>Weekend Boxing Preview: Champions, Challengers and Curious Attractions</title>
+      <link>https://tss.ib.tv/boxing/weekend-boxing-preview-champions-challengers-and-curious-attractions/</link>
+      <description>Weekend Boxing Preview: Champions, Challengers and Curious Attractions By the time Sunday morning arrives, the boxing world may have a new three-division champion, a clearer picture of women’s boxing’s rising stars, and perhaps an answer to the question nobody thought to ask five</description>
+      <guid isPermaLink="false">7c9aa3126d8816137af26cd105f40f12</guid>
+      <enclosure url="https://tss.ib.tv/boxing/wp-content/uploads/2026/06/the-sweet-science_p7xixU27.webp" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 13 Jun 2026 15:16:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://tss.ib.tv/boxing/wp-content/uploads/2026/06/the-sweet-science_p7xixU27.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How to watch Tommy Fury vs. Eddie Hall Misfits Boxing fight: Time, full card</title>
+      <link>https://nypost.com/2026/06/13/sports/how-to-watch-tommy-fury-vs-eddie-hall-misfits-boxing-fight-time-full-card/</link>
+      <description>A "Beauty vs. The Beast" boxing match will go down in Manchester tonight.</description>
+      <guid isPermaLink="false">8c3f2aec6174ae181725cd9018e9a0b9</guid>
+      <enclosure url="https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-pvu1wp6t5-1781368224590.jpg?quality=75&amp;strip=all&amp;1781353851&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 13 Jun 2026 16:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-pvu1wp6t5-1781368224590.jpg?quality=75&amp;strip=all&amp;1781353851&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Rumble for Rescues puts robots in the boxing ring for a good cause</title>
       <link>https://www.latimes.com/socal/daily-pilot/entertainment/story/2026-06-13/rumble-for-rescues-puts-robots-against-each-other-in-boxing-ring-for-cause</link>
       <description>A recent outdoor robot boxing match sponsored by San Clemente nonprofit Sonance Cares headlined a local fundraiser for nonprofits supporting animals, raising upward of $500,000.</description>
@@ -281,6 +270,17 @@
       <pubDate>Sat, 13 Jun 2026 16:09:00 +0000</pubDate>
       <media:group>
         <media:content url="https://ca-times.brightspotcdn.com/dims4/default/9a7e77d/2147483647/strip/true/crop/8192x4608+0+0/resize/1200x675!/quality/75/?url=https://california-times-brightspot.s3.amazonaws.com/4a/42/c22d55b7422e87b9a44f0e2e7355/ecrobot-22.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Results From Toppenish, WA</title>
+      <link>https://fightnews.com/190400-2/190400</link>
+      <description>By Chauncy Welliver Legends Casino in Toppenish, Washington, has been staging boxing events for 27 years, and last</description>
+      <guid isPermaLink="false">c990547707dd1c8a1c2edd745968bfc0</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Screenshot_20260613-134806.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 13 Jun 2026 17:57:30 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Screenshot_20260613-134806.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
