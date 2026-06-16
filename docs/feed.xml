@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 02:07:13 +0000</lastBuildDate>
-    <item>
-      <title>Highlights from Nashville Smash's Team Boxing League fights against Atlanta Attack</title>
-      <link>https://www.tennessean.com/videos/sports/boxing/2026/06/15/team-boxing-league-nashville-smash-atlanta-attack-highlights/90537217007/</link>
-      <description>Highlights from Nashville Smash's Team Boxing League fights against Atlanta Attack</description>
-      <guid isPermaLink="false">0f0152155af7a68f6b45eb6d4119b63a</guid>
-      <enclosure url="https://www.tennessean.com/gcdn/authoring/authoring-images/2026/06/13/NDHE/90537828007-5-d-2-a-0269.jpg?crop=3527,1985,x0,y308&amp;width=3200&amp;height=1801&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jun 2026 15:15:46 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.tennessean.com/gcdn/authoring/authoring-images/2026/06/13/NDHE/90537828007-5-d-2-a-0269.jpg?crop=3527,1985,x0,y308&amp;width=3200&amp;height=1801&amp;format=pjpg&amp;auto=webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>See photos from Nashville Smash's Team Boxing League win vs Atlanta</title>
-      <link>https://www.tennessean.com/picture-gallery/sports/boxing/2026/06/15/boxing-nashville-smash-atlanta-attack-fight-photos/90537796007/</link>
-      <description>See the best photos from the Nashville Smash's home match against the Atlanta Attack in the Team Boxing League on June 12.</description>
-      <guid isPermaLink="false">665fd0791283fde17135837989318d78</guid>
-      <enclosure url="https://www.tennessean.com/gcdn/authoring/authoring-images/2026/06/13/NDHE/90537819007-5-d-2-a-0179.jpg?crop=3769,2121,x0,y137&amp;width=3200&amp;height=1801&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jun 2026 15:15:47 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.tennessean.com/gcdn/authoring/authoring-images/2026/06/13/NDHE/90537819007-5-d-2-a-0179.jpg?crop=3769,2121,x0,y137&amp;width=3200&amp;height=1801&amp;format=pjpg&amp;auto=webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Nashville Smash delivering knockouts as Music City's Team Boxing League franchise</title>
-      <link>https://www.tennessean.com/story/sports/boxing/2026/06/15/nashville-smash-team-boxing-league-manny-pacquiao/90426537007/</link>
-      <description>Meet the city's newest sporting franchise, the Nashville Smash. The Smash are bringing a new team-based take on boxing to fight fans in Music City.</description>
-      <guid isPermaLink="false">f39251e808db362bbafc77281b3a43af</guid>
-      <enclosure url="https://www.gannett-cdn.com/authoring/authoring-images/2026/06/13/NDHE/90537832007-5-d-2-a-0297.jpg?auto=webp&amp;crop=4772,2685,x0,y179&amp;format=pjpg&amp;width=1200" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jun 2026 15:15:55 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.gannett-cdn.com/authoring/authoring-images/2026/06/13/NDHE/90537832007-5-d-2-a-0297.jpg?auto=webp&amp;crop=4772,2685,x0,y179&amp;format=pjpg&amp;width=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Wayne Rooney and His Famous Boxing Celebration</title>
-      <link>https://wbcboxing.com/en/wayne-rooney-and-his-famous-boxing-celebration/</link>
-      <description>By Luke Walker</description>
-      <guid isPermaLink="false">1994c5e68a52b9154aa39c1c14582944</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/06/rooney-hatton.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jun 2026 15:50:30 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/06/rooney-hatton.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Terence Crawford And Conor McGregor Trade Insults After UFC White House Event</title>
-      <link>https://www.boxing247.com/boxing-news/terence-crawford-and-conor-mcgregor-trade-insults-after-ufc-white-house-event/306917</link>
-      <description>Terence Crawford and Conor McGregor exchanged insults on social media following UFC Freedom 250 at the White House, with the former two-division UFC champion</description>
-      <guid isPermaLink="false">f7553dc392b0dbf5157b70e917c4b2e5</guid>
-      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/06/Terence-Crawford1000.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 15 Jun 2026 15:53:13 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/06/Terence-Crawford1000.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 08:26:50 +0000</lastBuildDate>
     <item>
       <title>Takuma Inoue vs Tenshin Nasukawa rematch reportedly planned for September</title>
       <link>https://www.badlefthook.com/boxing-news/116564/takuma-inoue-vs-tenshin-nasukawa-rematch-reportedly-planned-for-september</link>
@@ -207,6 +152,17 @@
       </media:group>
     </item>
     <item>
+      <title>Conor McGregor Filmed Tucker Carlson's ALP Commercial at Childhood Boxing Gym</title>
+      <link>https://www.yahoo.com/entertainment/celebrity/articles/conor-mcgregor-filmed-tucker-carlsons-223000544.html</link>
+      <description>Conor McGregor went back to where it all started for his latest business venture ... filming a new commercial for Tucker Carlson's ALP nicotine pouch brand ...</description>
+      <guid isPermaLink="false">11dee5356bc8300abad073d7a95ec97e</guid>
+      <enclosure url="https://s.yimg.com/os/en/tmz_articles_672/4b34ff6db42c14e501b127881f3e1317" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 15 Jun 2026 22:30:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/os/en/tmz_articles_672/4b34ff6db42c14e501b127881f3e1317" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Star Boxing Celebrates IBHOF Inductee Antonio Tarver</title>
       <link>https://fightnews.com/star-boxing-celebrates-ibhof-inductee-antonio-tarver/190596</link>
       <description>Joe DeGuardia’s Star Boxing proudly congratulates its former world champion Antonio Tarver (31-6-1, 22 KOs) on his induction</description>
@@ -281,6 +237,50 @@
       <pubDate>Mon, 15 Jun 2026 22:53:00 +0000</pubDate>
       <media:group>
         <media:content url="https://bloximages.chicago2.vip.townnews.com/lompocrecord.com/content/tncms/assets/v3/editorial/7/ac/7accde10-5668-5395-beb6-574b1db17042/6a30942f64941.image.jpg?crop=1532,804,0,273&amp;resize=1200,630&amp;order=crop,resize" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Three boxers celebrate success at elite amateur tournament</title>
+      <link>https://uk.sports.yahoo.com/news/three-boxers-celebrate-success-elite-040000312.html</link>
+      <description>Worcester City Amateur Boxing Club celebrated success at the Haringey Box Cup, with Caitlyn Wise winning gold and Best Senior Female Boxer, and Tyler Bryce taking silver.</description>
+      <guid isPermaLink="false">ca38d8db7e8dbc80e14a2145a3f91733</guid>
+      <enclosure url="https://s.yimg.com/os/en/worcester_news_431/3c057380dfa7b12303d3a416d758fc32" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 04:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/os/en/worcester_news_431/3c057380dfa7b12303d3a416d758fc32" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Terence Crawford hits back at Conor McGregor amid intense MMA vs Boxing debate</title>
+      <link>https://bloodyelbow.com/2026/06/16/terence-crawford-hits-back-at-conor-mcgregor-amid-intense-mma-vs-boxing-debate/</link>
+      <description>Terence Crawford and Conor McGregor continued their social media bickering</description>
+      <guid isPermaLink="false">2478a8eb18d7fdb86e119e9a64695aee</guid>
+      <enclosure url="https://bloodyelbow.com/wp-content/uploads/1/2025/11/GettyImages-2150021907-scaled.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 05:12:56 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloodyelbow.com/wp-content/uploads/1/2025/11/GettyImages-2150021907-scaled.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How a Bristol boxing club is keeping young people off the streets</title>
+      <link>https://www.bbc.com/news/articles/cn94vlpgvx8o</link>
+      <description>A boxing club says discipline, routine and belonging are helping young people stay safe.</description>
+      <guid isPermaLink="false">b218e81691c364cba771cdb61ac8eaf2</guid>
+      <enclosure url="https://ichef.bbci.co.uk/news/1024/branded_news/a339/live/9ac53db0-68ab-11f1-a887-c513fdcee6e6.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 05:20:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/a339/live/9ac53db0-68ab-11f1-a887-c513fdcee6e6.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxing club offers young people 'focus and safety'</title>
+      <link>https://au.sports.yahoo.com/boxing-club-offers-young-people-052023069.html</link>
+      <description>A boxing club says discipline, routine and belonging are helping young people stay safe.</description>
+      <guid isPermaLink="false">a4683c9eabbb9df058487eb9516000f9</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/jtAiF9L0Ac3Jba2mevmIeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https:/media.zenfs.com/en/bbc_us_articles_995/caf3f1def325c99d173ca8f11621b289" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 05:20:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/jtAiF9L0Ac3Jba2mevmIeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https:/media.zenfs.com/en/bbc_us_articles_995/caf3f1def325c99d173ca8f11621b289" medium="image"/>
       </media:group>
     </item>
   </channel>
