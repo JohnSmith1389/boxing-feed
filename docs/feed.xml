@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 23:05:01 +0000</lastBuildDate>
-    <item>
-      <title>Canelo Alvarez responds to call-out by world champion with 90% knockout ratio</title>
-      <link>https://boxingnewsonline.net/news/canelo-on-call-out-from-ko-artist/</link>
-      <description>Canelo Alvarez is set to soon return to the 168lbs scene and there are a host of new players at the weight hoping to get the chance to face him. One of those</description>
-      <guid isPermaLink="false">470d043a86f33503811da860e76e10fc</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1781613632694303643/Canelo.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 13:47:04 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1781613632694303643/Canelo.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tyson Fury Names the One Condition for Fighting Moses Itauma</title>
-      <link>https://www.si.com/fannation/boxing/tyson-fury-names-the-one-condition-for-fighting-moses-itauma</link>
-      <description>Tyson Fury has had a change of heart on fighting heavyweight phenom Moses Itauma, but under one pretty significant condition. Itauma is universally regarded as</description>
-      <guid isPermaLink="false">b23c7591c801472eb0d7853f1d897faa</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_568,y_79,w_2432,h_1368/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jj5aw9g8dz57987jyv.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 13:50:34 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_568,y_79,w_2432,h_1368/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jj5aw9g8dz57987jyv.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Local boxing academy overcomes relocation, unexpected shutdown</title>
-      <link>https://santamariatimes.com/sports/local/local-boxing-academy-overcomes-relocation-unexpected-shutdown/article_617f1a30-1d1c-4559-b465-8e483ee5ce44.html</link>
-      <description>John Leo Dato climbs into his boxing ring.</description>
-      <guid isPermaLink="false">fdab3788d1aa4984b5cca864e3ac61f4</guid>
-      <enclosure url="https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/7/1f/71fb6052-3d7b-48e6-b9a3-b2404bf3decb/6a3082074d436.image.jpg?crop=1751,919,0,132&amp;resize=1200,630&amp;order=crop,resize" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 16 Jun 2026 14:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/7/1f/71fb6052-3d7b-48e6-b9a3-b2404bf3decb/6a3082074d436.image.jpg?crop=1751,919,0,132&amp;resize=1200,630&amp;order=crop,resize" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 02:01:37 +0000</lastBuildDate>
     <item>
       <title>Local boxing academy overcomes relocation, unexpected shutdown</title>
       <link>https://lompocrecord.com/sports/local/local-boxing-academy-overcomes-relocation-unexpected-shutdown/article_2144efd3-e0ea-588f-a84d-4f0a4914c755.html</link>
@@ -72,6 +39,17 @@
       <pubDate>Tue, 16 Jun 2026 15:12:28 +0000</pubDate>
       <media:group>
         <media:content url="https://wbcboxing.com/wp-content/uploads/2026/06/june-16-dlt-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Duran! Duran!</title>
+      <link>https://www.boxing247.com/boxing-news/duran-duran-roberto-turns-75/306960</link>
+      <description>Today, the great, the incomparable Roberto Duran celebrates his 75th birthday, would no doubt readily accept both accolades. Often named by boxing historians</description>
+      <guid isPermaLink="false">f66025b2db7bec2ad5702e8409c29c98</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/06/Roberto-Duran-vs-Ken-Buchanan4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 15:46:43 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/06/Roberto-Duran-vs-Ken-Buchanan4.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -259,6 +237,28 @@
       <pubDate>Tue, 16 Jun 2026 20:54:46 +0000</pubDate>
       <media:group>
         <media:content url="https://www.boxing247.com/wp-content/uploads/2026/06/Errol-Spence7444.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxer Mayweather charged in Las Vegas bad check case</title>
+      <link>https://www.reviewjournal.com/crime/boxer-mayweather-charged-in-las-vegas-bad-check-case-3839126/</link>
+      <description>Court papers indicate “Floyd Joy Mayweather” is charged with felony drawing or passing a check with intent to defraud and theft value $100,000 or greater.</description>
+      <guid isPermaLink="false">31e41cb34fa1807083ed2f316cf4d2bf</guid>
+      <enclosure url="https://www.reviewjournal.com/wp-content/uploads/2026/06/21790061_web1_WEB-IMG_9115.jpeg.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 21:02:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.reviewjournal.com/wp-content/uploads/2026/06/21790061_web1_WEB-IMG_9115.jpeg.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Conor McGregor reacts to Ilia Topuria's loss: 'I knew that was going to happen'</title>
+      <link>https://sports.yahoo.com/videos/conor-mcgregor-reacts-to-ilia-topurias-loss-i-knew-that-was-going-to-happen-210736693.html</link>
+      <description>Conor McGregor reacts to Ilia Topuria's loss: 'I knew that was going to happen'</description>
+      <guid isPermaLink="false">d7c40cd431c5c241efb87ec5bad35a27</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/TQk0WO1oq8IuV_U5cqsb5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/user-uploaded/itcm_5581.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 21:07:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/TQk0WO1oq8IuV_U5cqsb5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/user-uploaded/itcm_5581.png" medium="image"/>
       </media:group>
     </item>
     <item>
