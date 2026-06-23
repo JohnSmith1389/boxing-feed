@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 22:12:51 +0000</lastBuildDate>
-    <item>
-      <title>Gervonta Davis reportedly set to appoint trainer of current pound for pound star ahead of comeback</title>
-      <link>https://boxingnewsonline.net/news/gervonta-davis-appoints-new-trainer/</link>
-      <description>Gervonta Davis is set to return to action this autumn but it looks like he will do so under the tutelage of a new, well-respected trainer, looking to</description>
-      <guid isPermaLink="false">4730546c06df9ce7903c45b8eda2c5f7</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782218462139388009/gervonta-davis.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 23 Jun 2026 12:43:31 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782218462139388009/gervonta-davis.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 23:34:56 +0000</lastBuildDate>
     <item>
       <title>Boxing schedule</title>
       <link>https://www.espn.co.uk/boxing/story/_/id/12508267/boxing-schedule</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 23 Jun 2026 21:43:00 +0000</pubDate>
       <media:group>
         <media:content url="https://image.abqjournal.com/3009379.jpg?imageId=3009379&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=71.27&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=71.27&amp;width=1200&amp;height=683" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Emiliano Vargas welcomes possibility of future Ryan Garcia showdown</title>
+      <link>https://sports.yahoo.com/videos/emiliano-vargas-welcomes-possibility-future-231517448.html</link>
+      <description>Emiliano Vargas welcomes possibility of future Ryan Garcia showdown</description>
+      <guid isPermaLink="false">a35d8dc816b6472747e68f0434d5ee2d</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/EKe8YpKqcWxyqSvbLjfd0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/user-uploaded/evrg_0453.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 23 Jun 2026 23:15:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/EKe8YpKqcWxyqSvbLjfd0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/user-uploaded/evrg_0453.png" medium="image"/>
       </media:group>
     </item>
   </channel>
