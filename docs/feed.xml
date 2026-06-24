@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 19:45:02 +0000</lastBuildDate>
-    <item>
-      <title>Oscar De La Hoya picks a winner in Jaron Ennis vs Xander Zayas</title>
-      <link>https://boxingnewsonline.net/news/de-la-hoya-predicts-ennis-vs-zayas/</link>
-      <description>This weekend, Jaron Ennis attempts to dethrone unified super-welterweight world champion Xander Zayas in one of the biggest fights of the summer, and</description>
-      <guid isPermaLink="false">3cc0451e50e771b0c9a1ff41ebeafc59</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782284614435482343/Xander-Zayas-and-Jaron-Ennis.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jun 2026 12:40:29 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782284614435482343/Xander-Zayas-and-Jaron-Ennis.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Liam Paro survives horror cut to beat Lewis Crocker and become two-weight world champion</title>
-      <link>https://boxingnewsonline.net/news/paro-survives-cut-to-beat-crocker/</link>
-      <description>Liam Paro dug in deep to overcome Lewis Crocker and become the new IBF welterweight champion.</description>
-      <guid isPermaLink="false">51f9bb0ca9e80442841ba17d1b98f534</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782305128082681892/Liam-Paro-and-Lewis-Crocker.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jun 2026 12:46:12 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782305128082681892/Liam-Paro-and-Lewis-Crocker.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 21:22:00 +0000</lastBuildDate>
     <item>
       <title>Joe Cordina out, Albert Bell in to face Abdullah Mason</title>
       <link>https://www.badlefthook.com/boxing-news/116798/joe-cordina-out-albert-bell-in-abdullah-mason-next-fight-boxing-news-2026</link>
@@ -240,6 +218,17 @@
       </media:group>
     </item>
     <item>
+      <title>Larry Holmes delivers honest verdict on Mike Tyson vs Floyd Mayweather: "Be ready for him"</title>
+      <link>https://boxingnewsonline.net/news/holmes-on-tyson-vs-mayweather-exhibition/</link>
+      <description>An exhibition bout between Mike Tyson and Floyd Mayweather has been expected for some time, and legendary heavyweight champion Larry Holmes has offered his</description>
+      <guid isPermaLink="false">0e35ada6f5a310c8afe0d3388721b0cf</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782300243361794563/Mike-Tyson-and-Floyd-Mayweather.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 24 Jun 2026 17:23:13 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782300243361794563/Mike-Tyson-and-Floyd-Mayweather.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Jaron 'Boots' Ennis gets to declare himself as one of the sport's best in one of its deepest divisions</title>
       <link>https://www.cbssports.com/boxing/news/jaron-ennis-boots-xander-zayas-fight-titles/</link>
       <description>'Boots' can establish a lot of credibility with a unification of the junior middleweight titles on Saturday</description>
@@ -281,6 +270,17 @@
       <pubDate>Wed, 24 Jun 2026 19:12:54 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1797,y_738,w_5471,h_3077/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jrk3apa9zqjdnn0te1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Here’s when you can see undefeated boxing champ Claressa Shields in the ring next</title>
+      <link>https://www.mlive.com/news/flint/2026/06/heres-when-you-can-see-undefeated-boxing-champ-claressa-shields-in-the-ring-next.html</link>
+      <description>A Flint native, Shields is a five-division world champion, current undisputed heavyweight world champion, and the first male or female boxer in the four-belt era to become undisputed champion in three weight classes.</description>
+      <guid isPermaLink="false">4ba6c1e14a4ac2bc69811c8821135135</guid>
+      <enclosure url="https://www.mlive.com/resizer/v2/VBXADBN2UZBHRHFPKBV3DMATJM.jpg?auth=e8fdc6fe5c9c9ecb860d1f54c3291cf373b0dc0dfaa42a3670a37360c38adcd0&amp;width=1280&amp;smart=true&amp;quality=90" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 24 Jun 2026 20:06:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.mlive.com/resizer/v2/VBXADBN2UZBHRHFPKBV3DMATJM.jpg?auth=e8fdc6fe5c9c9ecb860d1f54c3291cf373b0dc0dfaa42a3670a37360c38adcd0&amp;width=1280&amp;smart=true&amp;quality=90" medium="image"/>
       </media:group>
     </item>
   </channel>
