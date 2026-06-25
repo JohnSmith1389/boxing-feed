@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 22:23:37 +0000</lastBuildDate>
-    <item>
-      <title>Louisville honors boxing champion Jimmy Ellis with Hometown Hero banner</title>
-      <link>https://www.wdrb.com/news/louisville-honors-boxing-champion-jimmy-ellis-with-hometown-hero-banner/article_d3b598cb-8116-448d-91dd-939ec422786f.html</link>
-      <description>Jimmy Ellis is a former world heavyweight champion whose accomplishments helped cement the city's rich boxing legacy.</description>
-      <guid isPermaLink="false">24e2b3ef2d204f6804b294d576aef43b</guid>
-      <enclosure url="https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/e/52/e52fae49-e1a4-4c82-9015-4f117344885c/6a3d164523c38.image.png?crop=1811,951,0,97&amp;resize=1200,630&amp;order=crop,resize" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 11:46:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/e/52/e52fae49-e1a4-4c82-9015-4f117344885c/6a3d164523c38.image.png?crop=1811,951,0,97&amp;resize=1200,630&amp;order=crop,resize" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>David Benavidez names the man to end Shakur Stevenson's unbeaten run: "He beats him"</title>
-      <link>https://boxingnewsonline.net/news/david-benavidez-on-who-beats-stevenson/</link>
-      <description>David Benavidez has named the fighter whom he believes could hand pound-for-pound rival Shakur Stevenson a first career defeat.</description>
-      <guid isPermaLink="false">5f99a5a54a399ebee03ce8440947919d</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782388273526822636/shakur-stevenson-in-ring.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 11:52:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782388273526822636/shakur-stevenson-in-ring.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Former UFC contender Aspen Ladd signs multi-fight deal with BKB Bare Knuckle Boxing</title>
-      <link>https://www.mmamania.com/bare-knuckle-boxing-results-rules-ppv/452919/former-ufc-contender-aspen-ladd-signs-multi-fight-deal-with-bkb-bare-knuckle-boxing</link>
-      <description>Former UFC contender Aspen Ladd recently signed a multi-fight deal with BKB Bare Knuckle Boxing and will make her Trigon debut before the end of the year.</description>
-      <guid isPermaLink="false">da5e0c58955560ed849a1e3fea29d8e7</guid>
-      <enclosure url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/06/gettyimages-1155325340.jpg?quality=90&amp;strip=all&amp;crop=0,10.732984293194,100,78.534031413613&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/06/gettyimages-1155325340.jpg?quality=90&amp;strip=all&amp;crop=0,10.732984293194,100,78.534031413613&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Aspen Ladd signs multi-fight deal with BKB Bare Knuckle Boxing</title>
-      <link>https://boxingnews.com/news/aspen-ladd-bkb-bare-knuckle-boxing-deal</link>
-      <description>Former UFC bantamweight contender Aspen Ladd has inked a multi-fight contract with BKB, bringing her 12-5 MMA record to the bare knuckle circuit after a BKFC kn</description>
-      <guid isPermaLink="false">508d52d4f386bd1c2e1a77c4c74e708f</guid>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/3/30/Aspen_Ladd_UFC229_weigh-in.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 12:01:58 +0000</pubDate>
-      <media:group>
-        <media:content url="https://upload.wikimedia.org/wikipedia/commons/3/30/Aspen_Ladd_UFC229_weigh-in.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Oleksandr Usyk 'may have already fought for the final time'</title>
-      <link>https://boxingnewsonline.net/news/oleksandr-usyk-may-have-already-fought-for-the-final-time/</link>
-      <description>Oleksandr Usyk has cemented himself as the best of a generation, but, after an uncharacteristic display against Rico Verhoeven last month, fans may have seen</description>
-      <guid isPermaLink="false">1187ee3e559b5a4a4de78a85e4b8683c</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782389154181594581/Usyk-verhoeven-end.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 12:06:35 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782389154181594581/Usyk-verhoeven-end.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 23:52:31 +0000</lastBuildDate>
     <item>
       <title>Joe Cordina: Boxer charged with assault and weapon threat, and denied US visa</title>
       <link>https://www.bbc.com/sport/boxing/articles/cy8dve4l7dvo</link>
@@ -119,6 +64,13 @@
       </media:group>
     </item>
     <item>
+      <title>TNT Sports and DAZN Unveil Star-Studded Broadcast Team Beginning with Inaugural "The Fight" Event on July 4</title>
+      <link>https://press.wbd.com/us/media-release/tnt-sports-and-dazn-unveil-star-studded-broadcast-team-beginning-inaugural-fight?language_content_entity=en&amp;fb</link>
+      <description>TNT Sports and DAZN today announced the on-air broadcast team for The Fight, the new monthly live boxing series created through the landmark partnership</description>
+      <guid isPermaLink="false">04800ddf6abfcecf2f8d48f6b6275401</guid>
+      <pubDate>Thu, 25 Jun 2026 16:29:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Ben Whittaker wants to give fans their money's worth on U.S. debut</title>
       <link>https://www.espn.com/boxing/story/_/id/49176604/ben-whittaker-boxing-give-fans-their-moneys-worth-us-debut-matchroom-eddie-hearn-jaron-ennis-xander-zayas</link>
       <description>Ben Whittaker will make his long-awaited debut in the United States this week. So what can fans expect from the entertaining British contender?</description>
@@ -138,6 +90,17 @@
       <pubDate>Thu, 25 Jun 2026 16:41:12 +0000</pubDate>
       <media:group>
         <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782394997299220064/Manny-Pacquiao-and-Ryan-Garcia.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'I'm in great shape,' boxing legend Floyd Mayweather tells Euronews ahead of Athens fight</title>
+      <link>https://sg.news.yahoo.com/im-great-shape-boxing-legend-142804156.html</link>
+      <description>'I'm in great shape,' boxing legend Floyd Mayweather tells Euronews ahead of Athens fight</description>
+      <guid isPermaLink="false">1de22e3af30fcdd89b19dd07b951f785</guid>
+      <enclosure url="https://s.yimg.com/os/en/euronews_sg_videos_151/b9180d107e6297d46bff9cb85136cb3e" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jun 2026 16:41:27 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/os/en/euronews_sg_videos_151/b9180d107e6297d46bff9cb85136cb3e" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -273,6 +236,17 @@
       </media:group>
     </item>
     <item>
+      <title>Dmitry Bivol to have elbow surgery July 4, then plans to face Callum Smith in next fight</title>
+      <link>https://www.boxingscene.com/articles/dmitry-bivol-to-have-elbow-surgery-july-4-then-plans-to-face-callum-smith-in-next-fight</link>
+      <description>Unified light-heavyweight champion Dmitry Bivol will undergo surgery on his injured left elbow July 4, and will return to fight his WBO top-ranked contender Callum Smith, BoxingScene learned Thursday.</description>
+      <guid isPermaLink="false">bad462e8c6e0d5a2d6eb633eccefcf21</guid>
+      <enclosure url="https://photo.boxingscene.com/uploads/DmitryBivol9855.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jun 2026 21:27:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://photo.boxingscene.com/uploads/DmitryBivol9855.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Boxing legend Jimmy Ellis gets Hometown Hero banner in Louisville</title>
       <link>https://www.whas11.com/video/news/local/boxing-legend-jimmy-ellis-gets-hometown-hero-banner-in-louisville/417-2cb443a8-3c4c-4b9f-9e44-a91fb4fbe808</link>
       <description>Boxing legend Jimmy Ellis gets Hometown Hero banner in Louisville</description>
@@ -281,6 +255,28 @@
       <pubDate>Thu, 25 Jun 2026 21:46:00 +0000</pubDate>
       <media:group>
         <media:content url="https://media.whas11.com/assets/WHAS/images/6c5372af-c730-4562-8f92-24125224d95e/20260625T214849/6c5372af-c730-4562-8f92-24125224d95e_1140x641.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Fort Hood Fight Night returns with Fort Hood vs. Fort Bliss boxing competition</title>
+      <link>https://www.kwtx.com/2026/06/25/fort-hood-fight-night-returns-with-fort-hood-vs-fort-bliss-boxing-competition/</link>
+      <description>Soldiers from Fort Hood and Fort Bliss will step into the boxing ring Friday night to represent their installations in the latest Fort Hood Fight Night event.</description>
+      <guid isPermaLink="false">5d0384eef338c2c0954d760b2b14aafe</guid>
+      <enclosure url="https://gray-kwtx-prod.gtv-cdn.com/resizer/v2/HTB236VV5ZDU7JN7JDAWVATAOA.png?auth=ddca0eff091ca726f485dc500fd7df51cb5d561260b3401213e3d56668f3e08c&amp;width=1200&amp;height=600&amp;smart=true" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jun 2026 22:11:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://gray-kwtx-prod.gtv-cdn.com/resizer/v2/HTB236VV5ZDU7JN7JDAWVATAOA.png?auth=ddca0eff091ca726f485dc500fd7df51cb5d561260b3401213e3d56668f3e08c&amp;width=1200&amp;height=600&amp;smart=true" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Roy Jones Jr delivers honest verdict on Inoue vs 'Bam' Rodriguez: "He could be the best in the world”</title>
+      <link>https://boxingnewsonline.net/news/roy-jones-jr-on-inoue-vs-bam-rodriguez/</link>
+      <description>Jesse Rodriguez is in hot pursuit of a clash with Naoya Inoue, and four-division world champion Roy Jones Jr has shared his thoughts on the proposed fight.</description>
+      <guid isPermaLink="false">0426681eab4463e9343acfd2b0d3c686</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782394651489302148/Naoya-Inoue-and-Jesse-Bam-Rodriguez.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jun 2026 22:40:59 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782394651489302148/Naoya-Inoue-and-Jesse-Bam-Rodriguez.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
