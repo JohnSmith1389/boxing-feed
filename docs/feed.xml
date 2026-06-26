@@ -7,51 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 21:18:33 +0000</lastBuildDate>
-    <item>
-      <title>Oleksandr Usyk vacates belts but is not retiring</title>
-      <link>https://www.bbc.com/sport/boxing/articles/c6210pk8klro</link>
-      <description>Heavyweight world champion Oleksandr Usyk says he will vacate all his belts but is not retiring.</description>
-      <guid isPermaLink="false">911c2fda1a4b44e3654a4e89a7786722</guid>
-      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 16:39:22 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Jerwin Ancajas | New Weight Class, Same Goal</title>
-      <link>https://www.ufc.com/news/jerwin-ancajas-new-weight-class-same-goal-zuffa-boxing-08</link>
-      <description>Filipino Former World Champion Wants To Bring A Zuffa Boxing World Title Back To His Homeland, And Has Changed Weight Classes In A Bid To Do Exactly That</description>
-      <guid isPermaLink="false">c0e4b43b5e7a4f1dbcbcf8047d75af4c</guid>
-      <enclosure url="https://ufc.com/images/styles/card/s3/2026-06/ZB08-Jerwin-hero-Ancajas_SB-3.jpg?itok=_oGkKRCU" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 16:40:15 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/styles/card/s3/2026-06/ZB08-Jerwin-hero-Ancajas_SB-3.jpg?itok=_oGkKRCU" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Edwin De Los Santos | ‘La Grenada’ Is Ready To Explode</title>
-      <link>https://www.ufc.com/news/edwin-de-los-santos-la-grenada-ready-explode-zuffa-boxing-08</link>
-      <description>Former Lightweight World Title Challenger Arrives In Zuffa Boxing Ready To Make An Instant Statement To The Rest Of The 135-Pound Division</description>
-      <guid isPermaLink="false">f4df00d8509ab39fa8039e780bf412b6</guid>
-      <enclosure url="https://ufc.com/images/styles/card/s3/2026-06/ZB08-EDWIN-_DeLosSantos_HERO-SB.jpg?itok=xaTrcPgH" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 16:41:02 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/styles/card/s3/2026-06/ZB08-EDWIN-_DeLosSantos_HERO-SB.jpg?itok=xaTrcPgH" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Avila Perspective Chap 382 Champion Xander Zayas vs Champion Jaron Ennis</title>
-      <link>https://tss.ib.tv/boxing/avila-perspective-chap-382-champion-xander-zayas-vs-champion-jaron-ennis/</link>
-      <description>Xander fights Jaron on Saturday. Whatever happened to the days when a Bob fought a Tom and what is a Xander and for that matter, what is a Jaron?</description>
-      <guid isPermaLink="false">5e695edcee2b6ce062053c626a24cc4f</guid>
-      <enclosure url="https://tss.ib.tv/boxing/wp-content/uploads/2026/06/the-sweet-science_LoefBBgn.webp" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 16:44:32 +0000</pubDate>
-      <media:group>
-        <media:content url="https://tss.ib.tv/boxing/wp-content/uploads/2026/06/the-sweet-science_LoefBBgn.webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 22:44:56 +0000</lastBuildDate>
     <item>
       <title>Jose Valenzuela | Run It Back</title>
       <link>https://www.ufc.com/news/jose-valenzuela-run-it-back-zuffa-boxing-08</link>
@@ -199,6 +155,17 @@
       </media:group>
     </item>
     <item>
+      <title>Shakur Stevenson picks a winner in Gervonta Davis vs Vasiliy Lomachenko fight</title>
+      <link>https://boxingnewsonline.net/news/stevenson-on-gervonta-davis-vs-lomachenko/</link>
+      <description>Shakur Stevenson has offered his take on a potential clash between Gervonta Davis and Vasiliy Lomachenko, which could soon become a more realistic matchup.</description>
+      <guid isPermaLink="false">a226bdde293f17c469e2407e712f22c5</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782498508149116559/gervonta-davis-lomachenko.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 18:34:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782498508149116559/gervonta-davis-lomachenko.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Oleksandr Usyk Vacates 3 Heavyweight Boxing Titles Ahead of Expected Retirement Fight</title>
       <link>https://bleacherreport.com/articles/25446487-oleksandr-usyk-vacates-3-heavyweight-boxing-titles-ahead-expected-retirement-fight</link>
       <description>Heavyweight legend Oleksandr Usyk announced Friday he's vacating his three title belts ahead of his "last dance" in the ring.</description>
@@ -254,6 +221,17 @@
       </media:group>
     </item>
     <item>
+      <title>Gervonta ‘Tank’ Davis named ‘champion in recess’ as boxing’s belt drama continues</title>
+      <link>https://www.mmamania.com/boxing/453295/gervonta-tank-davis-named-champion-in-recess-as-boxings-belt-drama-continues</link>
+      <description>Gervonta “Tank” Davis named “champion in recess,” paving the way for Floyd Schofield and Lucas Bahdi to compete for the vacant WBA 135-pound title.</description>
+      <guid isPermaLink="false">8f1312785af7c909b0de37027f568be1</guid>
+      <enclosure url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/06/gettyimages-2188459933.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.720214531988%2C100%2C78.559570936024&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 20:05:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/06/gettyimages-2188459933.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.720214531988%2C100%2C78.559570936024&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>The Biggest Duck in Boxing No One Is Talking About</title>
       <link>https://lindyssports.com/other-sports/is-tyson-fury-ducking-anthony-joshua</link>
       <description>Fans love to claim one boxer is ducking the other, but this duck job is flying under the radar.</description>
@@ -265,6 +243,17 @@
       </media:group>
     </item>
     <item>
+      <title>Boxing, Barre or Pilates? Here Is What Each Drop-In Class Actually Costs and Delivers</title>
+      <link>https://www.star-telegram.com/entertainment/living/article316285929.html</link>
+      <description>Boxing, barre or Pilates? Find the right class for your goals and how much they cost.</description>
+      <guid isPermaLink="false">f20f019998a33747c2fd1ee29e6848a1</guid>
+      <enclosure url="https://www.miamiherald.com/public/latest-news/bau9za/picture316286373/alternates/LANDSCAPE_1200/GettyImages-454135386.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 20:15:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.miamiherald.com/public/latest-news/bau9za/picture316286373/alternates/LANDSCAPE_1200/GettyImages-454135386.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>US, Israel, Lebanon announce framework agreement, boxing out Iran</title>
       <link>https://thehill.com/policy/international/5943227-trump-israel-lebanon-iran-deal/</link>
       <description>The Trump administration, Israel and Lebanon on Friday announced a trilateral framework aimed at kicking out Iran’s influence in the country through its support of the militant group Hezbollah and …</description>
@@ -273,6 +262,17 @@
       <pubDate>Fri, 26 Jun 2026 20:58:35 +0000</pubDate>
       <media:group>
         <media:content url="https://thehill.com/wp-content/uploads/sites/2/2026/06/AP26162678655482-e1782222969992.jpg?w=1280" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Xander Zayas Relishing Being Underestimated by 'Boots' Ennis</title>
+      <link>https://www.si.com/fannation/boxing/xander-zayas-relishing-being-underestimated-by-boots-ennis</link>
+      <description>Xander Zayas has revealed that he wants Jaron 'Boots' Ennis to underestimate him ahead of their clash in New York for the unified super welterweight titles. Th</description>
+      <guid isPermaLink="false">f0aae2155f6726c84dc637a910ec7b5e</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_430,y_59,w_1555,h_874/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jznd2cww9myzj16jwm.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 22:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_430,y_59,w_1555,h_874/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jznd2cww9myzj16jwm.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
