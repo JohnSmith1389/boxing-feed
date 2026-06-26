@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 03:39:10 +0000</lastBuildDate>
-    <item>
-      <title>On This Day in Boxing… June 25</title>
-      <link>https://wbcboxing.com/en/on-this-day-in-boxing-june-25/</link>
-      <description>1966: In Seoul, South Korea, local fighter Ki-Soo Kim made history by defeating the legendary Italian Nino Benvenuti via split decision, capturing the WBC</description>
-      <guid isPermaLink="false">cc6a3aec103416970796da87b6d0b1a2</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/06/floy-gatti.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 25 Jun 2026 15:12:32 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/06/floy-gatti.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 26 Jun 2026 07:52:24 +0000</lastBuildDate>
     <item>
       <title>Joe Cordina charged with assault</title>
       <link>https://www.badlefthook.com/boxing-news/116849/joe-cordina-charged-with-assault</link>
@@ -255,6 +244,17 @@
       <pubDate>Thu, 25 Jun 2026 21:46:00 +0000</pubDate>
       <media:group>
         <media:content url="https://media.whas11.com/assets/WHAS/images/6c5372af-c730-4562-8f92-24125224d95e/20260625T214849/6c5372af-c730-4562-8f92-24125224d95e_1140x641.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Brandun Lee Fight Week Interview | Zuffa Boxing 08</title>
+      <link>https://www.ufc.com/video/157963</link>
+      <description>Welterweight Discusses Signing With Zuffa Boxing And His Big Fight vs Cain Sandoval On June 28, 2026 In Las Vegas</description>
+      <guid isPermaLink="false">78a8006d79b69222c454885a43fc0d57</guid>
+      <enclosure url="https://ufc.com/images/2026-06/Brandun-Lee-ZB08-thumb.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 25 Jun 2026 22:07:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ufc.com/images/2026-06/Brandun-Lee-ZB08-thumb.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
