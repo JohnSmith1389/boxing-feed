@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 19:52:47 +0000</lastBuildDate>
-    <item>
-      <title>Boots Ennis forced to trim beard ahead of Xander Zayas fight</title>
-      <link>https://www.badlefthook.com/boxing-news/116903/boots-ennis-forced-trim-beard-ahead-xander-zayas-fight-boxing-news-2026</link>
-      <description>Boots Ennis had to trim a bit of his beard ahead of tomorrow’s big fight</description>
-      <guid isPermaLink="false">e91b4609bdfa59ba3e72591c85637cc8</guid>
-      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/06/gettyimages-2209390024.jpg?quality=90&amp;strip=all&amp;crop=0%2C8.9479930191972%2C100%2C34.904013961606&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 22:08:20 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/06/gettyimages-2209390024.jpg?quality=90&amp;strip=all&amp;crop=0%2C8.9479930191972%2C100%2C34.904013961606&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Heavyweight champion Usyk says vacating heavyweight world title belts</title>
-      <link>https://www.aljazeera.com/sports/2026/6/26/heavyweight-champion-usyk-says-vacating-heavyweight-world-title-belts</link>
-      <description>Usyk, who had held the WBA, WBC and IBF belts, has been the world undisputed cruiserweight and heavyweight champion.</description>
-      <guid isPermaLink="false">4c6a3e0487637c7efba20063670fd5be</guid>
-      <enclosure url="https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3ef44c7597b-1782510668.jpg?resize=1920%2C1440" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 22:39:35 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3ef44c7597b-1782510668.jpg?resize=1920%2C1440" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 21:03:23 +0000</lastBuildDate>
     <item>
       <title>Ray J and Orlando Brown Boxing Match Scheduled for August</title>
       <link>https://www.wbls.com/news/ray-j-and-orlando-brown-boxing-match-scheduled-for-august/</link>
@@ -281,6 +259,28 @@
       <pubDate>Sat, 27 Jun 2026 18:10:52 +0000</pubDate>
       <media:group>
         <media:content url="https://thesource.com/wp-content/uploads/2026/06/jaron-ennis-eddie-hearn-april-2025_pm8l3nyh2uz21pg4m5gzsu1io.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing 08 -- Edwin de los Santos vs. Jose Valenzuela: Start time and predictions for lightweight fight</title>
+      <link>https://www.cbssports.com/boxing/news/zuffa-boxing-08-edwin-de-los-santos-vs-jose-valenzuela-start-time-predictions-fight-card-date/</link>
+      <description>The past rivals meet once again under the Zuffa Boxing banner on Sunday</description>
+      <guid isPermaLink="false">bd3a89b2abf6c3e6f4609e945769f126</guid>
+      <enclosure url="https://sportshub.cbsistatic.com/i/r/2026/06/27/17eff827-4637-4d01-8d61-8fd4bc59f4ee/thumbnail/1200x675/17065f32a2843aa2da9b26b6e747fb42/edwin-de-los-santos-jose-valenzuela.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 27 Jun 2026 19:53:46 +0000</pubDate>
+      <media:group>
+        <media:content url="https://sportshub.cbsistatic.com/i/r/2026/06/27/17eff827-4637-4d01-8d61-8fd4bc59f4ee/thumbnail/1200x675/17065f32a2843aa2da9b26b6e747fb42/edwin-de-los-santos-jose-valenzuela.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Arminius Rolle Stops Max Teschke In Round Two, Targets Title Fight This Autumn</title>
+      <link>https://fightnews.com/arminius-rolle-stops-max-teschke-in-round-two-targets-title-fight-this-autumn/191206</link>
+      <description>Germany’s youngest professional boxer, 16-year-old Arminius Rolle (6-0, 5 KOs), recorded another impressive victory on Saturday night, stopping</description>
+      <guid isPermaLink="false">b80fb7248fe1c40e72218570dee9a744</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Arminius.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 27 Jun 2026 20:05:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Arminius.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
