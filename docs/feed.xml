@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 15:15:23 +0000</lastBuildDate>
-    <item>
-      <title>Gervonta ‘Tank’ Davis named ‘champion in recess’ as boxing’s belt drama continues</title>
-      <link>https://www.mmamania.com/boxing/453295/gervonta-tank-davis-named-champion-in-recess-as-boxings-belt-drama-continues</link>
-      <description>Gervonta “Tank” Davis named “champion in recess,” paving the way for Floyd Schofield and Lucas Bahdi to compete for the vacant WBA 135-pound title.</description>
-      <guid isPermaLink="false">8f1312785af7c909b0de37027f568be1</guid>
-      <enclosure url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/06/gettyimages-2188459933.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.720214531988%2C100%2C78.559570936024&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 20:05:45 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/06/gettyimages-2188459933.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.720214531988%2C100%2C78.559570936024&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>The Biggest Duck in Boxing No One Is Talking About</title>
-      <link>https://lindyssports.com/other-sports/is-tyson-fury-ducking-anthony-joshua</link>
-      <description>Fans love to claim one boxer is ducking the other, but this duck job is flying under the radar.</description>
-      <guid isPermaLink="false">8fceda583c4fbd031b807f067b640f1b</guid>
-      <enclosure url="https://lindyssports.com/.image/NTI6MDAwMDAwMDAwMTk0MTY2/sheffield-england-june-06-eddie-hearn-looks-on-during-the-josh-padley-v-aqib-fiaz-undercards-at-utilita-arena-sheffield-on-june-06-2026-in-sheffield-england-photo-by-george-woodgetty-images-stockpack.jpg?profile=share16-9" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 26 Jun 2026 20:08:37 +0000</pubDate>
-      <media:group>
-        <media:content url="https://lindyssports.com/.image/NTI6MDAwMDAwMDAwMTk0MTY2/sheffield-england-june-06-eddie-hearn-looks-on-during-the-josh-padley-v-aqib-fiaz-undercards-at-utilita-arena-sheffield-on-june-06-2026-in-sheffield-england-photo-by-george-woodgetty-images-stockpack.jpg?profile=share16-9" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 27 Jun 2026 16:38:33 +0000</lastBuildDate>
     <item>
       <title>‘The same fight was double sold’: Floyd Mayweather vs Manny Pacquiao rematch postponed from September</title>
       <link>https://www.badlefthook.com/boxing-news/116900/the-same-fight-was-double-sold-floyd-mayweather-vs-manny-pacquiao-rematch-postponed-from-september</link>
@@ -281,6 +259,28 @@
       <pubDate>Sat, 27 Jun 2026 14:38:08 +0000</pubDate>
       <media:group>
         <media:content url="https://sportshub.cbsistatic.com/i/r/2026/06/25/0a75fbb4-c7b4-4c42-9aa2-999a827799ef/thumbnail/1200x675/63cdf25dcb4ce82a9f02756931d2ce46/xander-zayas-cbs.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Jose Valenzuela's Rematch Obsession</title>
+      <link>https://www.ufc.com/video/158003</link>
+      <description>Jose Valenzuela looks to quell his demons after losing to last-minute replacement fighter Edwin De Los Santos four years ago. Don’t miss Zuffa Boxing 08 on June 28, 2026!</description>
+      <guid isPermaLink="false">639e7bfff5f2ef42a524fd8f0e354d99</guid>
+      <enclosure url="https://ufc.com/images/2026-06/z8RayoSocClean-MP4.00_00_33_26.Still001.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 27 Jun 2026 15:10:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ufc.com/images/2026-06/z8RayoSocClean-MP4.00_00_33_26.Still001.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Official Weigh-In Results</title>
+      <link>https://www.ufc.com/news/official-weigh-results-zuffa-boxing-08</link>
+      <description>The Official Weights Of The Athletes Competing June 28 At The Cosmopolitan In Las Vegas</description>
+      <guid isPermaLink="false">417871ecb2461f1d2c2fb435b7e59ce9</guid>
+      <enclosure url="https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 27 Jun 2026 16:30:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i" medium="image"/>
       </media:group>
     </item>
   </channel>
