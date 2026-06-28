@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 17:43:41 +0000</lastBuildDate>
-    <item>
-      <title>~~(LIVE.BOXING) ‘Boots’ Ennis vs Zayas 𝐋𝐈𝐕𝐄 STREA.MS Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 28 Jun 2026</title>
-      <link>https://www.griceconnect.com/classifieds/announcements-and-events/community-events/2122219</link>
-      <description>~~(LIVE.BOXING) ‘Boots’ Ennis vs Zayas 𝐋𝐈𝐕𝐄 STREA.MS Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 28 Jun 2026 The high-stakes boxing world takes center stage at the Barclays Center in Brooklyn, New York.</description>
-      <guid isPermaLink="false">eb25f6eb57ccfb42e08e6530cc79cf8b</guid>
-      <enclosure url="https://www.vmcdn.ca/f/files/classifieds/706417/1fdcef0e-a645-44c0-aaa9-a7c1604f83ed.jpg;w=640" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 28 Jun 2026 02:37:20 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.vmcdn.ca/f/files/classifieds/706417/1fdcef0e-a645-44c0-aaa9-a7c1604f83ed.jpg;w=640" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Whittaker Blows Out “Popeye” In Two</title>
-      <link>https://fightnews.com/whittaker-blows-out-popeye-in-two/191218</link>
-      <description>British hot-shot Ben Whittaker man-handled Hartford, CT’s Richard “Popeye” Rivera, stopping him in two one-sided rounds. A hard</description>
-      <guid isPermaLink="false">a3818cd38b965ea47387bfdd8d0e37fb</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/0X8A6286.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 28 Jun 2026 02:38:59 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/0X8A6286.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 28 Jun 2026 19:18:40 +0000</lastBuildDate>
     <item>
       <title>Xander Zayas vs Jaron Ennis live scorecard and fight result</title>
       <link>https://boxingnewsonline.net/news/xander-zayas-vs-jaron-ennis-live/</link>
@@ -262,6 +240,17 @@
       </media:group>
     </item>
     <item>
+      <title>Manny Pacquiao's team react to Floyd Mayweather fight postponement</title>
+      <link>https://boxingnewsonline.net/news/pacquiao-team-on-mayweather-postponement/</link>
+      <description>Manny Pacquiao's team have provided a big update on the Filipino's plans after it was announced that the rematch with Floyd Mayweather will no longer be</description>
+      <guid isPermaLink="false">6aa44f11606c4ccc12f0122ba1ace694</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782559845037275940/Floyd-Mayweather-and-Manny-Pacquiao.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 28 Jun 2026 14:55:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782559845037275940/Floyd-Mayweather-and-Manny-Pacquiao.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Mark Breland Health Update Shared by AC Boxing Hall of Fame</title>
       <link>https://www.boxinginsider.com/headlines/mark-breland-health-update-shared-by-ac-boxing-hall-of-fame/</link>
       <description>The Atlantic City Boxing Hall of Fame has addressed the health and whereabouts of Mark Breland, the former two-time WBA welterweight champion, after</description>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 28 Jun 2026 16:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_12,y_583,w_2561,h_1440/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jzdbxvw2fz8377dpdv.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Results + Scorecards</title>
+      <link>https://www.ufc.com/news/zuffa-boxing-08-results-scorecards-highlights-de-los-santos-vs-valenzuela</link>
+      <description>Results, Highlights, Scorecards And More From Zuffa Boxing 08: De Los Santos vs Valenzuela, Live From The Chelsea At The Cosmopolitan In Las Vegas, Nevada On June 28, 2026</description>
+      <guid isPermaLink="false">186439ab292284e03c50116b65d97abb</guid>
+      <enclosure url="https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 28 Jun 2026 21:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ufc.com/images/styles/card/s3/2026-06/062826-Zuffa-Boxing-08-Results-HERO.jpg?itok=yFVSvfRf" medium="image"/>
       </media:group>
     </item>
   </channel>
