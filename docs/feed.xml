@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 16:45:08 +0000</lastBuildDate>
-    <item>
-      <title>Damoni Cato-Cain Post-Fight Interview | Zuffa Boxing 08</title>
-      <link>https://www.ufc.com/video/158029</link>
-      <description>Welterweight Discusses His 10th Pro Victory With Mike Coppinger At Zuffa Boxing 08 On June 28, 2026</description>
-      <guid isPermaLink="false">f448c3b775e37d71f6a1d9bd0305f94b</guid>
-      <enclosure url="https://ufc.com/images/2026-06/Damoni-Cato-Cain-thumb-ZB08.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 28 Jun 2026 23:54:48 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-06/Damoni-Cato-Cain-thumb-ZB08.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 29 Jun 2026 19:03:59 +0000</lastBuildDate>
     <item>
       <title>Omar Trinidad Post-Fight Interview | Zuffa Boxing 08</title>
       <link>https://www.ufc.com/video/157993</link>
@@ -226,6 +215,17 @@
       <pubDate>Mon, 29 Jun 2026 11:04:35 +0000</pubDate>
       <media:group>
         <media:content url="https://platform.mmamania.com/wp-content/uploads/sites/110/2025/09/gettyimages-2235298259.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.74185218292%2C100%2C78.516295634161&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Statue honoring Philly boxer Joe Frazier taking its place at base of the art museum steps</title>
+      <link>https://www.cbsnews.com/philadelphia/video/statue-honoring-philly-boxer-joe-frazier-taking-its-place-at-base-of-the-art-museum-steps/</link>
+      <description>Statue honoring Philly boxer Joe Frazier taking its place at base of the art museum steps</description>
+      <guid isPermaLink="false">18211bd32611eb1f26de14c4c8f35a09</guid>
+      <enclosure url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/29/8746d19d-cfd8-4310-92d5-4f580b47204b/thumbnail/1200x630/8bc05747dead8fb759e9ad50aed16969/b547750af60129df1c0d0b22892ec7d1.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 11:52:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/29/8746d19d-cfd8-4310-92d5-4f580b47204b/thumbnail/1200x630/8bc05747dead8fb759e9ad50aed16969/b547750af60129df1c0d0b22892ec7d1.png" medium="image"/>
       </media:group>
     </item>
     <item>
