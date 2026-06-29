@@ -7,84 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 19:03:59 +0000</lastBuildDate>
-    <item>
-      <title>Omar Trinidad Post-Fight Interview | Zuffa Boxing 08</title>
-      <link>https://www.ufc.com/video/157993</link>
-      <description>We Catch Up With The Winner Backstage To Get His Thoughts On His Big Win At The Cosmopolitan Hotel In Las Vegas On June 28, 2026. Watch It All Again On Paramount+.</description>
-      <guid isPermaLink="false">f5b4ae62876bc175b88a1ddfb197b0fa</guid>
-      <enclosure url="https://ufc.com/images/2026-06/COP%20INT%20TRIN.00_00_02_06.Still001.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jun 2026 02:15:59 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-06/COP%20INT%20TRIN.00_00_02_06.Still001.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Post-Show | Zuffa Boxing 08</title>
-      <link>https://www.ufc.com/video/157984</link>
-      <description>Don't miss all the fallout with the Zuffa Boxing Post-Show following the fights June 28, 2026</description>
-      <guid isPermaLink="false">73002ed86a9be1469a4db98064b74592</guid>
-      <enclosure url="https://ufc.com/images/image/2026-06/Post-Show__Zuffa_Boxing_08_-_YouTube.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jun 2026 02:41:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/image/2026-06/Post-Show__Zuffa_Boxing_08_-_YouTube.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Jose Valenzuela KOs Edwin De Los Santos | Zuffa Boxing 08</title>
-      <link>https://www.ufc.com/video/158030</link>
-      <description>"Rayo" Makes The Most Of His Rematch Opportunity With An Incredible Second Round KO In The Main Event Of Zuffa Boxing 08 On June 28, 2026</description>
-      <guid isPermaLink="false">70622a60190b40be44d2806a6339881d</guid>
-      <enclosure url="https://ufc.com/images/2026-06/EM2_7798.JPG" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jun 2026 02:41:56 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-06/EM2_7798.JPG" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Zuffa Boxing 08 Results: Jose Valenzuela Avenges Loss With Massive KO</title>
-      <link>https://www.si.com/fannation/boxing/zuffa-boxing-08-results-jose-valenzuela-avenges-loss-with-massive-ko</link>
-      <description>Jose Valenzuela has just undone the biggest dark mark of his otherwise stellar professional career. Valenzuela, once known as an up-and-coming undefeated lightw</description>
-      <guid isPermaLink="false">231e2a52107fd8a4fa593c18045a0992</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_469,w_3513,h_1976/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jn9e1hgvp55ed2se4x.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jun 2026 02:50:15 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_469,w_3513,h_1976/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jn9e1hgvp55ed2se4x.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Zuffa Boxing 08 results, highlights: Jose Valenzuela avenges loss with resounding KO of Edwin De Los Santos</title>
-      <link>https://www.cbssports.com/boxing/news/zuffa-boxing-08-results-highlights-jose-valenzuela-knockout-edwin-de-los-santos/</link>
-      <description>Valenzuela made a statement with his quick finish on Sunday</description>
-      <guid isPermaLink="false">d7be71c7ee505cba9c97e777e256f67a</guid>
-      <enclosure url="https://sportshub.cbsistatic.com/i/r/2026/06/29/94f091ca-c8ae-4fa9-878c-474dd4218fa6/thumbnail/1200x675/1e9f08ed75d91f0587bf5fbed521f285/jose-valenzuela-de-los-santos-punch.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jun 2026 03:03:43 +0000</pubDate>
-      <media:group>
-        <media:content url="https://sportshub.cbsistatic.com/i/r/2026/06/29/94f091ca-c8ae-4fa9-878c-474dd4218fa6/thumbnail/1200x675/1e9f08ed75d91f0587bf5fbed521f285/jose-valenzuela-de-los-santos-punch.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Jose Valenzuela knocks out Edwin De Los Santos in two rounds in Zuffa 08 rematch main event</title>
-      <link>https://www.boxingscene.com/articles/jose-valenzuela-knocks-out-edwin-de-los-santos-in-two-rounds-in-zuffa-08-rematch-main-event</link>
-      <description>Jose Valenzuela erases memory of previous knockout loss by dispatching Edwin De Los Santos in two rounds in Zuffa Boxing 08 main event.</description>
-      <guid isPermaLink="false">f7c732a7e0872234abfd25d3a4973e1c</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/edwindelossantosjosevalenzuela.webp" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jun 2026 03:21:07 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/edwindelossantosjosevalenzuela.webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Dana White Says Boxing's Biggest Problem Has Always Been Matchmaking</title>
-      <link>https://www.boxing247.com/boxing-news/dana-white-says-boxings-biggest-problem-has-always-been-matchmaking/307522</link>
-      <description>Dana White believes the biggest difference between Zuffa Boxing and much of the traditional boxing industry comes down to one word: matchmaking.</description>
-      <guid isPermaLink="false">2cb14db7767495f7910fc59eb6853e74</guid>
-      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/06/Dana-White7955.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jun 2026 05:52:46 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/06/Dana-White7955.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 29 Jun 2026 21:08:09 +0000</lastBuildDate>
     <item>
       <title>Dana White Welcomes Boxing's New Alliances: "I Love It"</title>
       <link>https://www.boxingnews24.com/2026/06/dana-white-welcomes-boxings-new-alliances-i-love-it/</link>
@@ -229,6 +152,17 @@
       </media:group>
     </item>
     <item>
+      <title>Moses Itauma could face Frank Sanchez for the vacant IBF belt after Oleksandr Usyk vacated his world heavyweight titles</title>
+      <link>https://www.skysports.com/boxing/news/12183/13558713/frank-sanchez-eyes-moses-itauma-next-for-vacant-ibf-world-heavyweight-title-fight-sanchez-probably-a-hair-too-soon-for-him</link>
+      <description>Moses Itauma could face Frank Sanchez for the vacant IBF belt after Oleksandr Usyk vacated his world heavyweight titles</description>
+      <guid isPermaLink="false">57d139e1cc0942dec633353c5ac98542</guid>
+      <enclosure url="https://e0.365dm.com/26/06/1600x900/skysports-moses-itauma-frank-sanchez_7285570.jpg?20260629111004" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://e0.365dm.com/26/06/1600x900/skysports-moses-itauma-frank-sanchez_7285570.jpg?20260629111004" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Jose Valenzuela caps Zuffa’s Las Vegas Strip debut with KO, revenge</title>
       <link>https://www.reviewjournal.com/sports/boxing/jose-valenzuela-caps-zuffas-las-vegas-strip-debut-with-ko-revenge-3844086/</link>
       <description>Boxing at lightweight at the Chelsea inside the Cosmopolitan, Valenzuela punctuated Zuffa Boxing’s first local card outside the Meta Apex by knocking out Edwin De Los Santos — by whom h...</description>
@@ -273,6 +207,17 @@
       </media:group>
     </item>
     <item>
+      <title>Dana White reacts to Floyd Mayweather reportedly losing $175 million: ‘Maybe we could do something and figure it out for him’</title>
+      <link>https://www.mmafighting.com/boxing/496973/dana-white-reacts-to-floyd-mayweather-reportedly-losing-175-million-maybe-we-could-do-something-and-figure-it-out-for-him</link>
+      <description>Dana White gives his thoughts on an alleged lawsuit filed by Floyd Mayweather claiming he was defrauded out of hundreds of millions of dollars.</description>
+      <guid isPermaLink="false">2c29c6bb0fc20308864b61088d54ec9e</guid>
+      <enclosure url="https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/06/gettyimages-1189064310.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C78.534031413613&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 16:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/06/gettyimages-1189064310.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C78.534031413613&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Captains | Team NI Boxing</title>
       <link>https://boxingireland.ie/captains-team-ni-boxing-commonwealth-games/</link>
       <description>Team NI Boxing’s co-captains for the 2026 Glasgow Commonwealth Games have been named as Caitlin Fryers of Immaculata BC, Belfast and Jude Gallagher of Two Castles OBA Tyrone. Team NI topped the medal table in the ring four years ago in Birmingham with 5 golds and silver and a bro</description>
@@ -281,6 +226,61 @@
       <pubDate>Mon, 29 Jun 2026 16:12:20 +0000</pubDate>
       <media:group>
         <media:content url="https://boxingireland.ie/wp-content/uploads/Medal-Pic-3-768x960.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Forget The Judges: Lamont Roach Wants To Stop William Zepeda</title>
+      <link>https://www.boxingnews24.com/2026/06/forget-the-judges-lamont-roach-wants-to-stop-william-zepeda/</link>
+      <description>Lamont Roach believes he'll do what 27 previous opponents could not by becoming the first fighter to stop William Zepeda when they meet for the vacant WBC</description>
+      <guid isPermaLink="false">437e116c8a7dcbb779a15501f59708e5</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/06/Lamont-Roach-vs-William-Zepeda6475-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 16:18:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/06/Lamont-Roach-vs-William-Zepeda6475-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The World Boxing Council Reveals the Special July 4th Commemorative Belt</title>
+      <link>https://wbcboxing.com/en/the-world-boxing-council-reveals-the-special-july-4th-commemorative-belt/</link>
+      <description>The World Boxing Council proudly presents its exclusive July 4th Commemorative Belt, a masterpiece specially designed to celebrate the 250th Anniversary of</description>
+      <guid isPermaLink="false">60e25954263940b015297f7c80c88078</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/06/carrington-palacio-4july.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 19:07:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/06/carrington-palacio-4july.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>‘Smokin’’ Joe Frazier finally gets his due with a statue at the Philadelphia Museum of Art</title>
+      <link>https://billypenn.com/2026/06/29/joe-frazier-statue-rocky-steps-philadelphia-art-museum-boxing/</link>
+      <description>Friends and family gathered to celebrate the boxing heavyweight’s new prime real estate where the Rocky statue once stood.</description>
+      <guid isPermaLink="false">950b663065ebf4318dddb64eee8ccbba</guid>
+      <enclosure url="https://billypenn.com/wp-content/uploads/2026/06/IMG_1742-scaled.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 19:12:52 +0000</pubDate>
+      <media:group>
+        <media:content url="https://billypenn.com/wp-content/uploads/2026/06/IMG_1742-scaled.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxing legend Roy Jones Jr. bringing boxing event to the Wiregrass</title>
+      <link>https://www.troymessenger.com/sports/boxing-legend-roy-jones-jr-bringing-boxing-event-to-the-wiregrass-da4f2c2b</link>
+      <description>Roy Jones Jr. brings his boxing promotion to the Wiregrass on Aug.</description>
+      <guid isPermaLink="false">7e259fce9fdf67e57e13a691308bed95</guid>
+      <enclosure url="https://public-assets-prod.pubgen.ai/brand_1cf92205-5d0f-4b5d-ac33-2bbfbcdb6841/asset_afbe5b2d-0bcd-45d2-bb32-086388d8964c.jpg?w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 19:36:25 +0000</pubDate>
+      <media:group>
+        <media:content url="https://public-assets-prod.pubgen.ai/brand_1cf92205-5d0f-4b5d-ac33-2bbfbcdb6841/asset_afbe5b2d-0bcd-45d2-bb32-086388d8964c.jpg?w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The Future Is Now: CES Boxing Prospects Hit It Out Of The Park In Cranston</title>
+      <link>https://fightnews.com/the-future-is-now-ces-boxing-prospects-hit-it-out-of-the-park-in-cranston/191299</link>
+      <description>The future of Rhode Island boxing took center stage Saturday night at The Park, and it did not</description>
+      <guid isPermaLink="false">d95aa5d17aa1739d8f86206eaf9df3d4</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/062726guilmette_pereira023.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 20:01:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/062726guilmette_pereira023.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
