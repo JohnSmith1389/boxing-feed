@@ -7,73 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 13:13:27 +0000</lastBuildDate>
-    <item>
-      <title>Soldiers from Fort Bliss, Fort Hood meet in boxing ring</title>
-      <link>https://www.ktsm.com/news/soldiers-from-fort-bliss-fort-hood-meet-in-boxing-ring/</link>
-      <description>EL PASO, Texas (KTSM) — Soldiers from Fort Bliss and Fort Hood took part in an Army tradition this weekend — facing off in a series of exhibition boxing matches at Fort Hood to decide b…</description>
-      <guid isPermaLink="false">02a003078ed92e09fbf2be724bc5a140</guid>
-      <enclosure url="https://www.ktsm.com/wp-content/uploads/sites/38/2026/06/Boxing-4.png?w=1280" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 28 Jun 2026 21:04:58 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.ktsm.com/wp-content/uploads/sites/38/2026/06/Boxing-4.png?w=1280" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Jakhongir Zokirov TKOs Zach Spiller | Zuffa Boxing 08</title>
-      <link>https://www.ufc.com/video/158024</link>
-      <description>Heavyweight Gets The Action Started In Las Vegas With A Second Round TKO On June 28, 2026 At Zuffa Boxing 08</description>
-      <guid isPermaLink="false">d5b5f9fae399135a10f6ff0d7c3fa063</guid>
-      <enclosure url="https://ufc.com/images/2026-06/EM2_7964_resized.JPG" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 28 Jun 2026 21:25:23 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-06/EM2_7964_resized.JPG" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tony Hirsch Jr Knocks Out Jaybrio Pe Benito | Zuffa Boxing 08</title>
-      <link>https://www.ufc.com/video/158026</link>
-      <description>An Incredible Performance Punctuated The Zuffa Boxing 08 Prelims On June 28, 2026</description>
-      <guid isPermaLink="false">f8d00d3d40f67fe76d3964d49d7af7e7</guid>
-      <enclosure url="https://ufc.com/images/2026-06/062826-Tony-Hirsch-KO-EM2_4934.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 28 Jun 2026 23:02:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-06/062826-Tony-Hirsch-KO-EM2_4934.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Heavyweight Jakhongir Zokirov drops and stops opponent in just two rounds!</title>
-      <link>https://www.skysports.com/boxing/video/30998/13558711/heavyweight-jakhongir-zokirov-drops-and-stops-opponent-in-just-two-rounds</link>
-      <description>Heavyweight Jakhongir Zokirov drops and stops opponent in just two rounds!</description>
-      <guid isPermaLink="false">3f86c82b934eb5b1117632544c72db15</guid>
-      <enclosure url="https://e0.365dm.com/26/06/1600x900/skysports-boxing-zuffa_7285321.jpg?20260628231750" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 28 Jun 2026 23:16:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/06/1600x900/skysports-boxing-zuffa_7285321.jpg?20260628231750" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tony Hirsch Jr Post-Fight Interview | Zuffa Boxing 08</title>
-      <link>https://www.ufc.com/video/158027</link>
-      <description>Mike Coppinger Talks To The Streaking Lightweight Following His Show-Stopping KO At Zuffa Boxing 08 On June 28, 2026</description>
-      <guid isPermaLink="false">06a434e7d6cd976e8af4868c14d5f030</guid>
-      <enclosure url="https://ufc.com/images/2026-06/COP%20INT%20SER.00_00_05_24.Still001.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 28 Jun 2026 23:20:42 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-06/COP%20INT%20SER.00_00_05_24.Still001.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Adrian Serrano Post-Fight Interview | Zuffa Boxing 08</title>
-      <link>https://www.ufc.com/video/158028</link>
-      <description>Lightweight Discusses His Unanimous Decision Victory At Zuffa Boxing 08 With Mike Coppinger On June 28, 2026</description>
-      <guid isPermaLink="false">0e328938ceed7ec74556b5c5c2058fa3</guid>
-      <enclosure url="https://ufc.com/images/2026-06/ZB08-Adrian-Serrano-thumb.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 28 Jun 2026 23:34:25 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-06/ZB08-Adrian-Serrano-thumb.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 29 Jun 2026 16:45:08 +0000</lastBuildDate>
     <item>
       <title>Damoni Cato-Cain Post-Fight Interview | Zuffa Boxing 08</title>
       <link>https://www.ufc.com/video/158029</link>
@@ -229,6 +163,17 @@
       </media:group>
     </item>
     <item>
+      <title>Dana White doubles down on Joshua-Fury claims and says Oleksandr Usyk to Zuffa is 'possible'</title>
+      <link>https://www.boxingscene.com/articles/dana-white-doubles-down-on-joshua-fury-claims-and-says-oleksandr-usyk-to-zuffa-is-possible</link>
+      <description>Dana White has not ruled out staging a heavyweight showdown between Oleksandr Usyk and Deontay Wilder on his Zuffa Boxing platform. Nor has he stood down on his claims that he knows exactly where a fight between Anthony Joshua and Tyson Fury will take place should the heavyweight</description>
+      <guid isPermaLink="false">5b8536c86591aee2994bd4b6bb848fb8</guid>
+      <enclosure url="https://photo.boxingscene.com/uploads/DanaWhite-Press-Conference-1212026-06.webp" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 09:47:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://photo.boxingscene.com/uploads/DanaWhite-Press-Conference-1212026-06.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Kathy Glazewski leads Parkinson's patients in boxing fitness classes</title>
       <link>https://baynews9.com/fl/tampa/news/2026/06/27/kathy-glazewski-hero</link>
       <description>Kathy Glazewski leads Parkinson's patients in boxing fitness classes. Her Rock Steady Fishhawk gym is located on Erindale Drive in Valrico.</description>
@@ -281,6 +226,61 @@
       <pubDate>Mon, 29 Jun 2026 11:04:35 +0000</pubDate>
       <media:group>
         <media:content url="https://platform.mmamania.com/wp-content/uploads/sites/110/2025/09/gettyimages-2235298259.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.74185218292%2C100%2C78.516295634161&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Jose Valenzuela caps Zuffa’s Las Vegas Strip debut with KO, revenge</title>
+      <link>https://www.reviewjournal.com/sports/boxing/jose-valenzuela-caps-zuffas-las-vegas-strip-debut-with-ko-revenge-3844086/</link>
+      <description>Boxing at lightweight at the Chelsea inside the Cosmopolitan, Valenzuela punctuated Zuffa Boxing’s first local card outside the Meta Apex by knocking out Edwin De Los Santos — by whom h...</description>
+      <guid isPermaLink="false">a126ff9c5b7ba9ee7299b35e5c7b8c5d</guid>
+      <enclosure url="https://www.reviewjournal.com/wp-content/uploads/2026/06/21829244_web1_20260628_BOX-ZUFFA-JUN29-26_15_mb.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 13:00:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.reviewjournal.com/wp-content/uploads/2026/06/21829244_web1_20260628_BOX-ZUFFA-JUN29-26_15_mb.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Carl Froch predicts prime Joe Calzaghe vs Andre Ward: "He doesn't know how to lose"</title>
+      <link>https://boxingnewsonline.net/news/carl-froch-predicts-calzaghe-ward/</link>
+      <description>Carl Froch has revealed who he believes would have come out on top in a fantasy match-up between super-middleweight rivals Joe Calzaghe and Andre Ward.</description>
+      <guid isPermaLink="false">1e4c71fdc48fe382972ddb618508cac5</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782737043866204683/Joe-Calzaghe-and-Andre-Ward.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 13:38:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782737043866204683/Joe-Calzaghe-and-Andre-Ward.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>No Days Off Premium Water® Named Official Water Of Zuffa Boxing®</title>
+      <link>https://fightnews.com/no-days-off-premium-water-named-official-water-of-zuffa-boxing/191264</link>
+      <description>Zuffa Boxing and No Days Off Premium Water, the premium canned water brand founded by LEGACY gyms founder</description>
+      <guid isPermaLink="false">984245487901ce12493ed21e8c18ed57</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/EM2_1565.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 15:04:57 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/EM2_1565.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>On This Day in Boxing… June 29</title>
+      <link>https://wbcboxing.com/en/on-this-day-in-boxing-june-29/</link>
+      <description>1968.- At the Quisqueya Stadium in Santo Domingo, Dominican Carlos Teo Cruz captured the WBC lightweight title by defeating the legendary Puerto Rican Carlos</description>
+      <guid isPermaLink="false">6034e0755a879ec06e99a891202b499b</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/06/dlt-jun29.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 15:05:48 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/06/dlt-jun29.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Captains | Team NI Boxing</title>
+      <link>https://boxingireland.ie/captains-team-ni-boxing-commonwealth-games/</link>
+      <description>Team NI Boxing’s co-captains for the 2026 Glasgow Commonwealth Games have been named as Caitlin Fryers of Immaculata BC, Belfast and Jude Gallagher of Two Castles OBA Tyrone. Team NI topped the medal table in the ring four years ago in Birmingham with 5 golds and silver and a bro</description>
+      <guid isPermaLink="false">4ed356277f06fb1031419af5866cf6dd</guid>
+      <enclosure url="https://boxingireland.ie/wp-content/uploads/Medal-Pic-3-768x960.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 29 Jun 2026 16:12:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://boxingireland.ie/wp-content/uploads/Medal-Pic-3-768x960.png" medium="image"/>
       </media:group>
     </item>
   </channel>
