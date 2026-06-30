@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 11:30:47 +0000</lastBuildDate>
-    <item>
-      <title>Boxing legend Roy Jones Jr. bringing boxing event to the Wiregrass</title>
-      <link>https://www.troymessenger.com/sports/boxing-legend-roy-jones-jr-bringing-boxing-event-to-the-wiregrass-da4f2c2b</link>
-      <description>Roy Jones Jr. brings his boxing promotion to the Wiregrass on Aug.</description>
-      <guid isPermaLink="false">7e259fce9fdf67e57e13a691308bed95</guid>
-      <enclosure url="https://public-assets-prod.pubgen.ai/brand_1cf92205-5d0f-4b5d-ac33-2bbfbcdb6841/asset_afbe5b2d-0bcd-45d2-bb32-086388d8964c.jpg?w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jun 2026 19:36:25 +0000</pubDate>
-      <media:group>
-        <media:content url="https://public-assets-prod.pubgen.ai/brand_1cf92205-5d0f-4b5d-ac33-2bbfbcdb6841/asset_afbe5b2d-0bcd-45d2-bb32-086388d8964c.jpg?w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>The Future Is Now: CES Boxing Prospects Hit It Out Of The Park In Cranston</title>
-      <link>https://fightnews.com/the-future-is-now-ces-boxing-prospects-hit-it-out-of-the-park-in-cranston/191299</link>
-      <description>The future of Rhode Island boxing took center stage Saturday night at The Park, and it did not</description>
-      <guid isPermaLink="false">d95aa5d17aa1739d8f86206eaf9df3d4</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/062726guilmette_pereira023.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jun 2026 20:01:33 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/062726guilmette_pereira023.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Liam Williams: Welsh boxer announces next fight after concussion U-turn</title>
-      <link>https://www.bbc.com/sport/boxing/articles/c8d202dgqldo</link>
-      <description>Liam Williams to fight in Nigeria in July after making a U-turn on retiring because of concussions.</description>
-      <guid isPermaLink="false">57ee02944d71f749364e4a3c3477d6af</guid>
-      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/09bf/live/abea5940-73f5-11f1-bb7f-e5226e63ffb3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 29 Jun 2026 20:16:13 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/09bf/live/abea5940-73f5-11f1-bb7f-e5226e63ffb3.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 14:17:59 +0000</lastBuildDate>
     <item>
       <title>Deontay Wilder now faces competition from one other fighter to be Oleksandr Usyk's final opponent</title>
       <link>https://boxingnewsonline.net/news/two-fighters-in-running-for-usyk-fight/</link>
@@ -273,6 +240,17 @@
       </media:group>
     </item>
     <item>
+      <title>Moses Itauma called out for vacant world title fight by heavyweight who just KO'd rising star</title>
+      <link>https://boxingnewsonline.net/news/itauma-wanted-for-title-fight-by-heavy/</link>
+      <description>Moses Itauma could be in line for a world title opportunity against a heavyweight that has recently derailed another unbeaten star's career.</description>
+      <guid isPermaLink="false">be15f07d7f9dfed4336686c7ba72eacf</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782813949665921495/Moses-Itauma.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 30 Jun 2026 10:22:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782813949665921495/Moses-Itauma.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Watertown Area Boxing Club marches in Boxing Hall of Fame Parade</title>
       <link>https://www.wwnytv.com/2026/06/30/watertown-area-boxing-club-marches-boxing-hall-fame-parade/</link>
       <description>The Watertown Area Boxing Club earned a spot in the International Boxing Hall of Fame Parade in Canastota earlier this month.</description>
@@ -281,6 +259,28 @@
       <pubDate>Tue, 30 Jun 2026 10:47:14 +0000</pubDate>
       <media:group>
         <media:content url="https://gray-wwny-prod.gtv-cdn.com/resizer/v2/EJNPHET7GJFDXAG67RT6HTA3CM.jpg?auth=915d1fceb33058c7910b5e2d402b2438ff58665674c25b9a57c163f4f447b689&amp;width=1200&amp;height=600&amp;smart=true" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Larry Holmes sums up Oleksandr Usyk's chances of beating Muhammad Ali</title>
+      <link>https://boxingnewsonline.net/news/holmes-on-usyk-chances-of-beating-ali/</link>
+      <description>Oleksandr Usyk has proven himself to be the standout heavyweight of this generation, and now Muhammad Ali vanquisher Larry Holmes has revealed how he believes</description>
+      <guid isPermaLink="false">f5344cb980fe89a2c970f9c22c15fa9a</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782381356748621716/Muhammad-Ali-and-Oleksandr-Usyk.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 30 Jun 2026 10:55:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782381356748621716/Muhammad-Ali-and-Oleksandr-Usyk.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Manny Pacquiao Speaks Out on Mayweather Rematch Postponement</title>
+      <link>https://www.si.com/fannation/boxing/manny-pacquiao-speaks-out-on-mayweather-rematch-postponement</link>
+      <description>It was recently announced that the rematch between Floyd Mayweather and Manny Pacquiao will be postponed pending the American's many legal issues. His old rival</description>
+      <guid isPermaLink="false">ab60e70e000712704d84efe43bea4d4f</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_565,w_3244,h_1824/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01k0f0taw2pk26jg1m7n.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 30 Jun 2026 11:48:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_565,w_3244,h_1824/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01k0f0taw2pk26jg1m7n.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
