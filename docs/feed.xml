@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 13:16:24 +0000</lastBuildDate>
-    <item>
-      <title>Terence Crawford defends taunting Ilia Topuria after UFC White House loss</title>
-      <link>https://www.bjpenn.com/boxing-news/terence-crawford/terence-crawford-defends-taunting-ilia-topuria/</link>
-      <description>Boxing legend Terence Crawford doubled down on mocking former UFC lightweight champion Ilia Topuria's loss at the White House.</description>
-      <guid isPermaLink="false">2ef6f051142815a0ae8f07a3fd3c0a24</guid>
-      <enclosure url="https://www.bjpenn.com/wp-content/uploads/2025/09/MixCollage-10-Sep-2025-01-55-PM-6215.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jul 2026 21:26:31 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.bjpenn.com/wp-content/uploads/2025/09/MixCollage-10-Sep-2025-01-55-PM-6215.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Terence Crawford delivers verdict on Jaron Ennis vs Vergil Ortiz: "He's gonna finish him"</title>
-      <link>https://boxingnewsonline.net/news/terence-crawford-on-ennis-vs-ortiz/</link>
-      <description>A showdown between Jaron Ennis and Vergil Ortiz Jr may be edging closer following Ennis' dominant victory over Xander Zayas this past weekend, and Terence</description>
-      <guid isPermaLink="false">9184348f1159247d86e46db868be7188</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782940603407200872/Jaron-Ennis-Vergil-Ortiz-Jr.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jul 2026 21:28:28 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782940603407200872/Jaron-Ennis-Vergil-Ortiz-Jr.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 15:40:14 +0000</lastBuildDate>
     <item>
       <title>O’Shaquie Foster Wants 'Old School' Shakur Stevenson Fight</title>
       <link>https://www.si.com/fannation/boxing/o-shaquie-foster-wants-old-school-shakur-stevenson-fight</link>
@@ -273,6 +251,17 @@
       </media:group>
     </item>
     <item>
+      <title>Abdullah Mason vs Albert Bell Predictions: Who will win and how</title>
+      <link>https://www.badlefthook.com/boxing-predictions/117041/abdullah-mason-vs-albert-bell-who-will-win-how-boxing-news-2026</link>
+      <description>Abdullah Mason faces Albert Bell this Saturday on TNT and DAZN. Who wins?</description>
+      <guid isPermaLink="false">8ff2ac4a0573e22ac59a3b1396431af0</guid>
+      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/06/mason-vs-bell-2026-poster.jpg?quality=90&amp;strip=all&amp;crop=0,10.497581857412,100,41.884816753927" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/06/mason-vs-bell-2026-poster.jpg?quality=90&amp;strip=all&amp;crop=0,10.497581857412,100,41.884816753927" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Boxers and weightlifter to fly flag for Warrington in the Glasgow Commonwealth Games</title>
       <link>https://uk.sports.yahoo.com/news/boxers-weightlifter-fly-flag-warrington-123533953.html</link>
       <description>WARRINGTON will be represented by boxers and a weightlifter in this summer’s Commonwealth Games in Glasgow</description>
@@ -281,6 +270,17 @@
       <pubDate>Thu, 02 Jul 2026 12:35:33 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/os/en/warrington_guardian_128/8a75069b20ee868f77b6790e05f6038a" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Owen Corrigan Inks Multi-Year Managerial Deal With Dragon Fire Boxing</title>
+      <link>https://fightnews.com/owen-corrigan-inks-multi-year-managerial-deal-with-dragon-fire-boxing/191445</link>
+      <description>Fresh off capturing the ANBF Australasian Light Heavyweight Championship, Owen Corrigan has signed a new multi-year managerial agreement</description>
+      <guid isPermaLink="false">2ca8f75f837ca0394778e14d22ac92e2</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/MichaelOImagery_MOI_9017.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 14:59:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/MichaelOImagery_MOI_9017.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
