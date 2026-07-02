@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 04:39:25 +0000</lastBuildDate>
-    <item>
-      <title>WBC Upcoming Fights</title>
-      <link>https://wbcboxing.com/en/wbc-upcoming-fights-14/</link>
-      <description>The World Boxing Council presents this week’s television agenda, highlighting the premier matchups in international boxing. Stay up to date with the</description>
-      <guid isPermaLink="false">df330caaa46cba7e9e7f255bff5b78d4</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/upcoming-wbc-1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jul 2026 17:18:29 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/upcoming-wbc-1.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Legendary Olympic Trainer Victor Pascual To Be Inducted Into Dominican Republic Hall Of Fame</title>
-      <link>https://fightnews.com/legendary-olympic-trainer-victor-pascual-to-be-inducted-into-dominican-republic-hall-of-fame/191426</link>
-      <description>By Gabriel F. Cordero The Permanent Committee of the Dominican Sports Hall of Fame announced its selection for</description>
-      <guid isPermaLink="false">a962e11246149925653c36edc1f50643</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Screenshot_20260701-132520.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 01 Jul 2026 17:28:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Screenshot_20260701-132520.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 08:10:58 +0000</lastBuildDate>
     <item>
       <title>Puerto Rico Professional Boxing To Have Monthly Rankings</title>
       <link>https://fightnews.com/puerto-rico-professional-boxing-to-have-monthly-rankings/191429</link>
@@ -273,6 +251,17 @@
       </media:group>
     </item>
     <item>
+      <title>Riddick Bowe Vs. Evander Holyfield I: When Heavyweight Boxing Reached Its Peak</title>
+      <link>https://www.boxingnews24.com/2026/07/riddick-bowe-vs-evander-holyfield-i-when-heavyweight-boxing-reached-its-peak/</link>
+      <description>On November 13, 1992, two unbeaten heavyweights walked into the Thomas &amp; Mack Center in Las Vegas with the undisputed heavyweight championship on the</description>
+      <guid isPermaLink="false">fa34bb052b6a19faf1ab640f8a595297</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Evander-Holyfield-vs-Riddick-Bowe963.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 03:08:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Evander-Holyfield-vs-Riddick-Bowe963.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Adrien Broner gets emotional after earning massive streaming payout following boxing career</title>
       <link>https://bloodyelbow.com/2026/07/01/adrien-broner-gets-emotional-after-earning-massive-streaming-payout-following-boxing-career/</link>
       <description>Adrien Broner couldn't hold back his emotions after another big payday from streaming</description>
@@ -281,6 +270,17 @@
       <pubDate>Thu, 02 Jul 2026 03:59:00 +0000</pubDate>
       <media:group>
         <media:content url="https://bloodyelbow.com/wp-content/uploads/1/2026/07/Adrien-Broner.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Red Owl Boxing brings exciting fight card to El Paso Coliseum</title>
+      <link>https://www.ktsm.com/local/el-paso-news/red-owl-boxing-brings-exciting-fight-card-to-el-paso-coliseum/</link>
+      <description>EL PASO, Texas (KTSM) — Red Owl Boxing is bringing the heat to El Paso, announcing six new bouts, including a bantamweight co-main event fight between local teenage sensation “Poison…</description>
+      <guid isPermaLink="false">29471c19a050e0d8d1697b79e2b9f9e2</guid>
+      <enclosure url="https://www.ktsm.com/wp-content/uploads/sites/38/2026/07/poison-ivy.jpg?w=1280" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 04:07:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.ktsm.com/wp-content/uploads/sites/38/2026/07/poison-ivy.jpg?w=1280" medium="image"/>
       </media:group>
     </item>
   </channel>
