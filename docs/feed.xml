@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 19:26:48 +0000</lastBuildDate>
-    <item>
-      <title>Hankinson Boxing Gym welcomes three new medalists from the Junior Olympics</title>
-      <link>https://www.postandcourier.com/aikenstandard/sports/localsports/hankinson-boxing-gym-usa-boxing-junior-olympics-medalists/article_49cc25d0-7c2d-45b9-a624-4454e6ca0624.html</link>
-      <description>The Hankinson Boxing Gym brought three new medalists home from Nationals after a week of competing against the best in Kansas at the USA Boxing Junior Olympics.</description>
-      <guid isPermaLink="false">bc4861719b2d1674ee926f3f84259344</guid>
-      <enclosure url="https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/87/a87f5618-baa7-4dd6-b668-72274bb4862c/6a4625eec6758.image.jpg?crop=1762%2C926%2C0%2C124&amp;resize=1200%2C631&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 09:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/a/87/a87f5618-baa7-4dd6-b668-72274bb4862c/6a4625eec6758.image.jpg?crop=1762%2C926%2C0%2C124&amp;resize=1200%2C631&amp;order=crop%2Cresize" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>14-year-old St. Paul boxer Natalia Young wins gold at USA Boxing Junior Olympics</title>
-      <link>https://www.mprnews.org/story/2026/07/03/natalia-young-14-year-old-boxer-wins-gold-junior-olympics</link>
-      <description>Natalia Young trains under her father’s wing at the small gym where she grew up watching him train as an amateur boxer, SIR Boxing Club on St. Paul’s East Side.</description>
-      <guid isPermaLink="false">b3d195fb11522a007a613dee885452ed</guid>
-      <enclosure url="https://img.apmcdn.org/f4b07543cc8e7cec5c2672dfdf24e9196c3e8748/widescreen/c38d87-20260701-nataliayoung03-2000.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 09:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://img.apmcdn.org/f4b07543cc8e7cec5c2672dfdf24e9196c3e8748/widescreen/c38d87-20260701-nataliayoung03-2000.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 20:39:37 +0000</lastBuildDate>
     <item>
       <title>Prince Naseem Hamed reflects on the real reason behind retirement at just 28: "I wanted to carry on"</title>
       <link>https://boxingnewsonline.net/news/naseem-hamed-on-reason-for-retirement/</link>
@@ -281,6 +259,28 @@
       <pubDate>Fri, 03 Jul 2026 18:42:20 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/ny/api/res/1.2/cybojHIRkRPzefZZVts9ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-063026-boxingmidyearawards-modart-dillon-minshall_8604.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>27 Years of Glory: Women's Boxing Legalized in Mexico</title>
+      <link>https://wbcboxing.com/en/27-years-of-glory-womens-boxing-legalized-in-mexico/</link>
+      <description>Mexican women's boxing has seen talented and diligent activity for nearly a century; however, for decades it was condemned to secrecy and illegality. It was</description>
+      <guid isPermaLink="false">18de066ee2a4c0ffdbb0c47f61bf1309</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/femal-.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 19:24:32 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/femal-.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Tszyu – Spence Jr. On DAZN Through Prime</title>
+      <link>https://fightnews.com/tszyu-spence-jr-on-dazn-through-prime/191530</link>
+      <description>Former unified three-belt world champion Errol “The Truth” Spence Jr. (28-1, 22 KOs) will make his much-anticipated return</description>
+      <guid isPermaLink="false">20ca528a09bb0b305680ea0161c97264</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Spence-Tszyu-DAZN-Prime.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 19:58:32 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Spence-Tszyu-DAZN-Prime.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
