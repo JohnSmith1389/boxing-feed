@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 23:34:41 +0000</lastBuildDate>
-    <item>
-      <title>Oleksandr Usyk in 'direct discussions' with Zuffa Boxing about Deontay Wilder farewell</title>
-      <link>https://www.boxingscene.com/articles/oleksandr-usyk-in-direct-discussions-with-zuffa-boxing-about-deontay-wilder-farewell</link>
-      <description>Oleksandr Usyk talking to Zuffa Boxing as he plots 'major international event' against Deontay Wilder</description>
-      <guid isPermaLink="false">05f8dbe4a462be8240bc681fd6a9a341</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/OleksandrUsyki12272025-09.webp" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 12:41:33 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/OleksandrUsyki12272025-09.webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Judge Makes Ruling on Mayweather vs Zambidis After Postponement</title>
-      <link>https://www.si.com/fannation/boxing/judge-makes-ruling-on-mayweather-vs-zambidis-after-postponement</link>
-      <description>Floyd Mayweather has claimed a small win in court as a federal judge has denied CSI Promotions' attempt to prevent his next exhibition bout. CSI Promotions fil</description>
-      <guid isPermaLink="false">b5b19add7606a275c1cb4cdc3c50175c</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_150,w_2301,h_1294/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jzn8w083wj46vpdsgb.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 13:05:06 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_150,w_2301,h_1294/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jzn8w083wj46vpdsgb.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Deontay Wilder's team responds to reports he will be the man to face Usyk in his final fight</title>
-      <link>https://boxingnewsonline.net/news/wilder-team-on-being-usyk-final-opponent/</link>
-      <description>Deontay Wilderr's stance on a potential heavyweight battle with Oleksandr Usyk has been made perfectly clear.</description>
-      <guid isPermaLink="false">d4c47e01de9f9ed2ae774fe7d812126c</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1783087167226254917/Deontay-Wilder-and-Oleksandr-Usyk.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 03 Jul 2026 14:11:25 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1783087167226254917/Deontay-Wilder-and-Oleksandr-Usyk.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 04 Jul 2026 02:51:57 +0000</lastBuildDate>
     <item>
       <title>Usyk Vacates Heavyweight Belts, Zuffa in Talks for Wilder Fight</title>
       <link>https://www.boxinginsider.com/headlines/usyk-vacates-heavyweight-belts-zuffa-in-talks-for-wilder-fight/</link>
@@ -218,6 +185,17 @@
       </media:group>
     </item>
     <item>
+      <title>Deontay Wilder's Team Responds After Oleksandr Usyk Targets Him For Final Fight</title>
+      <link>https://www.boxing247.com/boxing-news/deontay-wilders-team-responds-after-oleksandr-usyk-targets-him-for-final-fight/307712</link>
+      <description>Deontay Wilder's team has welcomed the possibility of a showdown with Oleksandr Usyk after the undefeated Ukrainian identified the former WBC heavyweight</description>
+      <guid isPermaLink="false">4305fdf3525e04db25669fee275db783</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2024/06/0K8A0658.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 20:35:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2024/06/0K8A0658.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Chris Algieri and Coach Robert Garcia in-studio on holiday weekend: ‘Boxing never sleeps’</title>
       <link>https://www.boxingscene.com/articles/chris-algieri-and-coach-robert-garcia-in-studio-on-holiday-weekend-boxing-never-sleeps</link>
       <description>BoxingScene Today for July 3, 2026</description>
@@ -281,6 +259,28 @@
       <pubDate>Fri, 03 Jul 2026 21:56:48 +0000</pubDate>
       <media:group>
         <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Mayweather101.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Floyd Mayweather Declares He's Still 'The Face Of Boxing' At 50</title>
+      <link>https://www.boxingnews24.com/2026/07/floyd-mayweather-declares-hes-still-the-face-of-boxing-at-50/</link>
+      <description>Floyd Mayweather believes retirement hasn't changed his standing in the sport.</description>
+      <guid isPermaLink="false">1ffaa01d0e24d0f106f4d672789719bf</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Floyd-Mayweather-Jr300.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 03 Jul 2026 22:09:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Floyd-Mayweather-Jr300.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Bill Haney Rejects Alleged 70-30 Offer, Challenges Gervonta Davis To $15 Million Guaranteed Deal</title>
+      <link>https://www.boxing247.com/boxing-news/bill-haney-rejects-alleged-70-30-offer-challenges-gervonta-davis-to-15-million-guaranteed-deal/307720</link>
+      <description>The war of words over a potential Devin Haney-Gervonta Davis fight took another turn after Bill Haney publicly rejected the alleged financial terms being</description>
+      <guid isPermaLink="false">4c46523ca7c371814dfe0cf290fb6379</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/03/Haney-vs-Ramirez43.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 04 Jul 2026 00:08:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/03/Haney-vs-Ramirez43.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
