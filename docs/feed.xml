@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 19:49:58 +0000</lastBuildDate>
-    <item>
-      <title>Bruce Carrington Wins Wide, But Fails To Make A Statement Against Rene Palacios</title>
-      <link>https://www.boxingnews24.com/2026/07/bruce-carrington-wins-wide-but-fails-to-make-a-statement-against-rene-palacios/</link>
-      <description>Bruce "Shu Shu" Carrington kept his WBC featherweight title on Saturday night, but his performance against Rene Palacios was unlikely to convince skeptics</description>
-      <guid isPermaLink="false">88adc114a586a726b1109bb28b3f5a16</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Bruce-Carrington-vs.-Rene-Palacios3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 03:22:14 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Bruce-Carrington-vs.-Rene-Palacios3.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Cleveland’s rising boxing star Abdullah Mason defends WBO title with 12th-round TKO at Wolstein Center</title>
-      <link>https://www.cleveland.com/sports/2026/07/clevelands-rising-boxing-star-abdullah-mason-defends-wbo-title-with-12th-round-tko-at-wolstein-center.html</link>
-      <description>Abdullah Mason retained his WBO lightweight title with a final-round TKO over Albert Bell, headlining a card featuring wins by Mason’s brothers and other local boxers.</description>
-      <guid isPermaLink="false">d23229d497bc24b63b7e763db5ff9ecd</guid>
-      <enclosure url="https://www.cleveland.com/resizer/v2/762POZB63RDLVNS23FETGDW5XY.JPG?auth=04126a04aeda825dc9cf17df3205f58ff64a5642931247728af2cd9ad68cc1fd&amp;width=1280&amp;smart=true&amp;quality=90" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 04:41:47 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.cleveland.com/resizer/v2/762POZB63RDLVNS23FETGDW5XY.JPG?auth=04126a04aeda825dc9cf17df3205f58ff64a5642931247728af2cd9ad68cc1fd&amp;width=1280&amp;smart=true&amp;quality=90" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 20:59:17 +0000</lastBuildDate>
     <item>
       <title>Abdullah Mason vs Albert Bell result: Controversial stoppage in WBO title fight</title>
       <link>https://www.badlefthook.com/boxing-results/117095/abdullah-mason-vs-albert-bell-result-controversial-stoppage-in-wbo-title-fight-boxing-news-2026</link>
@@ -273,6 +251,17 @@
       </media:group>
     </item>
     <item>
+      <title>Why Has Boxing Fallen From Favor?</title>
+      <link>https://www.boxingnews24.com/2026/07/why-has-boxing-fallen-from-favor/</link>
+      <description>A reader emailed me today with a question that deserves an honest answer: Why has boxing fallen from favor? Why is so little of it broadcast anymore?</description>
+      <guid isPermaLink="false">c36a756010f6e588464cfb7b1a790871</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Boxings-decline.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 17:54:48 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Boxings-decline.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>After Losing His Legs, He Discovered Wheelchair Boxing</title>
       <link>https://www.yahoo.com/news/videos/losing-legs-discovered-wheelchair-boxing-182504727.html</link>
       <description>After Losing His Legs, He Discovered Wheelchair Boxing</description>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 05 Jul 2026 18:25:04 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/37d8764f6246fa1daf83d3c8e28d8db00a5e24d6e335d0ba6657eb430713d2e2/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgreat_big_story_videos_380%2Fbe3e4526407f23d73db3362a7f1a3f7d" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>El Paso boxer Kayla Gomez arrested on family violence assault charge</title>
+      <link>https://kfoxtv.com/news/local/el-paso-boxer-kayla-gomez-arrested-on-family-violence-assault-charge</link>
+      <description>Anthony police arrested 22-year-old boxer Kayla Gomez after officers say a family gathering in Anthony, Texas, escalated into a physical assault on July 4.</description>
+      <guid isPermaLink="false">4e816ea5ccba297c2fc3323966ab83d4</guid>
+      <enclosure url="https://kfoxtv.com/resources/media2/16x9/622/1320/0x215/90/c9a503f2-c7d3-4abe-94d7-db170fb55ce4-Screenshot20260705141148.png" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 20:30:27 +0000</pubDate>
+      <media:group>
+        <media:content url="https://kfoxtv.com/resources/media2/16x9/622/1320/0x215/90/c9a503f2-c7d3-4abe-94d7-db170fb55ce4-Screenshot20260705141148.png" medium="image"/>
       </media:group>
     </item>
   </channel>
