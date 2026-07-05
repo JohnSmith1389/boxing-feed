@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 07:56:00 +0000</lastBuildDate>
-    <item>
-      <title>How to watch Abdullah Mason boxing for free today: The Fight live stream</title>
-      <link>https://www.cleveland.com/tv/2026/07/how-to-watch-abdullah-mason-boxing-for-free-today-the-fight-live-stream.html</link>
-      <description>Undefeated lightweight world champion Abdullah Mason makes his first title defense in his own backyard at the Wolstein Center in Cleveland, Ohio. Find out how to watch 'The Fight' for free tonight.</description>
-      <guid isPermaLink="false">2e9af4a0c1ed743feec5452cb9cbd2f7</guid>
-      <enclosure url="https://www.cleveland.com/resizer/v2/CR3HEPOJCJH6TD75OLSEHISL2A.JPG?auth=82d159c3258d9a47e82a9c39d215319bb54f93a68630dfb273f828254188d1ea&amp;width=1280&amp;smart=true&amp;quality=90" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 21:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.cleveland.com/resizer/v2/CR3HEPOJCJH6TD75OLSEHISL2A.JPG?auth=82d159c3258d9a47e82a9c39d215319bb54f93a68630dfb273f828254188d1ea&amp;width=1280&amp;smart=true&amp;quality=90" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Ohio native to defend boxing title in Cleveland Saturday</title>
-      <link>https://abc6onyourside.com/news/local/abdullah-mason-to-defend-title-tonight-in-cleveland</link>
-      <description>YOUNGEST ACTIVE WORLD CHAMPION</description>
-      <guid isPermaLink="false">4dd77b947613c794cbd2047dec92b4f4</guid>
-      <enclosure url="https://abc6onyourside.com/resources/media/41280385-4351-4cd9-bf90-6a8517bcbb74-jumbo16x9_CGS_SPORTS_Boxing_Gloves_Generic_No_Text_IC.png" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 22:03:23 +0000</pubDate>
-      <media:group>
-        <media:content url="https://abc6onyourside.com/resources/media/41280385-4351-4cd9-bf90-6a8517bcbb74-jumbo16x9_CGS_SPORTS_Boxing_Gloves_Generic_No_Text_IC.png" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 10:15:28 +0000</lastBuildDate>
     <item>
       <title>Ohio native to defend boxing title in Cleveland Saturday</title>
       <link>https://cwcolumbus.com/news/local/abdullah-mason-to-defend-title-tonight-in-cleveland</link>
@@ -273,6 +251,17 @@
       </media:group>
     </item>
     <item>
+      <title>Callum Walsh gunning for 'career best performance' with Tyler Denny knockout on big August 8 in Dublin live on Sky</title>
+      <link>https://www.skysports.com/boxing/news/12183/13560511/callum-walsh-gunning-for-career-best-performance-with-tyler-denny-knockout-on-big-august-8-in-dublin-live-on-sky</link>
+      <description>Callum Walsh gunning for 'career best performance' with Tyler Denny knockout on big August 8 in Dublin live on Sky</description>
+      <guid isPermaLink="false">ff4c024da2ce4e33694daaf0e00fa40b</guid>
+      <enclosure url="https://e0.365dm.com/26/03/1600x900/skysports-callum-walsh-dean-sutherland_7197724.jpg?20260319192033" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 07:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://e0.365dm.com/26/03/1600x900/skysports-callum-walsh-dean-sutherland_7197724.jpg?20260319192033" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Mason Brothers Shine As Cleveland Celebrates Top Rank’s First Episode Of “The Fight”</title>
       <link>https://fightnews.com/mason-brothers-shine-as-cleveland-celebrates-top-ranks-first-episode-of-the-fight/191587</link>
       <description>By David Algranati Top Rank Boxing launched its new monthly “The Fight” series on Saturday evening with a</description>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 05 Jul 2026 07:21:45 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/Screenshot_20260705-030812.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Moses Itauma Reveals Veteran Heavyweight Came For ‘Revenge’ During Brutal Sparring</title>
+      <link>https://www.boxing247.com/boxing-news/moses-itauma-reveals-veteran-heavyweight-came-for-revenge-during-brutal-sparring/307779</link>
+      <description>Moses Itauma says one of the toughest moments of his training camp came not in the ring on fight night, but during a revenge-fueled sparring session with</description>
+      <guid isPermaLink="false">41ee257d67a42ee0d9f62e38d3f2ca6e</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Moses-Itauma544.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 07:28:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Moses-Itauma544.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
