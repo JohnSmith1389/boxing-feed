@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 15:12:05 +0000</lastBuildDate>
-    <item>
-      <title>BOXING/𝗧𝗩 Albert Bell vs Abdullah Mason 𝗟𝗶𝘃𝗲 STREA.MS 𝗙𝗿𝗲𝗲: Boxing Top Rank Boxing</title>
-      <link>https://www.griceconnect.com/classifieds/announcements-and-events/community-events/2123879</link>
-      <description>BOXING/𝗧𝗩 Albert Bell vs Abdullah Mason 𝗟𝗶𝘃𝗲 STREA.</description>
-      <guid isPermaLink="false">b090f6358ead6b626abf5a77dec2ce9f</guid>
-      <enclosure url="https://www.vmcdn.ca/f/files/classifieds/706417/c8ea13c6-dd92-4b52-854d-fd1302002a9c.jpg;w=640" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 01:24:13 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.vmcdn.ca/f/files/classifieds/706417/c8ea13c6-dd92-4b52-854d-fd1302002a9c.jpg;w=640" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 05 Jul 2026 16:33:36 +0000</lastBuildDate>
     <item>
       <title>Live*Free*!𝚆𝙰𝚃𝙲𝙷 Abdullah Mason vs. Albert Bell 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ!Boxing™</title>
       <link>https://www.jacksoncountypilot.com/articles/livefree%f0%9d%9a%86%f0%9d%99%b0%f0%9d%9a%83%f0%9d%99%b2%f0%9d%99%b7-abdullah-mason-vs-albert-bell-%f0%9d%90%8b%f0%9d%90%88%f0%9d%90%95%f0%9d%90%84-%ef%bd%93%ef%bd%94%ef%bd%92%ef%bd%85%ef%bd%81/</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 05 Jul 2026 13:35:00 +0000</pubDate>
       <media:group>
         <media:content url="https://image.abqjournal.com/3075157.jpg?imageId=3075157&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Terence Crawford's trainer BoMac predicts Errol Spence vs Tim Tszyu: "What's he got left?"</title>
+      <link>https://boxingnewsonline.net/news/terence-crawfords-trainer-bomac-predicts-errol-spence-vs-tim-tszyu-whats-he-got-left/</link>
+      <description>Errol Spence Jr returns to the ring this month, facing Tim Tszyu in Australia following three years of inactivity after his 2023 loss to Terence Crawford.</description>
+      <guid isPermaLink="false">20543334d15208dda7466b54dbee1f98</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1781288327858295038/Tim-Tszyu-and-Errol-Spence-Jr.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 14:15:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1781288327858295038/Tim-Tszyu-and-Errol-Spence-Jr.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
