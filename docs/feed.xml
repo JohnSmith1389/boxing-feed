@@ -7,95 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 08:04:55 +0000</lastBuildDate>
-    <item>
-      <title>Terragno Survives Firefight With Alifantaros</title>
-      <link>https://fightnews.com/terragno-survives-firefight-with-alifantaros/191616</link>
-      <description>Alessio Terragno was declared the new Universal Boxing Organization™ (UBO) International Super Welterweight champion on Saturday night, July</description>
-      <guid isPermaLink="false">857c1bf3f884279e2607dbe3bbd75215</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/alessio-terragno-ubo-champion.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 12:10:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/alessio-terragno-ubo-champion.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Terence Crawford rates the better defensive fighter between Floyd Mayweather and Pernell Whitaker: "The master"</title>
-      <link>https://boxingnewsonline.net/news/crawford-on-mayweather-whitaker-defence/</link>
-      <description>Terence Crawford has been comparing the defensive attributes of fellow boxing legends Floyd Mayweather and Pernell 'Sweet Pea' Whitaker.</description>
-      <guid isPermaLink="false">e5362065677a2fe98d32212a630c7842</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1783072573560239196/Floyd-Mayweather-and-Pernell-Whitaker.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 12:34:36 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1783072573560239196/Floyd-Mayweather-and-Pernell-Whitaker.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Albuquerque breweries Canteen Brewhouse and Boxing Bear win medals at NABA beer competition</title>
-      <link>https://www.abqjournal.com/lifestyles/abq-breweries-take-home-awards-from-the-north-american-brewers-association-international-beer-and-cider-awards/3075153</link>
-      <description>Canteen Brewhouse and Boxing Bear both earned bronze medals at the North American Brewers Association International Beer and Cider Awards.</description>
-      <guid isPermaLink="false">dd73ccd4d00cfbdbf22312cdbbc3cccf</guid>
-      <enclosure url="https://image.abqjournal.com/3075157.jpg?imageId=3075157&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 13:35:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://image.abqjournal.com/3075157.jpg?imageId=3075157&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Terence Crawford's trainer BoMac predicts Errol Spence vs Tim Tszyu: "What's he got left?"</title>
-      <link>https://boxingnewsonline.net/news/terence-crawfords-trainer-bomac-predicts-errol-spence-vs-tim-tszyu-whats-he-got-left/</link>
-      <description>Errol Spence Jr returns to the ring this month, facing Tim Tszyu in Australia following three years of inactivity after his 2023 loss to Terence Crawford.</description>
-      <guid isPermaLink="false">20543334d15208dda7466b54dbee1f98</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1781288327858295038/Tim-Tszyu-and-Errol-Spence-Jr.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 14:15:42 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1781288327858295038/Tim-Tszyu-and-Errol-Spence-Jr.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Anthony Joshua Unveils 'The Landlord' Persona Ahead Of July 25 Return Against Kristian Prenga</title>
-      <link>https://www.boxing247.com/boxing-news/anthony-joshua-unveils-the-landlord-persona-ahead-of-july-25-return-against-kristian-prenga/307782</link>
-      <description>Anthony Joshua's comeback against Kristian Prenga is getting a new marketing twist.</description>
-      <guid isPermaLink="false">5242ab6a988ecffe0aafb6331e27f943</guid>
-      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Anthony-Joshua-promo4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 14:42:50 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Anthony-Joshua-promo4.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Conor McGregor slammed over Tucker Carlson nicotine ad shot in Crumlin Boxing Club</title>
-      <link>https://www.crimeworld.com/ireland/conor-mcgregor-slammed-over-tucker-carlson-nicotine-ad-shot-in-crumlin-boxing-club/a/158258353.html</link>
-      <description>Boxing Ireland and Irish Heart Foundation slam UFC star for his latest money-making racket involving nicotine</description>
-      <guid isPermaLink="false">2c6c173fb80f3b03a94172da5f367b9b</guid>
-      <enclosure url="https://prod-img.crimeworld.com/public/incoming/u3fxrr-999.jpeg/alternates/BASE_SIXTEEN_NINE/999.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 14:53:13 +0000</pubDate>
-      <media:group>
-        <media:content url="https://prod-img.crimeworld.com/public/incoming/u3fxrr-999.jpeg/alternates/BASE_SIXTEEN_NINE/999.jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Eddie Hearn Praises Anthony Joshua's Olympic Gold But Leaves Out Controversial London 2012 Final</title>
-      <link>https://www.boxingnews24.com/2026/07/eddie-hearn-praises-anthony-joshuas-olympic-gold-but-leaves-out-controversial-london-2012-final/</link>
-      <description>Eddie Hearn described Anthony Joshua's Olympic gold medal as the purest achievement of his career, pointing to the pressure of competing for Great Britain</description>
-      <guid isPermaLink="false">b9c940e5bf5c315bd59e116e244efcf1</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Anthony-Joshua-vs-Roberto-Cammarelle.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 15:09:01 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Anthony-Joshua-vs-Roberto-Cammarelle.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Hall of Fame Referee Thomas Taylor Remains a Champion of Boxing at Every Level</title>
-      <link>https://myvalleynews.com/blog/2026/07/05/hall-of-fame-referee-thomas-taylor-remains-a-champion-of-boxing-at-every-level/</link>
-      <description>By Ardie CrenshawTEMECULA, Calif. — In a sport often defined by bright lights, world championship belts and sold-out arenas, Hall of Fame boxing referee Thomas Taylor has built a reputation on something far more enduring: his unwavering commitment to boxing at every level.Taylor'</description>
-      <guid isPermaLink="false">4096b21376e4a7bfc57d7f2482a8ee24</guid>
-      <enclosure url="https://myvalleynews.com/wp-content/uploads/2026/07/07-03-26-FRONT-Hall-of-Fame-Referee-Thomas-Taylor-100_04.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 16:17:42 +0000</pubDate>
-      <media:group>
-        <media:content url="https://myvalleynews.com/wp-content/uploads/2026/07/07-03-26-FRONT-Hall-of-Fame-Referee-Thomas-Taylor-100_04.jpeg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 06 Jul 2026 12:23:47 +0000</lastBuildDate>
     <item>
       <title>Abdullah Mason and Bruce Carrington Remain Undefeated in Top Rank’s Fourth of July Event</title>
       <link>https://tss.ib.tv/boxing/abdullah-mason-and-bruce-carrington-remain-undefeated-in-top-ranks-fourth-of-july-event/</link>
@@ -185,6 +97,17 @@
       </media:group>
     </item>
     <item>
+      <title>Deontay Wilder's team welcomes Oleksandr Usyk fight under the right terms: "It would be an honor"</title>
+      <link>https://www.bjpenn.com/boxing-news/deontay-wilders-team-welcomes-oleksandr-usyk-fight-under-the-right-terms-it-would-be-an-honor/</link>
+      <description>Deontay Wilder and his team appear to be intrigued by a fight with Oleksandr Usyk, but only if the terms are satisfactory.</description>
+      <guid isPermaLink="false">6354cc69beb6ded61073dc5edebdf1b8</guid>
+      <enclosure url="https://www.bjpenn.com/wp-content/uploads/2026/07/Deontay-Wilders-team-interested-in-Oleksandr-Usyk-fight-under-the-right-terms.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 05 Jul 2026 19:56:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.bjpenn.com/wp-content/uploads/2026/07/Deontay-Wilders-team-interested-in-Oleksandr-Usyk-fight-under-the-right-terms.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>El Paso boxer Kayla Gomez arrested on family violence assault charge</title>
       <link>https://kfoxtv.com/news/local/el-paso-boxer-kayla-gomez-arrested-on-family-violence-assault-charge</link>
       <description>Anthony police arrested 22-year-old boxer Kayla Gomez after officers say a family gathering in Anthony, Texas, escalated into a physical assault on July 4.</description>
@@ -240,6 +163,17 @@
       </media:group>
     </item>
     <item>
+      <title>10 Best Boxers 25 and Under In 2026: Mason, Itauma Lead</title>
+      <link>https://sports.yahoo.com/articles/10-best-boxers-25-under-000611482.html</link>
+      <description>Abdullah Mason leads a loaded class of champions and prospects. Here are the 10 best boxers aged 25 and under in the world right now.</description>
+      <guid isPermaLink="false">99205b45695b04de63ebc42049e2fd56</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/6tHm_89LpZTadjbMgPbfIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/media.zenfs.com/en/athlon_sports_articles_610/fc7535f5056eab52df391960e498caf9" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 00:06:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/6tHm_89LpZTadjbMgPbfIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/media.zenfs.com/en/athlon_sports_articles_610/fc7535f5056eab52df391960e498caf9" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Sugar Ray Robinson Is The Only Fighter Prince Naseem Hamed Places Alongside Muhammad Ali In GOAT Debate</title>
       <link>https://www.boxing247.com/boxing-news/sugar-ray-robinson-is-the-only-fighter-prince-naseem-hamed-places-alongside-muhammad-ali-in-goat-debate/307798</link>
       <description>Sugar Ray Robinson Is The Only Fighter Prince Naseem Hamed Places Alongside Muhammad Ali in the GOAT Debate</description>
@@ -273,6 +207,17 @@
       </media:group>
     </item>
     <item>
+      <title>From Rocky Marciano To Floyd Mayweather: Boxing's Greatest Unbeaten Runs</title>
+      <link>https://www.boxingnews24.com/2026/07/from-rocky-marciano-to-floyd-mayweather-boxings-greatest-unbeaten-runs/</link>
+      <description>For 60 years, Rocky Marciano's perfect 49-0 record was boxing's gold standard for an unbeaten champion.</description>
+      <guid isPermaLink="false">4ab12ffb70ba335183fbf8d541955705</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/EisenhowerRockyJoe.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 03:46:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/EisenhowerRockyJoe.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Fights This Week: McGregor vs Holloway 2 headlines UFC 329, plus boxing schedule</title>
       <link>https://www.fightmag.com/fights-this-week-mcgregor-vs-holloway-2-headlines-ufc-329-plus-boxing-schedule/</link>
       <description>UFC 329: McGregor vs Holloway 2 headlines this week's MMA schedule. The boxing action includes Sturm vs Stein and Redstall vs Courtney.</description>
@@ -281,6 +226,61 @@
       <pubDate>Mon, 06 Jul 2026 04:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://www.fightmag.com/wp-content/uploads/2026/07/ufc-championship-belt.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Chris Mannix Dismisses Frank Sanchez's Chances Against Moses Itauma</title>
+      <link>https://www.boxingnews24.com/2026/07/chris-mannix-dismisses-frank-sanchezs-chances-against-moses-itauma/</link>
+      <description>Chris Mannix believes Moses Itauma should challenge Frank Sanchez for a world title if he defeats Filip Hrgovic on August 29, arguing it would cap an</description>
+      <guid isPermaLink="false">fdd117b5a40933ac1332a48880a4d9ef</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/05/Frank-Sanchez-vs-Richard-Torrez-jr999-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 04:14:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/05/Frank-Sanchez-vs-Richard-Torrez-jr999-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pacquiao's Team Pursuing New Fight</title>
+      <link>https://boxingnews.com/news/pacquiao-s-team-pursuing-new-fight</link>
+      <description>Manny Pacquiao's plans for 2026 have shifted after the news the Mayweather rematch is not happening on the original timeline.</description>
+      <guid isPermaLink="false">fad4b331c74dca31e12af95220c4cbf2</guid>
+      <enclosure url="https://cdn.sanity.io/images/eo9m4ftg/production/459cc6b5f8caf389b4d9b7a5e0131a2ee17a9b03-686x526.png?w=1600&amp;fit=max&amp;auto=format" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 07:24:25 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.sanity.io/images/eo9m4ftg/production/459cc6b5f8caf389b4d9b7a5e0131a2ee17a9b03-686x526.png?w=1600&amp;fit=max&amp;auto=format" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Rico Verhoeven could land another immediate world title shot against new heavyweight champion</title>
+      <link>https://boxingnewsonline.net/news/rico-verhoeven-in-line-for-title-again/</link>
+      <description>Despite coming off a defeat to Oleksandr Usyk, former long-reigning kickboxing champion Rico Verhoeven could soon land another world title shot, this time at</description>
+      <guid isPermaLink="false">5868244800220557ec85f2fae9c9c4e5</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1783323587539105986/Rico-Verhoeven-flex.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 07:41:57 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1783323587539105986/Rico-Verhoeven-flex.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Moses Itauma warned that title shot against 'devastating' heavyweight is 'too soon'</title>
+      <link>https://boxingnewsonline.net/news/moses-itauma-warned-title-shot-too-soon/</link>
+      <description>Moses Itauma has been advised against taking a world title shot, or rather one that involves a formidable opponent.</description>
+      <guid isPermaLink="false">29ca350797a8d29fa89d0e05c804db74</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1783156197777327596/Moses-Itauma-bow.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 09:16:59 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1783156197777327596/Moses-Itauma-bow.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Shakur Stevenson Makes Confident Lamont Roach-William Zepeda Prediction</title>
+      <link>https://www.si.com/fannation/boxing/shakur-stevenson-makes-confident-lamont-roach-william-zepeda-prediction</link>
+      <description>Shakur Stevenson already knows who he expects to win the vacant WBC lightweight title fight between Lamont Roach Jr. and William Zepeda on August 1.</description>
+      <guid isPermaLink="false">418d80bbb63e8514f086ac21d0aed0df</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1286,y_424,w_3681,h_2070/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jq9v3fpwwb28br3ksh.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 11:34:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1286,y_424,w_3681,h_2070/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jq9v3fpwwb28br3ksh.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
