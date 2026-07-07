@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 23:06:59 +0000</lastBuildDate>
-    <item>
-      <title>On This Day in Boxing History… July 6th</title>
-      <link>https://wbcboxing.com/en/on-this-day-in-boxing-history-july-6th/</link>
-      <description>1966.- At the Municipal Auditorium in New Orleans, American Curtis Cokes delivered one of the greatest performances of his career to capture the WBC world</description>
-      <guid isPermaLink="false">1a704bf85eae9abe0916ac55dc593309</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/dlt-july6.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 06 Jul 2026 15:13:18 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/dlt-july6.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Giant Mason</title>
-      <link>https://fightnews.com/giant-mason-bell-photo-gallery/191628</link>
-      <description>Photo Gallery By Sumio Yamada Abdullah Mason vs Albert Bell Bruce Carrington vs Rene Palacios Delante Johnson vs</description>
-      <guid isPermaLink="false">71c6c8d8264927d003d3db71135c7537</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/IMG_9952-2.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 06 Jul 2026 15:21:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/IMG_9952-2.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 07 Jul 2026 01:16:23 +0000</lastBuildDate>
     <item>
       <title>Lele Sadjo, Mossely &amp; El Khadri Victorious In Creteil</title>
       <link>https://fightnews.com/lele-sadjo-mossely-el-khadri-victorious-in-creteil/191679</link>
@@ -281,6 +259,28 @@
       <pubDate>Mon, 06 Jul 2026 21:59:25 +0000</pubDate>
       <media:group>
         <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/youth-.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Conor McGregor praised for generosity by former boxing coach ahead of UFC 329</title>
+      <link>https://sports.yahoo.com/videos/conor-mcgregor-praised-generosity-former-225841928.html</link>
+      <description>Conor McGregor praised for generosity by former boxing coach ahead of UFC 329</description>
+      <guid isPermaLink="false">c7803b19d8a810cb784638d9e9f79ade</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/4YtcvYOa.ptkix_nHLQAtw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0yMTMzO2NmPXdlYnA-/https:/media.zenfs.com/en/sherdog_sports_videos_459/e3151b876ca193e8ec234a92b0d4e16f" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 22:58:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/4YtcvYOa.ptkix_nHLQAtw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0yMTMzO2NmPXdlYnA-/https:/media.zenfs.com/en/sherdog_sports_videos_459/e3151b876ca193e8ec234a92b0d4e16f" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Rolly Romero facing Lopez in first WBA welterweight title defense</title>
+      <link>https://www.espn.com/boxing/story/_/id/49291232/rolly-romero-facing-lopez-first-wba-welterweight-title-defense</link>
+      <description>Rolly Romero puts his WBA welterweight title on the line against Teofimo Lopez on August 22.</description>
+      <guid isPermaLink="false">b97ea4d9f622134975573741da71827b</guid>
+      <enclosure url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0707%2Fr1685614_1024x576_16%2D9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 00:23:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0707%2Fr1685614_1024x576_16%2D9.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
