@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 03:17:56 +0000</lastBuildDate>
-    <item>
-      <title>Florida boxing coach arrested in teen sex abuse case; detectives seek other victims</title>
-      <link>https://cbs4local.com/news/nation-world/florida-boxing-coach-arrested-in-teen-sex-abuse-case-detectives-seek-other-vicims-marion-county-florida-ocala-marion-county-sheriffs-office-mcso-juan-carlos-quintero-barrios-boxing-coach-youth-boxing-doghouse-boxing-gym-4-kings-boxing-gym-arre</link>
-      <description>A Florida boxing coach is behind bars, accused of sexually abusing a teenage student for months, with investigators warning there may be more victims.</description>
-      <guid isPermaLink="false">f5a5beac34e026af876db1c2d355f29f</guid>
-      <enclosure url="https://cbs4local.com/resources/media2/16x9/1920/1320/center/90/49b8d52e-5f1f-4536-abf4-4401fd04982a-Untitleddesign20260707T125737.755.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 17:05:24 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cbs4local.com/resources/media2/16x9/1920/1320/center/90/49b8d52e-5f1f-4536-abf4-4401fd04982a-Untitleddesign20260707T125737.755.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Today’s Android app deals and freebies: Skul, Children of Morta, Hitman GO, Boxing Gym Story, more</title>
-      <link>https://9to5toys.com/2026/07/07/today-android-app-deals-skul-boxing-gym-story/</link>
-      <description>Your Tuesday afternoon lineup of the best Android game and app deals is now ready, including titles like Skul: The...</description>
-      <guid isPermaLink="false">fec99a31b0e1b6082921ff1fed785351</guid>
-      <enclosure url="https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/07/Google-Play-Jul-7.webp?resize=1200%2C628&amp;quality=82&amp;strip=all&amp;ssl=1" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 17:23:50 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/07/Google-Play-Jul-7.webp?resize=1200%2C628&amp;quality=82&amp;strip=all&amp;ssl=1" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 08 Jul 2026 06:12:19 +0000</lastBuildDate>
     <item>
       <title>Ocala boxing coach accused of sexually abusing student</title>
       <link>https://www.wfla.com/news/florida/florida-boxing-coach-accused-of-sexually-abusing-student-for-months/</link>
@@ -236,6 +214,17 @@
       </media:group>
     </item>
     <item>
+      <title>Zuffa Boxing Signs Bantamweight Contender Jason Moloney</title>
+      <link>https://fightnews.com/zuffa-boxing-signs-bantamweight-contender-jason-moloney/191738</link>
+      <description>Zuffa Boxing announced today that former bantamweight world champion Jason “Mayhem” Moloney has signed a multi-fight promotional contract</description>
+      <guid isPermaLink="false">55ca14605cacaba0989c50d5dba1b167</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Outlook-vmcxigaz.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jul 2026 00:00:46 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Outlook-vmcxigaz.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Rodriguez Boxing Club founder Al Rodriguez dies at 74</title>
       <link>https://www.azcentral.com/picture-gallery/news/local/phoenix/2026/07/07/phoenix-boxing-leader-al-rodriguez-dies/90842314007/</link>
       <description>The founder of Rodriguez Boxing Club helped shape lives inside and outside the ring. His legacy lives on in Phoenix.</description>
@@ -277,6 +266,17 @@
       <pubDate>Wed, 08 Jul 2026 00:59:57 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_263,w_4237,h_2383/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01k25djcj1ws8vqjmt31.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Jason Moloney Explains Why He Signed With Dana White's Zuffa Boxing Despite Uncertainty</title>
+      <link>https://www.boxing247.com/boxing-news/jason-moloney-explains-why-he-signed-with-dana-whites-zuffa-boxing-despite-uncertainty/307904</link>
+      <description>Former WBO bantamweight champion Jason Moloney believes signing with Dana White's Zuffa Boxing gives him the best opportunity to become a two-time world</description>
+      <guid isPermaLink="false">8595484839dda353dcedacb1112a5855</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Jason-Moloney744.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 08 Jul 2026 05:15:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Jason-Moloney744.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
