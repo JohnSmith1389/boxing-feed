@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 15:55:52 +0000</lastBuildDate>
-    <item>
-      <title>Young Boxers Thrive at The Bridge Boxing Club in Fullerton</title>
-      <link>https://fullertonobserver.com/2026/07/08/young-boxers-thrive-at-the-bridge-boxing-club-in-fullerton/</link>
-      <description>“They are dedicated, community-minded individuals who understand that their primary job is to be positive mentors, role models and safe guides for these athletes,” said Maciel.</description>
-      <guid isPermaLink="false">f4e8a0cec65f204cd2f585be813a0894</guid>
-      <enclosure url="https://fullertonobserver.com/wp-content/uploads/2026/07/Snip20260708_12-1024x673.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 08 Jul 2026 22:06:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fullertonobserver.com/wp-content/uploads/2026/07/Snip20260708_12-1024x673.png" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 09 Jul 2026 17:57:20 +0000</lastBuildDate>
     <item>
       <title>Former heavyweight champion Andy Ruiz Jnr signs with Matchroom Boxing</title>
       <link>https://www.boxingscene.com/articles/former-heavyweight-champion-andy-ruiz-jnr-signs-with-matchroom-boxing</link>
@@ -226,6 +215,17 @@
       <pubDate>Thu, 09 Jul 2026 11:12:08 +0000</pubDate>
       <media:group>
         <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1783590478864221392/Chris-Eubank-Jr.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Andy Ruiz Jr Signs Multi-Fight Deal With New Promotion Ahead of Expected Return</title>
+      <link>https://www.si.com/fannation/boxing/andy-ruiz-jr-signs-multi-fight-deal-with-new-promotion-ahead-of-expected-return</link>
+      <description>Nearly two years after his last fight in the ring, former unified heavyweight champion Andy Ruiz Jr. has a new plan for his anticipated return.</description>
+      <guid isPermaLink="false">f62fed702a7baa2cdb6cd4199248d784</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_122,y_208,w_2248,h_1264/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/boxing/01kx2k0z66fcv279c5ap.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 11:57:58 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_122,y_208,w_2248,h_1264/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/boxing/01kx2k0z66fcv279c5ap.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
