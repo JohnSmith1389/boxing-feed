@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 17:49:20 +0000</lastBuildDate>
-    <item>
-      <title>Lennox Lewis says Moses Itauma should stay away from one heavyweight</title>
-      <link>https://boxingnewsonline.net/news/lennox-lewis-says-itauma-to-avoid-one-man/</link>
-      <description>Moses Itauma is hoping to take over the heavyweight division in the coming years, but in the eyes of heavyweight icon Lennox Lewis, there is one heavyweight</description>
-      <guid isPermaLink="false">5932c273aed8f0efe71f04942b67b9bb</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1783675293670196611/Moses-Itauma-and-Lennox-Lewis.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Jul 2026 09:43:44 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1783675293670196611/Moses-Itauma-and-Lennox-Lewis.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Longest reigning cruiserweight champion of all time says Oleksandr Usyk is an 'average southpaw'</title>
-      <link>https://boxingnewsonline.net/news/cruiserweight-champion-usyk-is-average/</link>
-      <description>Oleksandr Usyk is appreciated almost unanimously amongst boxing fans for his remarkable career and elite skill, but there is one former cruiserweight world</description>
-      <guid isPermaLink="false">e740e978c7c80bcf22fc0e9abedb5b54</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1783677589065664886/oleksandr-usyk-pose.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Jul 2026 10:00:42 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1783677589065664886/oleksandr-usyk-pose.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 19:26:05 +0000</lastBuildDate>
     <item>
       <title>Two-time boxing champ Jermall Charlo plans ‘dominant performance’ in Australia fight, greets fans at Trill Burgers</title>
       <link>https://www.click2houston.com/sports/2026/07/10/two-time-boxing-champ-jermall-charlo-plans-dominant-performance-in-australia-fight-greets-fans-at-trill-burgers/</link>
@@ -281,6 +259,28 @@
       <pubDate>Fri, 10 Jul 2026 16:52:24 +0000</pubDate>
       <media:group>
         <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/hayasi-rip.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Russia Boxing</title>
+      <link>https://www.springfieldnewssun.com/nation-world/russia-boxing/image_10367d53-cb3a-5f6a-bbbe-0e55dedcac07.html</link>
+      <description>Germany's Peter Kadiru, front, who challenges Russia's Murat Gassiev for the WBA Heavyweight World Champion title, poses during a weigh-in ceremony ahead of the IBA Pro 19 event in Moscow,</description>
+      <guid isPermaLink="false">4ac5ac95b0b59cd829e1d5a4c4c60796</guid>
+      <enclosure url="https://bloximages.chicago2.vip.townnews.com/springfieldnewssun.com/content/tncms/assets/v3/editorial/1/03/10367d53-cb3a-5f6a-bbbe-0e55dedcac07/6a513145b4049.image.jpg?crop=7054%2C3703%2C0%2C499&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jul 2026 17:43:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloximages.chicago2.vip.townnews.com/springfieldnewssun.com/content/tncms/assets/v3/editorial/1/03/10367d53-cb3a-5f6a-bbbe-0e55dedcac07/6a513145b4049.image.jpg?crop=7054%2C3703%2C0%2C499&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Russia Boxing</title>
+      <link>https://www.springfieldnewssun.com/nation-world/russia-boxing/image_ed62af04-4c20-50f7-8892-21ebcd2d3783.html</link>
+      <description>Russia's Murat Gassiev, left, and Germany's Peter Kadiru go face to face during a weigh-in ceremony as Filipino boxer Manny Pacquiao, center, holds the WBA Heavyweight world champion's belt ahead</description>
+      <guid isPermaLink="false">5fa2c0d1d4a3ba8deeb13c0607555856</guid>
+      <enclosure url="https://bloximages.chicago2.vip.townnews.com/springfieldnewssun.com/content/tncms/assets/v3/editorial/e/d6/ed62af04-4c20-50f7-8892-21ebcd2d3783/6a51314444767.image.jpg?crop=7014%2C3682%2C0%2C496&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 10 Jul 2026 17:43:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloximages.chicago2.vip.townnews.com/springfieldnewssun.com/content/tncms/assets/v3/editorial/e/d6/ed62af04-4c20-50f7-8892-21ebcd2d3783/6a51314444767.image.jpg?crop=7014%2C3682%2C0%2C496&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
       </media:group>
     </item>
   </channel>
