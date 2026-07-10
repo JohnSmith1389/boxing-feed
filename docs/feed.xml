@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 22:49:42 +0000</lastBuildDate>
-    <item>
-      <title>Turki Alalshikh Proposes Controversial Fury vs Joshua Ringwalk Time</title>
-      <link>https://www.si.com/fannation/boxing/turki-alalshikh-proposes-controversial-fury-vs-joshua-ringwalk-time</link>
-      <description>For as long as international boxing has existed, time considerations outside the venue rarely mattered. The audience in the country in which the fight took plac</description>
-      <guid isPermaLink="false">471476011b52cd8440dcdae576c8f7fb</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_150,w_2137,h_1202/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kd5rtjhw4fp8asesp9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jul 2026 15:23:52 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_150,w_2137,h_1202/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kd5rtjhw4fp8asesp9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Andy Ruiz Jr. Returns to the Ring with Matchroom Boxing</title>
-      <link>https://wbcboxing.com/en/andy-ruiz-jr-returns-to-the-ring-with-matchroom-boxing/</link>
-      <description>One of the most charismatic, explosive, power punchers in Mexican pugilism will soon be back on track.</description>
-      <guid isPermaLink="false">acc707cc66645062b13b19cd4e50191f</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/Andy-ruiz.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 09 Jul 2026 16:50:32 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/Andy-ruiz.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 00:04:28 +0000</lastBuildDate>
     <item>
       <title>The World Boxing Council Celebrates Argentina's Independence Day and Pays Tribute to Its Legendary Ring History</title>
       <link>https://wbcboxing.com/en/the-world-boxing-council-celebrates-argentinas-independence-day-and-pays-tribute-to-its-legendary-ring-history/</link>
@@ -247,6 +225,17 @@
       <pubDate>Thu, 09 Jul 2026 21:41:59 +0000</pubDate>
     </item>
     <item>
+      <title>Zuffa Boxing makes splash with signing of four-division champion Shakur Stevenson</title>
+      <link>https://www.cbssports.com/boxing/news/zuffa-boxing-shakur-stevenson-signing/</link>
+      <description>The pound for pound great has made the move to align with Dana White and Zuffa</description>
+      <guid isPermaLink="false">5664ec528baf1266f2cdb56fff428a5e</guid>
+      <enclosure url="https://sportshub.cbsistatic.com/i/r/2026/07/09/8b658c99-cd2c-46a2-9d27-7bfebc00561f/thumbnail/1200x675/5061d2979b5ee4c893015511455de2a9/shakur-stevenson-smile.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 21:58:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://sportshub.cbsistatic.com/i/r/2026/07/09/8b658c99-cd2c-46a2-9d27-7bfebc00561f/thumbnail/1200x675/5061d2979b5ee4c893015511455de2a9/shakur-stevenson-smile.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Shakur Stevenson Agrees to Contract With Dana White's Zuffa Boxing, Reveals Opponents Eyed for Fight</title>
       <link>https://bleacherreport.com/articles/25452914-shakur-stevenson-agrees-contract-dana-whites-zuffa-boxing-reveals-opponents-eyed-fight</link>
       <description>Shakur Stevenson has agreed to a multi-fight deal with Zuffa Boxing, per ESPN's Andreas Hale.</description>
@@ -277,6 +266,17 @@
       <pubDate>Thu, 09 Jul 2026 22:15:00 +0000</pubDate>
       <media:group>
         <media:content url="https://e0.365dm.com/24/07/1600x900/skysports-shakur-stevenson_6620224.jpg?20240707131207" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>What Shakur Stevenson's Zuffa Boxing Move Could Mean For His World Title Future</title>
+      <link>https://www.boxing247.com/boxing-news/what-shakur-stevensons-zuffa-boxing-move-could-mean-for-his-world-title-future/307972</link>
+      <description>Shakur Stevenson has officially signed with Zuffa Boxing, but the announcement raises a much bigger question than where he'll fight next: What happens to his</description>
+      <guid isPermaLink="false">051041a06668e7c89299ac1d3f210f4a</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Shakur-Stevenson-inks-Zuffa.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 22:46:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Shakur-Stevenson-inks-Zuffa.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
