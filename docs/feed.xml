@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 06:35:13 +0000</lastBuildDate>
-    <item>
-      <title>DAZN adds Premier Boxing Champions to growing boxing portfolio</title>
-      <link>https://awfulannouncing.com/dazn/premier-boxing-champions-growing-boxing-portfolio.html</link>
-      <description>DAZN announced a new global agreement with Premier Boxing Champions, giving the streamer the rights to another boxing promoter.</description>
-      <guid isPermaLink="false">af2fd553be2b5e4ab7299d399d3e687a</guid>
-      <enclosure url="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/07/AA-Size-13.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Jul 2026 16:00:52 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/07/AA-Size-13.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Shakur Stevenson joins Zuffa Boxing in the promotion's biggest signing yet</title>
-      <link>https://www.thesportingtribune.com/2026/07/10/shakur-steven-signs-with-zuffa-boxing</link>
-      <description>Shakur Stevenson has signed with Zuffa Boxing, and the timing tells its own story. The deal was announced Thursday, minutes after the press conference for Teofimo Lopez and Rolly Romero's PBC card on DAZN wrapped up.</description>
-      <guid isPermaLink="false">f5c97ad3d9ffaf254a11f39c3053f656</guid>
-      <enclosure url="https://www.thesportingtribune.com/img/boxing/usatsi_13580236-1600x900.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Jul 2026 16:04:12 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.thesportingtribune.com/img/boxing/usatsi_13580236-1600x900.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 08:46:00 +0000</lastBuildDate>
     <item>
       <title>Ben Whittaker Reportedly Set For IBF Final Eliminator Against Conor Wallace</title>
       <link>https://www.boxingnews24.com/2026/07/ben-whittaker-reportedly-set-for-ibf-final-eliminator-against-conor-wallace/</link>
@@ -281,6 +259,28 @@
       <pubDate>Sat, 11 Jul 2026 04:00:36 +0000</pubDate>
       <media:group>
         <media:content url="https://media.themonroesun.com/2024/12/IMG_1560.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Riddick Bowe Survived Andrew Golota In Boxing's Most Infamous Riot</title>
+      <link>https://www.boxingnews24.com/2026/07/riddick-bowe-survived-andrew-golota-in-boxings-most-infamous-riot/</link>
+      <description>Madison Square Garden hosted what was supposed to be another step toward a lucrative heavyweight showdown between Riddick Bowe and Lennox Lewis on July 11,</description>
+      <guid isPermaLink="false">ee209c3d19ac9d7a3f798359afc52391</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Andrew-Golota-vs-Riddick-Bowe-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 04:15:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Andrew-Golota-vs-Riddick-Bowe-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxing Tonight: Murat Gassiev vs Peter Kadiru: Card, Start Time, How to Watch &amp; Stream</title>
+      <link>https://www.si.com/fannation/boxing/boxing-tonight-murat-gassiev-vs-peter-kadiru-card-start-time-how-to-watch-stream</link>
+      <description>All eyes will be on Moscow this Saturday as the WBA Heavyweight Championship of the world will be up for grabs as Murat Gassiev (33-2-1 NC, 26 KOs) will defend</description>
+      <guid isPermaLink="false">3dcca74f55d5668f36c77c96d5a58309</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_241,w_4578,h_2575/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kx7c3szge2yxvzzsk5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 07:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_241,w_4578,h_2575/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kx7c3szge2yxvzzsk5.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
