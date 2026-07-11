@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 10:13:50 +0000</lastBuildDate>
-    <item>
-      <title>The World Boxing Council Mourns the Passing of Junko Hayashi</title>
-      <link>https://wbcboxing.com/en/the-world-boxing-council-mourns-the-passing-of-junko-hayashi/</link>
-      <description>The World Boxing Council and its President, Mauricio Sulaimán, unite in deep sorrow and express their most heartfelt condolences upon receiving the painful</description>
-      <guid isPermaLink="false">2fd15528b5d1813e933447f432c64006</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/hayasi-rip.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 10 Jul 2026 16:52:24 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/hayasi-rip.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 11 Jul 2026 11:29:46 +0000</lastBuildDate>
     <item>
       <title>Russia Boxing</title>
       <link>https://www.springfieldnewssun.com/nation-world/russia-boxing/image_10367d53-cb3a-5f6a-bbbe-0e55dedcac07.html</link>
@@ -215,6 +204,17 @@
       <pubDate>Sat, 11 Jul 2026 02:19:13 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/HeatherHardy.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Wladimir Klitschko Vs. Samuel Peter: The Fight That Revived A Champion's Career</title>
+      <link>https://www.boxing247.com/boxing-news/wladimir-klitschko-vs-samuel-peter-the-fight-that-revived-a-champions-career/308021</link>
+      <description>Wladimir Klitschko entered Boardwalk Hall in Atlantic City on September 24, 2005, to face undefeated Samuel Peter, with his career hanging by a thread.</description>
+      <guid isPermaLink="false">7968b902d294a4ad1355c665e8920d09</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Wladimir-Klitschko-vs-Sam-Peter.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 11 Jul 2026 02:19:21 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Wladimir-Klitschko-vs-Sam-Peter.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
