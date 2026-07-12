@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 21:50:10 +0000</lastBuildDate>
-    <item>
-      <title>Dana White is furious after UFC 329 broadcast mistook boxing champion for NBA star Jalen Williams</title>
-      <link>https://www.hitc.com/dana-white-is-furious-after-ufc-329-broadcast-mistook-boxing-champion-for-nba-star-jalen-williams/</link>
-      <description>UFC President Dana White couldn't believe that the UFC 329 broadcast didn't recognize boxing champion Shakur Stevenson.</description>
-      <guid isPermaLink="false">2b3d5061c5823d016e1cb874477792bf</guid>
-      <enclosure url="https://cdn3.hitc.com/uploads/1/2026/07/GettyImages-2285716322-scaled.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 05:17:48 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn3.hitc.com/uploads/1/2026/07/GettyImages-2285716322-scaled.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 22:47:26 +0000</lastBuildDate>
     <item>
       <title>Dana White Explodes After UFC Broadcast Mistakes Shakur Stevenson For NBA Player</title>
       <link>https://www.boxing247.com/boxing-news/dana-white-explodes-after-ufc-broadcast-mistakes-shakur-stevenson-for-nba-player/308070</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 12 Jul 2026 21:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://theshadowleague.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-01-at-3.45.26-PM.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>College Park summer camp brings boxing training to local youth</title>
+      <link>https://www.fultonneighbor.com/news/south/college-park-summer-camp-brings-boxing-training-to-local-youth/article_8bf6a762-1ab7-483d-8db9-3a3e0b49e476.html</link>
+      <description>Young athletes in College Park will have the opportunity to train with one of boxing’s top competitors during an upcoming outdoor summer camp hosted by the city’s recreation department and</description>
+      <guid isPermaLink="false">7c392335c5bf596c91348bdceb4d36ad</guid>
+      <enclosure url="https://bloximages.newyork1.vip.townnews.com/fultonneighbor.com/content/tncms/assets/v3/editorial/3/c2/3c2371ae-2b56-46c0-a645-a29ef108632d/68813fe441343.image.jpg?crop=1762%2C926%2C0%2C124&amp;resize=1200%2C631&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 22:25:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloximages.newyork1.vip.townnews.com/fultonneighbor.com/content/tncms/assets/v3/editorial/3/c2/3c2371ae-2b56-46c0-a645-a29ef108632d/68813fe441343.image.jpg?crop=1762%2C926%2C0%2C124&amp;resize=1200%2C631&amp;order=crop%2Cresize" medium="image"/>
       </media:group>
     </item>
   </channel>
