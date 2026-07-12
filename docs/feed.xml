@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 18:03:03 +0000</lastBuildDate>
-    <item>
-      <title>Tim Bradley Expects Many Fans To Pirate Rolly Romero-Teofimo Lopez PPV</title>
-      <link>https://www.boxingnews24.com/2026/07/tim-bradley-expects-many-fans-to-pirate-rolly-romero-teofimo-lopez-ppv/</link>
-      <description>Tim Bradley plans to buy the Aug. 22 welterweight title fight between Rolly Romero and Teofimo Lopez, but he doesn't believe the matchup offers enough value</description>
-      <guid isPermaLink="false">cc3fbe7beeab08465227f8139a8d78c5</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Rolly-vs-Teofimo-Kickoff-Press-Conference-070926_08_22_2026_Presser-3-1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 12 Jul 2026 00:15:38 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Rolly-vs-Teofimo-Kickoff-Press-Conference-070926_08_22_2026_Presser-3-1.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 19:37:50 +0000</lastBuildDate>
     <item>
       <title>Murat Gassiev Retains WBA Heavyweight Title At The Spectacular IBA Pro 19</title>
       <link>https://fightnews.com/murat-gassiev-retains-wba-heavyweight-title-at-the-spectacular-iba-pro-19/191943</link>
@@ -277,6 +266,17 @@
       <pubDate>Sun, 12 Jul 2026 17:25:00 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/unnamed-216.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Backyard boxing for a cause</title>
+      <link>https://www.ehextra.com/news/backyard-boxing-for-a-cause/article_0e04fedb-ce66-47b4-9a38-669065392ea0.html</link>
+      <description>Unsanctioned Menominee bouts raise thousands for charity</description>
+      <guid isPermaLink="false">4ebc4b3461631edc4b420d41f68692dd</guid>
+      <enclosure url="https://bloximages.newyork1.vip.townnews.com/ehextra.com/content/tncms/assets/v3/editorial/c/86/c8639797-4b5f-4bcb-9f70-b8eb3ad700e8/6a4fa471883c6.image.jpg?crop=857%2C450%2C584%2C313" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 18:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloximages.newyork1.vip.townnews.com/ehextra.com/content/tncms/assets/v3/editorial/c/86/c8639797-4b5f-4bcb-9f70-b8eb3ad700e8/6a4fa471883c6.image.jpg?crop=857%2C450%2C584%2C313" medium="image"/>
       </media:group>
     </item>
   </channel>
