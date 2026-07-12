@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 14:03:00 +0000</lastBuildDate>
-    <item>
-      <title>Murat Gassiev stops Peter Kadiru in six to retain WBA heavyweight title</title>
-      <link>https://www.boxingscene.com/articles/murat-gassiev-stops-peter-kadiru-in-six-to-retain-wba-heavyweight-title</link>
-      <description>Murat Gassiev stops Peter Kadiru in six rounds to retain his title for the first time on July 11, 2026.</description>
-      <guid isPermaLink="false">50914684c74dca0e7ae278940ce903a2</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/muiratgassievpeterkadiru1.webp" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 20:58:54 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/muiratgassievpeterkadiru1.webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 15:32:43 +0000</lastBuildDate>
     <item>
       <title>The International Women’s Boxing Hall of Fame Celebrates the Largest Archive of Female Inductees, Honoring the Trailblazers of the sport</title>
       <link>https://www.womenboxing.com/NEWS2026/news071126iwbhf-makes-history-only-hall-of-fame-to-have-the-most-female-halloffamers.htm</link>
@@ -273,6 +262,17 @@
       <pubDate>Sun, 12 Jul 2026 13:29:09 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/Untitled-1-17.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Heavyweight champion willing to give Derek Chisora another world title shot at 42 years old</title>
+      <link>https://boxingnewsonline.net/news/heavyweight-champion-on-derek-chisora-shot/</link>
+      <description>Derek Chisora’s defeat to Deontay Wilder was expected to confirm his retirement, but ‘Del Boy’ is still yet to formally confirm that his career has come to an</description>
+      <guid isPermaLink="false">7ce949c56f58599ad54bfc0733d9aea4</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1783864055148469894/derek-chisora-boxer.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 13:49:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1783864055148469894/derek-chisora-boxer.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
