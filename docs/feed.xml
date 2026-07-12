@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 15:32:43 +0000</lastBuildDate>
-    <item>
-      <title>The International Women’s Boxing Hall of Fame Celebrates the Largest Archive of Female Inductees, Honoring the Trailblazers of the sport</title>
-      <link>https://www.womenboxing.com/NEWS2026/news071126iwbhf-makes-history-only-hall-of-fame-to-have-the-most-female-halloffamers.htm</link>
-      <description>The IWBHF makes history being the only hall of fame that has inducted more females in a hall of fame than any other HOF organizations</description>
-      <guid isPermaLink="false">6039c869092da92225a77f47804d212d</guid>
-      <pubDate>Sat, 11 Jul 2026 21:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Joe Joyce loses comeback fight against Artem Suslenkov in bizarre ending</title>
-      <link>https://www.bbc.com/sport/boxing/articles/cz75xdr3xyxo</link>
-      <description>Joe Joyce's comeback fight ends in bizarre fashion as the veteran British heavyweight loses to Artem Suslenkov in Moscow.</description>
-      <guid isPermaLink="false">982b314582b8b57791848c1261f24fca</guid>
-      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bbd3/live/e433c740-7d6a-11f1-a42d-51c47234ae63.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 21:08:35 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bbd3/live/e433c740-7d6a-11f1-a42d-51c47234ae63.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 16:58:11 +0000</lastBuildDate>
     <item>
       <title>Felix Sturm Falls By Split Decision To Granit Stein In Emotional Farewell Fight</title>
       <link>https://www.boxingnews24.com/2026/07/felix-sturm-falls-by-split-decision-to-granit-stein-in-emotional-farewell-fight/</link>
@@ -273,6 +255,28 @@
       <pubDate>Sun, 12 Jul 2026 13:49:08 +0000</pubDate>
       <media:group>
         <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1783864055148469894/derek-chisora-boxer.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Philadelphia Smoke vs San Antonio Snipers Live Stream: How to Watch TBL Team Boxing League</title>
+      <link>https://www.fubo.tv/news/boxing/philadelphia-smoke-vs-san-antonio-snipers-live-stream-how-to-watch-tbl-team-boxing-league/</link>
+      <description>Watch Philadelphia Smoke vs San Antonio Snipers live with TV channel, start time and streaming info. Stream TBL Team Boxing League on Fubo — no cable required, free trial available.</description>
+      <guid isPermaLink="false">b2c9eb58302cd0a030be5a6c664d70e3</guid>
+      <enclosure url="https://www.fubo.tv/news/wp-content/uploads/2024/10/Fubo-logo.webp" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 15:45:58 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.fubo.tv/news/wp-content/uploads/2024/10/Fubo-logo.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Why Everlast and boxing are a one-two punch</title>
+      <link>https://www.desertsun.com/story/life/history/2026/07/12/why-everlast-and-boxing-are-a-one-two-punch/90863365007/</link>
+      <description>Everlast started in 1910 not as a boxing company, but a swimwear company. The founder was 17-year old Jacob Golomb from the Bronx, a man in a hurry.</description>
+      <guid isPermaLink="false">544275b120d2e4499907ced9e270e348</guid>
+      <enclosure url="https://www.gannett-cdn.com/authoring/authoring-images/2026/07/12/PPAS/90893527007-everlast-antique-equipment.jpeg?auto=webp&amp;crop=4031,2268,x0,y302&amp;format=pjpg&amp;width=1200" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 15:48:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.gannett-cdn.com/authoring/authoring-images/2026/07/12/PPAS/90893527007-everlast-antique-equipment.jpeg?auto=webp&amp;crop=4031,2268,x0,y302&amp;format=pjpg&amp;width=1200" medium="image"/>
       </media:group>
     </item>
   </channel>
