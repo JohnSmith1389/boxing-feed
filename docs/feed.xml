@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 09:28:32 +0000</lastBuildDate>
-    <item>
-      <title>Boxing schedule</title>
-      <link>https://www.espn.in/boxing/story/_/id/12508267/boxing-schedule</link>
-      <description>Want to know what fights are on the horizon? Check out the boxing schedule.</description>
-      <guid isPermaLink="false">61db1451a1e6741e3a0f50047c7337a6</guid>
-      <enclosure url="https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0914%2Fr1545239_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 20:28:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0914%2Fr1545239_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Artem Suslenkov forces Joe Joyce to quit in round 11 in Moscow</title>
-      <link>https://www.boxingscene.com/articles/artem-suslenkov-forces-joe-joyce-to-quit-in-round-11-in-moscow</link>
-      <description>Artem Suslenkov forces Joe Joyce to quit in round 11 in Moscow</description>
-      <guid isPermaLink="false">981639d20a78f03f28565aa4fc658de8</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/JoeJoyceArtemSuslenkov1.webp" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 20:28:55 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/JoeJoyceArtemSuslenkov1.webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Murat Gassiev Stops Peter Kadiru In Sixth-Round TKO To Retain WBA Heavyweight Title</title>
-      <link>https://www.boxingnews24.com/2026/07/murat-gassiev-stops-peter-kadiru-in-sixth-round-tko-to-retain-wba-heavyweight-title/</link>
-      <description>Murat Gassiev retained his WBA heavyweight title with a sixth-round technical knockout of late replacement Peter Kadiru on July 11 at VTB Arena in Moscow,</description>
-      <guid isPermaLink="false">dcffc9bc28131cdb816bc6280e90cbfd</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Murat-Gassiev-vs-Kadiru42.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 20:29:48 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Murat-Gassiev-vs-Kadiru42.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Russia Boxing</title>
-      <link>https://www.springfieldnewssun.com/nation-world/russia-boxing/image_b7977d84-ca24-5036-b944-449ab86c4243.html</link>
-      <description>Russia's Murat Gassiev, right, takes a punch from Germany's Peter Kadiru during a WBA Heavyweight world title boxing match as part of the IBA Pro 19 event in Moscow, Russia,</description>
-      <guid isPermaLink="false">2f4918d1f8fca6c3a7ea1411bd47c77a</guid>
-      <enclosure url="https://bloximages.chicago2.vip.townnews.com/springfieldnewssun.com/content/tncms/assets/v3/editorial/b/79/b7977d84-ca24-5036-b944-449ab86c4243/6a52a9aeacbcb.image.jpg?crop=5988%2C3144%2C0%2C424&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 20:34:21 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.chicago2.vip.townnews.com/springfieldnewssun.com/content/tncms/assets/v3/editorial/b/79/b7977d84-ca24-5036-b944-449ab86c4243/6a52a9aeacbcb.image.jpg?crop=5988%2C3144%2C0%2C424&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Russia Boxing</title>
-      <link>https://www.idahopress.com/sports/national/russia-boxing/image_01456291-4dd6-5f48-9f23-4d6f8b6a6941.html</link>
-      <description>Russia's Murat Gassiev, right, takes a punch from Germany's Peter Kadiru during a WBA Heavyweight world title boxing match as part of the IBA Pro 19 event in Moscow, Russia,</description>
-      <guid isPermaLink="false">aa2b5f1c4b3eabdc44b45486c2ded1f5</guid>
-      <enclosure url="https://bloximages.chicago2.vip.townnews.com/idahopress.com/content/tncms/assets/v3/editorial/0/14/01456291-4dd6-5f48-9f23-4d6f8b6a6941/6a52acabbb18d.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 20:34:21 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.chicago2.vip.townnews.com/idahopress.com/content/tncms/assets/v3/editorial/0/14/01456291-4dd6-5f48-9f23-4d6f8b6a6941/6a52acabbb18d.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 10:56:02 +0000</lastBuildDate>
     <item>
       <title>Russia Boxing</title>
       <link>https://www.idahostatejournal.com/sports/national/russia-boxing/image_e79824b9-3cbc-5272-b36c-56733b4d231e.html</link>
@@ -265,6 +210,50 @@
       </media:group>
     </item>
     <item>
+      <title>Dana White Explodes After UFC Broadcast Mistakes Shakur Stevenson For NBA Player</title>
+      <link>https://www.boxing247.com/boxing-news/dana-white-explodes-after-ufc-broadcast-mistakes-shakur-stevenson-for-nba-player/308070</link>
+      <description>Dana White ripped the UFC production team after they mistakenly identified boxing star Shakur Stevenson during Saturday night's UFC 329 broadcast, saying the</description>
+      <guid isPermaLink="false">c754cdd8ba73e98850ea1a22078c884f</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Dana-White-rant.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 06:02:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Dana-White-rant.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Dana White Says He Knows Fury Vs. Joshua Location, Dodges Repeated Questions At UFC 329 Press Conference</title>
+      <link>https://www.boxingnews24.com/2026/07/dana-white-says-he-knows-fury-vs-joshua-location-dodges-repeated-questions-at-ufc-329-press-conference/</link>
+      <description>Dana White insisted he already knows where the long-awaited heavyweight showdown between Tyson Fury and Anthony Joshua will take place but repeatedly refused</description>
+      <guid isPermaLink="false">4b644e053d78e8ec125a593ead494eb0</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Dana-White100.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 06:25:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Dana-White100.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Chris Billam-Smith Sets Timeline For Next Fight As Jai Opetaia Bout Remains Uncertain</title>
+      <link>https://www.boxingnews24.com/2026/07/chris-billam-smith-sets-timeline-for-next-fight-as-jai-opetaia-bout-remains-uncertain/</link>
+      <description>Chris Billam-Smith is prepared to move on if a fight with Jai Opetaia cannot be made this year, saying he has no intention of sitting on the sidelines while</description>
+      <guid isPermaLink="false">ca9c726203a49107c904e93af9e5e51b</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/06/Billiam-Smith-vs-Rozicki555.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 07:46:44 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/06/Billiam-Smith-vs-Rozicki555.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Anthony Joshua sums up Moses Itauma in just one word</title>
+      <link>https://boxingnewsonline.net/news/joshua-sums-up-itauma-in-one-word/</link>
+      <description>Anthony Joshua has been the UK's heavyweight superstar for over a decade and it seems as though his likely successor Moses Itauma could be on the verge of his</description>
+      <guid isPermaLink="false">6b08bfee2e7fa4a69512d0a4d5b0ad81</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1783676051992271936/Moses-Itauma-and-Anthony-Joshua.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 08:21:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1783676051992271936/Moses-Itauma-and-Anthony-Joshua.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>ROUND13 Youth Boxing hosts international boxing tournament in Palm Bay</title>
       <link>https://www.floridatoday.com/story/sports/2026/07/12/round13-youth-boxing-club-hosting-event-aug-29-in-palm-bay/90853986007/</link>
       <description>Palm Bay hosts the Mayor's Cup Boxing Invitational on August 29 featuring amateur athletes from around the world.</description>
@@ -273,6 +262,17 @@
       <pubDate>Sun, 12 Jul 2026 09:01:52 +0000</pubDate>
       <media:group>
         <media:content url="https://www.floridatoday.com/gcdn/authoring/authoring-images/2026/07/08/PBRE/90854086007-download.png?crop=1621,912,x0,y849&amp;width=1621&amp;height=912&amp;format=pjpg&amp;auto=webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>ROUND13 Youth Boxing hosts international boxing tournament in Palm Bay</title>
+      <link>https://sports.yahoo.com/articles/round13-youth-boxing-hosts-international-090152347.html</link>
+      <description>Palm Bay hosts the Mayor's Cup Boxing Invitational on August 29 featuring amateur athletes from around the world.</description>
+      <guid isPermaLink="false">cbdf5a06154312ae0ea1fc48a65a882a</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/7B7aeKBXKHRNKcNsnh0a5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNzk2O2NmPXdlYnA-/https:/media.zenfs.com/en/florida-today/750234b33e8f2451c54dccdc522b592f" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 09:01:52 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/7B7aeKBXKHRNKcNsnh0a5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNzk2O2NmPXdlYnA-/https:/media.zenfs.com/en/florida-today/750234b33e8f2451c54dccdc522b592f" medium="image"/>
       </media:group>
     </item>
   </channel>
