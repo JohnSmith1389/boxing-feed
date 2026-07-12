@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 10:56:02 +0000</lastBuildDate>
-    <item>
-      <title>Russia Boxing</title>
-      <link>https://www.idahostatejournal.com/sports/national/russia-boxing/image_e79824b9-3cbc-5272-b36c-56733b4d231e.html</link>
-      <description>Russia's Murat Gassiev, right, takes a punch from Germany's Peter Kadiru during a WBA Heavyweight world title boxing match as part of the IBA Pro 19 event in Moscow, Russia,</description>
-      <guid isPermaLink="false">98c403901b960c7c72a879987429cfea</guid>
-      <enclosure url="https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/e/79/e79824b9-3cbc-5272-b36c-56733b4d231e/6a52ac82bf107.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 11 Jul 2026 20:34:21 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/e/79/e79824b9-3cbc-5272-b36c-56733b4d231e/6a52ac82bf107.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 12:02:34 +0000</lastBuildDate>
     <item>
       <title>Russia Boxing</title>
       <link>https://www.journal-news.com/nation-world/russia-boxing/image_e7da3661-1b1b-5fa2-a366-d7f1a4de1640.html</link>
@@ -273,6 +262,17 @@
       <pubDate>Sun, 12 Jul 2026 09:01:52 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/ny/api/res/1.2/7B7aeKBXKHRNKcNsnh0a5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNzk2O2NmPXdlYnA-/https:/media.zenfs.com/en/florida-today/750234b33e8f2451c54dccdc522b592f" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Lawmakers promote boxing for Parkinson’s</title>
+      <link>https://www.advantagenews.com/news/local/lawmakers-promote-boxing-for-parkinson-s/article_99dd632c-8659-47b8-a03e-be265fd02c3c.html</link>
+      <description>An Illinois lawmaker wants to provide therapeutic boxing relief for veterans battling Parkinson's disease. Republican Congressman Darin LaHood teamed up with Illinois Democratic Congresswoman Nikki Budzinski to introduce the Boxing</description>
+      <guid isPermaLink="false">4f8099821c7fab3a5d9a035c9f9f59db</guid>
+      <enclosure url="https://bloximages.newyork1.vip.townnews.com/advantagenews.com/content/tncms/assets/v3/editorial/e/25/e255ae8c-42b4-11ee-9966-234d79134d6c/64e7b02b5ecb9.image.jpg?crop=720%2C378%2C0%2C106" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 12 Jul 2026 11:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloximages.newyork1.vip.townnews.com/advantagenews.com/content/tncms/assets/v3/editorial/e/25/e255ae8c-42b4-11ee-9966-234d79134d6c/64e7b02b5ecb9.image.jpg?crop=720%2C378%2C0%2C106" medium="image"/>
       </media:group>
     </item>
   </channel>
