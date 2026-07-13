@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 22:56:50 +0000</lastBuildDate>
-    <item>
-      <title>Zuffa Boxing's Biggest Stars After Shakur Stevenson's Signing</title>
-      <link>https://www.si.com/fannation/boxing/zuffa-boxing-biggest-stars-after-shakur-stevenson-signing</link>
-      <description>Dana White's Zuffa Boxing just made its biggest signing to date in bringing four weight-world champion Shakur Stevenson on board to join its growing roster of e</description>
-      <guid isPermaLink="false">34608d927664fa03837b8103d9c75347</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4707,h_2647/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jqrpq4gx8awsxy96az.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Jul 2026 13:24:50 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4707,h_2647/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jqrpq4gx8awsxy96az.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 23:56:22 +0000</lastBuildDate>
     <item>
       <title>Anthony Joshua vs Kristian Prenga full card announced featuring two world title fights</title>
       <link>https://boxingnewsonline.net/news/joshua-vs-prenga-full-card-announced/</link>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 13 Jul 2026 20:57:09 +0000</pubDate>
       <media:group>
         <media:content url="https://photo.boxingscene.com/uploads/2026_07_13_boxingscene_today.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>British Boxing Board Eyes New 185-Pound Weight Class</title>
+      <link>https://www.boxing247.com/boxing-news/british-boxing-board-eyes-new-185-pound-weight-class/308118</link>
+      <description>The British Boxing Board of Control (BBBofC) is considering the introduction of a new men's light cruiserweight division with a 185-pound limit, aiming to</description>
+      <guid isPermaLink="false">c887314e172d0e7bb5f3d12a33183fbc</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Light-Cruiserweight.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 23:25:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Light-Cruiserweight.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
