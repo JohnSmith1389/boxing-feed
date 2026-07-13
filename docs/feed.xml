@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:38:14 +0000</lastBuildDate>
-    <item>
-      <title>Johnny Fisher signs with Zuffa Boxing and will fight on September 26 at London's Copper Box Arena live on Sky Sports</title>
-      <link>https://www.skysports.com/boxing/news/12183/13562224/johnny-fisher-signs-with-zuffa-boxing-and-will-fight-on-september-26-at-londons-copper-box-arena-live-on-sky-sports</link>
-      <description>Johnny Fisher signs with Zuffa Boxing and will fight on September 26 at London's Copper Box Arena live on Sky Sports</description>
-      <guid isPermaLink="false">25f20c59258faf2204980a8e82caeff2</guid>
-      <enclosure url="https://e0.365dm.com/26/07/1600x900/skysports-boxing-zuffa-announcement_7292905.jpg?20260708124645" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Jul 2026 12:30:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/07/1600x900/skysports-boxing-zuffa-announcement_7292905.jpg?20260708124645" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 21:56:00 +0000</lastBuildDate>
     <item>
       <title>Zuffa Signs Johnny Fisher</title>
       <link>https://fightnews.com/zuffa-signs-johnny-fisher/191989</link>
@@ -28,6 +17,17 @@
       <pubDate>Mon, 13 Jul 2026 13:23:35 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/Fisher.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Marco Dean building confidence through boxing</title>
+      <link>https://jamaica-star.com/article/news/20260713/marco-dean-building-confidence-through-boxing</link>
+      <description>Just a few years ago, Marco Dean Davis struggled to like the person staring back at him in the mirror.</description>
+      <guid isPermaLink="false">777f043fd86925931462ae817e6d4903</guid>
+      <enclosure url="https://jamaica-star.com/sites/default/files/styles/250px/public/articles/images/8497703_0.jpg?itok=FXv8VrJc" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 13:24:18 +0000</pubDate>
+      <media:group>
+        <media:content url="https://jamaica-star.com/sites/default/files/styles/250px/public/articles/images/8497703_0.jpg?itok=FXv8VrJc" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -218,17 +218,6 @@
       </media:group>
     </item>
     <item>
-      <title>Errol Spence Jr Pinpoints Flaw in Tim Tszyu's Style Ahead of July 26 Fight</title>
-      <link>https://www.si.com/fannation/boxing/errol-spence-jr-pinpoints-flaw-in-tim-tszyu-s-style-ahead-of-july-26-fight</link>
-      <description>The last time Errol Spence entered the ring, he stood across from Terence Crawford, arguably the best fighter of this generation. It took a referee stoppage at</description>
-      <guid isPermaLink="false">03d970b40a78ef53b4f7ec8c4d6c4236</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1099,y_418,w_2730,h_1535/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jqw7gaqjqpaym0b3yt.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Jul 2026 17:57:20 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1099,y_418,w_2730,h_1535/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jqw7gaqjqpaym0b3yt.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
       <title>Tim Tszyu Quotes Mike Tyson On Errol Spence's Three-Year Return</title>
       <link>https://www.boxingnews24.com/2026/07/tim-tszyu-quotes-mike-tyson-on-errol-spences-three-year-return/</link>
       <description>Tim Tszyu believes no one can know what version of Errol Spence Jr. will show up on fight night, saying the former unified welterweight champion won't truly</description>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 13 Jul 2026 20:13:14 +0000</pubDate>
       <media:group>
         <media:content url="https://sportshub.cbsistatic.com/i/r/2026/07/13/13627b45-9a55-43d6-9393-5877c5fc0398/thumbnail/1200x675/ac83811931da36acd3fef782a701332e/sahkur-stevenson-conor-benn.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>With PBC the latest to join, is DAZN taking over boxing?</title>
+      <link>https://www.boxingscene.com/articles/with-pbc-the-latest-to-join-is-dazn-taking-over-boxing</link>
+      <description>BoxingScene Today for July 13, 2026, focuses on Shakur Stevenson signing with DAZN, Ryan Garcia vs. Conor Been, Charly Suarez's career fortunes and more.</description>
+      <guid isPermaLink="false">8afecc741784f65389fa5aba9730f599</guid>
+      <enclosure url="https://photo.boxingscene.com/uploads/2026_07_13_boxingscene_today.webp" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 13 Jul 2026 20:57:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://photo.boxingscene.com/uploads/2026_07_13_boxingscene_today.webp" medium="image"/>
       </media:group>
     </item>
   </channel>
