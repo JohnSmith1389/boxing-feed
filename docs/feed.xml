@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 20:37:04 +0000</lastBuildDate>
-    <item>
-      <title>Raymond Muratalla could be Shakur Stevenson's pick of the litter</title>
-      <link>https://www.boxingscene.com/articles/raymond-muratalla-could-be-shakur-stevensons-pick-of-the-litter</link>
-      <description>Raymond Muratalla might feel a little jilted that his lightweight title defense was taken away from his hometown arena and set as a co-main event promoted by someone else</description>
-      <guid isPermaLink="false">180c97fad38512effcf92bac4773fbcc</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/RaymondMuratalla-01242026-01.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 12:17:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/RaymondMuratalla-01242026-01.webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxing: Abel Hamed Nikiéma seizes the WBA Africa continental middleweight belt</title>
-      <link>https://sportnewsafrica.com/en/posts/boxing-abel-hamed-nikiema-seizes-the-wba-africa-continental-middleweight-belt</link>
-      <description>The Burkinabè Abel Hamed Nikiéma, known as "Le Percuteur," won the WBA Africa middleweight belt by outpointing the Beninese Dossou Faustin Houenou after 12 intense rounds at the Palais des Sports de Ouaga 2000. A victory that marks the return of Burkina Faso to the top of African</description>
-      <guid isPermaLink="false">b272e201d74ff0a32f8b1e8ca19a41c5</guid>
-      <enclosure url="https://sportnewsafrica.com/storage/post-covers/01KXG39BJDKT4H7KZ1AWX0WRTT.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 12:24:47 +0000</pubDate>
-      <media:group>
-        <media:content url="https://sportnewsafrica.com/storage/post-covers/01KXG39BJDKT4H7KZ1AWX0WRTT.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 21:57:10 +0000</lastBuildDate>
     <item>
       <title>World champion says he is going to retire Gervonta Davis: "I'll be his last fight in the sport"</title>
       <link>https://boxingnewsonline.net/news/world-champion-will-retire-gervonta-davis/</link>
@@ -277,6 +255,28 @@
       <pubDate>Tue, 14 Jul 2026 19:43:55 +0000</pubDate>
       <media:group>
         <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/round-12.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Latest Tyson Fury Family Member Set to Make Professional Debut</title>
+      <link>https://www.si.com/fannation/boxing/latest-tyson-fury-family-member-set-to-make-professional-debut</link>
+      <description>Tyson Fury is one of the biggest names in boxing for over a decade. Fury made his professional debut back in 2008, but it was his 2015 win over Wladimir Klitsch</description>
+      <guid isPermaLink="false">57f482e9160ade03100c09183e8fb806</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1273,y_219,w_1817,h_1022/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01knvrd2rpye4en6th8m.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 20:15:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1273,y_219,w_1817,h_1022/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01knvrd2rpye4en6th8m.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Litzy Vazquez Dethrones Edith Soledad Matthysse to Capture WBA Crown</title>
+      <link>https://www.wbaboxing.com/boxing-news/litzy-vazquez-dethrones-edith-soledad-matthysse-to-capture-wba-crown</link>
+      <description>Women’s boxing witnessed a changing of the guard at 140 pounds as Mexico’s rising star Litzy Vazquez Ochoa claimed the...</description>
+      <guid isPermaLink="false">53edb7394d441e06e64a6fad1c88e612</guid>
+      <enclosure url="https://i0.wp.com/www.wbaboxing.com/wp-content/uploads/2026/07/7d82a34c-93e0-486f-8580-cd4e48d5c427.jpg?fit=900%2C1200&amp;ssl=1" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 20:59:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i0.wp.com/www.wbaboxing.com/wp-content/uploads/2026/07/7d82a34c-93e0-486f-8580-cd4e48d5c427.jpg?fit=900%2C1200&amp;ssl=1" medium="image"/>
       </media:group>
     </item>
   </channel>
