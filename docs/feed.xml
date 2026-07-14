@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 02:41:38 +0000</lastBuildDate>
-    <item>
-      <title>Anthony Joshua vs Kristian Prenga Undercard Features Two World Title Fights</title>
-      <link>https://www.si.com/fannation/boxing/anthony-joshua-vs-kristian-prenga-undercard-features-two-world-title-fights</link>
-      <description>Anthony Joshua and Kristian Prenga will headline a loaded fight card on July 25. Joshua, 36, and Prenga, 35, have been scheduled to headline a blockbuster event</description>
-      <guid isPermaLink="false">05a99ce1142e2c9305d18e48c13db080</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1228,y_609,w_3700,h_2081/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jker64r74n8y1yqr9e.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 13 Jul 2026 15:00:11 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1228,y_609,w_3700,h_2081/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jker64r74n8y1yqr9e.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 05:29:42 +0000</lastBuildDate>
     <item>
       <title>On This Day in Boxing History… July 13th</title>
       <link>https://wbcboxing.com/en/on-this-day-in-boxing-history-july-13th/</link>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 13 Jul 2026 23:25:50 +0000</pubDate>
       <media:group>
         <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Light-Cruiserweight.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Fort Smith naming street in honor of boxer Bobby Crabtree</title>
+      <link>https://www.yahoo.com/news/us/articles/fort-smith-naming-street-honor-022854866.html</link>
+      <description>The City of Fort Smith will soon name a street in honor of boxer Bobby Crabtree. After his boxing career he operated an auto body shop on Towson Avenue in Fort Smith for 37 years.</description>
+      <guid isPermaLink="false">5b96d0324365c15205bc67a300646e48</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/49202c7d92c947f0c1e4eea4f10279b9e9b5d74720477f43396605bfdce94d89/lightyear_networkapi/resizefill_w750_h422;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fkfsm_tegna_articles_668%2Faf31244e4b2aa259103d80e0a6367582" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 02:28:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/49202c7d92c947f0c1e4eea4f10279b9e9b5d74720477f43396605bfdce94d89/lightyear_networkapi/resizefill_w750_h422;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fkfsm_tegna_articles_668%2Faf31244e4b2aa259103d80e0a6367582" medium="image"/>
       </media:group>
     </item>
   </channel>
