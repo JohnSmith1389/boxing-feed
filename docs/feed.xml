@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 23:00:01 +0000</lastBuildDate>
-    <item>
-      <title>EBU Title News</title>
-      <link>https://fightnews.com/ebu-title-news/192006</link>
-      <description>By Per-Åke Persson Danish super middleweight Oliver Zaren (19-0-1) withdrew from the purse bids, which were scheduled for</description>
-      <guid isPermaLink="false">b68f3099ab9ed8fe06a04efc9f34b6a2</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/EBU-2-5.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 14:04:16 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/EBU-2-5.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:01 +0000</lastBuildDate>
     <item>
       <title>Sam Noakes, Constantin Ursu, more added to Itauma vs Hrgovic undercard</title>
       <link>https://www.badlefthook.com/boxing-news/117265/sam-noakes-constantin-ursu-more-added-to-itauma-vs-hrgovic-undercard-boxing-news-2026</link>
@@ -277,6 +266,17 @@
       <pubDate>Tue, 14 Jul 2026 22:08:24 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/Abrahante.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>50 Cent Agrees to Unblock Adrien Broner After Boxer's Public Instagram Plea</title>
+      <link>https://www.complex.com/music/a/markelibert/50-cent-adrien-broner-unblock-instagram</link>
+      <description>50 Cent says he'll unblock Adrien Broner after the boxer publicly asked his "big bro" for a second chance.</description>
+      <guid isPermaLink="false">98efa8e92135f6d5a6b8afc7b01ad11c</guid>
+      <enclosure url="https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2938,x_0,y_0/g_auto:aoi_1175_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new%2F50-adrien_hntb3n" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 22:49:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2938,x_0,y_0/g_auto:aoi_1175_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new%2F50-adrien_hntb3n" medium="image"/>
       </media:group>
     </item>
   </channel>
