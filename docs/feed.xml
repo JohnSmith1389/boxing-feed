@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 21:59:36 +0000</lastBuildDate>
-    <item>
-      <title>The Real Deal: Troy's McIntyre sets sights on pro boxing</title>
-      <link>https://www.troymessenger.com/sports/the-real-deal-troys-mcintyre-sets-sights-on-pro-boxing-dd869e3d</link>
-      <description>Undefeated at 7-0, Troy native Jamarius McIntyre grows his Real Deal Boxing program, mentors local youth and targets an amateur belt before turning pro.</description>
-      <guid isPermaLink="false">72f22ff28a779e8712b3b245fac1e267</guid>
-      <enclosure url="https://public-assets-prod.pubgen.ai/brand_1cf92205-5d0f-4b5d-ac33-2bbfbcdb6841/asset_127b2617-28da-4b96-aa53-f9aa0eabbbe4.jpg?w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 15:36:46 +0000</pubDate>
-      <media:group>
-        <media:content url="https://public-assets-prod.pubgen.ai/brand_1cf92205-5d0f-4b5d-ac33-2bbfbcdb6841/asset_127b2617-28da-4b96-aa53-f9aa0eabbbe4.jpg?w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>BKB Bare Knuckle Boxing signs top MMA executive Loren Mack amid global growth period</title>
-      <link>https://bloodyelbow.com/2026/07/15/bkb-bare-knuckle-boxing-signs-top-mma-executive-loren-mack-amid-global-growth-period/</link>
-      <description>BKB Bare Knuckle has brought in former UFC and PFL executive Loren Mack as they continue to grow their brand around the world</description>
-      <guid isPermaLink="false">83dda071e7202a540b93b1fa04b732af</guid>
-      <enclosure url="https://bloodyelbow.com/wp-content/uploads/1/2026/07/Loren-Mack-1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 16:02:20 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloodyelbow.com/wp-content/uploads/1/2026/07/Loren-Mack-1.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 23:06:06 +0000</lastBuildDate>
     <item>
       <title>Edgar Berlanga Praises Dana White's Move To Boxing World, Believes More Big-Name Fighters Will Sign With Zuffa Boxing (Exclusive)</title>
       <link>https://brobible.com/sports/article/edgar-berlanga-dana-white-boxing/</link>
@@ -218,6 +196,17 @@
       </media:group>
     </item>
     <item>
+      <title>Noche Boxing? Ryan Garcia vs. Conor Benn official for Sept. 12 in Las Vegas</title>
+      <link>https://www.mmamania.com/boxing/457423/noche-boxing-ryan-garcia-conor-benn-official-sept-12-las-vegas</link>
+      <description>UFC CEO and Zuffa Boxing head cheese Dana White announces Ryan Garcia vs. Conor Benn boxing match official for Sept.</description>
+      <guid isPermaLink="false">ec42d88215c581dbc19b6556efef1d2b</guid>
+      <enclosure url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/04/gettyimages-2262904818.jpg?quality=90&amp;strip=all&amp;crop=0%2C6.6120222701691%2C100%2C86.775955459662&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 18:52:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/04/gettyimages-2262904818.jpg?quality=90&amp;strip=all&amp;crop=0%2C6.6120222701691%2C100%2C86.775955459662&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Ryan Garcia vs Conor Benn: Done deal, says De La Hoya</title>
       <link>https://www.badlefthook.com/boxing-news/117289/ryan-garcia-vs-conor-benn-done-deal-says-de-la-hoya-boxing-news-2026</link>
       <description>Ryan Garcia and Conor Benn will fight in September</description>
@@ -281,6 +270,17 @@
       <pubDate>Wed, 15 Jul 2026 21:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://images.ctfassets.net/lg76kxmf55ue/1G325FlMXmL8MeiOAV9Q5x/31e2ef45f52b130e87039d2f5b1ae625/Ennis-Zayas_Final_Knockdown.webp?w=1200&amp;q=85&amp;fm=jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The World Boxing Council Mourns the Passing of José Legrá, Boxing Legend and Two-Time WBC World Champion</title>
+      <link>https://wbcboxing.com/en/the-world-boxing-council-mourns-the-passing-of-jose-legra-boxing-legend-and-two-time-wbc-world-champion/</link>
+      <description>Another Great has left the stage, but although he has passed on, we’ll forever and a day remember him with the deepest of affection, admiration and respect.</description>
+      <guid isPermaLink="false">e9ae58f23970fd350870284b133ae6c3</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/800x450-Jose%CC%81-Legra%CC%81.jpg.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 21:42:22 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/800x450-Jose%CC%81-Legra%CC%81.jpg.jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>
