@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 08:08:29 +0000</lastBuildDate>
-    <item>
-      <title>Toward a Transparent Sport: Total Commitment to Clean Boxing</title>
-      <link>https://wbcboxing.com/en/por-un-deporte-transparente-compromiso-total-con-el-boxeo-limpio-2/</link>
-      <description>Under the fundamental premise that athlete safety is the highest priority, the World Boxing Council reaffirms the guidelines of its Clean Boxing Program (CBP).</description>
-      <guid isPermaLink="false">178ee382e40005795953530ab976b4e8</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/cbp-art-1-1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 16:19:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/cbp-art-1-1.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Claressa seeks to solve the riddle of heavy to middle</title>
-      <link>https://wbcboxing.com/en/claressa-seeks-to-solve-the-riddle-of-heavy-to-middle/</link>
-      <description>Already legendary Superstar Claressa Shields will return to the middleweight division, to face Australia’s Kaye Scott on August 15 in a bout in which she</description>
-      <guid isPermaLink="false">a5931b0122925a4d9e0b8ae5bd9f19c7</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/shields-1-1.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 18:14:20 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/shields-1-1.jpeg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 10:20:02 +0000</lastBuildDate>
     <item>
       <title>Ex-heavyweight champ Ruiz to face Knyba Sept. 4 in Matchroom debut</title>
       <link>https://www.espn.com/boxing/story/_/id/49360506/ex-champ-ruiz-face-knyba-sept-4-matchroom-debut</link>
@@ -277,6 +255,28 @@
       <pubDate>Wed, 15 Jul 2026 06:29:02 +0000</pubDate>
       <media:group>
         <media:content url="https://www.khaosodenglish.com/wp-content/uploads/2026/07/boxing_headline_0.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>West Virginian and HOF champion boxer Christy Martin teams up with Charleston Dirty Birds and YWCA of Charleston for special events next week</title>
+      <link>https://therealwv.com/2026/07/15/west-virginian-and-hof-champion-boxer-christy-martin-teams-up-with-charleston-dirty-birds-and-ywca-of-charleston-for-special-events-next-week/</link>
+      <description>PRESS RELEASE Hall of Fame champion boxer and West Virginia native Christy Martin will be headlining two events in Charleston next week as part of a</description>
+      <guid isPermaLink="false">82bfa520d2d14c1ae156a95a7f250b63</guid>
+      <enclosure url="https://d1ft6wb9zmr0qc.cloudfront.net/wp-content/uploads/2026/01/17100818/100_2282-scaled.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 09:10:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://d1ft6wb9zmr0qc.cloudfront.net/wp-content/uploads/2026/01/17100818/100_2282-scaled.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Greek Boxing Federation Loses Official Sports Recognition Following Government Decision</title>
+      <link>https://greekreporter.com/2026/07/15/greek-boxing-federation-recognition-withdrawn/</link>
+      <description>Greece's government has stripped the Greek Boxing Federation of its official sports recognition after finding administrative failures were .</description>
+      <guid isPermaLink="false">39a33f88b9c881ad64c6c6ef47621b39</guid>
+      <enclosure url="https://greekreporter.com/wp-content/uploads/2026/07/Boxing_box_athlete_sports_credit_Greek_Reporter.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 09:37:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://greekreporter.com/wp-content/uploads/2026/07/Boxing_box_athlete_sports_credit_Greek_Reporter.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
