@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 03:21:41 +0000</lastBuildDate>
-    <item>
-      <title>Women’s Boxing Calendar Building Momentum Before Busy Championship Season</title>
-      <link>https://www.womenboxing.com/NEWS2026/news071426womens-boxing-calendar-building-momentum-before-busy-championship-season.htm</link>
-      <description>Women’s Boxing Calendar Building Momentum Before Busy Championship Season</description>
-      <guid isPermaLink="false">4986d6aa25cd77317e5e45d603118c70</guid>
-      <pubDate>Tue, 14 Jul 2026 16:07:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>On This Day in Boxing… July 14</title>
-      <link>https://wbcboxing.com/en/on-this-day-in-boxing-july-14/</link>
-      <description>1985.- At the Stade Louis II in Fontvieille, Monaco, American Milton McCrory knocked out Panama's Carlos Trujillo in 3 rounds, defending his WBC welterweight</description>
-      <guid isPermaLink="false">13aeb79b8eecc402e87951fe643c48b9</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/danny-garcia-.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 16:09:24 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/danny-garcia-.jpeg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 05:52:16 +0000</lastBuildDate>
     <item>
       <title>Devin Haney has been tested at least 70 times, always negative, says WBC</title>
       <link>https://www.boxingscene.com/articles/devin-haney-has-been-tested-at-least-70-times-always-negative-says-wbc</link>
@@ -236,6 +218,17 @@
       </media:group>
     </item>
     <item>
+      <title>Jaron Ennis Says Critics Won't Appreciate Him Until He Retires</title>
+      <link>https://www.boxingnews24.com/2026/07/jaron-ennis-says-critics-wont-appreciate-him-until-he-retires/</link>
+      <description>Jaron Ennis believes boxing fans and critics will not fully appreciate what he has accomplished until after he retires.</description>
+      <guid isPermaLink="false">6c93b535891bedbdd2d3d1b482ac3473</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Jaron-Ennis45.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 23:26:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Jaron-Ennis45.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Andy Ruiz Jr Set to Return in TNT Headliner</title>
       <link>https://www.si.com/fannation/boxing/andy-ruiz-jr-set-to-return-in-tnt-headliner</link>
       <description>After two years away from the ring, Andy Ruiz Jr. is finally ready to return.</description>
@@ -278,6 +271,13 @@
       <media:group>
         <media:content url="https://gray-wsaz-prod.gtv-cdn.com/resizer/v2/A7KLR4P2LJCAJCGSS6CK5HQQ74.jpg?auth=4013911c08d2aa27e44c4f2cfd141ae223fdda6f1597d2444246eed1e15577f4&amp;width=1200&amp;height=600&amp;smart=true" medium="image"/>
       </media:group>
+    </item>
+    <item>
+      <title>Integrity and Transparency Over Opportunity</title>
+      <link>https://www.womenboxing.com/NEWS2026/news071526integrity-transparency-over-opportunity-by-eddie-montalvo.htm</link>
+      <description>Integrity and Transparency Over Opportunity in womensboxing</description>
+      <guid isPermaLink="false">79cfb83c81b16e1c0a801ac3bb2b9022</guid>
+      <pubDate>Wed, 15 Jul 2026 04:41:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
