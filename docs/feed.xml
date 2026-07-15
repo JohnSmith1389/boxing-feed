@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 05:52:16 +0000</lastBuildDate>
-    <item>
-      <title>Devin Haney has been tested at least 70 times, always negative, says WBC</title>
-      <link>https://www.boxingscene.com/articles/devin-haney-has-been-tested-at-least-70-times-always-negative-says-wbc</link>
-      <description>Mauricio Sulaiman, head of the WBC, has spoken out following a social media post from Devin Haney in relation to the sanctioning body's drug-testing procedures</description>
-      <guid isPermaLink="false">7e325bd98fdcd09854ca63d2d5a42962</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/DevinHaney-WeighIn-01302026-02.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 14 Jul 2026 16:17:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/DevinHaney-WeighIn-01302026-02.webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 08:08:29 +0000</lastBuildDate>
     <item>
       <title>Toward a Transparent Sport: Total Commitment to Clean Boxing</title>
       <link>https://wbcboxing.com/en/por-un-deporte-transparente-compromiso-total-con-el-boxeo-limpio-2/</link>
@@ -278,6 +267,17 @@
       <description>Integrity and Transparency Over Opportunity in womensboxing</description>
       <guid isPermaLink="false">79cfb83c81b16e1c0a801ac3bb2b9022</guid>
       <pubDate>Wed, 15 Jul 2026 04:41:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thai police bust alleged child exploitation ring linked to Rayong boxing camp</title>
+      <link>https://www.khaosodenglish.com/news/crimecourtscalamity/2026/07/15/thai-police-bust-alleged-child-exploitation-ring-linked-to-rayong-boxing-camp/</link>
+      <description>Thailand's Anti-Trafficking in Persons Division (ATPD) has arrested the manager of a Muay Thai camp in Rayong province on allegations of child trafficking and sexual exploitation</description>
+      <guid isPermaLink="false">d85de56dfcf6f0e2525ad69ea0c94e66</guid>
+      <enclosure url="https://www.khaosodenglish.com/wp-content/uploads/2026/07/boxing_headline_0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 15 Jul 2026 06:29:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.khaosodenglish.com/wp-content/uploads/2026/07/boxing_headline_0.jpg" medium="image"/>
+      </media:group>
     </item>
   </channel>
 </rss>
