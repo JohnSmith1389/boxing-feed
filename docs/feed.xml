@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 04:08:41 +0000</lastBuildDate>
-    <item>
-      <title>Ryan Garcia's title defence against Conor Benn announced for one of the biggest dates in boxing</title>
-      <link>https://boxingnewsonline.net/news/ryan-garcia-vs-conor-benn-official/</link>
-      <description>A fight between challenger Conor Benn and champion Ryan Garcia has finally been officially announced.</description>
-      <guid isPermaLink="false">995f2bf0a591650a33e7e628f3e977a5</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1783764371478417739/ryan-garcia-and-conor-benn.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 17:20:32 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1783764371478417739/ryan-garcia-and-conor-benn.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Conor Benn to fight Ryan Garcia for welterweight world title in September</title>
-      <link>https://www.nytimes.com/athletic/7292119/2026/07/15/ryan-garcia-conor-benn-boxing-world-title/</link>
-      <description>Garcia will make a first defence of his WBC welterweight world title against Benn, who last fought at the weight in February 2024.</description>
-      <guid isPermaLink="false">3a98c7cb1a3379053516875b99ffc28b</guid>
-      <enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/05/19142442/boxing.png?width=1200&amp;height=630&amp;fit=cover" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 17:40:15 +0000</pubDate>
-      <media:group>
-        <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/05/19142442/boxing.png?width=1200&amp;height=630&amp;fit=cover" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 06:42:43 +0000</lastBuildDate>
     <item>
       <title>Ryan Garcia-Conor Benn fight confirmed for September 12 in Las Vegas</title>
       <link>https://www.boxingscene.com/articles/ryan-garcia-conor-benn-fight-confirmed-for-september-12-in-las-vegas</link>
@@ -281,6 +259,28 @@
       <pubDate>Thu, 16 Jul 2026 00:36:12 +0000</pubDate>
       <media:group>
         <media:content url="https://stevivor.com/wp-content/uploads/2024/12/Fitness-Boxing-3-4.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Homeless boxing club finds new premises at Coventry school</title>
+      <link>https://www.bbc.com/news/articles/c4gygnw7z7wo</link>
+      <description>Triumph Amateur Boxing Club is hoping to use a boxing facility at Woodfield School in Coventry.</description>
+      <guid isPermaLink="false">29a4407d2bdc148effabc0e502c78c79</guid>
+      <enclosure url="https://ichef.bbci.co.uk/news/1024/branded_news/3ee3/live/75086960-69a2-11f1-a1f1-4bdcaac47eb6.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jul 2026 05:21:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/3ee3/live/75086960-69a2-11f1-a1f1-4bdcaac47eb6.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ryan Garcia vs. Conor Benn set for WBA title fight at Zuffa Boxing event</title>
+      <link>https://www.sherdog.com/news/news/Ryan-Garcia-vs-Conor-Benn-set-for-WBA-title-fight-at-Zuffa-Boxing-event-201926</link>
+      <description>Dana White has unveiled the next high-profile headliner under the Zuffa Boxing banner.</description>
+      <guid isPermaLink="false">1ec5d2fd51259e3dfee9e78f40650f7d</guid>
+      <enclosure url="https://www1-cdn.sherdog.com/_images/headers/20260716044903_Untitled1.JPG" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www1-cdn.sherdog.com/_images/headers/20260716044903_Untitled1.JPG" medium="image"/>
       </media:group>
     </item>
   </channel>
