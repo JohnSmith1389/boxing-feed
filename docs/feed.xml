@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 09:12:39 +0000</lastBuildDate>
-    <item>
-      <title>Jake Paul Updates Rehab on Broken Jaw Injury, Boxing Future in New Pat McAfee Video</title>
-      <link>https://bleacherreport.com/articles/25455272-jake-paul-updates-rehab-broken-jaw-injury-boxing-future-new-pat-mcafee-video</link>
-      <description>Jake Paul doesn't yet have his next fight lined up, but it sounds like he's progressing well in his recovery from a broken jaw.</description>
-      <guid isPermaLink="false">b12c00a11dd522b3c839dc09120bb2aa</guid>
-      <enclosure url="https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2278335541_0_large_cropped.jpg?w=1120&amp;h=630" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 18:12:45 +0000</pubDate>
-      <media:group>
-        <media:content url="https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2278335541_0_large_cropped.jpg?w=1120&amp;h=630" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Ryan Garcia vs. Conor Benn set for Mexican Independence Day weekend</title>
-      <link>https://mmajunkie.usatoday.com/story/sports/boxing/2026/07/15/ryan-garcia-vs-conor-benn-booked-mexican-independence-day-weekend/90930991007/</link>
-      <description>The wait is over. After months of trash talk, Ryan Garcia and Conor Benn are finally set to fight.</description>
-      <guid isPermaLink="false">5212e3a38c2cab98fe963803bd684751</guid>
-      <enclosure url="https://www.gannett-cdn.com/authoring/authoring-images/2026/07/15/SMMA/90932253007-garcia-benn.jpg?auto=webp&amp;crop=1079,608,x0,y12&amp;format=pjpg&amp;width=1200" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 15 Jul 2026 18:25:05 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.gannett-cdn.com/authoring/authoring-images/2026/07/15/SMMA/90932253007-garcia-benn.jpg?auto=webp&amp;crop=1079,608,x0,y12&amp;format=pjpg&amp;width=1200" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 11:16:55 +0000</lastBuildDate>
     <item>
       <title>Noche Boxing? Ryan Garcia vs. Conor Benn official for Sept. 12 in Las Vegas</title>
       <link>https://sports.yahoo.com/articles/noche-boxing-ryan-garcia-vs-185241318.html</link>
@@ -196,6 +174,17 @@
       </media:group>
     </item>
     <item>
+      <title>Errol Spence Jr. Receives Traditional Welcome In Australia</title>
+      <link>https://www.boxingnews24.com/2026/07/errol-spence-jr-receives-traditional-welcome-in-australia/</link>
+      <description>Errol Spence Jr.'s arrival in Australia ahead of his July 25 clash against Tim Tszyu included a traditional Aboriginal welcome ceremony, giving the former</description>
+      <guid isPermaLink="false">cc3de5dfb38e56df7437677db7c53e1a</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Spence-arrives-in-Australia.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 16 Jul 2026 00:13:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Spence-arrives-in-Australia.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Fitness Boxing 3 gets a Switch 2 upgrade (for $20 extra)</title>
       <link>https://stevivor.com/news/fitness-boxing-3-gets-a-switch-2-upgrade-for-20-extra/</link>
       <description>Fitness Boxing 3 now has a Switch 2 version available, a $20 AUD upgrade for those who already own the original Switch version.</description>
@@ -281,6 +270,17 @@
       <pubDate>Thu, 16 Jul 2026 11:53:00 +0000</pubDate>
       <media:group>
         <media:content url="https://img.inform.kz/kazinform-photobank/media/2026-07-16/20db9a81-1c79-4c32-a511-5bfc3f6b671c.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Bare Knuckle Boxing: BKB56 Los Angeles | ALT 98.7 | Jul 18th, 2026</title>
+      <link>https://alt987fm.iheart.com/calendar/content/2026-07-18-bare-knuckle-boxing-bkb56-los-angeles/</link>
+      <description>Be the first to get all the important details on ALT 98.7 - LA's Alternative Rock &amp; Home of The Woody Show only on ALT 98.7</description>
+      <guid isPermaLink="false">0a272c1a18d2f05fb3b4656a70d664a6</guid>
+      <enclosure url="https://i.iheart.com/v3/re/assets.calendar/6a57f0dcaab1dba241a4e362?ops=gravity(%22north%22),fit(1200,675),quality(65)" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.iheart.com/v3/re/assets.calendar/6a57f0dcaab1dba241a4e362?ops=gravity(%22north%22),fit(1200,675),quality(65)" medium="image"/>
       </media:group>
     </item>
   </channel>
