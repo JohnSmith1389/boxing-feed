@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 20:27:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:22:47 +0000</lastBuildDate>
     <item>
       <title>“La Historia Continúa”, Patricio Carrion Set For First UBO World Title Defense</title>
       <link>https://fightnews.com/la-historia-continua-patricio-carrion-set-for-first-ubo-world-title-defense/192170</link>
@@ -273,14 +273,14 @@
       </media:group>
     </item>
     <item>
-      <title>Bare Knuckle Boxing: BKB56 Los Angeles | ALT 98.7 | Jul 18th, 2026</title>
-      <link>https://alt987fm.iheart.com/calendar/content/2026-07-18-bare-knuckle-boxing-bkb56-los-angeles/</link>
-      <description>Be the first to get all the important details on ALT 98.7 - LA's Alternative Rock &amp; Home of The Woody Show only on ALT 98.7</description>
-      <guid isPermaLink="false">0a272c1a18d2f05fb3b4656a70d664a6</guid>
-      <enclosure url="https://i.iheart.com/v3/re/assets.calendar/6a57f0dcaab1dba241a4e362?ops=gravity(%22north%22),fit(1200,675),quality(65)" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <title>'I lived in darkness': Openly gay boxer Oscar Bonifacino has found freedom through fighting</title>
+      <link>https://sports.yahoo.com/boxing/article/i-lived-in-darkness-openly-gay-boxer-oscar-bonifacino-has-found-freedom-through-fighting-204713231.html</link>
+      <description>'I lived in darkness': Openly gay boxer Oscar Bonifacino has found freedom through fighting</description>
+      <guid isPermaLink="false">bf063d03c9396d482b3e81f06613f3de</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/LvMTYVP9j2pJp1Vt.0wylA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/user-uploaded/oscar_3774.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 20:47:13 +0000</pubDate>
       <media:group>
-        <media:content url="https://i.iheart.com/v3/re/assets.calendar/6a57f0dcaab1dba241a4e362?ops=gravity(%22north%22),fit(1200,675),quality(65)" medium="image"/>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/LvMTYVP9j2pJp1Vt.0wylA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/user-uploaded/oscar_3774.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
