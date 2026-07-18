@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 13:56:24 +0000</lastBuildDate>
-    <item>
-      <title>Devin Haney Points To Shakur's Zuffa Deal After $100 Million Doubts</title>
-      <link>https://www.boxingnews24.com/2026/07/devin-haney-points-to-shakurs-zuffa-deal-after-100-million-doubts/</link>
-      <description>Devin Haney responded Friday to the discussion surrounding Shakur Stevenson's lucrative Zuffa Boxing contract by reminding critics of a claim his father, Bill</description>
-      <guid isPermaLink="false">6a59e02362c373c9a3e1b93c5fbb2594</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2025/11/Devin-Haney-Win8.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 00:12:01 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2025/11/Devin-Haney-Win8.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>‘They need Devin Haney’: Eddie Hearn says Zuffa may have to dig deep make fight with Shakur Stevenson, talks Ryan Garcia vs Conor Benn</title>
-      <link>https://www.badlefthook.com/boxing-news/117340/eddie-hearn-says-zuffa-must-dig-deep-for-shakur-stevenson-vs-devin-haney-talks-ryan-garcia-vs-conor-benn-boxing-news-2026</link>
-      <description>Eddie Hearn says there’s really only one fight Zuffa can make for Shakur Stevenson that’s really worth anything.</description>
-      <guid isPermaLink="false">8b5a24bacb07bdbcf27a970ac6748079</guid>
-      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/07/gettyimages-2285585738.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 00:13:20 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/07/gettyimages-2285585738.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 14:56:04 +0000</lastBuildDate>
     <item>
       <title>Jermall Charlo Ruled Out After Australia Denies Visa</title>
       <link>https://www.boxingnews24.com/2026/07/jermall-charlo-ruled-out-after-australia-denies-visa/</link>
@@ -281,6 +259,28 @@
       <pubDate>Sat, 18 Jul 2026 13:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/os/en/sportsnaut_articles_397/7d472988979e6a72732535f1ac1086c0" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Weights From Hanover, MD</title>
+      <link>https://fightnews.com/weights-from-hanover-md-6/192203</link>
+      <description>Brandon Chambers 120.8 vs Jaqeem Hutcherson 129.2 WBC FECARBOX Super Bantamweight Title Yevgeniy Pavlov 129.8 vs Albeiro Peredes</description>
+      <guid isPermaLink="false">f24c95514437a5700e6d55354f3f1a25</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Screenshot_20260718-095155.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 14:30:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Screenshot_20260718-095155.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>PFL Weights From Austin, TX</title>
+      <link>https://fightnews.com/pfl-weights-from-austin-tx/192207</link>
+      <description>Interim PFL Middleweight World Championship Main Event: #1-Johnny Eblen (184.2 lbs) vs. #3-Impa Kasanganay(183.0 lbs) Bantamweight Co-Main Event:</description>
+      <guid isPermaLink="false">d7b49de43845d4e02bdb3f9371b55a66</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/PFL-Austin-3.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 14:36:43 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/PFL-Austin-3.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
