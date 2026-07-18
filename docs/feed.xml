@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 17:05:34 +0000</lastBuildDate>
-    <item>
-      <title>Jermall Charlo fails to get visa, pulled from Spence vs Tszyu card</title>
-      <link>https://www.badlefthook.com/boxing-news/117347/jermall-charlo-fails-to-get-visa-pulled-from-spence-vs-tszyu-card</link>
-      <description>Jermall Charlo’s legal issues have scuttled his planned return in New South Wales</description>
-      <guid isPermaLink="false">b1fedd8104ea63ca01528e080bf9c4d6</guid>
-      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/06/gettyimages-2218041454.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.7584994822781%2C100%2C80.483001035444&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 02:20:12 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/06/gettyimages-2218041454.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.7584994822781%2C100%2C80.483001035444&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Paulie Malignaggi Says Adrien Broner Rematch Still Interests Fans</title>
-      <link>https://www.boxingnews24.com/2026/07/paulie-malignaggi-says-adrien-broner-rematch-still-interests-fans/</link>
-      <description>Paulie Malignaggi isn't actively campaigning for another fight with Adrien Broner, but he admits the idea keeps finding its way back to him more than a decade</description>
-      <guid isPermaLink="false">def35b68fb47c5987a8a2fdcd6cb945a</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Paulie-Malignaggi535.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 02:53:10 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Paulie-Malignaggi535.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 18:26:38 +0000</lastBuildDate>
     <item>
       <title>Pro boxing returning to Bridgeport’s Bridge Sports Complex this weekend</title>
       <link>https://www.wdtv.com/2026/07/18/pro-boxing-returning-bridgeports-bridge-sports-complex-this-weekend/</link>
@@ -281,6 +259,28 @@
       <pubDate>Sat, 18 Jul 2026 14:44:27 +0000</pubDate>
       <media:group>
         <media:content url="https://www.fubo.tv/news/wp-content/uploads/2025/01/MSG-SPORTSNET-BLACK-LOGO.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Press Conference Of World Title Tripleheader</title>
+      <link>https://fightnews.com/press-conference-of-world-title-tripleheader/192216</link>
+      <description>By Joe Koizumi Photos by Naoki Fukuda Before world title bouts, all contestants always seem confident enough to</description>
+      <guid isPermaLink="false">3f6da89714a5c60d79003d1af9ac9ab1</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/00-1-19.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 17:03:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/00-1-19.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Video! Dana White Breaks Up Fight Between Ryan Garcia, Conor Benn</title>
+      <link>https://sports.yahoo.com/articles/video-dana-white-breaks-fight-181507616.html</link>
+      <description>Dana White was forced to jump into action earlier today (Sat., July 18, 2026) at Fanatics Fest 2026 as boxers Ryan Garcia and Conor Benn nearly came to blows on stage. In case you missed it, Garcia vs.</description>
+      <guid isPermaLink="false">32147ba8ae5c17bbabf28beef6d32a6f</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/j31w4xnLYL485ZBORccSiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NjM7Y2Y9d2VicA--/https:/media.zenfs.com/en/sb_nation_articles_115/daa32d7eb76bd292976b9a8a9d9cfece" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 18:15:07 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/j31w4xnLYL485ZBORccSiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NjM7Y2Y9d2VicA--/https:/media.zenfs.com/en/sb_nation_articles_115/daa32d7eb76bd292976b9a8a9d9cfece" medium="image"/>
       </media:group>
     </item>
   </channel>
