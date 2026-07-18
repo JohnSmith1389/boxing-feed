@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 23:23:30 +0000</lastBuildDate>
-    <item>
-      <title>On This Day in Boxing History… July 17</title>
-      <link>https://wbcboxing.com/en/on-this-day-in-boxing-history-july-17/</link>
-      <description>1977.- At the Luis Ramos Gymnasium in Puerto La Cruz, Venezuela, local idol Luis "Luminao" Estaba successfully defended his WBC world light flyweight</description>
-      <guid isPermaLink="false">62651bd7e44f59a98358811bfc53438c</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/gomez-scott.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 15:39:24 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/gomez-scott.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Zuffa Boxing 10 Official Fight Card</title>
-      <link>https://www.ufc.com/news/zuffa-boxing-10-official-fight-card</link>
-      <description>McKenna vs Oliha Happens August 8 At 3Arena From Dublin, Ireland</description>
-      <guid isPermaLink="false">ceea78584606506664c5312c307731e1</guid>
-      <enclosure url="https://ufc.com/images/styles/card/s3/2026-07/ZB10-Faceoff-Zuffa-Boxing.jpg?itok=pZuNPPxz" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 15:44:35 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/styles/card/s3/2026-07/ZB10-Faceoff-Zuffa-Boxing.jpg?itok=pZuNPPxz" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 00:55:11 +0000</lastBuildDate>
     <item>
       <title>Edgar Berlanga, Richardson Hitchins Event Far From Sold Out</title>
       <link>https://www.boxingnews24.com/2026/07/edgar-berlanga-richardson-hitchins-event-far-from-sold-out/</link>
@@ -273,6 +251,17 @@
       </media:group>
     </item>
     <item>
+      <title>Terence Crawford names the man he wants Shakur Stevenson to face next: "That's the fight"</title>
+      <link>https://boxingnewsonline.net/news/crawford-on-shakur-stevenson-next/</link>
+      <description>Following in the footsteps of mentor Terence Crawford, Shakur Stevenson has established himself as one of boxing's most accomplished champions, winning world</description>
+      <guid isPermaLink="false">017657a83c697c2f03f959f6f812613e</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1782571786392792746/Shakur-Stevenson-and-Terence-Crawford.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 22:13:44 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1782571786392792746/Shakur-Stevenson-and-Terence-Crawford.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Jermall Charlo-Koen Mazoudier boxing match canceled due to visa issues</title>
       <link>https://www.houstonchronicle.com/sports/article/jermall-charlo-mazoudier-fight-cancel-visa-22350075.php</link>
       <description>Houston's Jermall Charlo isn't being allowed to travel to Australia so his fight against Koen Mazoudier is being scrapped. Errol Spence will still fight in the main event.</description>
@@ -281,6 +270,17 @@
       <pubDate>Fri, 17 Jul 2026 22:54:25 +0000</pubDate>
       <media:group>
         <media:content url="https://s.hdnux.com/photos/01/66/67/26/31159715/5/rawImage.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Former secret service agent, veteran, amateur boxer, Henry Hooper has died</title>
+      <link>https://www.commercialappeal.com/story/news/local/2026/07/17/memphis-native-tn-henry-hooper-secret-service-agent-has-died/90960442007/</link>
+      <description>Revered Memphis native Henry Hooper has died. He served in the military, was a secret service agent and boxed Cassius Clay for spot in the Olympics.</description>
+      <guid isPermaLink="false">a95787c6b9098c6ac4dc2c7f176acfc4</guid>
+      <enclosure url="https://www.commercialappeal.com/gcdn/authoring/authoring-images/2026/07/17/PMCA/90962849007-henry-hooper-photo-1.jpg?crop=787,443,x0,y96&amp;width=787&amp;height=393&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 23:36:38 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.commercialappeal.com/gcdn/authoring/authoring-images/2026/07/17/PMCA/90962849007-henry-hooper-photo-1.jpg?crop=787,443,x0,y96&amp;width=787&amp;height=393&amp;format=pjpg&amp;auto=webp" medium="image"/>
       </media:group>
     </item>
   </channel>
