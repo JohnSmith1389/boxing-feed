@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 19:42:19 +0000</lastBuildDate>
-    <item>
-      <title>Oleksandr Usyk Says Muhammad Ali Would Beat Him</title>
-      <link>https://www.boxing247.com/boxing-news/oleksandr-usyk-says-muhammad-ali-would-beat-him/308228</link>
-      <description>Oleksandr Usyk has defeated every major heavyweight of his era, becoming a three-time undisputed champion and cementing his place among boxing's all-time</description>
-      <guid isPermaLink="false">cb9268efd2ed9819bd0dc33903b550f3</guid>
-      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Muhammad-Ali-vs-Cleveland-Williams5.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 05:00:29 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Muhammad-Ali-vs-Cleveland-Williams5.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Terence Crawford was open to Saul Alvarez rematch or chasing history at 160lbs</title>
-      <link>https://www.boxingscene.com/articles/terence-crawford-says-he-would-have-delayed-retirement-to-face-saul-alvarez-again-or-for-an-undisputed-middleweight-title-fight</link>
-      <description>Former five-weight world champion Terence Crawford stopped by The Breakfast Club show Friday morning and admitted he'd have delayed retirement for a Saul Alvarez rematch or for a chance to win the undisputed middleweight title.</description>
-      <guid isPermaLink="false">cebdcaceac3e4a9d6e17b0d1d5e4ebbb</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/TerenceCrawford-01312026-01.webp" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 06:14:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/TerenceCrawford-01312026-01.webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 20:46:09 +0000</lastBuildDate>
     <item>
       <title>Eddie Hearn says he has the heavyweight to beat Agit Kabayel and Daniel Dubois</title>
       <link>https://boxingnewsonline.net/news/hearn-has-man-to-beat-kabayel-and-dubois/</link>
@@ -229,6 +207,17 @@
       </media:group>
     </item>
     <item>
+      <title>Diego Pacheco Vs Immanuwel Aleem Live Results</title>
+      <link>https://www.boxingnews24.com/2026/07/diego-pacheco-vs-immanuwel-aleem-live-results/</link>
+      <description>Diego Pacheco faces Immanuwel Aleem tonight in a 12-round super middleweight main event at Dignity Health Sports Park in Carson, California. The Matchroom</description>
+      <guid isPermaLink="false">f02022c0f786f7331eca6afd242342a2</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Pacheco-vs-Aleem-Presser-12-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 16:03:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Pacheco-vs-Aleem-Presser-12-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Press Conference Of World Title Tripleheader</title>
       <link>https://fightnews.com/press-conference-of-world-title-tripleheader/192216</link>
       <description>By Joe Koizumi Photos by Naoki Fukuda Before world title bouts, all contestants always seem confident enough to</description>
@@ -278,6 +267,17 @@
       <description>Surprising Low Numbers for Female Boxers Featured on USA boxing Cards tonight-56 male bouts but only 4 female bouts on seven listed events in the USA</description>
       <guid isPermaLink="false">24ecdf0c0ffe818bc16a3d1ed04617f5</guid>
       <pubDate>Sat, 18 Jul 2026 18:48:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Molloy Stops Noakes In Eight</title>
+      <link>https://fightnews.com/molloy-stops-noakes-in-eight/192246</link>
+      <description>In a tremendous battle of fellow unbeatens, Ireland’s Kieran Molloy stopped England’s Sean Noakes to retain his IBF</description>
+      <guid isPermaLink="false">8eb592322b13e0caa51bd2e17f84e843</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Screenshot_20260718-145353.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 19:13:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Screenshot_20260718-145353.jpg" medium="image"/>
+      </media:group>
     </item>
   </channel>
 </rss>
