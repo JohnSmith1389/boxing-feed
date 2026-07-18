@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 08:19:28 +0000</lastBuildDate>
-    <item>
-      <title>Jermall Charlo's Australia Fight In Doubt Over Visa Delay</title>
-      <link>https://www.boxingnews24.com/2026/07/jermall-charlos-australia-fight-in-doubt-over-visa-delay/</link>
-      <description>Jermall Charlo's scheduled return on next Saturday's Errol Spence Jr. vs.</description>
-      <guid isPermaLink="false">48ac21cf34a7e34bbf8f183b003ca715</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Jermall-Charlo-vs-Koen4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 19:44:12 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Jermall-Charlo-vs-Koen4.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 09:56:06 +0000</lastBuildDate>
     <item>
       <title>Baltimore premiere of ‘They Fight’ showcases city’s young boxers</title>
       <link>https://www.baltimoresun.com/2026/07/17/baltimore-premiere-film-they-fight/</link>
@@ -281,6 +270,17 @@
       <pubDate>Sat, 18 Jul 2026 05:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/ny/api/res/1.2/5w_eryRBJ_FgKF6ZvRm_gQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/s.yimg.com/os/creatr-uploaded-images/2025-12/bbddf5a0-d7ba-11f0-b5ff-ceea267ab424" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Oleksandr Usyk Says Muhammad Ali Would Beat Him</title>
+      <link>https://www.boxing247.com/boxing-news/oleksandr-usyk-says-muhammad-ali-would-beat-him/308228</link>
+      <description>Oleksandr Usyk has defeated every major heavyweight of his era, becoming a three-time undisputed champion and cementing his place among boxing's all-time</description>
+      <guid isPermaLink="false">cb9268efd2ed9819bd0dc33903b550f3</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Muhammad-Ali-vs-Cleveland-Williams5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 05:00:29 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Muhammad-Ali-vs-Cleveland-Williams5.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
