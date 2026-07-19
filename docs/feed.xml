@@ -7,73 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 08:16:17 +0000</lastBuildDate>
-    <item>
-      <title>Molloy Stops Noakes In Eight</title>
-      <link>https://fightnews.com/molloy-stops-noakes-in-eight/192246</link>
-      <description>In a tremendous battle of fellow unbeatens, Ireland’s Kieran Molloy stopped England’s Sean Noakes to retain his IBF</description>
-      <guid isPermaLink="false">8eb592322b13e0caa51bd2e17f84e843</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Screenshot_20260718-145353.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 19:13:41 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Screenshot_20260718-145353.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Jaron Ennis called out for 'the biggest fight' in boxing: "Let's make it happen this year"</title>
-      <link>https://boxingnewsonline.net/news/jaron-ennis-called-out-for-biggest-fight/</link>
-      <description>Jaron Ennis could be involved in a blockbuster showdown following his sixth-round stoppage victory over Xander Zayas.</description>
-      <guid isPermaLink="false">22335efef96811289b0590e2491eb856</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1784386020320419204/Jaron-Ennis.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 20:14:27 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1784386020320419204/Jaron-Ennis.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Oleksandr Usyk picks a winner in Shakur Stevenson vs Gervonta Davis mega fight</title>
-      <link>https://boxingnewsonline.net/news/usk-on-shakur-stevenson-gervonta-davis/</link>
-      <description>Oleksandr Usyk has weighed in on one of boxing's most debated potential fights, giving his prediction for a long-discussed clash between Gervonta Davis and</description>
-      <guid isPermaLink="false">b4fd0a43b3235866879abd38ec099d99</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1784410068053725263/Shakur-Stevenson-and-Gervonta-Davis.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 21:29:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1784410068053725263/Shakur-Stevenson-and-Gervonta-Davis.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>David Papot drops Harlem Eubank en route to upset victory in London</title>
-      <link>https://www.boxingscene.com/articles/david-papot-drops-harlem-eubank-en-route-to-upset-victory-in-london</link>
-      <description>France's David Papot scored an upset unanimous decision over Harlem Eubank at London’s Copper Box Arena.</description>
-      <guid isPermaLink="false">83b6a5800b1fbb643a9f8748b5b330ba</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/harlemeubankdavidpapot.webp" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 21:29:50 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/harlemeubankdavidpapot.webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Ryan Garcia, Conor Benn separated during heated press conference</title>
-      <link>https://www.mmafighting.com/boxing/499988/ryan-garcia-conor-benn-separated-during-heated-press-conference</link>
-      <description>Ryan Garcia and Conor Benn exchanged plenty of insults in their first press conference Saturday afternoon.</description>
-      <guid isPermaLink="false">eeed93b21ba2cb8de01f96b5eee44297</guid>
-      <enclosure url="https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/Screen-Shot-2026-07-18-at-5.27.52-PM.png?quality=90&amp;strip=all&amp;crop=0%2C6.8197765423436%2C100%2C86.360446915313&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 21:34:07 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/Screen-Shot-2026-07-18-at-5.27.52-PM.png?quality=90&amp;strip=all&amp;crop=0%2C6.8197765423436%2C100%2C86.360446915313&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>David Papot Drops Harlem Eubank Three Times, Wins IBF International Title</title>
-      <link>https://www.boxingnews24.com/2026/07/david-papot-drops-harlem-eubank-three-times-wins-ibf-international-title/</link>
-      <description>David Papot derailed Harlem Eubank's hopes of moving into world-title contention on Saturday night, scoring three knockdowns to earn a 12-round unanimous</description>
-      <guid isPermaLink="false">8ea44ab1eb0f400398c5e3c4ddb855b1</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Harlem-Eubank-vs-David-Papot.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 21:41:53 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Harlem-Eubank-vs-David-Papot.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 10:06:45 +0000</lastBuildDate>
     <item>
       <title>Papot Beats Eubank In Knockdown Fest</title>
       <link>https://fightnews.com/papot-beats-eubank-in-knockdown-fest/192250</link>
@@ -281,6 +215,72 @@
       <pubDate>Sun, 19 Jul 2026 05:52:23 +0000</pubDate>
       <media:group>
         <media:content url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0923%2Fbox_g_boxing_ring1x_1296x729_r11095_1296x729_16%2D9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Leo Atang Has Heavyweight Title Future, Says Eddie Hearn</title>
+      <link>https://www.boxing247.com/boxing-news/leo-atang-has-heavyweight-title-future-says-eddie-hearn/308266</link>
+      <description>After Leo Atang's second-round knockout of Glen Williams on Saturday night, Eddie Hearn urged patience, describing the 19-year-old heavyweight as a long-term</description>
+      <guid isPermaLink="false">09c6bcc589748354207ec8ebda57cfb2</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Leo-Atang-vs-Glen-Williams-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 06:11:25 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Leo-Atang-vs-Glen-Williams-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Eddie Hearn Claims Zuffa Was 'Bullied' Into Co-Promotion</title>
+      <link>https://www.boxingnews24.com/2026/07/eddie-hearn-claims-zuffa-was-bullied-into-co-promotion/</link>
+      <description>Eddie Hearn believes Zuffa Boxing has already discovered that boxing doesn't operate like the UFC.</description>
+      <guid isPermaLink="false">fd75d23f74c5700b912df3118d96600e</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Eddie-Hearn664.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 06:55:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Eddie-Hearn664.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>American boxer Hannah Rapp, 26, dies after being hit by car while cycling</title>
+      <link>https://www.bbc.com/sport/boxing/articles/cj63kzl1zw0o</link>
+      <description>American boxer Hannah Rapp dies aged 26 after being hit by a car while cycling in Texas.</description>
+      <guid isPermaLink="false">943a677e8e0bec496b5903ff56155cfc</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1df7/live/128930d0-834c-11f1-9cc1-2be754602518.png" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 08:40:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1df7/live/128930d0-834c-11f1-9cc1-2be754602518.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>American boxer Hannah Rapp, 26, dies after being hit by car while cycling</title>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/cj63kzl1zw0o</link>
+      <description>American boxer Hannah Rapp dies aged 26 after being hit by a car while cycling in Texas.</description>
+      <guid isPermaLink="false">a55739eb2885ec902de76219e35cbf84</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1df7/live/128930d0-834c-11f1-9cc1-2be754602518.png" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 08:40:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1df7/live/128930d0-834c-11f1-9cc1-2be754602518.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Meet the Team NI boxing squad</title>
+      <link>https://nz.news.yahoo.com/meet-team-ni-boxing-squad-090054756.html</link>
+      <description>BBC Sport NI looks at the 12 members of the Team NI boxing squad.</description>
+      <guid isPermaLink="false">746d03ee24926504bd58c571dbe1216a</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/9fca61f56a29adda32ed944ff8ffae32169eead6276ac15611a1f7aa87e7c9a3/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F17b4b161294d0fe8aea7fb45d7710d5d" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 09:00:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/9fca61f56a29adda32ed944ff8ffae32169eead6276ac15611a1f7aa87e7c9a3/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F17b4b161294d0fe8aea7fb45d7710d5d" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Meet the Team NI boxing squad</title>
+      <link>https://sports.yahoo.com/articles/meet-team-ni-boxing-squad-090054756.html</link>
+      <description>BBC Sport NI looks at the 12 members of the Team NI boxing squad.</description>
+      <guid isPermaLink="false">51301690c1c39a46bee486bfbb0aa144</guid>
+      <enclosure url="https://s.yimg.com/os/en/bbc_us_articles_995/17b4b161294d0fe8aea7fb45d7710d5d" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 09:00:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/os/en/bbc_us_articles_995/17b4b161294d0fe8aea7fb45d7710d5d" medium="image"/>
       </media:group>
     </item>
   </channel>
