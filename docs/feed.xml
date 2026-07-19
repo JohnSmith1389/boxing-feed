@@ -7,84 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 18:26:48 +0000</lastBuildDate>
-    <item>
-      <title>Results From PLF Austin</title>
-      <link>https://fightnews.com/results-from-plf-austin/192272</link>
-      <description>PFL Austin has culminated at the Moody Center after an evening of elite mixed martial arts. #ICJohnny “Pressure”</description>
-      <guid isPermaLink="false">3f069aea883fcd6c63ba453113facc02</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/unnamed-221.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 10:33:25 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/unnamed-221.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Result: Abrahante Shocks Coria</title>
-      <link>https://fightnews.com/result-abrahante-shocks-coria/192275</link>
-      <description>Every so often, a fighter delivers the kind of performance that changes the trajectory of his career. On</description>
-      <guid isPermaLink="false">654e6715bcfab85824b9b5e4eadb0e27</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/XfPSE.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 10:39:23 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/XfPSE.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxer Hannah Rapp dies after being hit by car as Jake Paul leads tributes to ‘warrior’</title>
-      <link>https://sports.yahoo.com/articles/boxer-hannah-rapp-dies-being-104258234.html</link>
-      <description>Rapp had fought just one month prior, challenging for a world title on a show promoted by Jake Paul’s company MVP</description>
-      <guid isPermaLink="false">f309faf446d2976e3e157ff022acd04f</guid>
-      <enclosure url="https://s.yimg.com/os/en/the_independent_us_sports_articles_270/ff13398a2de2d8b160d6b3b76a0347bc" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 10:42:58 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/os/en/the_independent_us_sports_articles_270/ff13398a2de2d8b160d6b3b76a0347bc" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Salamov Stops Suarez As Borshchev Beats Brito At Historic IBA Bare Knuckle US Debut</title>
-      <link>https://fightnews.com/salamov-stops-suarez-as-borshchev-beats-brito-at-historic-iba-bare-knuckle-us-debut/192279</link>
-      <description>IBA Bare Knuckle successfully made its historic United States debut last night, staging a spectacular showcase at the</description>
-      <guid isPermaLink="false">74030755f404b63d4bad7ba5f6c3eba4</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/unnamed-222.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 10:47:49 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/unnamed-222.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Ryan Garcia vs Conor Benn: Security stops confrontation at heated media day</title>
-      <link>https://www.bbc.com/sport/boxing/articles/cy0jld952g2o</link>
-      <description>Security steps in to stop Conor Benn confronting Ryan Garcia in a heated news conference in New York.</description>
-      <guid isPermaLink="false">299c4de290ee7315e9d8304062891911</guid>
-      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/732e/live/b66a4ca0-8353-11f1-8d99-f1f0cec0b1ae.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 11:08:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/732e/live/b66a4ca0-8353-11f1-8d99-f1f0cec0b1ae.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Hannah Rapp: Tributes paid to American boxer who died after being hit a car while cycling in Texas</title>
-      <link>https://www.skysports.com/boxing/news/12183/13564910/hannah-rapp-tributes-paid-to-american-boxer-who-died-after-being-hit-a-car-while-cycling-in-texas</link>
-      <description>A man has been arrested and charged with manslaughter with a statement released by the ​Brazos County Sheriffs Office ‌in Texas stating he reversed his vehicle and struck Rapp on her bike; Jake Paul described her as a warrior in a social media tribute</description>
-      <guid isPermaLink="false">458f60021aac68005c6a89d5866b7039</guid>
-      <enclosure url="https://e0.365dm.com/26/07/1600x900/skysports-hannah-rapp-mvp_7301376.jpg?20260719115833" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 11:25:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/07/1600x900/skysports-hannah-rapp-mvp_7301376.jpg?20260719115833" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxing star Hannah Rapp killed by road rage driver while cycling in Texas</title>
-      <link>https://nypost.com/2026/07/19/sports/boxing-star-hannah-rapp-killed-by-road-rage-driver-while-cycling-in-texas/</link>
-      <description>Boxing star Hannah Rapp killed by road rage driver while cycling in Texas</description>
-      <guid isPermaLink="false">612130ebb38921a40f499f9c3a54986d</guid>
-      <enclosure url="https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-cas5achhq-1784460359436.jpg?quality=75&amp;strip=all&amp;1784446050&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 11:30:04 +0000</pubDate>
-      <media:group>
-        <media:content url="https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-cas5achhq-1784460359436.jpg?quality=75&amp;strip=all&amp;1784446050&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 19:41:46 +0000</lastBuildDate>
     <item>
       <title>Kings Promotions Ring Wars 23 brings boxing action to El Paso</title>
       <link>https://www.elpasotimes.com/picture-gallery/sports/boxing/2026/07/19/el-paso-boxing-jorge-tovar-stays-unbeaten-ring-wars-23-at-coliseum/90967001007/</link>
@@ -185,6 +108,17 @@
       </media:group>
     </item>
     <item>
+      <title>Rising professional boxer Hannah Rapp killed in Texas bicycle collision, driver charged with manslaughter</title>
+      <link>https://www.fox7austin.com/news/rising-professional-boxer-hannah-rapp-killed-texas-bicycle-collision-driver-charged-manslaughter</link>
+      <description>A rising professional boxer was killed Saturday morning in Central Texas after a motorist allegedly reversed his vehicle and struck her as she rode her bicycle, authorities said.</description>
+      <guid isPermaLink="false">b794dea9893accd95b7578dd2157c3bf</guid>
+      <enclosure url="https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2026/07/1280/720/image-72.png?ve=1&amp;tl=1" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 14:33:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2026/07/1280/720/image-72.png?ve=1&amp;tl=1" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Terence Crawford says one man is 'for sure' the face of boxing now he's retired</title>
       <link>https://boxingnewsonline.net/news/terence-crawford-on-face-of-boxing/</link>
       <description>Terence Crawford has named a former world champion as the “face of boxing”, convinced that Jaron ‘Boots’ Ennis simply has more work to do.</description>
@@ -273,6 +207,50 @@
       </media:group>
     </item>
     <item>
+      <title>Boxing royalty shines at BKB 56 in Los Angeles: Ortiz, Angulo triumph in bare knuckle debuts</title>
+      <link>https://www.mmamania.com/bare-knuckle-boxing-results-rules-ppv/458644/boxing-royalty-shines-bkb-56-los-angeles-ortiz-angulo-triumph-bare-knuckle-debuts</link>
+      <description>BKB 56 results featuring wins for boxing stars Victor Ortiz, Alfredo Angulo, and Jojo Diaz in their bare knuckle debuts in Los Angeles.</description>
+      <guid isPermaLink="false">2a2624270290723adc97bb39162a1b16</guid>
+      <enclosure url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/07/unnamed.png?quality=90&amp;strip=all&amp;crop=0,13.317437556274,100,73.365124887451" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 16:40:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/07/unnamed.png?quality=90&amp;strip=all&amp;crop=0,13.317437556274,100,73.365124887451" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Dallas Enforcers vs Boston Butchers Live Stream: How To Watch TBL Team Boxing League</title>
+      <link>https://www.fubo.tv/news/boxing/dallas-enforcers-vs-boston-butchers-live-stream-how-to-watch-tbl-team-boxing-league/</link>
+      <description>Watch Enforcers vs Butchers live with TV channel, start time and streaming info. Stream TBL Team Boxing League on Fubo — no cable required.</description>
+      <guid isPermaLink="false">9c9a986ad3327e448e5a7694be1bdac9</guid>
+      <enclosure url="https://www.fubo.tv/news/wp-content/uploads/2024/12/msg-networks-black-logo-e1682704538980.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:13:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.fubo.tv/news/wp-content/uploads/2024/12/msg-networks-black-logo-e1682704538980.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Navasota man arrested, charged with manslaughter in death of boxer Hannah ‘Hanarchy’ Rapp</title>
+      <link>https://www.kbtx.com/2026/07/19/navasota-man-arrested-charged-with-manslaughter-death-boxer-hannah-hanarchy-rapp/</link>
+      <description>A man has been arrested after Brazos County deputies say he stopped in the roadway, shifted into reverse and accelerated backward into a bicyclist—killing her on FM 159.</description>
+      <guid isPermaLink="false">d027cba64eba3ab228a04903b72e117a</guid>
+      <enclosure url="https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/26GIAFOYMFBN7LTSSATU56EHEU.png?auth=425a1bfa93e79afcbf29d732394343059c95c86c419b28ee77e9b0eecdb49029&amp;width=1200&amp;height=600&amp;smart=true" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:34:31 +0000</pubDate>
+      <media:group>
+        <media:content url="https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/26GIAFOYMFBN7LTSSATU56EHEU.png?auth=425a1bfa93e79afcbf29d732394343059c95c86c419b28ee77e9b0eecdb49029&amp;width=1200&amp;height=600&amp;smart=true" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>US boxer Hannah Rapp dies after being struck by vehicle while cycling in Texas</title>
+      <link>https://www.anews.com.tr/americas/2026/07/19/us-boxer-hannah-rapp-dies-after-being-struck-by-vehicle-while-cycling-in-texas</link>
+      <description>Haberin devamı...</description>
+      <guid isPermaLink="false">e47a39d8e754666ade99dd3df46227d9</guid>
+      <enclosure url="https://ia.tmgrup.com.tr/d0fb46/806/378/0/58/981/519?u=https://i.tmgrup.com.tr/anews/v1/2026/07/19/us-boxer-hannah-rapp-dies-after-being-struck-by-vehicle-while-cycling-in-texas-1784483102990.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:44:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ia.tmgrup.com.tr/d0fb46/806/378/0/58/981/519?u=https://i.tmgrup.com.tr/anews/v1/2026/07/19/us-boxer-hannah-rapp-dies-after-being-struck-by-vehicle-while-cycling-in-texas-1784483102990.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Tyson Fury, Anthony Joshua, Spence vs Tszyu, and more: Boxing schedule and previews for July 24-26, 2026</title>
       <link>https://www.badlefthook.com/boxing-schedule/117367/how-to-watch-tyson-fury-anthony-joshua-errol-spence-tim-tszyu-edgar-berlanga-streaming-tv-schedule-boxing-news-2026</link>
       <description>Tyson Fury and Anthony Joshua return, but not against each other, and Errol Spence fights Tim Tszyu in Australia!</description>
@@ -281,6 +259,28 @@
       <pubDate>Sun, 19 Jul 2026 18:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/07/gettyimages-2278593383.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.0527998940592%2C100%2C78.534031413613&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Tyson Fury, Anthony Joshua, Spence vs Tszyu, and more: Boxing schedule and previews for July 24-26, 2026</title>
+      <link>https://sports.yahoo.com/articles/tyson-fury-anthony-joshua-spence-180000710.html</link>
+      <description>Tyson Fury and Anthony Joshua return, but not against each other, and Errol Spence fights Tim Tszyu in Australia!</description>
+      <guid isPermaLink="false">ee1d76cf50431b28022f8d614e05ed85</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/ZQs5eH2UIx_3W5hZ9uMmSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/media.zenfs.com/en/sb_nation_articles_115/794821547a02dc53068615cc76af025b" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 18:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/ZQs5eH2UIx_3W5hZ9uMmSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/media.zenfs.com/en/sb_nation_articles_115/794821547a02dc53068615cc76af025b" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxer Hannah Rapp dies after being hit by car while cycling; man charged with manslaughter</title>
+      <link>https://www.nytimes.com/athletic/7456639/2026/07/19/hannah-rapp-boxing-dead/</link>
+      <description>Rapp fought for the WBC featherweight title in Orlando in June, losing to Tiara Brown</description>
+      <guid isPermaLink="false">5c26eb952fe565241b2475bb1d16f1eb</guid>
+      <enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/07/19150643/GettyImages-525951436-scaled.jpg?width=1200&amp;height=630&amp;fit=cover" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 19:30:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/07/19150643/GettyImages-525951436-scaled.jpg?width=1200&amp;height=630&amp;fit=cover" medium="image"/>
       </media:group>
     </item>
   </channel>
