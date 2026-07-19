@@ -7,36 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 05:52:08 +0000</lastBuildDate>
-    <item>
-      <title>LIVE/FREE: David Papot vs Harlem Eubank Live Free Full Fight Boxing On TV Channel 18 July 2026</title>
-      <link>https://www.griceconnect.com/classifieds/announcements-and-events/community-events/2127540</link>
-      <description>LIVE/FREE: David Papot vs Harlem Eubank Live Free Full Fight Boxing On TV Channel 18 July 2026 Harlem Eubank faces David Papot in a highly anticipated professional boxing contest.</description>
-      <guid isPermaLink="false">a1cf15ff8c3e90917ad09e739b282b5e</guid>
-      <enclosure url="https://www.vmcdn.ca/f/files/classifieds/706418/076d4bcd-1c07-4942-9464-60b7a17530ba.jpg;w=640" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 18:39:22 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.vmcdn.ca/f/files/classifieds/706418/076d4bcd-1c07-4942-9464-60b7a17530ba.jpg;w=640" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Surprising Low Numbers for Female Boxers Featured on USA boxing Cards tonight!</title>
-      <link>https://www.womenboxing.com/NEWS2026/news071826a-data-sampling-of-women-boxers-fetures-on-usa-boxing-cards-tonight.htm</link>
-      <description>Surprising Low Numbers for Female Boxers Featured on USA boxing Cards tonight-56 male bouts but only 4 female bouts on seven listed events in the USA</description>
-      <guid isPermaLink="false">24ecdf0c0ffe818bc16a3d1ed04617f5</guid>
-      <pubDate>Sat, 18 Jul 2026 18:48:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adrien Broner says Ryan Garcia vs Conor Benn will end in a 'nasty knockout'</title>
-      <link>https://boxingnewsonline.net/news/broner-says-garcia-vs-benn-ends-in-ko/</link>
-      <description>Former world champion Adrien Broner has delivered a knockout prediction for Ryan Garcia vs Conor Benn, believing the 147lb limit could prove a tremendous</description>
-      <guid isPermaLink="false">e7b27aa0e1b7bf2200398d701d5b8705</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1784385651369725185/Conor-Benn-and-Ryan-Garcia.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 18 Jul 2026 19:04:07 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1784385651369725185/Conor-Benn-and-Ryan-Garcia.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 08:16:17 +0000</lastBuildDate>
     <item>
       <title>Molloy Stops Noakes In Eight</title>
       <link>https://fightnews.com/molloy-stops-noakes-in-eight/192246</link>
@@ -170,6 +141,17 @@
       </media:group>
     </item>
     <item>
+      <title>Eddie Hearn Explains Why Turki Alalshikh Helps Matchroom And Zuffa</title>
+      <link>https://www.boxingnews24.com/2026/07/eddie-hearn-explains-why-turki-alalshikh-helps-matchroom-and-zuffa/</link>
+      <description>Eddie Hearn says boxing has entered uncharted territory with Turki Alalshikh owning Zuffa Boxing while continuing to bankroll Matchroom, Queensberry and other</description>
+      <guid isPermaLink="false">667cd9c4fb6a478ebfe003457c820dd0</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Hearn-and-Turki-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 18 Jul 2026 23:13:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Hearn-and-Turki-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Leo Atang Blasts Out Glen Williams In U.S. Debut</title>
       <link>https://www.boxingnews24.com/2026/07/leo-atang-blasts-out-glen-williams-in-u-s-debut/</link>
       <description>Heavyweight prospect Leo Atang made a statement in his first fight on American soil, overwhelming Glen Williams with a brutal second-round knockout Saturday</description>
@@ -277,6 +259,28 @@
       <pubDate>Sun, 19 Jul 2026 04:06:55 +0000</pubDate>
       <media:group>
         <media:content url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0901%2Fr1380512_1296x729_16%2D9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxer Rapp struck by car while riding bicycle, dies at age 26</title>
+      <link>https://www.espn.com/boxing/story/_/id/49397126/boxer-rapp-struck-car-riding-bicycle-dies-age-26</link>
+      <description>Boxer Hannah Rapp died Saturday morning after being struck by a car while riding her bicycle in Brazos County, Texas. She was 26.</description>
+      <guid isPermaLink="false">c704b5a66b53cea2cc2704f7c679ff97</guid>
+      <enclosure url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0923%2Fbox_g_boxing_ring1x_1296x729_r11095_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 05:52:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0923%2Fbox_g_boxing_ring1x_1296x729_r11095_1296x729_16%2D9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxer Rapp struck by car while riding bicycle, dies at age 26</title>
+      <link>https://www.espn.ph/boxing/story/_/id/49397126/boxer-rapp-struck-car-riding-bicycle-dies-age-26</link>
+      <description>Boxer Hannah Rapp died Saturday morning after being struck by a car while riding her bicycle in Brazos County, Texas. She was 26.</description>
+      <guid isPermaLink="false">45a03b7984ff996df058b306b005f78b</guid>
+      <enclosure url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0923%2Fbox_g_boxing_ring1x_1296x729_r11095_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 19 Jul 2026 05:52:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0923%2Fbox_g_boxing_ring1x_1296x729_r11095_1296x729_16%2D9.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
