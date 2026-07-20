@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 20:20:05 +0000</lastBuildDate>
-    <item>
-      <title>US Boxing Star Hannah Rapp Killed by Driver While Cycling in Texas</title>
-      <link>https://velo.outsideonline.com/news/us-boxing-star-hannah-rapp-killed-by-driver-while-cycling-in-texas/</link>
-      <description>Suspect charged with manslaughter after driving past, stopping, and then reversing into Indianan 26-year-old boxing ace.</description>
-      <guid isPermaLink="false">b62cb9dd3d98683a5793320861f99536</guid>
-      <enclosure url="https://velo-cdn.outsideonline.com/wp-content/uploads/2026/07/2001.jpg-e1784536928857.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 08:35:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://velo-cdn.outsideonline.com/wp-content/uploads/2026/07/2001.jpg-e1784536928857.jpeg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 21:42:33 +0000</lastBuildDate>
     <item>
       <title>The ugly fun of Ryan Garcia vs Conor Benn will confirm an old boxing truth</title>
       <link>https://sports.yahoo.com/articles/ugly-fun-ryan-garcia-vs-084124750.html</link>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 20 Jul 2026 19:00:01 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_109,y_222,w_5363,h_3016/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jrwtjhd8mvh9ppbeap.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Champion boxer Hannah Rapp killed in Brazos County bicycle crash; driver charged with manslaughter</title>
+      <link>https://www.kxxv.com/news/local-news/in-your-neighborhood/brazos-county/champion-boxer-hannah-rapp-killed-in-brazos-county-bicycle-crash-driver-charged-with-manslaughter</link>
+      <description>Hannah Rapp, who recently fought for the WBC Featherweight title on ESPN, died after a driver allegedly reversed his truck and struck her while she was cycling on FM 159.</description>
+      <guid isPermaLink="false">a86c570cd7bc7434498cf34c501a1d00</guid>
+      <enclosure url="https://ewscripps.brightspotcdn.com/dims4/default/4f7d2b7/2147483647/strip/true/crop/505x284+0+56/resize/1200x675!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd5%2F08%2Fd097408740af84fa2155fe2925bf%2Fhr.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 21:02:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ewscripps.brightspotcdn.com/dims4/default/4f7d2b7/2147483647/strip/true/crop/505x284+0+56/resize/1200x675!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd5%2F08%2Fd097408740af84fa2155fe2925bf%2Fhr.jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>
