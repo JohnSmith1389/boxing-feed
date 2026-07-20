@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 06:32:24 +0000</lastBuildDate>
-    <item>
-      <title>Navasota man arrested, charged with manslaughter in death of boxer Hannah ‘Hanarchy’ Rapp</title>
-      <link>https://www.kbtx.com/2026/07/19/navasota-man-arrested-charged-with-manslaughter-death-boxer-hannah-hanarchy-rapp/</link>
-      <description>A man has been arrested after Brazos County deputies say he stopped in the roadway, shifted into reverse and accelerated backward into a bicyclist—killing her on FM 159.</description>
-      <guid isPermaLink="false">d027cba64eba3ab228a04903b72e117a</guid>
-      <enclosure url="https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/26GIAFOYMFBN7LTSSATU56EHEU.png?auth=425a1bfa93e79afcbf29d732394343059c95c86c419b28ee77e9b0eecdb49029&amp;width=1200&amp;height=600&amp;smart=true" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 17:34:31 +0000</pubDate>
-      <media:group>
-        <media:content url="https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/26GIAFOYMFBN7LTSSATU56EHEU.png?auth=425a1bfa93e79afcbf29d732394343059c95c86c419b28ee77e9b0eecdb49029&amp;width=1200&amp;height=600&amp;smart=true" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>US boxer Hannah Rapp dies after being struck by vehicle while cycling in Texas</title>
-      <link>https://www.anews.com.tr/americas/2026/07/19/us-boxer-hannah-rapp-dies-after-being-struck-by-vehicle-while-cycling-in-texas</link>
-      <description>Haberin devamı...</description>
-      <guid isPermaLink="false">e47a39d8e754666ade99dd3df46227d9</guid>
-      <enclosure url="https://ia.tmgrup.com.tr/d0fb46/806/378/0/58/981/519?u=https://i.tmgrup.com.tr/anews/v1/2026/07/19/us-boxer-hannah-rapp-dies-after-being-struck-by-vehicle-while-cycling-in-texas-1784483102990.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 17:44:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ia.tmgrup.com.tr/d0fb46/806/378/0/58/981/519?u=https://i.tmgrup.com.tr/anews/v1/2026/07/19/us-boxer-hannah-rapp-dies-after-being-struck-by-vehicle-while-cycling-in-texas-1784483102990.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 10:09:52 +0000</lastBuildDate>
     <item>
       <title>Tyson Fury, Anthony Joshua, Spence vs Tszyu, and more: Boxing schedule and previews for July 24-26, 2026</title>
       <link>https://www.badlefthook.com/boxing-schedule/117367/how-to-watch-tyson-fury-anthony-joshua-errol-spence-tim-tszyu-edgar-berlanga-streaming-tv-schedule-boxing-news-2026</link>
@@ -281,6 +259,28 @@
       <pubDate>Mon, 20 Jul 2026 01:05:44 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/IMG_3504.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Mike McCallum Stunned Donald Curry In Classic Title Fight</title>
+      <link>https://www.boxingnews24.com/2026/07/mike-mccallum-stunned-donald-curry-in-classic-title-fight/</link>
+      <description>Mike McCallum entered Caesars Palace as the defending WBA junior middleweight champion. Donald Curry arrived as the former undisputed welterweight king,</description>
+      <guid isPermaLink="false">345766a97c8aae93a9e0cf16bd7bc6ab</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Mike-McCallum-vs-Don-Curry.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 01:18:22 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Mike-McCallum-vs-Don-Curry.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>US Boxing Star Hannah Rapp Killed by Driver While Cycling in Texas</title>
+      <link>https://velo.outsideonline.com/news/us-boxing-star-hannah-rapp-killed-by-driver-while-cycling-in-texas/</link>
+      <description>Suspect charged with manslaughter after driving past, stopping, and then reversing into Indianan 26-year-old boxing ace.</description>
+      <guid isPermaLink="false">b62cb9dd3d98683a5793320861f99536</guid>
+      <enclosure url="https://velo-cdn.outsideonline.com/wp-content/uploads/2026/07/2001.jpg-e1784536928857.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 08:35:39 +0000</pubDate>
+      <media:group>
+        <media:content url="https://velo-cdn.outsideonline.com/wp-content/uploads/2026/07/2001.jpg-e1784536928857.jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>
