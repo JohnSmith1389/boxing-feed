@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 15:10:58 +0000</lastBuildDate>
-    <item>
-      <title>Terence Crawford had eyes on another 'historic' fight before retirement: "It got cancelled"</title>
-      <link>https://boxingnewsonline.net/news/crawford-on-potential-final-fight/</link>
-      <description>Terence Crawford retired in December last year, hanging up the gloves as an undefeated five-weight world champion.</description>
-      <guid isPermaLink="false">1952dded4f1603e23e843775d1a94239</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1784471730168380212/terence-crawford-up-close.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 22:08:55 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1784471730168380212/terence-crawford-up-close.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Yuma local wins Bare-Knuckle boxing pro debut</title>
-      <link>https://kyma.com/sports/local-sports/2026/07/19/yuma-local-wins-bare-knuckle-boxing-pro-debut/</link>
-      <description>Alex Magana emerges victorious with second-round TKO YUMA, Ariz. (KYMA) - Alex "El Guapo" Magana has competed in combat sports since middle school, but the Yuma native recently stepped into unfamiliar territory.</description>
-      <guid isPermaLink="false">f4993f7dd6b5865db12607c3404d50a8</guid>
-      <enclosure url="https://kyma.b-cdn.net/2026/07/Screenshot-2026-07-16-at-6.02.01-PM.png" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 23:14:14 +0000</pubDate>
-      <media:group>
-        <media:content url="https://kyma.b-cdn.net/2026/07/Screenshot-2026-07-16-at-6.02.01-PM.png" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxer Hannah Rapp Dies at 26 After Motorist Allegedly Reversed Into Her During Bike Ride</title>
-      <link>https://uk.sports.yahoo.com/news/boxer-hannah-rapp-dies-26-231518958.html</link>
-      <description>Professional boxer Hannah Rapp died at age 26 after a motorist allegedly passed her and another cyclist, stopped in the road and accelerated backward into ... Read More</description>
-      <guid isPermaLink="false">f49014958bc94189afef6cdc900db7d3</guid>
-      <enclosure url="https://s.yimg.com/ny/api/res/1.2/g.onyV8qmgZeWbTGW8RHXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https:/media.zenfs.com/en/wealth_of_geeks_188/110eb5682592c8f9bef732dcb742fcc3" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 23:15:18 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/ny/api/res/1.2/g.onyV8qmgZeWbTGW8RHXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https:/media.zenfs.com/en/wealth_of_geeks_188/110eb5682592c8f9bef732dcb742fcc3" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>WBC featherweight boxer Hannah Rapp killed in Texas road rage incident</title>
-      <link>https://ca.sports.yahoo.com/news/wbc-featherweight-boxer-hannah-rapp-234028387.html</link>
-      <description>Women's boxer Hannah Rapp died Saturday after being hit by a car in an apparent road rage incident while riding her bicycle in Texas.</description>
-      <guid isPermaLink="false">07b901a53e5c568e19af12fdd6130dca</guid>
-      <enclosure url="https://s.yimg.com/ny/api/res/1.2/j_xnLtniiMs5DAxZti4vGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https:/media.zenfs.com/en/mma_junkie_usa_today_articles_344/7e54b4fdd7316a81c160c6d8421c37d0" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 23:40:28 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/ny/api/res/1.2/j_xnLtniiMs5DAxZti4vGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https:/media.zenfs.com/en/mma_junkie_usa_today_articles_344/7e54b4fdd7316a81c160c6d8421c37d0" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Featherweight boxer Hannah Rapp dies after being deliberately hit by car: Police</title>
-      <link>https://www.nydailynews.com/2026/07/19/featherweight-boxer-hannah-rapp-dies-after-being-deliberately-hit-by-car-police/</link>
-      <description>Boxer Hannah Rapp was killed Saturday after a driver with a long rap sheet deliberately backed into her bicycle while she was riding in Brazos County, Texas, authorities said. She was 26.</description>
-      <guid isPermaLink="false">176f7d74d54098bbfb29c2232b518291</guid>
-      <enclosure url="https://www.nydailynews.com/wp-content/uploads/2026/07/0719hr1.jpg?w=1024&amp;h=614" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 00:42:30 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.nydailynews.com/wp-content/uploads/2026/07/0719hr1.jpg?w=1024&amp;h=614" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 16:54:49 +0000</lastBuildDate>
     <item>
       <title>Indiana native boxer Hannah Rapp killed in Texas car crash; driver charged with manslaughter</title>
       <link>https://www.wrtv.com/news/national/indiana-native-boxer-hannah-rapp-killed-in-texas-car-crash-driver-charged-with-manslaughter</link>
@@ -149,6 +94,17 @@
       <pubDate>Mon, 20 Jul 2026 08:42:46 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/os/en/the_independent_us_sports_articles_270/b2612229628ed7219751a5b001911749" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Explained: Why Tyson Fury says his next fight won't be on TV</title>
+      <link>https://www.espn.com/boxing/story/_/id/49408310/explained-why-tyson-fury-says-next-fight-tv</link>
+      <description>Everything you need to know about Tyson Fury's fight against Mariusz Wach in Thailand on Friday.</description>
+      <guid isPermaLink="false">f37a4133e244873649daab6e95ad0853</guid>
+      <enclosure url="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0720%2Fr1691677_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 08:59:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0720%2Fr1691677_1296x729_16%2D9.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -281,6 +237,50 @@
       <pubDate>Mon, 20 Jul 2026 14:05:05 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1093,y_482,w_3270,h_1839/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jpsqqj5y7d6vevn1xh.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>#1 Masuda Edges #2 Higa, Wins Vacant WBA 118lb Belt</title>
+      <link>https://fightnews.com/1-masuda-edges-2-higa-wins-vacant-wba-118lb-belt/192350</link>
+      <description>By Joe Koizumi Photos by Naoki Fukuda (to come soon) Taller southpaw Riku Masuda (11-1, 9 KOs), 117.75,</description>
+      <guid isPermaLink="false">77059529bb971daef4adf0a4b8e10fc9</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/0719-1-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 15:00:04 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/0719-1-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Friends, family and local organizations remember boxer Hannah Rapp after deadly crash</title>
+      <link>https://www.kcentv.com/article/news/local/local-organizations-boxer-hannah-rapp-deadly-crash/500-3590a3eb-79ce-4645-a32a-a38ac8235ed0</link>
+      <description>Friends, family and local organizations remember boxer Hannah Rapp after deadly crash</description>
+      <guid isPermaLink="false">e1d4f57eeaf29f602ffa5e3cb52635dd</guid>
+      <enclosure url="https://media.kcentv.com/assets/KCEN/images/c38f394b-9e8e-4cea-9141-a968b1cd3868/20260720T145949/c38f394b-9e8e-4cea-9141-a968b1cd3868_1140x641.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 15:05:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://media.kcentv.com/assets/KCEN/images/c38f394b-9e8e-4cea-9141-a968b1cd3868/20260720T145949/c38f394b-9e8e-4cea-9141-a968b1cd3868_1140x641.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Take Part</title>
+      <link>https://boxingireland.ie/take-part-pathway-strategy-consultation/</link>
+      <description>The inputs of all adult members of every affiliated club are invited as part of the development of Boxing Ireland’s Pathway Strategy. This strategy is an athlete development framework designed to create a clear progression from grassroots club boxing to the High Performance Unit.</description>
+      <guid isPermaLink="false">790878335191ad7d16de5d87a27408ba</guid>
+      <enclosure url="https://boxingireland.ie/wp-content/uploads/Fight-Details-Pic-1-768x960.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 15:12:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://boxingireland.ie/wp-content/uploads/Fight-Details-Pic-1-768x960.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Joe Hand Promotions Secures Commercial Rights For Errol Spence Jr. Vs. Tim Tszyu Showdown</title>
+      <link>https://fightnews.com/joe-hand-promotions-secures-commercial-rights-for-errol-spence-jr-vs-tim-tszyu-showdown/192358</link>
+      <description>Joe Hand Promotions (JHP), the nation’s largest and most experienced distributor of premium live sports programming to commercial</description>
+      <guid isPermaLink="false">95f52a28ef6a3b0a4be8168a10742310</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Tszyu-Spence-2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 20 Jul 2026 15:25:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Tszyu-Spence-2.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
