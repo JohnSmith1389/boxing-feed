@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 22:27:31 +0000</lastBuildDate>
-    <item>
-      <title>Purse Bid Ordered for Devin Haney vs Keyshawn Davis Showdown</title>
-      <link>https://www.si.com/fannation/boxing/purse-bid-ordered-for-devin-haney-vs-keyshawn-davis-showdown</link>
-      <description>The last time Devin Haney stepped into the ring, he left with a new belt to his collection. After handling Brian Norman Jr.</description>
-      <guid isPermaLink="false">46c71209d641dc36a2f2259e624127e2</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_302,y_101,w_2839,h_1596/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01krp7hdmq6yp3h3hp4n.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 02:30:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_302,y_101,w_2839,h_1596/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01krp7hdmq6yp3h3hp4n.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 23:30:27 +0000</lastBuildDate>
     <item>
       <title>Pro Boxer Hannah Rapp killed in Brazos County bicycle crash</title>
       <link>https://www.fox7austin.com/news/pro-boxer-hannah-rapp-killed-brazos-county-bicycle-crash</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 21 Jul 2026 22:05:16 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/ny/api/res/1.2/Kz4E.6FfWlw.hNmrs6xaSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-modart-072126-boxing-s-organized-crime-ties-1950-60-1_2976.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Breath of fresh air Martes de Cafe from Buenos Aires</title>
+      <link>https://wbcboxing.com/en/breath-of-fresh-air-martes-de-cafe-from-buenos-aires/</link>
+      <description>Breath of fresh air Martes de Cafe from Buenos Aires This week’s WBC Tuesday Coffee Time.took place in Buenos Aires, Argentina, at the iconic Casa del […]</description>
+      <guid isPermaLink="false">e78e40010d9b1fbb14f050c17bb2615e</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/Argentina-.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 22:48:29 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/Argentina-.jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>
