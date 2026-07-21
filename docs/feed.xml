@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 16:54:47 +0000</lastBuildDate>
-    <item>
-      <title>Could bare-knuckle boxing be banned in New Mexico?</title>
-      <link>https://www.krqe.com/news/new-mexico/could-bare-knuckle-boxing-be-banned-in-new-mexico/</link>
-      <description>NEW MEXICO (KRQE) – It’s bloody, and it’s physical, but could bare-knuckle boxing be banned in New Mexico? A recent push to eliminate it as a state-sanctioned sport is drawing strong op…</description>
-      <guid isPermaLink="false">089c9722a50d89230964a498e6df7202</guid>
-      <enclosure url="https://www.krqe.com/wp-content/uploads/sites/12/2022/08/bare-knuckle.png?w=1280" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 00:48:22 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.krqe.com/wp-content/uploads/sites/12/2022/08/bare-knuckle.png?w=1280" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 18:15:29 +0000</lastBuildDate>
     <item>
       <title>Agit Kabayel in Talks for Blockbuster Unification Fight</title>
       <link>https://www.si.com/fannation/boxing/agit-kabayel-in-talks-for-blockbuster-unification-fight</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 21 Jul 2026 16:34:34 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/WhatsApp-Image-2026-07-21-at-9.43.20-AM-1.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Red Owl Boxing Announces Four New Fights For El Paso, Ivy Enriquez Injured</title>
+      <link>https://fightnews.com/red-owl-boxing-announces-four-new-fights-for-el-paso-ivy-enriquez-injured/192506</link>
+      <description>Red Owl Boxing today announced four new fights for its ‘Boxfest XIX” championship professional boxing event at El</description>
+      <guid isPermaLink="false">f3ac2e628a6d4aea25120d333faeef79</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Christina-Cruz-vs-Maryguenn-Vellinga-Web.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 16:37:43 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Christina-Cruz-vs-Maryguenn-Vellinga-Web.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
