@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 12:52:42 +0000</lastBuildDate>
-    <item>
-      <title>Texas man arrested in Hannah Rapp's death has lengthy record</title>
-      <link>https://www.espn.com/boxing/story/_/id/49413238/texas-man-arrested-hannah-rapp-death-lengthy-record</link>
-      <description>A Texas man arrested for manslaughter in the death of professional boxer Hannah Rapp has a lengthy arrest history dating back more than a decade, including for reckless driving and hit and run, according to jail records reviewed by ESPN on Monday.</description>
-      <guid isPermaLink="false">657481898204eb9f82720e14b33ce60b</guid>
-      <enclosure url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0720%2Fr1691928_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 22:59:43 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0720%2Fr1691928_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Pro boxers from Providence, Bridgeport to face off at Mohegan Sun Arena</title>
-      <link>https://www.wtnh.com/sports/local-sports/pro-boxers-from-providence-bridgeport-to-face-off-at-mohegan-sun-arena/</link>
-      <description>UNCASVILLE, Conn. (WTNH) — A big night of boxing is set for Friday night at Mohegan Sun Arena in Uncasville, where some of Connecticut’s best fighters will enter the championship jackpot…</description>
-      <guid isPermaLink="false">1c9234bfadf1605e11939557e0f19205</guid>
-      <enclosure url="https://www.wtnh.com/wp-content/uploads/sites/100/2024/01/cropped-NEWS8-Header_900x340.png?strip=1" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 23:48:26 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.wtnh.com/wp-content/uploads/sites/100/2024/01/cropped-NEWS8-Header_900x340.png?strip=1" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 15:03:10 +0000</lastBuildDate>
     <item>
       <title>Mayweather-Tyson could add Pacquiao in doubleheader if he doesn't land pro fight first</title>
       <link>https://www.boxingscene.com/articles/mayweather-tyson-could-add-pacquiao-in-doubleheader-if-he-doesnt-land-pro-fight-first</link>
@@ -281,6 +259,28 @@
       <pubDate>Tue, 21 Jul 2026 12:40:08 +0000</pubDate>
       <media:group>
         <media:content url="https://andscape.com/wp-content/uploads/2026/07/Day-12_020_Quincy_Boxing_Match_3-e1784560159655.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Joe takes on Jack in a boxing match at Fighters Heaven in Schuylkill County</title>
+      <link>https://www.wnep.com/video/news/local/schuylkill-county/joe-takes-on-jack-in-a-boxing-match-at-fighters-heaven-in-schuylkill-county/523-a04410c4-e6fa-4134-8da4-9bf14e5fa923</link>
+      <description>Joe takes on Jack in a boxing match at Fighters Heaven in Schuylkill County</description>
+      <guid isPermaLink="false">c2f621e71529f986a8f43de0afc5a3be</guid>
+      <enclosure url="https://media.tegna-media.com/assets/WNEP/images/cc97d3e2-b368-4606-816f-f47a7b6ba261/20260721T131616/cc97d3e2-b368-4606-816f-f47a7b6ba261_1140x641.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 13:20:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://media.tegna-media.com/assets/WNEP/images/cc97d3e2-b368-4606-816f-f47a7b6ba261/20260721T131616/cc97d3e2-b368-4606-816f-f47a7b6ba261_1140x641.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>On This Day in Boxing History… July 21st</title>
+      <link>https://wbcboxing.com/en/on-this-day-in-boxing-history-july-21st/</link>
+      <description>On This Day in Boxing History… July 21st 1982.- Mexico’s Salvador Sánchez knocked out Ghana’s Azumah Nelson in the 15th round to defend his WBC featherweight […]</description>
+      <guid isPermaLink="false">e1ba6dda4cc60ad3ce4512c2a7c3ec5c</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/sal-sanchez-vs-nelson.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 14:31:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/sal-sanchez-vs-nelson.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
