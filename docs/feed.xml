@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 11:22:49 +0000</lastBuildDate>
-    <item>
-      <title>Boxing star Hannah Rapp was killed while biking after boyfriend made perfectly innocent gesture at reckless driver: cops</title>
-      <link>https://nypost.com/2026/07/20/sports/boxing-star-hannah-rapp-killed-while-biking-after-boyfriend-made-perfectly-innocent-gesture-cops/</link>
-      <description>Boxing star Hannah Rapp was killed while biking after boyfriend made perfectly innocent gesture at reckless driver: cops</description>
-      <guid isPermaLink="false">31833d03412a3a94575c01d6990cf6f5</guid>
-      <enclosure url="https://nypost.com/wp-content/uploads/sites/2/2026/07/boxer-hannah-rapp-dead-road-rage-comp-00.jpg?quality=75&amp;strip=all&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 21:54:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://nypost.com/wp-content/uploads/sites/2/2026/07/boxer-hannah-rapp-dead-road-rage-comp-00.jpg?quality=75&amp;strip=all&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Why isn't Tyson Fury vs. Maurisz Wach on live TV? Fury's bizarre broadcast decision, explained</title>
-      <link>https://sports.yahoo.com/boxing/article/why-isnt-tyson-fury-vs-maurisz-wach-on-live-tv-furys-bizarre-broadcast-decision-explained-221947916.html</link>
-      <description>Why isn't Tyson Fury vs. Maurisz Wach on live TV?</description>
-      <guid isPermaLink="false">20d7088b869af6fa715aa4f210dd1dc8</guid>
-      <enclosure url="https://s.yimg.com/ny/api/res/1.2/H7reFeM8WJTlIuoFKVWwNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/2026-07/946eb595-d9bc-4248-b710-4b91020ae8bc" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 22:19:47 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/ny/api/res/1.2/H7reFeM8WJTlIuoFKVWwNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/2026-07/946eb595-d9bc-4248-b710-4b91020ae8bc" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 12:52:42 +0000</lastBuildDate>
     <item>
       <title>Texas man arrested in Hannah Rapp's death has lengthy record</title>
       <link>https://www.espn.com/boxing/story/_/id/49413238/texas-man-arrested-hannah-rapp-death-lengthy-record</link>
@@ -281,6 +259,28 @@
       <pubDate>Tue, 21 Jul 2026 10:36:03 +0000</pubDate>
       <media:group>
         <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/530e/live/5ce76460-84ed-11f1-8a12-25ab4abfbe1c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Arizona boxing gyms have a cure for the loneliness epidemic</title>
+      <link>https://www.azcentral.com/story/opinion/op-ed/2026/07/21/arizona-boxing-gyms-battle-loneliness-epidemic-latino-men-opinion/90986833007/</link>
+      <description>The loneliness epidemic is a public health crisis. In Arizona, boxing gyms are quietly doing the work of connection, especially for Latino men.</description>
+      <guid isPermaLink="false">f39f3de041210f92b10d14602f974110</guid>
+      <enclosure url="https://www.gannett-cdn.com/-mm-/3eb26b8046eb2a19e77e68128f028a0d0c1c5bff/c=0-249-3252-2086/local/-/media/2017/04/17/Phoenix/Phoenix/636280315639150894-phxdc5-5glaxp22zm0p1i83fkp-original.jpg?auto=webp&amp;format=pjpg&amp;width=1200" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 12:03:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.gannett-cdn.com/-mm-/3eb26b8046eb2a19e77e68128f028a0d0c1c5bff/c=0-249-3252-2086/local/-/media/2017/04/17/Phoenix/Phoenix/636280315639150894-phxdc5-5glaxp22zm0p1i83fkp-original.jpg?auto=webp&amp;format=pjpg&amp;width=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How ‘They Fight’ rewrites the American Dream for Black America</title>
+      <link>https://andscape.com/features/they-fight-boxing-movie-hulu-sheldon-candis-dc/</link>
+      <description>Hulu's They Fight shows the story of two boxing coaches making sure Black kids in Southeast D.C. know they deserve to dream.</description>
+      <guid isPermaLink="false">aa1062d8f54714838fb108783861c711</guid>
+      <enclosure url="https://andscape.com/wp-content/uploads/2026/07/Day-12_020_Quincy_Boxing_Match_3-e1784560159655.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 12:40:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://andscape.com/wp-content/uploads/2026/07/Day-12_020_Quincy_Boxing_Match_3-e1784560159655.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
