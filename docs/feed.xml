@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 23:30:27 +0000</lastBuildDate>
-    <item>
-      <title>Pro Boxer Hannah Rapp killed in Brazos County bicycle crash</title>
-      <link>https://www.fox7austin.com/news/pro-boxer-hannah-rapp-killed-brazos-county-bicycle-crash</link>
-      <description>Rising professional boxer and Texas A&amp;M employee Hannah Rapp was killed after being struck by a vehicle while riding her bicycle near College Station, leading to the arrest of driver Charles Eric Medina on a manslaughter charge.</description>
-      <guid isPermaLink="false">2c47dc80723b001a6fdeb258dc0fb568</guid>
-      <enclosure url="https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2026/07/1280/720/hannah-rapp-e1784603600355.jpg?ve=1&amp;tl=1" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 03:20:06 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2026/07/1280/720/hannah-rapp-e1784603600355.jpg?ve=1&amp;tl=1" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 02:35:07 +0000</lastBuildDate>
     <item>
       <title>Community rallies behind Hannah Rapp, pushes for “Hannah’s Law” after boxer’s death</title>
       <link>https://www.kbtx.com/2026/07/21/community-rallies-behind-hannah-rapp-pushes-hannahs-law-after-boxers-death/</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 21 Jul 2026 22:48:29 +0000</pubDate>
       <media:group>
         <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/Argentina-.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Roy Jones Jr Predicts Errol Spence Jr vs Tim Tszyu</title>
+      <link>https://www.si.com/fannation/boxing/roy-jones-jr-predicts-errol-spence-jr-vs-tim-tszyu</link>
+      <description>For as long as boxing has existed, superfights have remained an important part of the sport. To maintain its overall health, big-money, big-attention fights dra</description>
+      <guid isPermaLink="false">3935aac133f93db5212fe3bb7d07767b</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4346,h_2444/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jm29n65n6mvcjcz1re.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 21 Jul 2026 23:45:31 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4346,h_2444/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jm29n65n6mvcjcz1re.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
