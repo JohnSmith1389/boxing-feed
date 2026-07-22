@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 20:37:46 +0000</lastBuildDate>
-    <item>
-      <title>Unbeaten Bizhamov Faces Mironchikov In IBA Pro 20 Main Event In Naberezhnye Chelny</title>
-      <link>https://fightnews.com/unbeaten-bizhamov-faces-mironchikov-in-iba-pro-20-main-event-in-naberezhnye-chelny/192517</link>
-      <description>Naberezhnye Chelny will host the landmark IBA Pro 20 event on 14 August. The main event of the</description>
-      <guid isPermaLink="false">10a6120f7eef18cd48c7395e37545183</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/IBA-Pro.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 11:14:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/IBA-Pro.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tyson Fury v Mariusz Wach: Briton takes aim at modern-day sports stars</title>
-      <link>https://www.bbc.com/sport/boxing/articles/c87n870x7vxo</link>
-      <description>Tyson Fury says modern-day sports stars think they are "bigger than they actually are" after choosing to fight in front of just 1,500 fans in Thailand.</description>
-      <guid isPermaLink="false">0d9f73ea02f96f5daf7be11640ce066b</guid>
-      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2f36/live/3f806570-85b5-11f1-b527-978f2ab294ea.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 22 Jul 2026 11:26:28 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2f36/live/3f806570-85b5-11f1-b527-978f2ab294ea.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 22:02:53 +0000</lastBuildDate>
     <item>
       <title>Tyson Fury v Mariusz Wach: Briton takes aim at modern-day sports stars</title>
       <link>https://www.bbc.co.uk/sport/boxing/articles/c87n870x7vxo</link>
@@ -274,6 +252,17 @@
     </item>
     <item>
       <title>Toledo firefighter, boxer indicted on theft, fraud charge</title>
+      <link>https://www.yahoo.com/news/us/articles/toledo-firefighter-boxer-indicted-theft-195356527.html</link>
+      <description>A Toledo firefighter and professional boxer has been indicted on felony charges after being accused of stealing from an internal station account. Deandre Ware, 38, faces one count of fifth-degree fel...</description>
+      <guid isPermaLink="false">87d10cdab2a4ba31122d310a76fef532</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/520e5ba7fe623c2872cb98279370f97a0390d62b792607e325d715a98784c169/lightyear_networkapi/resizefill_w750_h422;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwtol_tegna_articles_545%2F1d10b3c35e0ce4751a38bcad392ce32b" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jul 2026 19:53:56 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/520e5ba7fe623c2872cb98279370f97a0390d62b792607e325d715a98784c169/lightyear_networkapi/resizefill_w750_h422;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwtol_tegna_articles_545%2F1d10b3c35e0ce4751a38bcad392ce32b" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Toledo firefighter, boxer indicted on theft, fraud charge</title>
       <link>https://www.wtol.com/article/news/local/toledo-firefighter-boxer-indicted-on-theft-fraud-charge/512-adc3a508-a54a-4246-9517-ad140443d7de</link>
       <description>Toledo firefighter, boxer indicted on theft, fraud charge</description>
       <guid isPermaLink="false">9d6309b5da4801f40c1a8f8324417971</guid>
@@ -281,6 +270,17 @@
       <pubDate>Wed, 22 Jul 2026 20:05:00 +0000</pubDate>
       <media:group>
         <media:content url="https://media.wtol.com/assets/WTOL/images/3de1cfbe-846d-466e-8f1a-93f9d1edb35d/3de1cfbe-846d-466e-8f1a-93f9d1edb35d_1140x641.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Canelo Alvarez Delays Christian Mbilli Fight To October 31</title>
+      <link>https://www.boxingnews24.com/2026/07/canelo-alvarez-delays-christian-mbilli-fight-to-october-31/</link>
+      <description>Canelo Alvarez says family responsibilities forced him to postpone his planned challenge of WBC super middleweight champion Christian Mbilli. The four</description>
+      <guid isPermaLink="false">04ba9938de3654b7b29dfa4e2d21d5d2</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Canelo-vs-Mbilli53.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 22 Jul 2026 20:17:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Canelo-vs-Mbilli53.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
