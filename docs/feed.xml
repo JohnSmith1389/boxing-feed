@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:56:47 +0000</lastBuildDate>
-    <item>
-      <title>Jake Paul’s Post-Boxing Dream Is To Play Wide Receiver for the Cleveland Browns</title>
-      <link>https://www.si.com/nfl/browns/onsi/jake-paul-s-post-boxing-dream-is-to-play-wide-receiver-for-the-cleveland-browns-01ky7sqjnqs1</link>
-      <description>Northeast Ohio native Jake Paul wants to play for the Cleveland Browns when he’s done boxing. The social media megastar turned professional boxer has floated th</description>
-      <guid isPermaLink="false">dd1d69e19eb3f2b42e752853e4e66b68</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_8256,h_4644/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/browns_digest/01ky7srkke1dkvpqscs5.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 23 Jul 2026 15:40:37 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_8256,h_4644/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/browns_digest/01ky7srkke1dkvpqscs5.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Ryan Garcia picks a winner in prime Tommy Hearns vs Terence Crawford</title>
-      <link>https://boxingnewsonline.net/news/garcia-predicts-prime-hearns-vs-crawford/</link>
-      <description>WBC welterweight world champion Ryan Garcia has predicted how Terence Crawford would fare if tasked with boxing legend Thomas Hearns in his prime.</description>
-      <guid isPermaLink="false">9e68c29d87e59b6def3172d6bea7675f</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1784821475436947479/hearns-crawford.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 23 Jul 2026 15:45:16 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1784821475436947479/hearns-crawford.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 04:17:57 +0000</lastBuildDate>
     <item>
       <title>Otto Wallin Fight Week Interview | Zuffa Boxing 09</title>
       <link>https://www.ufc.com/video/158588</link>
@@ -277,6 +255,28 @@
       <pubDate>Fri, 24 Jul 2026 00:06:54 +0000</pubDate>
       <media:group>
         <media:content url="https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-3l6rqhd7r-1784841317900.jpg?quality=75&amp;strip=all&amp;1784826974&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Fury readies for Thai fight, wonders if Joshua will be a no-show in November</title>
+      <link>https://www.scmp.com/sport/boxing/article/3361660/tyson-fury-readies-thai-fight-wonders-if-joshua-will-be-no-show-november</link>
+      <description>Tyson Fury will fight in Pattaya on Friday, with Anthony Joshua stepping into Riyadh ring on Saturday ahead of their ‘Battle of Britain’.</description>
+      <guid isPermaLink="false">b55b33072e7770f360164b3407316104</guid>
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/24/56ec1e24-973a-4eba-b44f-e07f92e4d799_1b39dd0c.jpg?itok=xeLB45SL&amp;v=1784856548" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 01:29:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/24/56ec1e24-973a-4eba-b44f-e07f92e4d799_1b39dd0c.jpg?itok=xeLB45SL&amp;v=1784856548" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>San Antonio actor Steve Dominguez brings local boxing tale to screen with ‘Heart of Glory’</title>
+      <link>https://www.ksat.com/sports/2026/07/24/san-antonio-actor-steve-dominguez-brings-local-boxing-tale-to-screen-with-heart-of-glory/</link>
+      <description>San Antonio actor Steve Dominguez is bringing an Alamo City boxing story to the screen with “Heart of Glory,” an indie drama debuting as part of the San Antonio Film Festival.</description>
+      <guid isPermaLink="false">97fef8a279a7803991e2925a7f6e226b</guid>
+      <enclosure url="https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/ksat/1264e47e-dea4-42fb-9b9d-1e65dcc42b08/image.jpg?_a=DATAg1kSZAA0" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 03:58:39 +0000</pubDate>
+      <media:group>
+        <media:content url="https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/ksat/1264e47e-dea4-42fb-9b9d-1e65dcc42b08/image.jpg?_a=DATAg1kSZAA0" medium="image"/>
       </media:group>
     </item>
   </channel>
