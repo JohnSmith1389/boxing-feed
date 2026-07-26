@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 08:56:10 +0000</lastBuildDate>
-    <item>
-      <title>Aussie boxer in major ‘corruption’ scandal</title>
-      <link>https://www.news.com.au/sport/boxing/aussie-boxer-jai-opetaia-in-major-corruption-scandal/news-story/1d5970a076d3264c91d9525d6c361053</link>
-      <description>Boxer Jai Opetaia has launched legal action in the United States in a bid to force the International Boxing Federation (IBF) to reinstate his cruiserweight world title.</description>
-      <guid isPermaLink="false">99cf36c74808ff4492c511c049c967e3</guid>
-      <enclosure url="https://content.api.news/v3/images/bin/0d07b0a0b395553a655088f39248c5e0" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 25 Jul 2026 23:10:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://content.api.news/v3/images/bin/0d07b0a0b395553a655088f39248c5e0" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Mullets on the line on Tszyu card after late dramas</title>
-      <link>https://www.nine.com.au/sport/combat-sports/errol-spence-jr-tim-tszyu-boxing-fight-live-updates-round-by-round-results-latest-news-20260726-p60ik7.html</link>
-      <description>Tszyu vs Spence live coverage</description>
-      <guid isPermaLink="false">ea2498581a34accc9b29e97adb3d4547</guid>
-      <enclosure url="https://static.ffx.io/images/$zoom_0.2153%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_10%2C$y_108/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/03ed1051fa6759944037ecc36bc988f403b0261200a5d25cdffc14bf081beaf8" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 25 Jul 2026 23:13:04 +0000</pubDate>
-      <media:group>
-        <media:content url="https://static.ffx.io/images/$zoom_0.2153%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_10%2C$y_108/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/03ed1051fa6759944037ecc36bc988f403b0261200a5d25cdffc14bf081beaf8" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Follow live: Errol Spence, Tim Tszyu to battle in Sydney blockbuster</title>
-      <link>https://www.espn.com/boxing/story/_/id/49414546/errol-spence-tim-tszyu-stephen-fulton-liam-wilson-live-sydney-boxing-fight-stream-dazn-how-watch-undercard-highlights-results</link>
-      <description>Former world champions Errol Spence Jr. and Tim Tszyu square off in a blockbuster middleweight fight at Afterpay Arena in Sydney.</description>
-      <guid isPermaLink="false">873d7f4e348105e4d6362f2a41b3e80e</guid>
-      <enclosure url="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0725%2Fr1693445_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 25 Jul 2026 23:42:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0725%2Fr1693445_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 10:45:41 +0000</lastBuildDate>
     <item>
       <title>Hannah Rapp will join 2027 Indiana Boxing Hall of Fame class following death</title>
       <link>https://www.wishtv.com/news/hannah-rapp-boxing-hof/</link>
@@ -240,6 +207,17 @@
       </media:group>
     </item>
     <item>
+      <title>Joshua comes back twice to knock out Prenga and set up Fury showdown</title>
+      <link>https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown</link>
+      <description>Anthony Joshua survives two knockdowns by Albania's Kristian Prenga before winning the fight in the second round.</description>
+      <guid isPermaLink="false">ead7d98039602ba069cb6ccc0965b571</guid>
+      <enclosure url="https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-25T231656Z_879275999_UP1EM7P1SO64L_RTRMADP_3_BOXING-JOSHUA-PRENGA-1785046131.jpg?resize=1920%2C1440" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 26 Jul 2026 06:37:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-25T231656Z_879275999_UP1EM7P1SO64L_RTRMADP_3_BOXING-JOSHUA-PRENGA-1785046131.jpg?resize=1920%2C1440" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Doors to a world title opening for Tim Tszyu after retiring Errol Spence Jr.</title>
       <link>https://africa.espn.com/boxing/story/_/id/49444200/errol-spence-tim-tszyu-stephen-fulton-liam-wilson-live-sydney-boxing-fight-stream-dazn-how-watch-undercard-highlights-results</link>
       <description>A world title fight is back on the agenda for Tim Tszyu after Australia's star boxer outpowered and retired future Hall of Famer Errol Spence Jr. on Sunday afternoon at Afterpay Arena in Sydney.</description>
@@ -270,6 +248,28 @@
       <pubDate>Sun, 26 Jul 2026 08:23:56 +0000</pubDate>
       <media:group>
         <media:content url="https://bloximages.chicago2.vip.townnews.com/daytondailynews.com/content/tncms/assets/v3/editorial/b/0b/b0b9aa58-ac9f-543d-b796-293ca4dccb04/6a65c4878bbbc.image.jpg?crop=5549%2C2913%2C0%2C392&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>APTOPIX Saudi Arabia Boxing</title>
+      <link>https://www.daytondailynews.com/nation-world/aptopix-saudi-arabia-boxing/image_41af69b7-685f-5b00-a375-0a3a3321ad64.html</link>
+      <description>Britain's Anthony Joshua arrives for the heavyweight title fight with Albania's Kristian Prenga in Jeddah, Saudi Arabia, Sunday, July 26, 2026. (AP Photo/Ali Issa)</description>
+      <guid isPermaLink="false">42178118c4eaafcfc475962b7bb1803e</guid>
+      <enclosure url="https://bloximages.chicago2.vip.townnews.com/daytondailynews.com/content/tncms/assets/v3/editorial/4/1a/41af69b7-685f-5b00-a375-0a3a3321ad64/6a65c485e337c.image.jpg?crop=5570%2C2924%2C0%2C394&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 26 Jul 2026 08:23:57 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloximages.chicago2.vip.townnews.com/daytondailynews.com/content/tncms/assets/v3/editorial/4/1a/41af69b7-685f-5b00-a375-0a3a3321ad64/6a65c485e337c.image.jpg?crop=5570%2C2924%2C0%2C394&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing 09 - Berlanga vs Butler: Live streaming results and highlights!</title>
+      <link>https://www.badlefthook.com/live-boxing-updates/117462/zuffa-boxing-09-berlanga-vs-butler-live-streaming-results-highlights-paramount-boxing-news-2026</link>
+      <description>Edgar Berlanga and Richardson Hitchins make their Zuffa Boxing debuts tonight!</description>
+      <guid isPermaLink="false">943a08146e79597757eb4a963398b6d1</guid>
+      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/07/gettyimages-2286665362.jpg?quality=90&amp;strip=all&amp;crop=18.880003356934%2C4.0155826624388%2C68.159992980957%2C48.600717248218&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 26 Jul 2026 10:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/07/gettyimages-2286665362.jpg?quality=90&amp;strip=all&amp;crop=18.880003356934%2C4.0155826624388%2C68.159992980957%2C48.600717248218&amp;w=1200" medium="image"/>
       </media:group>
     </item>
     <item>
