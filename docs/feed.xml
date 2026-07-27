@@ -7,84 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 17:17:30 +0000</lastBuildDate>
-    <item>
-      <title>Richardson Hitchins Ring Interview | Zuffa Boxing 09</title>
-      <link>https://www.ufc.com/video/158660</link>
-      <description>Welterweight Ricahrdson Hitchins Speaks With Max Kellerman After His Win At Zuffa Boxing 09 In New York City</description>
-      <guid isPermaLink="false">d9b93f048a4a65bce583fcba53f3a273</guid>
-      <enclosure url="https://ufc.com/images/2026-07/072626-richardson-hitchins-ring-interview.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 02:50:22 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-07/072626-richardson-hitchins-ring-interview.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Richardson Hitchins dominates Ricardo Salas over 10 in Zuffa Boxing debut</title>
-      <link>https://www.boxingscene.com/articles/richardson-hitchins-dominates-ricardo-salas-over-10-in-zuffa-boxing-debut</link>
-      <description>Undefeated former junior welterweight world champion Richardson Hitchins made a successful Zuffa Boxing welterweight debut by dominating Ricardo Salas to win a wide unanimous decision at Zuffa Boxing 09 from Madison Square Garden in New York.</description>
-      <guid isPermaLink="false">0196bd7d586afac5313980002bf8c439</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/richardsonhitchinsricardosalas1.webp" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 03:30:47 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/richardsonhitchinsricardosalas1.webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Results + Scorecards | Zuffa Boxing 09: Berlanga vs Butler</title>
-      <link>https://www.ufc.com/news/zuffa-boxing-9-berlanga-vs-butler-results-scorecards-highlights</link>
-      <description>Results, Highlights, Scorecards And More From Zuffa Boxing 9: Berlanga vs Butler, Live From Infosys Theater At Madison Square Garden In New York, New York On July 26, 2026</description>
-      <guid isPermaLink="false">fd18574e25b436d1d462f443391bd165</guid>
-      <enclosure url="https://ufc.com/images/styles/card/s3/2026-07/072626-zuffa-boxing-09-event-art.jpg?itok=cT6_eMlp" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 03:40:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/styles/card/s3/2026-07/072626-zuffa-boxing-09-event-art.jpg?itok=cT6_eMlp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Edgar Berlanga Bounces Back, Stops Butler In Round 7 | Zuffa Boxing 09</title>
-      <link>https://www.ufc.com/video/158662</link>
-      <description>Edgar Berlanga Earns The TKO Win Over Steven Butler At Zuffa Boxing 09 In New York City</description>
-      <guid isPermaLink="false">e3c8cf48e7da1f010d3947563eb72436</guid>
-      <enclosure url="https://ufc.com/images/image/2026-07/072626-edgar-berlanga-punch.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 03:40:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/image/2026-07/072626-edgar-berlanga-punch.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Edgar Berlanga Ring Interview | Zuffa Boxing 09</title>
-      <link>https://www.ufc.com/video/158663</link>
-      <description>Edgar Berlanga Speaks With Max Kellerman After His TKO Win Over Steven Butler At Zuffa Boxing 09</description>
-      <guid isPermaLink="false">1f4e084ff3972236cad52750850642f5</guid>
-      <enclosure url="https://ufc.com/images/2026-07/072626-edgar-berlanga-ring-interview.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 03:49:35 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-07/072626-edgar-berlanga-ring-interview.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Fury</title>
-      <link>https://fightnews.com/fury-wach-full-report/192933</link>
-      <description>By Damrong Simakajornboon Photos : Wasim Mather Tyson Fury made a spectacular return to the ring, defeating Polish</description>
-      <guid isPermaLink="false">ffe3998a3b99dd0532036787a9ca68cd</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Fury-1-2.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 03:54:08 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Fury-1-2.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Highlights! Berlanga Shines In Zuffa Boxing Debut With Massive TKO</title>
-      <link>https://sports.yahoo.com/articles/highlights-berlanga-shines-zuffa-boxing-040119788.html</link>
-      <description>Both Edgar Berlanga and Richardson Hitchins were signed by Zuffa Boxing at the same time earlier this year, so it was only fitting that the two sluggers would make their debuts on the same night. Indeed, Berlanga headlined Zuffa Boxing 9 last night (Sun.</description>
-      <guid isPermaLink="false">406659bb8038b914c9dc7d3ed860c2a1</guid>
-      <enclosure url="https://s.yimg.com/ny/api/res/1.2/i9wcQAlpZalmx_FSpMZgdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/media.zenfs.com/en/sb_nation_articles_115/a945d342d01dabafcfdf391a11120b2a" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 04:01:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/ny/api/res/1.2/i9wcQAlpZalmx_FSpMZgdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/media.zenfs.com/en/sb_nation_articles_115/a945d342d01dabafcfdf391a11120b2a" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 18:55:55 +0000</lastBuildDate>
     <item>
       <title>Turki Alalshikh Celebrates Garcia-Benn Ticket Sales Milestone</title>
       <link>https://www.boxing247.com/boxing-news/turki-alalshikh-celebrates-garcia-benn-ticket-sales-milestone/308654</link>
@@ -240,6 +163,28 @@
       </media:group>
     </item>
     <item>
+      <title>'Brutal'… Dana White once again tears into his own production team after Zuffa Boxing 9</title>
+      <link>https://bloodyelbow.com/2026/07/27/brutal-dana-white-once-again-tears-into-his-own-production-team-after-zuffa-boxing-9/</link>
+      <description>Dana White was not happy with his production at Madison Square Garden on Sunday</description>
+      <guid isPermaLink="false">6f1de2445700e150dbb5eb6933e0fa56</guid>
+      <enclosure url="https://bloodyelbow.com/wp-content/uploads/1/2026/07/GettyImages-2285716345-1-scaled.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 13:30:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloodyelbow.com/wp-content/uploads/1/2026/07/GettyImages-2285716345-1-scaled.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxer Jake Paul wants to play in the NFL and for the Browns</title>
+      <link>https://www.dawgsbynature.com/cleveland-browns-news/128818/boxer-jake-paul-wants-to-play-in-the-nfl-and-for-the-browns</link>
+      <description>Well, so does every one of us who reads this article, eh? Cleveland Browns fan Jake Paul wants to play in the NFL</description>
+      <guid isPermaLink="false">632c5bb5a5fa8feb5e5a4412aeb6ad10</guid>
+      <enclosure url="https://platform.dawgsbynature.com/wp-content/uploads/sites/73/2026/07/gettyimages-1452215800.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 13:49:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.dawgsbynature.com/wp-content/uploads/sites/73/2026/07/gettyimages-1452215800.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Bilal Fawaz: British light-middleweight champion fighting for a British passport</title>
       <link>https://www.bbc.co.uk/sport/boxing/articles/c75gwq7l0rno</link>
       <description>British champion Bilal Fawaz has lived in the UK for more than 20 years but is fighting for British citizenship - his story features in a new BBC documentary.</description>
@@ -273,6 +218,28 @@
       </media:group>
     </item>
     <item>
+      <title>Podcast: Rockford Boxing Classic set to return for fifth year</title>
+      <link>https://www.rockrivercurrent.com/2026/07/podcast-rockford-boxing-classic-set-to-return-for-fifth-year/</link>
+      <description>By Steve Summers and Kevin Haas Rock River Current Get our free e-newsletter ROCKFORD — An annual competition featuring boxers of all ages and skill levels is coming back for a fifth year. The Rockford Boxing Classic takes place at 5 p.m.</description>
+      <guid isPermaLink="false">c9d0d8852e9319b9761e21a0e39c7a05</guid>
+      <enclosure url="https://www.rockrivercurrent.com/wp-content/uploads/2025/08/Lugo-left.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 16:05:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.rockrivercurrent.com/wp-content/uploads/2025/08/Lugo-left.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Bare Knuckle Boxing: Rules, Regulation and the Boxers Crossing Over</title>
+      <link>https://www.boxinginsider.com/headlines/bare-knuckle-boxing-rules-regulation-and-the-boxers-crossing-over/</link>
+      <description>Bare knuckle boxing spent more than a century outside the law in the United States. The last major sanctioned bare knuckle prizefight of the old era came</description>
+      <guid isPermaLink="false">716ebafeceb6f5c448b744170c87e57f</guid>
+      <enclosure url="https://www.boxinginsider.com/wp-content/uploads/2026/07/IMG_8416.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 16:26:39 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxinginsider.com/wp-content/uploads/2026/07/IMG_8416.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Dana White quietly ends Zuffa’s war against boxing’s sanctioning bodies, Jake Paul reacts</title>
       <link>https://www.mmamania.com/zuffa-boxing-news/460551/dana-white-ends-zuffa-war-boxings-sanctioning-bodies-jake-paul-reacts</link>
       <description>Zuffa’s Dana White now open to working with boxing’s sanctioning bodies like WBC, WBA, and IBF despite previously slamming the door on any outside organizations.</description>
@@ -281,6 +248,39 @@
       <pubDate>Mon, 27 Jul 2026 16:42:26 +0000</pubDate>
       <media:group>
         <media:content url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/07/gettyimages-839149138.jpg?quality=90&amp;strip=all&amp;crop=0%2C13.152031214858%2C100%2C73.695937570283&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Dana White quietly ends Zuffa’s war against boxing’s sanctioning bodies, Jake Paul reacts</title>
+      <link>https://sports.yahoo.com/articles/dana-white-quietly-ends-zuffa-164226212.html</link>
+      <description>Dana White may have skipped boxing’s peace summit, but it sounds like he ended the war anyway. The Zuffa Boxing boss insisted he had “no interest whatsoever” in working with sanctioning bodies like WBC, WBA, and IBF, preferring to create his own championship belt and sign as many</description>
+      <guid isPermaLink="false">bdd42507eacb85009a45ebc20fe89980</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/_HUVRi0YGuZf7782jiYFCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTM7Y2Y9d2VicA--/https:/media.zenfs.com/en/sb_nation_articles_115/d1a9401ec3d684097e0dab779e3f816b" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 16:42:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/_HUVRi0YGuZf7782jiYFCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTM7Y2Y9d2VicA--/https:/media.zenfs.com/en/sb_nation_articles_115/d1a9401ec3d684097e0dab779e3f816b" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Nevada Boxing Hall of Fame Invites Media to Be Part of History During 14th Annual Induction Gala Weekend</title>
+      <link>https://wbcboxing.com/en/nevada-boxing-hall-of-fame-invites-media-to-be-part-of-history-during-14th-annual-induction-gala-weekend/</link>
+      <description>Nevada Boxing Hall of Fame Invites Media to Be Part of History During 14th Annual Induction Gala Weekend In Las Vegas, The Nevada Boxing Hall of Fame […]</description>
+      <guid isPermaLink="false">db1f6d0f4e1955ee03a73adeeba16dff</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/induction-gala-nvbhof.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 17:30:30 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/induction-gala-nvbhof.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>50 Cent Talks New Boxing Drama 'Fightland'</title>
+      <link>https://theknockturnal.com/50-cent-talks-new-boxing-drama-fightland/</link>
+      <description>The Knockturnal attends the Fightland red carpet premiere, where 50 Cent, Howard Charles, and the cast celebrate STARZ's new boxing drama.</description>
+      <guid isPermaLink="false">91f6c139a4f6e2f855a9f34fd31c0923</guid>
+      <enclosure url="https://theknockturnal.com/wp-content/uploads/2026/07/Screenshot_2026-07-24_at_10.26.50_PM_1_optimized_2000.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 18:04:03 +0000</pubDate>
+      <media:group>
+        <media:content url="https://theknockturnal.com/wp-content/uploads/2026/07/Screenshot_2026-07-24_at_10.26.50_PM_1_optimized_2000.png" medium="image"/>
       </media:group>
     </item>
   </channel>
