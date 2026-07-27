@@ -7,91 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 01:11:04 +0000</lastBuildDate>
-    <item>
-      <title>New Mexico IPA Challenge 2026: Boxing Bear defends title at final round Aug. 1</title>
-      <link>https://www.abqjournal.com/lifestyles/new-mexico-brewers-guild-ipa-competition-heads-into-final-round/3086662</link>
-      <description>The New Mexico Brewers Guild IPA Challenge finals are set for Aug. 1 at Boxing Bear.</description>
-      <guid isPermaLink="false">5b95667185c505cdce3845cce71f3bb2</guid>
-      <enclosure url="https://image.abqjournal.com/3086674.jpg?imageId=3086674&amp;x=0&amp;y=20.19&amp;cropw=100&amp;croph=47.78&amp;panox=0&amp;panoy=20.19&amp;panow=100&amp;panoh=47.78&amp;width=1200&amp;height=683" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 14:43:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://image.abqjournal.com/3086674.jpg?imageId=3086674&amp;x=0&amp;y=20.19&amp;cropw=100&amp;croph=47.78&amp;panox=0&amp;panoy=20.19&amp;panow=100&amp;panoh=47.78&amp;width=1200&amp;height=683" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Richardson Hitchins: “It’s Kill Or Be Killed" | Zuffa Boxing 09</title>
-      <link>https://www.ufc.com/video/158644</link>
-      <description>Richardson Hitchins is out to put down Ricardo Salas in the co-main event of Zuffa Boxing 09</description>
-      <guid isPermaLink="false">f1a5a424d37f0f7dc224a747f6c51603</guid>
-      <enclosure url="https://ufc.com/images/2026-07/hitchinsgfx-MP4.00_01_32_24.Still001.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 14:57:15 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-07/hitchinsgfx-MP4.00_01_32_24.Still001.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Edgar Berlanga: "Everybody Loves A Fighter Who Knocks People Out" | Zuffa Boxing 09</title>
-      <link>https://www.ufc.com/video/158645</link>
-      <description>Edgar Berlanga is roaring back with a vengeance and looks to silence Steven Butler and his critics at Zuffa Boxing 09</description>
-      <guid isPermaLink="false">b3524d036e2b4f8a56a78f6ad9c497cd</guid>
-      <enclosure url="https://ufc.com/images/2026-07/072626-edgar-berlanga-thumbnail.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 15:02:11 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-07/072626-edgar-berlanga-thumbnail.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Steven Butler: “I'm The King Of The Jungle” | Zuffa Boxing 09</title>
-      <link>https://www.ufc.com/video/158646</link>
-      <description>Steven Butler wants to prove he’s better than Edgar Berlanga in every way at Zuffa Boxing 09</description>
-      <guid isPermaLink="false">e065783374b5081a4ae6457c341f4b90</guid>
-      <enclosure url="https://ufc.com/images/2026-07/072626-steven-butler-thumbnail.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 15:09:32 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-07/072626-steven-butler-thumbnail.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Idi Amin’s boxing grandson vows to be ‘new king of Scotland’ at Commonwealth Games</title>
-      <link>https://www.theguardian.com/sport/2026/jul/26/idi-amins-boxing-grandson-aziz-abdul-vows-to-be-new-king-of-scotland-at-commonwealth-games</link>
-      <description>Aziz Abdul, known as ‘Ringo’, says his grandfather’s achievements have inspired him</description>
-      <guid isPermaLink="false">1c0171ea912bca37a667a07177a35e5f</guid>
-      <enclosure url="https://i.guim.co.uk/img/media/1316fd431b71b96146dd0a75036d6bc11244c614/57_0_1236_989/master/1236.jpg?width=1200&amp;height=1200&amp;quality=85&amp;auto=format&amp;fit=crop&amp;s=e76f81922bbd3c9f04171be5087287de" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 16:12:53 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.guim.co.uk/img/media/1316fd431b71b96146dd0a75036d6bc11244c614/57_0_1236_989/master/1236.jpg?width=1200&amp;height=1200&amp;quality=85&amp;auto=format&amp;fit=crop&amp;s=e76f81922bbd3c9f04171be5087287de" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Zuffa Boxing 09 Live Results: Berlanga Vs. Butler</title>
-      <link>https://www.boxingnews24.com/2026/07/zuffa-boxing-09-live-results-berlanga-vs-butler/</link>
-      <description>Zuffa Boxing returns tonight from the Infosys Theater at Madison Square Garden in New York, with Edgar Berlanga facing Steven Butler in a 10-round super</description>
-      <guid isPermaLink="false">004be0499e117093347ca01055804c8c</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Berlanga-vs-Butler6.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 16:30:50 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Berlanga-vs-Butler6.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Zuffa Boxing Live Results: Berlanga, Hitchins, Wallin Fight In New York</title>
-      <link>https://www.boxing247.com/boxing-news/zuffa-boxing-live-results-berlanga-hitchins-wallin-fight-in-new-york/308628</link>
-      <description>Four televised 10-round bouts headline tonight's Madison Square Garden card, streaming live on Paramount+. and Sky Sports</description>
-      <guid isPermaLink="false">e35551b713695112f318602d890d4adc</guid>
-      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/EdgarBerlanga_OfficialWeigIn00003.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 16:42:46 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/EdgarBerlanga_OfficialWeigIn00003.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Three Female Bouts featured on a MVP Boxing Card in Florida on August 8th</title>
-      <link>https://www.womenboxing.com/NEWS2026/news072626three-female-bouts-in-florida-august-8-2026.htm</link>
-      <description>Three Female Bouts featured on a MVP Boxing Card in Florida on August 8th</description>
-      <guid isPermaLink="false">8fa9a89cf6611cd9683e428983743cbb</guid>
-      <pubDate>Sun, 26 Jul 2026 16:47:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 05:10:30 +0000</lastBuildDate>
     <item>
       <title>Zuffa Boxing 09 Predictions, Odds &amp; Best Bets for Berlanga vs. Butler</title>
       <link>https://www.sportsbettingdime.com/news/boxing/zuffa-09-predictions-odds-best-bets-berlanga-vs-butler/</link>
@@ -277,6 +193,94 @@
       <pubDate>Sun, 26 Jul 2026 23:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/aa0998ce-db70-42a5-8709-4fd7f8aa5bcf/thumbnail/1200x630/0db002c23e38df517b7936cc1798edaa/chess-boxing-video.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>7/26/2026: Vaccine Court; Chess Boxing; Amy Sherald</title>
+      <link>https://www.cbsnews.com/video/60minutes-2026-07-26/</link>
+      <description>7/26/2026: Vaccine Court; Chess Boxing; Amy Sherald</description>
+      <guid isPermaLink="false">73c1c21e1ffc1e1465fe9c9fb5fa6b36</guid>
+      <enclosure url="https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/025998b3-b0e5-42db-97e8-be6782afcdac/thumbnail/1200x630/10ec143e5f74f821087d142abeacdec9/60-minutes-full-episode-7-26-2026.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 26 Jul 2026 23:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/025998b3-b0e5-42db-97e8-be6782afcdac/thumbnail/1200x630/10ec143e5f74f821087d142abeacdec9/60-minutes-full-episode-7-26-2026.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Vladyslav Sirenko Scores Last-Second KO Win Over Otto Wallin | Zuffa Boxing 09</title>
+      <link>https://www.ufc.com/video/158657</link>
+      <description>Heavyweight Vladyslav Sirenko Knocks Out Otto Wallin At Zuffa Boxing 09 In New York City</description>
+      <guid isPermaLink="false">539be0a27f7efe516c89b2ef4c384cfc</guid>
+      <enclosure url="https://ufc.com/images/2026-07/072626-vladyslav-sirenko-punch.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 00:36:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ufc.com/images/2026-07/072626-vladyslav-sirenko-punch.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Vladyslav Sirenko Knocks Out Otto Wallin With One Second Left</title>
+      <link>https://www.boxingnews24.com/2026/07/vladyslav-sirenko-knocks-out-otto-wallin-with-one-second-left/</link>
+      <description>Vladyslav Sirenko delivered one of the year's most dramatic heavyweight knockouts on Sunday night, flattening Otto Wallin with one second remaining in the</description>
+      <guid isPermaLink="false">79efdfe1a3031bd25bf32e5c66e84fe8</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Sirenko-vs-Wallin2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 00:58:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Sirenko-vs-Wallin2.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Edgar Berlanga vs. Steven Butler live results, round-by-round updates, ring walks for Zuffa Boxing 9</title>
+      <link>https://sports.yahoo.com/boxing/live/edgar-berlanga-vs-steven-butler-live-results-round-by-round-updates-ring-walks-for-zuffa-boxing-9-060000018.html</link>
+      <description>Follow Edgar Berlanga vs. Steven Butler and Richardson Hitchins vs.</description>
+      <guid isPermaLink="false">2037178e01275ef02e156b595236c910</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/8.NHzNFdtBe4K8X3a5y3Jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/2026-07/7106cc94-579e-49e5-883e-625d1edd47a8" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 01:21:48 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/8.NHzNFdtBe4K8X3a5y3Jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/2026-07/7106cc94-579e-49e5-883e-625d1edd47a8" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Richardson Hitchins Ring Interview | Zuffa Boxing 09</title>
+      <link>https://www.ufc.com/video/158660</link>
+      <description>Welterweight Ricahrdson Hitchins Speaks With Max Kellerman After His Win At Zuffa Boxing 09 In New York City</description>
+      <guid isPermaLink="false">d9b93f048a4a65bce583fcba53f3a273</guid>
+      <enclosure url="https://ufc.com/images/2026-07/072626-richardson-hitchins-ring-interview.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 02:50:22 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ufc.com/images/2026-07/072626-richardson-hitchins-ring-interview.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Richardson Hitchins dominates Ricardo Salas over 10 in Zuffa Boxing debut</title>
+      <link>https://www.boxingscene.com/articles/richardson-hitchins-dominates-ricardo-salas-over-10-in-zuffa-boxing-debut</link>
+      <description>Undefeated former junior welterweight world champion Richardson Hitchins made a successful Zuffa Boxing welterweight debut by dominating Ricardo Salas to win a wide unanimous decision at Zuffa Boxing 09 from Madison Square Garden in New York.</description>
+      <guid isPermaLink="false">0196bd7d586afac5313980002bf8c439</guid>
+      <enclosure url="https://photo.boxingscene.com/uploads/richardsonhitchinsricardosalas1.webp" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 03:30:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://photo.boxingscene.com/uploads/richardsonhitchinsricardosalas1.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Edgar Berlanga Ring Interview | Zuffa Boxing 09</title>
+      <link>https://www.ufc.com/video/158663</link>
+      <description>Edgar Berlanga Speaks With Max Kellerman After His TKO Win Over Steven Butler At Zuffa Boxing 09</description>
+      <guid isPermaLink="false">1f4e084ff3972236cad52750850642f5</guid>
+      <enclosure url="https://ufc.com/images/2026-07/072626-edgar-berlanga-ring-interview.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 03:49:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ufc.com/images/2026-07/072626-edgar-berlanga-ring-interview.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Highlights! Berlanga Shines In Zuffa Boxing Debut With Massive TKO</title>
+      <link>https://sports.yahoo.com/articles/highlights-berlanga-shines-zuffa-boxing-040119788.html</link>
+      <description>Both Edgar Berlanga and Richardson Hitchins were signed by Zuffa Boxing at the same time earlier this year, so it was only fitting that the two sluggers would make their debuts on the same night. Indeed, Berlanga headlined Zuffa Boxing 9 last night (Sun.</description>
+      <guid isPermaLink="false">406659bb8038b914c9dc7d3ed860c2a1</guid>
+      <enclosure url="https://s.yimg.com/ny/api/res/1.2/i9wcQAlpZalmx_FSpMZgdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/media.zenfs.com/en/sb_nation_articles_115/a945d342d01dabafcfdf391a11120b2a" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 04:01:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/ny/api/res/1.2/i9wcQAlpZalmx_FSpMZgdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/media.zenfs.com/en/sb_nation_articles_115/a945d342d01dabafcfdf391a11120b2a" medium="image"/>
       </media:group>
     </item>
   </channel>
