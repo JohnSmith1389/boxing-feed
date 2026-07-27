@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 23:28:24 +0000</lastBuildDate>
-    <item>
-      <title>Britain Commonwealth Games Boxing</title>
-      <link>https://lufkindailynews.com/anpa/sports/britain-commonwealth-games-boxing/image_4f3b850b-78ac-59c7-b6bd-8ec0d3a5551e.html</link>
-      <description>Canada's Gabriel Labrie, takes break as he competes against Pakistan's Afzal Khan during the Men's 65kg round of 16 boxing bout at the Commonwealth Games in Glasgow, Scotland, Sunday, July</description>
-      <guid isPermaLink="false">0104f12567d2d7ec4ae45e8e9ea70545</guid>
-      <enclosure url="https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/4/f3/4f3b850b-78ac-59c7-b6bd-8ec0d3a5551e/6a660ce298dcc.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 13:30:20 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/4/f3/4f3b850b-78ac-59c7-b6bd-8ec0d3a5551e/6a660ce298dcc.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Zuffa Boxing 09: Berlanga vs. Butler Full Card, Odds, Start Time &amp; How to Watch</title>
-      <link>https://dknetwork.draftkings.com/2026/07/26/zuffa-boxing-09-berlanga-vs-butler-full-card-odds-start-time-how-to-watch/</link>
-      <description>Before tonight’s Zuffa Boxing 09 card headlined byEdgar Berlanga vs. Steven Butler, Ryan Wohl breaks down viewing information and odds for the event.</description>
-      <guid isPermaLink="false">1403ff43bc4bb0e83f3c942436000e5d</guid>
-      <enclosure url="https://dknetwork.draftkings.com/wp-content/uploads/2026/07/GettyImages-2286665362_7d7391.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 14:30:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://dknetwork.draftkings.com/wp-content/uploads/2026/07/GettyImages-2286665362_7d7391.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 01:11:04 +0000</lastBuildDate>
     <item>
       <title>New Mexico IPA Challenge 2026: Boxing Bear defends title at final round Aug. 1</title>
       <link>https://www.abqjournal.com/lifestyles/new-mexico-brewers-guild-ipa-competition-heads-into-final-round/3086662</link>
@@ -83,6 +61,17 @@
       <pubDate>Sun, 26 Jul 2026 16:12:53 +0000</pubDate>
       <media:group>
         <media:content url="https://i.guim.co.uk/img/media/1316fd431b71b96146dd0a75036d6bc11244c614/57_0_1236_989/master/1236.jpg?width=1200&amp;height=1200&amp;quality=85&amp;auto=format&amp;fit=crop&amp;s=e76f81922bbd3c9f04171be5087287de" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing 09 Live Results: Berlanga Vs. Butler</title>
+      <link>https://www.boxingnews24.com/2026/07/zuffa-boxing-09-live-results-berlanga-vs-butler/</link>
+      <description>Zuffa Boxing returns tonight from the Infosys Theater at Madison Square Garden in New York, with Edgar Berlanga facing Steven Butler in a 10-round super</description>
+      <guid isPermaLink="false">004be0499e117093347ca01055804c8c</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Berlanga-vs-Butler6.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 26 Jul 2026 16:30:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Berlanga-vs-Butler6.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -277,6 +266,17 @@
       <pubDate>Sun, 26 Jul 2026 22:23:26 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/756149231_18088520066543615_1476459350443118845_n-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Inside a chess boxing bout, where brain meets brawn</title>
+      <link>https://www.cbsnews.com/video/chess-boxing-60-minutes-video-2026-07-26/</link>
+      <description>Inside a chess boxing bout, where brain meets brawn</description>
+      <guid isPermaLink="false">b1bb5616ac05a9277eebd422b8db6d6d</guid>
+      <enclosure url="https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/aa0998ce-db70-42a5-8709-4fd7f8aa5bcf/thumbnail/1200x630/0db002c23e38df517b7936cc1798edaa/chess-boxing-video.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 26 Jul 2026 23:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/aa0998ce-db70-42a5-8709-4fd7f8aa5bcf/thumbnail/1200x630/0db002c23e38df517b7936cc1798edaa/chess-boxing-video.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
