@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 15:23:59 +0000</lastBuildDate>
-    <item>
-      <title>7/26/2026: Vaccine Court; Chess Boxing; Amy Sherald</title>
-      <link>https://www.cbsnews.com/video/60minutes-2026-07-26/</link>
-      <description>7/26/2026: Vaccine Court; Chess Boxing; Amy Sherald</description>
-      <guid isPermaLink="false">73c1c21e1ffc1e1465fe9c9fb5fa6b36</guid>
-      <enclosure url="https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/025998b3-b0e5-42db-97e8-be6782afcdac/thumbnail/1200x630/10ec143e5f74f821087d142abeacdec9/60-minutes-full-episode-7-26-2026.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 23:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/025998b3-b0e5-42db-97e8-be6782afcdac/thumbnail/1200x630/10ec143e5f74f821087d142abeacdec9/60-minutes-full-episode-7-26-2026.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Vladyslav Sirenko Scores Last-Second KO Win Over Otto Wallin | Zuffa Boxing 09</title>
-      <link>https://www.ufc.com/video/158657</link>
-      <description>Heavyweight Vladyslav Sirenko Knocks Out Otto Wallin At Zuffa Boxing 09 In New York City</description>
-      <guid isPermaLink="false">539be0a27f7efe516c89b2ef4c384cfc</guid>
-      <enclosure url="https://ufc.com/images/2026-07/072626-vladyslav-sirenko-punch.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 00:36:05 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-07/072626-vladyslav-sirenko-punch.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Vladyslav Sirenko Knocks Out Otto Wallin With One Second Left</title>
-      <link>https://www.boxingnews24.com/2026/07/vladyslav-sirenko-knocks-out-otto-wallin-with-one-second-left/</link>
-      <description>Vladyslav Sirenko delivered one of the year's most dramatic heavyweight knockouts on Sunday night, flattening Otto Wallin with one second remaining in the</description>
-      <guid isPermaLink="false">79efdfe1a3031bd25bf32e5c66e84fe8</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Sirenko-vs-Wallin2.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 00:58:08 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Sirenko-vs-Wallin2.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Results From Zuffa 9 Prelims At MSG</title>
-      <link>https://fightnews.com/results-from-zuffa-9-prelims-at-msg/192916</link>
-      <description>Vladyslav Sirenko went toe to toe with experienced heavyweight campaigner Otto Wallin, then closed the show with a</description>
-      <guid isPermaLink="false">08c7f1e85f380868988ea72fb7d5021f</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/EM2_8520.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 01:00:01 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/EM2_8520.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Edgar Berlanga vs. Steven Butler live results, round-by-round updates, ring walks for Zuffa Boxing 9</title>
-      <link>https://sports.yahoo.com/boxing/live/edgar-berlanga-vs-steven-butler-live-results-round-by-round-updates-ring-walks-for-zuffa-boxing-9-060000018.html</link>
-      <description>Follow Edgar Berlanga vs. Steven Butler and Richardson Hitchins vs.</description>
-      <guid isPermaLink="false">2037178e01275ef02e156b595236c910</guid>
-      <enclosure url="https://s.yimg.com/ny/api/res/1.2/8.NHzNFdtBe4K8X3a5y3Jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/2026-07/7106cc94-579e-49e5-883e-625d1edd47a8" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 27 Jul 2026 01:21:48 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/ny/api/res/1.2/8.NHzNFdtBe4K8X3a5y3Jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https:/d29szjachogqwa.cloudfront.net/images/2026-07/7106cc94-579e-49e5-883e-625d1edd47a8" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 17:17:30 +0000</lastBuildDate>
     <item>
       <title>Richardson Hitchins Ring Interview | Zuffa Boxing 09</title>
       <link>https://www.ufc.com/video/158660</link>
@@ -251,6 +196,17 @@
       </media:group>
     </item>
     <item>
+      <title>Zuffa Boxing 9 Results: Berlanga Stops Butler in Seven in NY</title>
+      <link>https://www.boxinginsider.com/headlines/zuffa-boxing-9-results-berlanga-stops-butler-in-seven-in-ny/</link>
+      <description>Edgar Berlanga climbed off the canvas to stop Steven Butler at 1:19 of the seventh round in the main event of Zuffa Boxing 09 on Sunday night at the</description>
+      <guid isPermaLink="false">4c0b2e8342b06ae9987fdf9ad09dda0c</guid>
+      <enclosure url="https://www.boxinginsider.com/wp-content/uploads/2026/07/IMG_8382.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 12:28:13 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxinginsider.com/wp-content/uploads/2026/07/IMG_8382.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Britain Commonwealth Games Boxing</title>
       <link>https://www.journal-news.com/nation-world/britain-commonwealth-games-boxing/image_42c857dc-d03f-5b16-859b-ba591ef474ca.html</link>
       <description>England's Hewitt William, in blue, and India's Sachin competes in 60 kilogram boxing during the Commonwealth Games in Glasgow, Scotland, Monday, July 27, 2026. (AP Photo/Manish Swarup)</description>
@@ -259,6 +215,17 @@
       <pubDate>Mon, 27 Jul 2026 12:33:07 +0000</pubDate>
       <media:group>
         <media:content url="https://bloximages.chicago2.vip.townnews.com/journal-news.com/content/tncms/assets/v3/editorial/4/2c/42c857dc-d03f-5b16-859b-ba591ef474ca/6a6750cb3b684.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Mike Tyson, Floyd Mayweather and Manny Pacquiao could all be set to appear on the same card</title>
+      <link>https://boxingnewsonline.net/news/tyson-mayweather-pacquiao-on-same-card/</link>
+      <description>Three of boxing’s biggest legends could be set to appear on one blockbuster card later this year, with Mike Tyson, Floyd Mayweather and Manny Pacquiao all</description>
+      <guid isPermaLink="false">d0cb8e569b316c917b6f1351b14116cf</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1785157836786710761/mayweather-pacquiao-mike-tyson.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 13:11:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1785157836786710761/mayweather-pacquiao-mike-tyson.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -273,6 +240,17 @@
       </media:group>
     </item>
     <item>
+      <title>Bilal Fawaz: British light-middleweight champion fighting for a British passport</title>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/c75gwq7l0rno</link>
+      <description>British champion Bilal Fawaz has lived in the UK for more than 20 years but is fighting for British citizenship - his story features in a new BBC documentary.</description>
+      <guid isPermaLink="false">f5a5da4aa27ef849674382f0656f7664</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce2a/live/37480fa0-8693-11f1-9e03-bdd14c1ce63a.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 14:07:32 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce2a/live/37480fa0-8693-11f1-9e03-bdd14c1ce63a.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>‘Fightland’ Review: Starz Boxing Drama Hooks With Punchy First Impression</title>
       <link>https://www.thewrap.com/creative-content/reviews/fightland-review-starz/</link>
       <description>After “MobLand” and “The Gentlemen,” “Fightland” makes a compelling case to become the next binge-worthy British crime drama</description>
@@ -281,6 +259,28 @@
       <pubDate>Mon, 27 Jul 2026 14:30:00 +0000</pubDate>
       <media:group>
         <media:content url="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2026/07/fightland-jurell-carter-howard-charles-starz.jpg?fit=1280%2C720&amp;quality=89&amp;ssl=1" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Fitness Boxing 3: Your Personal Trainer (Nintendo Switch 2 Edition) Review</title>
+      <link>https://www.cgmagonline.com/review/game/fitness-boxing-3-switch-2/</link>
+      <description>Even with Nintendo Switch 2 Edition upgrades, Fitness Boxing 3 is more Rock Band than Ring Fit Adventure—but still a good way to get moving.</description>
+      <guid isPermaLink="false">a37059cb436103ef975fa204b730b704</guid>
+      <enclosure url="https://www.cgmagonline.com/wp-content/uploads/2026/07/fitness-boxing-3-your-personal-trainer-nintendo-switch-2-edition-review-2068.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 16:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.cgmagonline.com/wp-content/uploads/2026/07/fitness-boxing-3-your-personal-trainer-nintendo-switch-2-edition-review-2068.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Dana White quietly ends Zuffa’s war against boxing’s sanctioning bodies, Jake Paul reacts</title>
+      <link>https://www.mmamania.com/zuffa-boxing-news/460551/dana-white-ends-zuffa-war-boxings-sanctioning-bodies-jake-paul-reacts</link>
+      <description>Zuffa’s Dana White now open to working with boxing’s sanctioning bodies like WBC, WBA, and IBF despite previously slamming the door on any outside organizations.</description>
+      <guid isPermaLink="false">c71ea38a39ef578e80ef813eecb9dc23</guid>
+      <enclosure url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/07/gettyimages-839149138.jpg?quality=90&amp;strip=all&amp;crop=0%2C13.152031214858%2C100%2C73.695937570283&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 16:42:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/07/gettyimages-839149138.jpg?quality=90&amp;strip=all&amp;crop=0%2C13.152031214858%2C100%2C73.695937570283&amp;w=1200" medium="image"/>
       </media:group>
     </item>
   </channel>
