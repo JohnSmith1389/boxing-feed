@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 16:45:30 +0000</lastBuildDate>
-    <item>
-      <title>British boxing icon pleads with Anthony Joshua to retire before Fury fight after 'shocking' Prenga performance</title>
-      <link>https://boxingnewsonline.net/news/boxing-icon-pleads-with-joshua-to-retire/</link>
-      <description>Anthony Joshua’s performance against Kristian Prenga has drawn concern from fight fans ahead of a long-awaited grudge match with Tyson Fury, and one British</description>
-      <guid isPermaLink="false">1daf875e8bfc69877f8a42e822866404</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1785230241623284025/prenga-joshua.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 09:17:57 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1785230241623284025/prenga-joshua.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Caroline Dubois splits from trainer Shane McGuigan ahead of lightweight title defence vs Amelia Moore</title>
-      <link>https://www.skysports.com/boxing/news/11067/13567672/caroline-dubois-splits-from-trainer-shane-mcguigan-ahead-of-lightweight-title-defence-vs-amelia-moore</link>
-      <description>Caroline Dubois has parted ways with trainer Shane McGuigan before she bids to defend her WBC and WBO lightweight titles against Amelia Moore in Birmingham on August 29, live on Sky Sports.</description>
-      <guid isPermaLink="false">2af696dcda604f1dcaf64058753d4fb7</guid>
-      <enclosure url="https://e0.365dm.com/26/07/1600x900/skysports-caroline-dubois_7308350.jpg?20260728095733" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 09:46:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/07/1600x900/skysports-caroline-dubois_7308350.jpg?20260728095733" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>BKFC Announces Darren Till vs Yoel Romero, Teases Another Future Super Fight</title>
-      <link>https://www.si.com/fannation/boxing/bkfc-announces-darren-till-vs-yoel-romero-teases-another-future-super-fight</link>
-      <description>Darren Till officially has his second BKFC opponent booked. In the two months since his second-round knockout win over Aaron Chalmers at BKFC 90, Till has done</description>
-      <guid isPermaLink="false">4d8a50d98145c72f7f8aa5e21696eb43</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_774,y_227,w_1303,h_732/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kt5151m8zga1ap7snd.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 10:00:04 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_774,y_227,w_1303,h_732/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kt5151m8zga1ap7snd.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A boxing trail blazer: Thornton-Peek honored at Convention Days luncheon on Seneca Falls</title>
-      <link>https://www.fltimes.com/news/a-boxing-trail-blazer-thornton-peek-honored-at-convention-days-luncheon-on-seneca-falls/article_bc99151f-021b-4498-9401-707187d2acc6.html</link>
-      <description>SENECA FALLS — The history, friendship, and inspiration were unforgettable during the 178th anniversary of Convention Days.</description>
-      <guid isPermaLink="false">faf8046d0e9144b19199a5806d889dc0</guid>
-      <enclosure url="https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/8/d0/8d02ac2f-02dc-456d-b72d-cf5e8dc031b4/6a67762c46f84.image.jpg?crop=650%2C341%2C0%2C249" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 10:20:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/8/d0/8d02ac2f-02dc-456d-b72d-cf5e8dc031b4/6a67762c46f84.image.jpg?crop=650%2C341%2C0%2C249" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Nataly Delgado Receives WBA Championship Belt</title>
-      <link>https://fightnews.com/nataly-delgado-receives-wba-championship-belt/192983</link>
-      <description>By Héctor Villarreal In a warm and intimate ceremony held at the Acha Restaurant in Panama City, Panama,</description>
-      <guid isPermaLink="false">17489f325eefe383427a057c3ced1425</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/IMG-20260727-WA0042.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 10:34:13 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/IMG-20260727-WA0042.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 18:13:24 +0000</lastBuildDate>
     <item>
       <title>MVP And Matchroom Enter Strategic Alliance</title>
       <link>https://fightnews.com/mvp-and-matchroom-enter-strategic-alliance/192986</link>
@@ -273,6 +218,17 @@
       </media:group>
     </item>
     <item>
+      <title>Eddie Hearn’s Matchroom, Jake Paul’s MVP enter ‘alliance’: What does this mean for women’s boxing?</title>
+      <link>https://www.nytimes.com/athletic/7475109/2026/07/28/eddie-hearn-matchroom-jake-paul-mvp-womens-boxing/</link>
+      <description>It will bring together the large stable of female fighters put together by MVP with those signed by Matchroom.</description>
+      <guid isPermaLink="false">72d09d526759a2e45afd53bc05c5002d</guid>
+      <enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/07/28113032/GettyImages-2279258038-scaled-e1785252663926.jpg?width=1200&amp;height=630&amp;fit=cover" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 15:40:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/07/28113032/GettyImages-2279258038-scaled-e1785252663926.jpg?width=1200&amp;height=630&amp;fit=cover" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Lamar Jackson in Phenomenal Shape After Offseason Boxing With Zay Flowers</title>
       <link>https://www.baltimoreravens.com/news/lamar-jackson-phenomenal-shape-offseason-boxing-training-running</link>
       <description>Lamar Jackson says opponents still have to ‘pick your poison’ with him as a runner.</description>
@@ -281,6 +237,50 @@
       <pubDate>Tue, 28 Jul 2026 15:41:10 +0000</pubDate>
       <media:group>
         <media:content url="https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/tldilawljs5kgrkrrupa" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Idi Amin's boxer grandson determined to become new King of Scotland at Commonwealth Games</title>
+      <link>https://www.bbc.com/sport/boxing/articles/ce8l0661yd7o</link>
+      <description>Aziz Abdul wants Ugandan to recognise him as a Commonwealth Games boxing gold medallist rather than as Idi Amin's grandson.</description>
+      <guid isPermaLink="false">de722455ceddb6603a21483bfc2cef3e</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0a0d/live/687c3410-8a90-11f1-a7ab-8b30adf0800a.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 16:04:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0a0d/live/687c3410-8a90-11f1-a7ab-8b30adf0800a.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Bonds set over $1M for man charged in killing rising boxing star</title>
+      <link>https://www.kbtx.com/2026/07/28/bonds-set-over-1m-man-charged-killing-rising-boxing-star/</link>
+      <description>Charles Medina is accused of running over and killing Bryan boxer, Hannah Rapp, on July 18th. He now has his bonds set at a total of nearly $1 million.</description>
+      <guid isPermaLink="false">162750d64439c1623bec61e3a8dd85f7</guid>
+      <enclosure url="https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/CFFWH4IXRBG6ZC7FYOO5BBPQJA.png?auth=35a2dd57e5dbb9046e82f1c4d1fd34f3a27bd8309f0c158c96cb9a26d658623c&amp;width=1200&amp;height=600&amp;smart=true" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 17:21:12 +0000</pubDate>
+      <media:group>
+        <media:content url="https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/CFFWH4IXRBG6ZC7FYOO5BBPQJA.png?auth=35a2dd57e5dbb9046e82f1c4d1fd34f3a27bd8309f0c158c96cb9a26d658623c&amp;width=1200&amp;height=600&amp;smart=true" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Jake Paul's MVP and Eddie Hearn's Matchroom Form Unlikely Alliance</title>
+      <link>https://www.si.com/fannation/boxing/jake-paul-mvp-and-eddie-hearn-matchroom-form-unlikely-alliance</link>
+      <description>Jake Paul's Most Valuable Promotions and Eddie Hearn's Matchroom Boxing have surprised the boxing world and formed a 'strategic alliance' for the future of wome</description>
+      <guid isPermaLink="false">7dfd9692f21e86543c4e855b948beaad</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_137,w_3543,h_1992/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jptd6aw1xs9v2hck25.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 17:30:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_137,w_3543,h_1992/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jptd6aw1xs9v2hck25.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxing: Mikaela Mayer doesn't see 'anyone beating me' ahead of Chantelle Cameron clash</title>
+      <link>https://www.skysports.com/boxing/video/30998/13567869/boxing-mikaela-mayer-doesnt-see-anyone-beating-me-ahead-of-chantelle-cameron-clash</link>
+      <description>Mikaela Mayer is supremely confident shell beat Chantelle Cameron when the pair clash on 29 August, live on Sky Sports.</description>
+      <guid isPermaLink="false">87e755dea5177c91fade465fadd64e29</guid>
+      <enclosure url="https://e0.365dm.com/26/07/1600x900/skysports-boxing-cameron-mayer_7308781.jpg?20260728173755" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 17:34:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://e0.365dm.com/26/07/1600x900/skysports-boxing-cameron-mayer_7308781.jpg?20260728173755" medium="image"/>
       </media:group>
     </item>
   </channel>
