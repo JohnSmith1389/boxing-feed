@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 03:49:02 +0000</lastBuildDate>
-    <item>
-      <title>Lamar Jackson in Phenomenal Shape After Offseason Boxing With Zay Flowers</title>
-      <link>https://www.baltimoreravens.com/news/lamar-jackson-phenomenal-shape-offseason-boxing-training-running</link>
-      <description>Lamar Jackson says opponents still have to ‘pick your poison’ with him as a runner.</description>
-      <guid isPermaLink="false">4b1ab12184f0e08714d79889a2a23a9a</guid>
-      <enclosure url="https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/tldilawljs5kgrkrrupa" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 15:41:10 +0000</pubDate>
-      <media:group>
-        <media:content url="https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/ravens/tldilawljs5kgrkrrupa" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Idi Amin's boxer grandson determined to become new King of Scotland at Commonwealth Games</title>
-      <link>https://www.bbc.com/sport/boxing/articles/ce8l0661yd7o</link>
-      <description>Aziz Abdul wants Ugandan to recognise him as a Commonwealth Games boxing gold medallist rather than as Idi Amin's grandson.</description>
-      <guid isPermaLink="false">de722455ceddb6603a21483bfc2cef3e</guid>
-      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0a0d/live/687c3410-8a90-11f1-a7ab-8b30adf0800a.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 28 Jul 2026 16:04:24 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0a0d/live/687c3410-8a90-11f1-a7ab-8b30adf0800a.png" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 06:30:06 +0000</lastBuildDate>
     <item>
       <title>What Can Dana White Do With Shakur Stevenson?</title>
       <link>https://www.si.com/fannation/boxing/what-can-dana-white-do-with-shakur-stevenson</link>
@@ -196,6 +174,17 @@
       </media:group>
     </item>
     <item>
+      <title>‘Very disappointing’: Caroline Dubois hasn’t managed to land unification fight</title>
+      <link>https://www.badlefthook.com/boxing-news/117585/caroline-dubois-hasnt-managed-to-land-unification-fight-boxing-news-2026</link>
+      <description>Caroline Dubois says she’s actively looking to unify titles but other champions aren’t participating.</description>
+      <guid isPermaLink="false">28ce40c0392ac63506e43f9dd9abe172</guid>
+      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/07/gettyimages-2288009536.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.698888476372%2C100%2C78.602223047257&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 21:10:52 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/07/gettyimages-2288009536.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.698888476372%2C100%2C78.602223047257&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Jake Paul Defends Mike Tyson Fight, Says He Brought Boxing to Netflix</title>
       <link>https://sports.yahoo.com/articles/jake-paul-defends-mike-tyson-211233128.html</link>
       <description>From Mike Tyson backlash to record-breaking Netflix numbers, the polarizing star lays out why he thinks combat sports can't ignore him anymore.</description>
@@ -281,6 +270,17 @@
       <pubDate>Wed, 29 Jul 2026 00:32:41 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/d81598939da22de991fb29b46c2040ca1d1024ca4303fe4a5e27ccc1d0b6c015/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2Fdf76aa31-7d0c-46a3-873e-d75c18cd06c8" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>MVP, Matchroom announce major boxing partnership</title>
+      <link>https://www.sherdog.com/news/news/MVP-Matchroom-announce-major-boxing-partnership-202125</link>
+      <description>Most Valuable Promotions and Matchroom Boxing have joined forces in a landmark partnership aimed at accelerating the growth of women's boxing.</description>
+      <guid isPermaLink="false">41afc3c6ecce86ec9e66b699486e4a7f</guid>
+      <enclosure url="https://www1-cdn.sherdog.com/_images/headers/20260729054757_jakepaul.JPEG" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www1-cdn.sherdog.com/_images/headers/20260729054757_jakepaul.JPEG" medium="image"/>
       </media:group>
     </item>
   </channel>
