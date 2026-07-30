@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 06:05:33 +0000</lastBuildDate>
-    <item>
-      <title>Jake Paul calls out Dana White over Zuffa Boxing’s sanctioning shift</title>
-      <link>https://sports.yahoo.com/videos/jake-paul-calls-dana-white-180437240.html</link>
-      <description>Jake Paul calls out Dana White over Zuffa Boxing’s sanctioning shift</description>
-      <guid isPermaLink="false">4c04d7ed80175d15a59ba4ce2412858c</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/6ed19b0bc7e04047a7ddbc0ff1293cc4984015dbf367219e1ab17b1121ed0553/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsherdog_sports_videos_459%2Fa36ab422752f0a78ee86f2f5a75623af" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 18:04:37 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/6ed19b0bc7e04047a7ddbc0ff1293cc4984015dbf367219e1ab17b1121ed0553/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsherdog_sports_videos_459%2Fa36ab422752f0a78ee86f2f5a75623af" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 09:12:58 +0000</lastBuildDate>
     <item>
       <title>TNT Sports &amp; DAZN to Present Championship Boxing as "The Fight" Returns Saturday, Aug. 1 Featuring Lamont Roach Jr. vs. William Zepeda Title Bout</title>
       <link>https://press.wbd.com/us/media-release/tnt-sports-dazn-present-championship-boxing-fight-returns-saturday-aug-1-featuring?language_content_entity=en&amp;fb</link>
@@ -270,6 +259,17 @@
       <description>WBAN’s Kirk Lang to Receive Contribution to Boxing Award from the Connecticut Boxing Hall of Fame</description>
       <guid isPermaLink="false">09b1395e08d566f55c5de184c2d6ac95</guid>
       <pubDate>Thu, 30 Jul 2026 04:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Quincy youth boxer is already a national champion at 12 years old</title>
+      <link>https://www.patriotledger.com/story/sports/youth/2026/07/30/quincy-boxer-brendan-mcintyre-12-captures-national-championship/90981887007/</link>
+      <description>Trainer Pierre Aubry said the 12-year-old from Quincy \</description>
+      <guid isPermaLink="false">3c242157bd48fc449eed932a054fcfa5</guid>
+      <enclosure url="https://www.gannett-cdn.com/authoring/authoring-images/2026/07/28/NPAL/91071502007-temp-imagem-cb-1-bp.jpg?auto=webp&amp;crop=4283,2410,x0,y571&amp;format=pjpg&amp;width=1200" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 08:01:31 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.gannett-cdn.com/authoring/authoring-images/2026/07/28/NPAL/91071502007-temp-imagem-cb-1-bp.jpg?auto=webp&amp;crop=4283,2410,x0,y571&amp;format=pjpg&amp;width=1200" medium="image"/>
+      </media:group>
     </item>
   </channel>
 </rss>
