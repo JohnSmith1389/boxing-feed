@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 09:12:58 +0000</lastBuildDate>
-    <item>
-      <title>TNT Sports &amp; DAZN to Present Championship Boxing as "The Fight" Returns Saturday, Aug. 1 Featuring Lamont Roach Jr. vs. William Zepeda Title Bout</title>
-      <link>https://press.wbd.com/us/media-release/tnt-sports-dazn-present-championship-boxing-fight-returns-saturday-aug-1-featuring?language_content_entity=en&amp;fb</link>
-      <description>The Fight returns to TNT Sports and DAZN on Saturday, Aug. 1, with an action-packed championship fight card live from Las Vegas.Headlining the evening,</description>
-      <guid isPermaLink="false">3285a4edc438ee9e73046e042b406ac1</guid>
-      <pubDate>Wed, 29 Jul 2026 18:05:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nevada Athletic Commission recognizes judge Dave Moretti for his contributions to boxing</title>
-      <link>https://www.usatoday.com/videos/sports/boxing/2026/07/29/nevada-state-athletic-commission-recognizes-and-honors-longtime-boxing-judge-dave-moretti-for-his-co/91095033007/</link>
-      <description>Nevada Athletic Commission recognizes judge Dave Moretti for his contributions to boxing</description>
-      <guid isPermaLink="false">cd7c8e4854f2e561e0882c5ce7479120</guid>
-      <enclosure url="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/29/USAT/91095248007-705-7559-mxf-20-58-36-11-still-002.jpg?crop=3839,2159,x0,y0&amp;width=3200&amp;height=1800&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 29 Jul 2026 18:08:06 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/29/USAT/91095248007-705-7559-mxf-20-58-36-11-still-002.jpg?crop=3839,2159,x0,y0&amp;width=3200&amp;height=1800&amp;format=pjpg&amp;auto=webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 30 Jul 2026 11:28:36 +0000</lastBuildDate>
     <item>
       <title>'The Final Round' trailer: Sky Sports film explores boxing's painful retirements</title>
       <link>https://www.yahoo.com/news/videos/final-round-trailer-sky-sports-183517245.html</link>
@@ -269,6 +251,28 @@
       <pubDate>Thu, 30 Jul 2026 08:01:31 +0000</pubDate>
       <media:group>
         <media:content url="https://www.gannett-cdn.com/authoring/authoring-images/2026/07/28/NPAL/91071502007-temp-imagem-cb-1-bp.jpg?auto=webp&amp;crop=4283,2410,x0,y571&amp;format=pjpg&amp;width=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Will a woman ever step into a boxing ring to fight a man?</title>
+      <link>https://www.bbc.com/sport/boxing/videos/cx2rkgrmkvno</link>
+      <description>Punch Perfect hosts on whether we'll ever see a woman step into a boxing ring to fight a man.</description>
+      <guid isPermaLink="false">5ed76cdae0078c093642cdfdf295d8ed</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f541/live/6ca3a7b0-86a0-11f1-926f-c90d1bcfbc84.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 09:44:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f541/live/6ca3a7b0-86a0-11f1-926f-c90d1bcfbc84.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'Boxing Gloves, Rolling Pin': Inside Tannaz And Bakhtyar Irani's Battle-Ground Themed Parsi Wedding</title>
+      <link>https://www.ndtv.com/entertainment/boxing-gloves-rolling-pin-inside-tannaz-and-bakhtyar-iranis-battle-ground-themed-parsi-wedding-11843118</link>
+      <description>Tannaz married actor Bakhtyar Irani in 2007. The couple have two children: a son, Zeus, and a daughter, Zara.</description>
+      <guid isPermaLink="false">a7cd82cb2ade21400fc7028c6ada2a3f</guid>
+      <enclosure url="https://c.ndtvimg.com/2026-07/6ij4a88c_tannaz_625x300_30_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 30 Jul 2026 10:40:43 +0000</pubDate>
+      <media:group>
+        <media:content url="https://c.ndtvimg.com/2026-07/6ij4a88c_tannaz_625x300_30_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900" medium="image"/>
       </media:group>
     </item>
   </channel>
