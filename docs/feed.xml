@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 07:02:00 +0000</lastBuildDate>
-    <item>
-      <title>Fightland | Behind The Scenes Of 50 Cent's Boxing Thriller</title>
-      <link>https://www.yahoo.com/entertainment/videos/fightland-behind-scenes-50-cents-210000501.html</link>
-      <description>Fightland | Behind The Scenes Of 50 Cent's Boxing Thriller</description>
-      <guid isPermaLink="false">7349ebe8b3253dbf0069d0b35773eeda</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/5cf773e723a6cc1499ed1bd72375e8a264248a319cc7f21a2e0a4be630763168/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftvline.com%2F5ec87d4d209190a5a24f71efe5fe04d5" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jul 2026 21:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/5cf773e723a6cc1499ed1bd72375e8a264248a319cc7f21a2e0a4be630763168/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftvline.com%2F5ec87d4d209190a5a24f71efe5fe04d5" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Keyshawn Davis rejects Devin Haney fight, WBO purse bid</title>
-      <link>https://www.boxingscene.com/articles/keyshawn-davis-rejects-devin-haney-fight-wbo-purse-bid</link>
-      <description>Keyshawn Davis has rejected the Top Rank purse-bid offer of $2.1375 million to fight WBO welterweight champion Devin Haney.</description>
-      <guid isPermaLink="false">6645d983dc0e56241bc5e838a964a97a</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/KeyshawnDavis-TrainingCamp-05082026-03.webp" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jul 2026 21:08:25 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/KeyshawnDavis-TrainingCamp-05082026-03.webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Commonwealth Games 2026 boxing: Lovlina Borgohain leads perfect Indian show as all 10 boxers reach finals</title>
-      <link>https://www.olympics.com/en/news/commonwealth-games-2026-boxing-india-day-7-report</link>
-      <description>Lovlina Borgohain, Arundhati Choudhary, Preeti Pawar, Jaismine Lamboria, Sachin Siwach and six other Indian boxers advanced to the Commonwealth Games 2026 boxing finals.</description>
-      <guid isPermaLink="false">67bec5c2885c01bd23980ccf2e705df9</guid>
-      <enclosure url="https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/vzl1lhltpfhizw3kahst" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jul 2026 21:11:51 +0000</pubDate>
-      <media:group>
-        <media:content url="https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/vzl1lhltpfhizw3kahst" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxer earns Tuvalu's first Comm Games medal without winning bout</title>
-      <link>https://www.espn.com/boxing/story/_/id/49499825/boxer-earns-tuvalu-first-comm-games-medal-losing-only-bout</link>
-      <description>A boxer from Tuvalu has earned her tiny South Pacific nation's first ever Commonwealth Games medal without winning a fight in Glasgow.</description>
-      <guid isPermaLink="false">f611534fff390b58b5f8e3f3a62f203f</guid>
-      <enclosure url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0731%2Fr1696133_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jul 2026 21:27:40 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0731%2Fr1696133_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxer earns Tuvalu's first Comm Games medal without winning bout</title>
-      <link>https://africa.espn.com/boxing/story/_/id/49499825/boxer-earns-tuvalu-first-comm-games-medal-losing-only-bout</link>
-      <description>A boxer from Tuvalu has earned her tiny South Pacific nation's first ever Commonwealth Games medal without winning a fight in Glasgow.</description>
-      <guid isPermaLink="false">7cc0762093c852f11fe813e711a3f828</guid>
-      <enclosure url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0731%2Fr1696133_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jul 2026 21:27:40 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0731%2Fr1696133_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 09:31:44 +0000</lastBuildDate>
     <item>
       <title>WBO Confirms Keyshawn Davis Withdraws From Devin Haney Fight</title>
       <link>https://www.boxingnews24.com/2026/07/wbo-confirms-keyshawn-davis-withdraws-from-devin-haney-fight/</link>
@@ -105,6 +50,17 @@
       <pubDate>Fri, 31 Jul 2026 22:01:38 +0000</pubDate>
       <media:group>
         <media:content url="https://www.tvline.com/img/gallery/fightland-50-cents-british-boxing-drama-packs-some-power-the-cast-takes-us-inside-starzs-london-crime-thriller/l-intro-1785534643.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Fightland: 50 Cent's British Boxing Drama Packs Some Power — The Cast Takes Us Inside Starz's London Crime Thriller</title>
+      <link>https://www.yahoo.com/entertainment/tv/articles/fightland-50-cents-british-boxing-220138388.html</link>
+      <description>The cast of the show gives you the lay of the land, London-style — plus, read a premiere recap!</description>
+      <guid isPermaLink="false">8e9a10535bef593371c11f140669ffe5</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/31f1a22fca36997d8d7a69837783db2127846426c63eef0fed1bec166f45411a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftvline.com%2F4acc539dd086a4663a7742d1cf428da4" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 Jul 2026 22:01:38 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/31f1a22fca36997d8d7a69837783db2127846426c63eef0fed1bec166f45411a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftvline.com%2F4acc539dd086a4663a7742d1cf428da4" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -160,6 +116,17 @@
       <pubDate>Fri, 31 Jul 2026 23:00:34 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/a129a95855eefc48c70b27f6ddd361772a52a0e679015f97c3867589b0755896/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F5bb46f94-eca5-42ab-8398-b622f0622714" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Davis pulls out of Haney bout after rejecting 25% purse split</title>
+      <link>https://www.espn.com/boxing/story/_/id/49500920/davis-pulls-haney-bout-rejecting-25-purse-split</link>
+      <description>The WBO announced Friday that Keyshawn Davis will not proceed with challenging welterweight champion Devin Haney after declining the purse bid adjudication for the bout.</description>
+      <guid isPermaLink="false">06433b04d74de948ae945e9b05b15f99</guid>
+      <enclosure url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0517%2Fr1659259_1024x576_16%2D9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 31 Jul 2026 23:54:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0517%2Fr1659259_1024x576_16%2D9.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -281,6 +248,39 @@
       <pubDate>Sat, 01 Aug 2026 04:18:59 +0000</pubDate>
       <media:group>
         <media:content url="https://images.complex.com/complex/image/upload/c_crop,h_1910,w_2938,x_0,y_0/g_auto:aoi_1175_764_588_382,ar_1.91,c_fill,q_auto,w_1200/sanity-new/jinurikilibjyfga3w3b" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Shakur Stevenson Wants Lamont Roach Jr. After Zepeda Fight</title>
+      <link>https://www.boxingnews24.com/2026/08/shakur-stevenson-wants-lamont-roach-jr-after-zepeda-fight/</link>
+      <description>Shakur Stevenson publicly rooted for Lamont Roach Jr. on Friday night, making clear he wants Roach to defeat William Zepeda so they can fight for recognition</description>
+      <guid isPermaLink="false">341935e99e3551579ba1a3eb11fd7ee6</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Roach-vs-Zepeda7454-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 05:46:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Roach-vs-Zepeda7454-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Josh Torres wins unanimous decision over Jose Valenzuela at Albuquerque boxing card</title>
+      <link>https://www.abqjournal.com/sports/torres-makes-the-best-of-a-puzzling-situation/3094443</link>
+      <description>Albuquerque's Josh Torres swept all eight rounds in a unanimous decision win, while Cristian Cabral claimed a title belt in the co-main event.</description>
+      <guid isPermaLink="false">c05e6ca312f807de26b58f3bb4cd8955</guid>
+      <enclosure url="https://abqjournal.labrador.media/_img/?imageId=3094448&amp;width=1200" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 07:27:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://abqjournal.labrador.media/_img/?imageId=3094448&amp;width=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxing-Taafaki secures Tuvalu’s first Commonwealth Games medal without winning a bout</title>
+      <link>https://kwsn.com/2026/08/01/boxing-taafaki-secures-tuvalus-first-commonwealth-games-medal-without-winning-a-bout/</link>
+      <description>Aug 1 (Reuters) - Boxer Tarona Taafaki made history for Tuvalu when she won ​the Pacific island nation's ‌first ever Commonwealth Games medal in Glasgow, without winning a single bout. Taafaki, one of five entrants ‌in ​the women's 75kg ⁠category, rece...</description>
+      <guid isPermaLink="false">5a7556ddde026c8521c2db8c645b01b6</guid>
+      <enclosure url="https://media-cdn.socastsrm.com/uploads/station/2222/fbShare.png?r=67790" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 08:38:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://media-cdn.socastsrm.com/uploads/station/2222/fbShare.png?r=67790" medium="image"/>
       </media:group>
     </item>
   </channel>
