@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 14:25:24 +0000</lastBuildDate>
-    <item>
-      <title>Davis pulls out of Haney bout after rejecting 25% purse split</title>
-      <link>https://www.espn.com/boxing/story/_/id/49500920/davis-pulls-haney-bout-rejecting-25-purse-split</link>
-      <description>The WBO announced Friday that Keyshawn Davis will not proceed with challenging welterweight champion Devin Haney after declining the purse bid adjudication for the bout.</description>
-      <guid isPermaLink="false">06433b04d74de948ae945e9b05b15f99</guid>
-      <enclosure url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0517%2Fr1659259_1024x576_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jul 2026 23:54:24 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0517%2Fr1659259_1024x576_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 15:36:13 +0000</lastBuildDate>
     <item>
       <title>Portable loses celebrity boxing rematch to Okocha after ring walkout</title>
       <link>https://punchng.com/breaking-portable-loses-celebrity-boxing-rematch-to-okocha-after-ring-walkout/</link>
@@ -281,6 +270,17 @@
       <pubDate>Sat, 01 Aug 2026 14:03:43 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/312dc55eae26866adafc768f29e8978b55a45ba7a2f6ab40933d05e40df6e703/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa06cdf3919b872f20dbae6cbeb35ed65" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>England win first three boxing golds in Glasgow</title>
+      <link>https://sports.yahoo.com/articles/england-win-first-three-boxing-145603653.html</link>
+      <description>Sacha Hickey, Patris Mughalzai and Isaac Okoh all won their finals to add to the three bronzes already secured. With four more boxers in finals on Saturday, the squad could yet make this England's most successful Commonwealth Games in boxing.</description>
+      <guid isPermaLink="false">60cfa9174050b0b46ea42e02140fa2be</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/9978fe6a9c74ce95807c6b136dd9db3ffe0808095c81241fb770d90c4b782ca7/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F15229b9e6d82732a67d8d2f0259615f6" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 14:56:03 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/9978fe6a9c74ce95807c6b136dd9db3ffe0808095c81241fb770d90c4b782ca7/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F15229b9e6d82732a67d8d2f0259615f6" medium="image"/>
       </media:group>
     </item>
   </channel>
