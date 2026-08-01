@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 21:54:53 +0000</lastBuildDate>
-    <item>
-      <title>Commonwealth Games 2026: netball semi-finals, athletics, cycling and more</title>
-      <link>https://www.theguardian.com/sport/live/2026/aug/01/commonwealth-games-2026-netball-semi-finals-athletics-cycling-and-more-live</link>
-      <description>Join our writers for all the latest with 21 golds up for grabs on Saturday as the 2026 Games continue across Glasgow</description>
-      <guid isPermaLink="false">470c955c5e1d4532c0134d3298cba8c2</guid>
-      <pubDate>Sat, 01 Aug 2026 09:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Boxer secures Tuvalu’s first Commonwealth Games medal without winning a bout</title>
-      <link>https://www.theguardian.com/sport/2026/aug/01/boxer-tarona-taafaki-secures-tuvalu-first-commonwealth-games-medal-without-winning</link>
-      <description>A boxer has made history for ⁠Tuvalu by winning the tiny Pacific island nation’s first Commonwealth ⁠Games medal without winning a single fight</description>
-      <guid isPermaLink="false">6fb0d5d63205c337b734d1bca73efd82</guid>
-      <enclosure url="https://i.guim.co.uk/img/media/26b8bb94b8314a59cd22de2845c0545a1adc6e33/3_0_6880_5504/master/6880.jpg?width=1200&amp;height=1200&amp;quality=85&amp;auto=format&amp;fit=crop&amp;s=bc99a89b67a5f45cd2cf922d7912270b" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 01 Aug 2026 10:07:05 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.guim.co.uk/img/media/26b8bb94b8314a59cd22de2845c0545a1adc6e33/3_0_6880_5504/master/6880.jpg?width=1200&amp;height=1200&amp;quality=85&amp;auto=format&amp;fit=crop&amp;s=bc99a89b67a5f45cd2cf922d7912270b" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 22:54:51 +0000</lastBuildDate>
     <item>
       <title>How Mary Kom inspired Pakistan's first female Commonwealth Games boxing medallist</title>
       <link>https://www.olympics.com/en/news/commonwealth-games-2026-fatima-zahra-pakistan-boxer-mary-kom-inspiration</link>
@@ -214,6 +196,17 @@
       </media:group>
     </item>
     <item>
+      <title>Errol Spence Jr names the four greatest welterweights of all time</title>
+      <link>https://boxingnewsonline.net/news/spence-on-welters-ranked-above-crawford/</link>
+      <description>Errol Spence Jr’s retirement has seen him receive appreciation as one of the best welterweight champions in recent years, but when asked to name the best four</description>
+      <guid isPermaLink="false">3aa3ce33f217267e47f828456b8a41e7</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1785043605492931361/Errol-Spence-Jr-mid-shot.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 19:32:55 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1785043605492931361/Errol-Spence-Jr-mid-shot.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>How to watch Lamont Roach Jr. vs. William Zepeda for lightweight title</title>
       <link>https://www.elpasotimes.com/story/sports/boxing/2026/08/01/how-to-watch-lamont-roach-jr-vs-william-zepeda-tonight-time-tv-records/91106979007/</link>
       <description>Lamont Roach Jr. and William Zepeda face off for the vacant WBC lightweight title in Las Vegas on Aug.</description>
@@ -277,6 +270,17 @@
       <pubDate>Sat, 01 Aug 2026 21:14:51 +0000</pubDate>
       <media:group>
         <media:content url="https://panews.com/wp-content/uploads/sites/35/2026/08/Shepherd-1.jpg?w=961" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pierce O'Leary brutally knocked out by Mark Chamberlain in front of boxing royalty at Dublin's 3Arena</title>
+      <link>https://bloodyelbow.com/2026/08/01/pierce-oleary-brutally-knocked-out-by-mark-chamberlain-in-front-of-boxing-royalty-at-dublins-3arena/</link>
+      <description>Pierce O'Leary kicked off a massive run of Irish boxing shows at 3Arena tonight</description>
+      <guid isPermaLink="false">9ee614900478cb8b0f52d595f051c08f</guid>
+      <enclosure url="https://bloodyelbow.com/wp-content/uploads/1/2026/08/GettyImages-2287927253-scaled.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 22:05:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloodyelbow.com/wp-content/uploads/1/2026/08/GettyImages-2287927253-scaled.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
