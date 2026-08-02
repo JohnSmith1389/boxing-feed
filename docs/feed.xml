@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 16:57:21 +0000</lastBuildDate>
-    <item>
-      <title>Jake Paul invites Josh Hokit to Puerto Rico for secret $1 million boxing match amid NFL callout</title>
-      <link>https://bloodyelbow.com/2026/08/01/jake-paul-invites-josh-hokit-to-puerto-rico-for-secret-1-million-boxing-match-amid-nfl-callout/</link>
-      <description>Jake Paul has offered out Josh Hokit for a big money sparring session</description>
-      <guid isPermaLink="false">be8d9f0be9b5ac881e962cce94f3ebc5</guid>
-      <enclosure url="https://bloodyelbow.com/wp-content/uploads/1/2026/08/GettyImages-2288514549-scaled.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 01:08:58 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloodyelbow.com/wp-content/uploads/1/2026/08/GettyImages-2288514549-scaled.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 18:02:14 +0000</lastBuildDate>
     <item>
       <title>Result: Conwell Stops Kroll</title>
       <link>https://fightnews.com/result-conwell-stops-kroll/193303</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 02 Aug 2026 15:45:00 +0000</pubDate>
       <media:group>
         <media:content url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0731%2Fr1696150_1024x576_16%2D9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>India report card for Commonwealth Games 2026: Boxing A-, Athletics B+, Bowls C+</title>
+      <link>https://www.espn.com/commonwealth-games/story/_/id/49511134/cwg-2026-commonwealth-games-india-sports-wise-performance-report-card-boxing-athletics-weightlifting-glasgow</link>
+      <description>Here's how ESPN rated the performance of India's contingent at the 2026 Commonwealth Games in Glasgow.</description>
+      <guid isPermaLink="false">1ab8f32713881c5e3fc606767cfd6c41</guid>
+      <enclosure url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696632_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 02 Aug 2026 15:51:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696632_1296x729_16%2D9.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
