@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 14:07:51 +0000</lastBuildDate>
-    <item>
-      <title>Prelim Results From Roach</title>
-      <link>https://fightnews.com/prelim-results-from-roach-zepeda/193300</link>
-      <description>By Miguel Maravilla Super lightweight Juan Becerril (3-0, 2 KOs) of Tijuana, Mexico scored a dramatic knockout victory</description>
-      <guid isPermaLink="false">7323e3f44a8dd159e53d498a2e895c31</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Becerril.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 01 Aug 2026 23:53:17 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Becerril.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Juan Carlos Becerril Stuns Dylan Capetillo With Third Round TKO</title>
-      <link>https://www.boxingnews24.com/2026/08/juan-carlos-becerril-stuns-dylan-capetillo-with-third-round-tko/</link>
-      <description>Juan Carlos Becerril pulled off one of the biggest surprises on Saturday's card in Las Vegas, stopping highly regarded prospect Dylan Capetillo in the third</description>
-      <guid isPermaLink="false">47229407fd654664b43d2fb2dfa233c5</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Dylan-Capetillo-vs-Juan-Carlos-Becerril.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 01 Aug 2026 23:56:13 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Dylan-Capetillo-vs-Juan-Carlos-Becerril.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 15:37:34 +0000</lastBuildDate>
     <item>
       <title>Professional boxing coach chases American dream in Tampa Bay</title>
       <link>https://www.tampabay28.com/news/region-pinellas/professional-boxing-coach-chases-american-dream-in-tampa-bay</link>
@@ -281,6 +259,28 @@
       <pubDate>Sun, 02 Aug 2026 12:36:11 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1318,y_1391,w_1893,h_1064/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jwc5wsggv8sq5f3t2c.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ryan Garcia vs. Conor Benn: How to watch in UK, ring-walk time, undercard, date, TV channel</title>
+      <link>https://www.espn.com/boxing/story/_/id/49511655/ryan-garcia-conor-benn-boxing-how-watch-uk-ring-walk-undercard-date-tv-channel-zuffa-boxing-dana-white</link>
+      <description>Everything you need to know ahead of Ryan Garcia's WBC welterweight title fight with Conor Benn.</description>
+      <guid isPermaLink="false">e41f2e921d9ecf806692b2bd16785239</guid>
+      <enclosure url="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696662_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 02 Aug 2026 13:36:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696662_1296x729_16%2D9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ryan Garcia Reveals One Condition for Devin Haney Rematch</title>
+      <link>https://www.si.com/fannation/boxing/ryan-garcia-reveals-one-condition-for-devin-haney-rematch</link>
+      <description>April 2024 hosted one of the most entertaining build-ups to a fight in recent boxing history, as Ryan Garcia and Devin Haney were set to meet in their highly an</description>
+      <guid isPermaLink="false">bd7294837823c2e17d1e94dbbc83e564</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_588,y_234,w_3747,h_2107/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jsayyj4qhaar1wmksh.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 02 Aug 2026 15:04:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_588,y_234,w_3747,h_2107/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jsayyj4qhaar1wmksh.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
