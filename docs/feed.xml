@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 21:55:27 +0000</lastBuildDate>
-    <item>
-      <title>William Zepeda beats Lamont Roach for WBC belt, Muratalla retains IBF title</title>
-      <link>https://www.badlefthook.com/boxing-results/117698/william-zepeda-beats-lamont-roach-for-wbc-belt-muratalla-retains-ibf-title-boxing-news-results-2026</link>
-      <description>William Zepeda won his first world title, while Raymond Muratalla may have fought for the final time at 135</description>
-      <guid isPermaLink="false">4f3f5c8ca3145f235da2549ff9405641</guid>
-      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/gettyimages-2288673064.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.23819364138%2C100%2C78.524784500694&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 04:51:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/gettyimages-2288673064.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.23819364138%2C100%2C78.524784500694&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 22:56:10 +0000</lastBuildDate>
     <item>
       <title>Clinton Chavez, Cabral and Josh “Pitbull” Torres lead Albuquerque boxing showcase at Legacy Continues IV</title>
       <link>https://www.krqe.com/sports/local-sports/clinton-chavez-cabral-and-josh-pitbull-torres-lead-albuquerque-boxing-showcase-at-legacy-continues-iv/</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 02 Aug 2026 20:10:19 +0000</pubDate>
       <media:group>
         <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/gettyimages-2252808078.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.736645553399%2C100%2C78.526708893201&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Le'Veon Bell Responds to Jake Paul's $1M Boxing, Route-Running Challenge to NFL Players</title>
+      <link>https://bleacherreport.com/articles/25460899-leveon-bell-responds-jake-pauls-1m-boxing-route-running-challenge-nfl-players</link>
+      <description>As Jake Paul continues his campaign to convince anybody who will listen that he could play slot receiver in the NFL—or at least thinks he would be better at football than NFL players would be at boxing—Le'Veon Bell has chimed in.</description>
+      <guid isPermaLink="false">0541679c59f9dec054019290464ac7af</guid>
+      <enclosure url="https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-08/38c65f34c4b44590a9c7cd7d5e4d73c1/Buccaneers_Jets_Football_16039_3249x1828_(0,299).jpg?w=1120&amp;h=630" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 02 Aug 2026 22:14:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-08/38c65f34c4b44590a9c7cd7d5e4d73c1/Buccaneers_Jets_Football_16039_3249x1828_(0,299).jpg?w=1120&amp;h=630" medium="image"/>
       </media:group>
     </item>
   </channel>
