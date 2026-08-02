@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 20:54:48 +0000</lastBuildDate>
-    <item>
-      <title>Zepeda overwhelms Roach to capture vacant WBC lightweight title</title>
-      <link>https://www.espn.com/boxing/story/_/id/49510257/zepeda-overwhelms-roach-capture-vacant-wbc-lightweight-title</link>
-      <description>In a relentless performance, William Zepeda's suffocating pace proved too much for Lamont Roach Jr. as he claimed the vacant WBC lightweight title by unanimous decision Saturday night.</description>
-      <guid isPermaLink="false">ebe6c1f083f5153e055cac45f42a76ee</guid>
-      <enclosure url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696605_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 04:40:09 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696605_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 21:55:27 +0000</lastBuildDate>
     <item>
       <title>William Zepeda beats Lamont Roach for WBC belt, Muratalla retains IBF title</title>
       <link>https://www.badlefthook.com/boxing-results/117698/william-zepeda-beats-lamont-roach-for-wbc-belt-muratalla-retains-ibf-title-boxing-news-results-2026</link>
@@ -266,6 +255,17 @@
       <link>https://www.skysports.com/boxing/news/12183/13569252/boxer-lee-reeves-in-stable-but-critical-condition-after-suffering-knockout-in-fight-with-gary-cully</link>
       <description>Lee Reeves suffered a knockout in the 10th round of his fight with Gary Cully; He remains in hospital in a critical but stable condition; Queensberry Promotions say more will be known in the coming days</description>
       <guid isPermaLink="false">08e31a0b69181e0d1e1ae01418f5a3e5</guid>
+      <enclosure url="https://e0.365dm.com/26/08/1600x900/skysports-lee-reeves-boxing_7312411.jpg?20260802193946" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 02 Aug 2026 19:34:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://e0.365dm.com/26/08/1600x900/skysports-lee-reeves-boxing_7312411.jpg?20260802193946" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Lee Reeves: Boxer in critical but stable condition after suffering knockout in fight with Gary Cully</title>
+      <link>https://www.skysports.com/boxing/news/12183/13569252/lee-reeves-boxer-in-critical-but-stable-condition-after-suffering-knockout-in-fight-with-gary-cully</link>
+      <description>Lee Reeves suffered a knockout in the 10th round of his fight with Gary Cully; Reeves remains in hospital in a critical but stable condition; Queensberry Promotions say more will be known in the coming days</description>
+      <guid isPermaLink="false">ae3c2fe94c3a8c15090635da1cb63275</guid>
       <enclosure url="https://e0.365dm.com/26/08/1600x900/skysports-lee-reeves-boxing_7312411.jpg?20260802193946" length="0" type="image/jpeg"/>
       <pubDate>Sun, 02 Aug 2026 19:34:00 +0000</pubDate>
       <media:group>
