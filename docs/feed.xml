@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 10:54:31 +0000</lastBuildDate>
-    <item>
-      <title>India's best numbers at Commonwealth Games 2026: Tejaswin's 7976, Mirabai hat trick, Boxing's record 10</title>
-      <link>https://www.espn.com/commonwealth-games/story/_/id/49512391/india-best-numbers-commonwealth-games-2026-tejaswin-7976-mirabai-hat-trick-boxing-record-10</link>
-      <description>From the broader figures to the small, we pick out the numbers that defined India's campaign in Glasgow</description>
-      <guid isPermaLink="false">b5991d745de8a1cacbf8dafd8cc7fe12</guid>
-      <enclosure url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0731%2Fr1696150_1024x576_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 15:45:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0731%2Fr1696150_1024x576_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>India report card for Commonwealth Games 2026: Boxing A-, Athletics B+, Bowls C+</title>
-      <link>https://www.espn.com/commonwealth-games/story/_/id/49511134/cwg-2026-commonwealth-games-india-sports-wise-performance-report-card-boxing-athletics-weightlifting-glasgow</link>
-      <description>Here's how ESPN rated the performance of India's contingent at the 2026 Commonwealth Games in Glasgow.</description>
-      <guid isPermaLink="false">1ab8f32713881c5e3fc606767cfd6c41</guid>
-      <enclosure url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696632_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 15:51:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696632_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tyson Fury’s latest opponent Mariusz Wach books 6 vs. 1 freakshow fight</title>
-      <link>https://www.mmamania.com/boxing/462047/tyson-furys-latest-opponent-mariusz-wach-books-6-vs-1-freakshow-fight</link>
-      <description>Mariusz Wach will fight a 6 man ‘Gypsy Team’ at Prime MMA’s Summer Fest on August 8th, two weeks removed from his fight with Tyson Fury.</description>
-      <guid isPermaLink="false">084b84d11a548cd8f1948df84c56dfac</guid>
-      <enclosure url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/08/gettyimages-2287314937.jpg?quality=90&amp;strip=all&amp;crop=0%2C8.590015365354%2C100%2C82.819969269292&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 16:08:08 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/08/gettyimages-2287314937.jpg?quality=90&amp;strip=all&amp;crop=0%2C8.590015365354%2C100%2C82.819969269292&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Terence Crawford predicts a 'bloodbath' if William Zepeda faces one world champion next</title>
-      <link>https://boxingnewsonline.net/news/crawford-on-zepeda-next-bout-after-roach/</link>
-      <description>Terence Crawford is excited about the prospect of William Zepeda potentially facing one man in particular next.</description>
-      <guid isPermaLink="false">d78332a215ed883ba2cb035d3970d0ba</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1785683349186338118/William-Zepeda-Lamont-Roach-and-Terence-Crawford.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 16:31:46 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1785683349186338118/William-Zepeda-Lamont-Roach-and-Terence-Crawford.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>India report card for Commonwealth Games 2026: Boxing A-, Athletics B+, Bowls C+</title>
-      <link>https://www.espn.in/commonwealth-games/story/_/id/49511134/cwg-2026-commonwealth-games-india-sports-wise-performance-report-card-boxing-athletics-weightlifting-glasgow</link>
-      <description>Here's how ESPN rated the performance of India's contingent at the 2026 Commonwealth Games in Glasgow.</description>
-      <guid isPermaLink="false">5ef9b0bc52e3ccb6cbf8383f7d2cf41a</guid>
-      <enclosure url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696632_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 16:52:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696632_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 03 Aug 2026 13:40:25 +0000</lastBuildDate>
     <item>
       <title>Jake Paul argues boxing far more difficult than football, Josh Hokit responds</title>
       <link>https://www.mmafighting.com/ufc/502842/jake-paul-argues-boxing-far-more-difficult-than-football-i-can-catch-a-touchdown-pass-tomorrow-in-the-nfl</link>
@@ -247,6 +192,17 @@
       <pubDate>Mon, 03 Aug 2026 05:18:18 +0000</pubDate>
     </item>
     <item>
+      <title>Shakur Stevenson Shuts Down Jose Valenzuela Callout</title>
+      <link>https://www.boxing247.com/boxing-news/shakur-stevenson-shuts-down-jose-valenzuela-callout/308811</link>
+      <description>Shakur Stevenson quickly dismissed Jose "El Rayo" Valenzuela's social media push for a fight, arguing that one knockout victory does not erase what happened</description>
+      <guid isPermaLink="false">54c4a9d6c8e467481f3c1c998a73a8a0</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Jose-Rayo-Valenzuela-vs-Edwin-De-Los-Santos301.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 06:51:58 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Jose-Rayo-Valenzuela-vs-Edwin-De-Los-Santos301.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Aaron McKenna: Etinosa Oliha gives Irish boxer warning ahead of IBF world title fight in Dublin on August 8</title>
       <link>https://www.skysports.com/boxing/news/12040/13569170/aaron-mckenna-etinosa-oliha-gives-irish-boxer-warning-ahead-of-ibf-world-title-fight-in-dublin-on-august-8</link>
       <description>Etinosa Oliha has warned Aaron McKenna that he will hurt him in front of a hostile Dublin crowd; watch Oliha vs McKenna from the 3Arena live on Sky Sports on Saturday August 8</description>
@@ -277,6 +233,50 @@
       <pubDate>Mon, 03 Aug 2026 08:02:53 +0000</pubDate>
       <media:group>
         <media:content url="https://www.gannett-cdn.com/authoring/authoring-images/2025/11/24/NPAL/87449057007-perella.png?auto=webp&amp;crop=1919,1080,x0,y99&amp;format=pjpg&amp;width=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>One More Round with Roger: Family gathers in Lowell to honor a lifelong love story</title>
+      <link>https://www.lowellsun.com/2026/08/03/one-more-round-with-roger-family-gathers-in-lowell-to-honor-a-lifelong-love-story/</link>
+      <description>LOWELL — When 84‑year‑old Roger Frechette was asked in an interview when he knew he loved Sandra, the woman who would become his wife, he didn’t pause or look away. He answered instantly.</description>
+      <guid isPermaLink="false">4c6d3ceccb7a2ec22958f3708b748697</guid>
+      <enclosure url="https://www.lowellsun.com/wp-content/uploads/2026/08/LOW-L-FRECHETTES-080126-01.jpg?w=5332&amp;h=3805" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 09:58:31 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.lowellsun.com/wp-content/uploads/2026/08/LOW-L-FRECHETTES-080126-01.jpg?w=5332&amp;h=3805" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Moses Itauma ordered to face heavyweight champion after WBA clarify rankings error</title>
+      <link>https://boxingnewsonline.net/news/itauma-confirmed-as-challenger-for-champ/</link>
+      <description>Moses Itauma's possible career path has become a lot clearer after he was officially named as the mandatory challenger for a reigning world heavyweight</description>
+      <guid isPermaLink="false">3bcd97c626225639365a0747e8ab3697</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1785752667556265252/Moses-Itauma.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 10:39:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1785752667556265252/Moses-Itauma.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Vital Boxing empowers Puna youth with free training, competitive events</title>
+      <link>https://bigislandnow.com/2026/08/03/vital-boxing-empowers-puna-youth-with-free-training-competitive-events/</link>
+      <description>On Saturday, Vital Boxing hosted the first annual “Battle in Puna,” giving young athletes from Big Island, Oʻahu and California a chance to showcase their skills in a USA Boxing Hawaiʻi event.</description>
+      <guid isPermaLink="false">b56f511e39ab43dd1a04003d2dff40b8</guid>
+      <enclosure url="https://cdn.bigislandnow.com/file/bigislandnow/2026/08/260730-vitalboxing-09-1024x832.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 11:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.bigislandnow.com/file/bigislandnow/2026/08/260730-vitalboxing-09-1024x832.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Orange boxing champ hosts Back 2 School Drive in West Orange</title>
+      <link>https://www.12newsnow.com/video/news/community/reasons-to-smile-community/orange-boxing-champ-hosts-back-2-school-drive-in-west-orange/502-8973ac6c-5ff8-4e27-aa35-ef98a48f3576</link>
+      <description>Orange boxing champ hosts Back 2 School Drive in West Orange</description>
+      <guid isPermaLink="false">d690f0f477cdb2efcf720d7e1c070461</guid>
+      <enclosure url="https://media.12newsnow.com/assets/KBMT/images/16ac499d-86f3-415a-8199-d4b7541c4a6d/20260803T121008/16ac499d-86f3-415a-8199-d4b7541c4a6d_1920x1080.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 12:09:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://media.12newsnow.com/assets/KBMT/images/16ac499d-86f3-415a-8199-d4b7541c4a6d/20260803T121008/16ac499d-86f3-415a-8199-d4b7541c4a6d_1920x1080.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
