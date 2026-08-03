@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 21:39:54 +0000</lastBuildDate>
-    <item>
-      <title>Moses Itauma ordered to face heavyweight champion after WBA clarify rankings error</title>
-      <link>https://boxingnewsonline.net/news/itauma-confirmed-as-challenger-for-champ/</link>
-      <description>Moses Itauma's possible career path has become a lot clearer after he was officially named as the mandatory challenger for a reigning world heavyweight</description>
-      <guid isPermaLink="false">3bcd97c626225639365a0747e8ab3697</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1785752667556265252/Moses-Itauma.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 03 Aug 2026 10:39:50 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1785752667556265252/Moses-Itauma.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 03 Aug 2026 22:59:01 +0000</lastBuildDate>
     <item>
       <title>Boxer Lee Reeves in ‘critical but stable condition’ in hospital after KO loss to Gary Cully</title>
       <link>https://www.independent.co.uk/sport/boxing/lee-reeves-boxer-fight-gary-cully-knockout-b3026406.html</link>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 03 Aug 2026 21:13:55 +0000</pubDate>
       <media:group>
         <media:content url="https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732588" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxing: Rolly Romero vs Teofimo Lopez Watch Party at Social Beer Garden HTX</title>
+      <link>https://365thingsinhouston.com/calendar/boxing-rolly-romero-vs-teofimo-lopez-watch-party-at-social-beer-garden-htx/</link>
+      <description>Social Beer Garden HTX hosts a watch party for the WBA Welterweight World Championship and the showdown between Rolly Romero and Teofimo Lopez live. It will be an evening of intense […]</description>
+      <guid isPermaLink="false">11992e329960a903467172035f601c06</guid>
+      <enclosure url="https://365thingsinhouston.com/wp-content/uploads/2026/08/Boxing-Rolly-Romero-vs-Teofimo-Lopez-Watch-Party-at-Social-Beer-Garden-HTX.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 22:20:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://365thingsinhouston.com/wp-content/uploads/2026/08/Boxing-Rolly-Romero-vs-Teofimo-Lopez-Watch-Party-at-Social-Beer-Garden-HTX.jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>
