@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 23:59:07 +0000</lastBuildDate>
-    <item>
-      <title>Boxer Lee Reeves hospitalised in Dublin after knockout</title>
-      <link>https://www.espn.com/boxing/story/_/id/49510945/boxer-lee-reeves-hospitalised-dublin-knockout</link>
-      <description>Irish welterweight Lee Reeves was taken to hospital after being knocked out in the 10th-round of his fight against Gary Cully in Dublin on Saturday.</description>
-      <guid isPermaLink="false">549a058484f9d66692f2841b6794f642</guid>
-      <enclosure url="https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696645_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 07:15:42 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0802%2Fr1696645_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Limerick fighter Reeves hospitalised after Dublin defeat</title>
-      <link>https://www.rte.ie/sport/boxing/2026/0802/1586152-limerick-fighter-reeves-hospitalised-after-dublin-defeat/</link>
-      <description>Limerick boxer Lee Reeves has been hospitalised after a heavy knockout in defeat to Gary Cully on Saturday night at the 3Arena in Dublin.</description>
-      <guid isPermaLink="false">3f1e2b94aceada546b23917292e19326</guid>
-      <enclosure url="https://www.rte.ie/images/0024ca0a-1600.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 02 Aug 2026 07:26:31 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.rte.ie/images/0024ca0a-1600.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 03 Aug 2026 03:44:29 +0000</lastBuildDate>
     <item>
       <title>Britain Commonwealth Games Boxing</title>
       <link>https://lufkindailynews.com/anpa/sports/britain-commonwealth-games-boxing/image_bc7d62e3-035c-54d9-8e98-4beac1a189e7.html</link>
@@ -207,6 +185,17 @@
       </media:group>
     </item>
     <item>
+      <title>Jake Paul's viral NFL claim sparks challenge from Josh Hokit as boxer fires back with stern warning</title>
+      <link>https://mmasucka.com/news/jake-pauls-viral-nfl-claim-sparks-challenge-from-josh-hokit-as-boxer-fires-back-with-stern-warning/</link>
+      <description>Jake Paul's latest social media sparring session took place on X this weekend, this time targeting UFC heavyweight Josh Hokit.</description>
+      <guid isPermaLink="false">ca5e3bb3cc3c23f99d17d0b3e836f877</guid>
+      <enclosure url="https://mmasucka.com/api/media/file/Josh%20Hokit-1.webp" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 02 Aug 2026 19:27:12 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mmasucka.com/api/media/file/Josh%20Hokit-1.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Claressa Shields Teases Forming 'GWOAT Avengers' Under New Promotional Deal</title>
       <link>https://www.si.com/fannation/boxing/claressa-shields-teases-forming-gwoat-avengers-under-new-promotional-deal</link>
       <description>Although still in her athletic prime, Claressa Shields is already building a strong foundation for her career as a promoter. Shields does not yet own her own pr</description>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 02 Aug 2026 23:29:00 +0000</pubDate>
       <media:group>
         <media:content url="https://media.12newsnow.com/assets/KBMT/images/25829097-ce12-4ba7-8f72-6845fcce6e4f/20260802T232955/25829097-ce12-4ba7-8f72-6845fcce6e4f_1920x1080.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Team Solide 2016 Then And Now</title>
+      <link>https://fightnews.com/team-solide-2016-then-and-now/193424</link>
+      <description>By Per-Åke Persson In 2016 France sent an excellent team of boxers to the Olympic Games in Rio</description>
+      <guid isPermaLink="false">3fcb92d131a595078114f97293e2ef41</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Team-Solide-2016.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 01:08:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Team-Solide-2016.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
