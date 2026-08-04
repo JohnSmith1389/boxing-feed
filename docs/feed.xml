@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 21:48:10 +0000</lastBuildDate>
-    <item>
-      <title>New boxing-inspired fitness gym packs a punch in Babcock Ranch</title>
-      <link>https://www.winknews.com/news/wink_stop/new-boxing-inspired-fitness-gym-packs-a-punch-in-babcock-ranch/article_66358653-cc09-4946-b9ae-42cb7f5958d2.html</link>
-      <description>The Sweet Science Boxing Fitness has opened its newest location at 17750 Curry Preserve Drive, Suite 110, bringing its signature boxing-inspired circuit training to one of Southwest Florida's fastest-growing communities.</description>
-      <guid isPermaLink="false">9eb74b034d5bf7f1bdc7962c3d02861b</guid>
-      <enclosure url="https://bloximages.chicago2.vip.townnews.com/winknews.com/content/tncms/assets/v3/editorial/1/b9/1b99bf50-0df5-4b2a-8746-86c7e929a6dd/6a71fef18a63c.image.jpg?crop=1662%2C873%2C0%2C187&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 04 Aug 2026 13:24:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.chicago2.vip.townnews.com/winknews.com/content/tncms/assets/v3/editorial/1/b9/1b99bf50-0df5-4b2a-8746-86c7e929a6dd/6a71fef18a63c.image.jpg?crop=1662%2C873%2C0%2C187&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>‘No Mercy’ Gesta returns to boxing action after 3-year hiatus in California</title>
-      <link>https://cebudailynews.inquirer.net/753697/no-mercy-gesta-returns-to-boxing-action-after-3-year-hiatus-in-california</link>
-      <description>United States-based Cebuano boxer Mercito "No Mercy" Gesta will end his three-year hiatus with a September 11 bout in California.</description>
-      <guid isPermaLink="false">7c3c517089f59a49a814bbf2e99ecfb6</guid>
-      <enclosure url="https://cebudailynews.inquirer.net/files/2026/08/Mercito-Gesta-right-and-Marvin-Somodio.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 04 Aug 2026 14:29:08 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cebudailynews.inquirer.net/files/2026/08/Mercito-Gesta-right-and-Marvin-Somodio.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>'Council leader boxing at 60? It's never been done'</title>
-      <link>https://www.yahoo.com/news/us/articles/council-leader-boxing-60-never-143501548.html</link>
-      <description>Patrick Harley, leader of Dudley Council, will step into the ring with the hope of raising £30,000.</description>
-      <guid isPermaLink="false">451191225a24136edee3ce6a656cc178</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/07c0918b59f67c614e64627e6b25441057a778ca0af457d2570f469287ea87cd/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F819f52330873214cb3089c4c64600a35" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 04 Aug 2026 14:35:01 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/07c0918b59f67c614e64627e6b25441057a778ca0af457d2570f469287ea87cd/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F819f52330873214cb3089c4c64600a35" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Un Día Como Hoy en el Boxeo… 4 de agosto</title>
-      <link>https://wbcboxing.com/un-dia-como-hoy-en-el-boxeo-4-de-agosto/</link>
-      <description>Un Día Como Hoy en el Boxeo… 4 de agosto 1973.- En el Estadio Luis Aparicio de Maracaibo, el venezolano Betulio González conquistó por segunda ocasión […]</description>
-      <guid isPermaLink="false">7558b94d209964c044ab8f18cb5fe199</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/israel-vazquez-rafael-marquez.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 04 Aug 2026 15:54:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/israel-vazquez-rafael-marquez.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>On This Day in Boxing History… August 4</title>
-      <link>https://wbcboxing.com/en/on-this-day-in-boxing-history-august-4/</link>
-      <description>On This Day in Boxing History… August 4 1973.- At the Luis Aparicio Stadium in Maracaibo, Venezuela’s Betulio González captured the WBC World Flyweight title for […]</description>
-      <guid isPermaLink="false">aa47666e713261036fc24ec4623d9676</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/israel-vazquez-rafael-marquez.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 04 Aug 2026 15:54:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/israel-vazquez-rafael-marquez.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 23:02:25 +0000</lastBuildDate>
     <item>
       <title>MMA Fighter reportedly ‘offered’ Zuffa Boxing match ahead of UFC 330 return</title>
       <link>https://www.f4wonline.com/news/ufc/islam-makhachev-zuffa-boxing-offer-ufc-330/</link>
@@ -157,6 +102,17 @@
       <description>Kenia Enriquez Faces Melinda Cooper who returns to the ring since last fight in 2014!</description>
       <guid isPermaLink="false">b36caec6f7ed8ddc90dd21c408dd45c4</guid>
       <pubDate>Tue, 04 Aug 2026 17:44:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stoke boxer Nathan Heaney to retire after Gerome Warburton rematch</title>
+      <link>https://www.bbc.com/sport/boxing/articles/c05q12y0evvo</link>
+      <description>Middleweight boxer and son of Stoke-on-Trent Nathan Heaney will hang up his gloves after fighting Gerome Warburton in Birmingham next month.</description>
+      <guid isPermaLink="false">561a5c77efc0be6b7a6302f742d930fa</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fc64/live/89d2ba60-9023-11f1-b783-f784376ffc11.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 17:52:38 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fc64/live/89d2ba60-9023-11f1-b783-f784376ffc11.jpg" medium="image"/>
+      </media:group>
     </item>
     <item>
       <title>Boxer Heaney to retire after Warburton rematch</title>
@@ -277,6 +233,50 @@
       <pubDate>Tue, 04 Aug 2026 20:47:14 +0000</pubDate>
       <media:group>
         <media:content url="https://sportshub.cbsistatic.com/i/r/2026/08/04/59498973-ebd0-4fc7-a39a-640af6e9396d/thumbnail/1200x675/0efec00e887f7214a4bab81656b56b74/jai-opetaia-presser.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Jai Opetaia to face Noel Mikaelian on Garcia vs Benn card</title>
+      <link>https://www.espn.com/boxing/story/_/id/49531604/jai-opetaia-face-noel-mikaelian-garcia-vs-benn-card</link>
+      <description>Jai Opetaia will return to the ring against WBC cruiserweight world champion Norair Mikaelian on Sept. 12 in Las Vegas, Zuffa Boxing confirmed Tuesday.</description>
+      <guid isPermaLink="false">432a7380ea73a88fda82b6d69cd082b8</guid>
+      <enclosure url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0804%2Fr1697657_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 21:06:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0804%2Fr1697657_1296x729_16%2D9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing 10: McKenna Vs Oliha Face-off</title>
+      <link>https://fightnews.com/zuffa-boxing-10-mckenna-vs-oliha-face-off/193511</link>
+      <description>Zuffa Boxing 10: McKenna vs Oliha, taking place this Saturday, August 8, at Dublin’s 3Arena, featuring the main</description>
+      <guid isPermaLink="false">fc4b07b457162fbf7db09e7197d1a79f</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/EM1_9151.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 21:53:39 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/EM1_9151.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>WBA #1 Super Flyweight John ‘Scrappy’ Ramirez In Holding Pattern</title>
+      <link>https://fightnews.com/wba-1-super-flyweight-john-scrappy-ramirez-in-holding-pattern/193522</link>
+      <description>Colorful Los Angeles professional boxer John “Scrappy” Ramirez (17-1, 9 KOs) was elevated to the No. 1 position</description>
+      <guid isPermaLink="false">f73ee576f5677194c813257a76ec2589</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/unnamed-238.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 22:13:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/unnamed-238.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Atif Oberlton To Face Roamer Angulo On Zues Network Undercard</title>
+      <link>https://fightnews.com/atif-oberlton-to-face-roamer-angulo-on-zues-network-undercard/193528</link>
+      <description>Undefeated light heavyweight contender and knockout artist Atif Oberlton will face former world title challenger Roamer Alexis Angulo</description>
+      <guid isPermaLink="false">6af619814fee304434bc2f07797db93e</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Oberlton-2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 22:27:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Oberlton-2.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
