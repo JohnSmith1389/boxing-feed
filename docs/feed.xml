@@ -7,51 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 09:31:16 +0000</lastBuildDate>
-    <item>
-      <title>A Big Youth Boxing Event Is Coming to East Oakland</title>
-      <link>https://www.kqed.org/arts/13992422/youth-boxing-coach-g-vertical-skillz-outreach-east-oakland-san-antonio-park</link>
-      <description>Coach G’s fighters from Vertical Skillz Outreach will square off in San Antonio Park for an inaugural tournament.</description>
-      <guid isPermaLink="false">d014eb1c94b22fb1716016a9ba0675b5</guid>
-      <enclosure url="https://cdn.kqed.org/wp-content/uploads/sites/2/2026/08/DSC01422.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 18:50:07 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn.kqed.org/wp-content/uploads/sites/2/2026/08/DSC01422.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Deontay Wilder was being lined up to face British heavyweight this month: "I was up for it"</title>
-      <link>https://boxingnewsonline.net/news/wilder-linked-to-fight-with-brit-heavy/</link>
-      <description>Deontay Wilder is expected to be the opponent for Oleksandr Usyk’s ‘Last Dance’ in either December or early 2027, but before that fight became available, the</description>
-      <guid isPermaLink="false">4a29b1049b84ae7c65302cdb0f36d052</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786027181434886905/Deontay-Wilder.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 18:54:53 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786027181434886905/Deontay-Wilder.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>In My Experience: Jimmy Wagner on ‘What boxing taught me about uncertainty’ — Pascack Press &amp; Northern Valley Press</title>
-      <link>https://thepressgroup.net/in-my-experience-jimmy-wagner-on-what-boxing-taught-me-about-uncertainty/</link>
-      <description>By COACH JIMMY WAGNERSPECIAL TO PASCACK PRESS TOWNSHIP OF WASHINGTON, N.J.—As a young man, I was described as mentally wayward, nervous, scared and traumatized. What I eventually learned was that [...]</description>
-      <guid isPermaLink="false">00f566371399f8fd7ae7caec77fc128b</guid>
-      <enclosure url="https://thepressgroup.net/wp-content/uploads/2026/08/Coach-Jimmy-Wagner-Mikey-Koz-photo.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 19:13:28 +0000</pubDate>
-      <media:group>
-        <media:content url="https://thepressgroup.net/wp-content/uploads/2026/08/Coach-Jimmy-Wagner-Mikey-Koz-photo.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Bryan Health Expands Parkinson’s Boxing Program With New Grant</title>
-      <link>https://klin.com/2026/08/06/bryan-health-expands-parkinsons-boxing-program-with-new-grant/</link>
-      <description>A Lincoln program helping people with Parkinson's disease stay active and improve quality of life is expanding...</description>
-      <guid isPermaLink="false">e6556f4204f69f656405539c6e807d33</guid>
-      <enclosure url="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2741/files/2026/08/bryan-life-pointe.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 20:00:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2741/files/2026/08/bryan-life-pointe.png" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 10:51:18 +0000</lastBuildDate>
     <item>
       <title>Terence Crawford Back In Gym As Comeback Talk Grows</title>
       <link>https://www.boxing247.com/boxing-news/terence-crawford-back-in-gym-as-comeback-talk-grows/308865</link>
@@ -269,6 +225,17 @@
       </media:group>
     </item>
     <item>
+      <title>Daniel Dubois-Fabio Wardley Rematch Could Land October 17</title>
+      <link>https://www.boxingnews24.com/2026/08/daniel-dubois-fabio-wardley-rematch-could-land-october-17/</link>
+      <description>Daniel Dubois and Fabio Wardley could meet again on October 17 in a WBO heavyweight title rematch, giving Wardley just over five months to recover from their</description>
+      <guid isPermaLink="false">a1acadc625c508966de71a62315bdd92</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/05/Dubois-Wardley-Weights4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 07:53:32 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/05/Dubois-Wardley-Weights4.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Zuffa Boxing 10 Official Weigh-In Results</title>
       <link>https://www.ufc.com/news/zuffa-boxing-10-official-weigh-results</link>
       <description>The Official Weights Of The Athletes Competing At McKenna vs Oliha Happens August 8 At 3Arena From Dublin, Ireland, On August 8</description>
@@ -277,6 +244,39 @@
       <pubDate>Fri, 07 Aug 2026 08:45:55 +0000</pubDate>
       <media:group>
         <media:content url="https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Roy Jones had one immediate thought when Anthony Joshua got knocked down twice by Kristian Prenga</title>
+      <link>https://boxingnewsonline.net/news/jones-on-joshua-knocked-down-vs-prenga/</link>
+      <description>Roy Jones Jr is the latest big name to weigh in on Anthony Joshua's dramatic battle with Kristian Prenga.</description>
+      <guid isPermaLink="false">99cad24399eda4cde1369ce54d7c9915</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1785490249353562085/Roy-Jones-Jr-and-Anthony-Joshua.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 08:55:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1785490249353562085/Roy-Jones-Jr-and-Anthony-Joshua.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>In Forestville, Diamonds N The Ruff Boxing gym teaches the sweet science and beyond</title>
+      <link>https://www.thebanner.com/community/local-news/diamonds-n-the-ruff-boxing-gym-prince-georges-NUK7UO3XKBGATEIEDEHX3KLMEQ/</link>
+      <description>Tai-Rhan McBride’s gym exists to train fighters. But there’s a deeper mission at play, too.</description>
+      <guid isPermaLink="false">508355b8cdf8e678dcfbd9a7d11f2ad0</guid>
+      <enclosure url="https://www.thebanner.com/resizer/v2/5552R4F5D5EBHEKX4IJNXKIJVQ.JPG?auth=00fcd606d3c38f2bd922cd70e01157d01ade88c266ace68cbaf12577389067e2&amp;width=1280&amp;height=720&amp;focal=2721,949&amp;quality=85" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 09:30:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.thebanner.com/resizer/v2/5552R4F5D5EBHEKX4IJNXKIJVQ.JPG?auth=00fcd606d3c38f2bd922cd70e01157d01ade88c266ace68cbaf12577389067e2&amp;width=1280&amp;height=720&amp;focal=2721,949&amp;quality=85" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Oleksandr Usyk interview: On parenting, Ukraine and a ‘last dance’ against Deontay Wilder</title>
+      <link>https://www.nytimes.com/athletic/7497115/2026/08/07/oleksandr-usyk-interview-last-dance-deontay-wilder/</link>
+      <description>At 39, the undefeated heavyweight is starting to think about retirement. But he wants one more big fight before he calls it a career</description>
+      <guid isPermaLink="false">081debd4bc734bc8211a165bec612704</guid>
+      <enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/08/06165657/GettyImages-2277899801-scaled.jpg?width=1200&amp;height=630&amp;fit=cover" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 10:30:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/08/06165657/GettyImages-2277899801-scaled.jpg?width=1200&amp;height=630&amp;fit=cover" medium="image"/>
       </media:group>
     </item>
   </channel>
