@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 05:15:53 +0000</lastBuildDate>
-    <item>
-      <title>Mike Coppinger Places William Zepeda Among Best Mexican Pressure Fighters</title>
-      <link>https://www.boxingnews24.com/2026/08/mike-coppinger-places-william-zepeda-among-best-mexican-pressure-fighters/</link>
-      <description>William Zepeda's victory over Lamont Roach Jr. left a strong impression on long-time boxing journalist Mike Coppinger, who views the newly crowned WBC</description>
-      <guid isPermaLink="false">313666cf33e8836fd795964cbc24775a</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Lamont-Roach-vs-William-Zepeda535-1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 17:32:52 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Lamont-Roach-vs-William-Zepeda535-1.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Frank Warren: Moses Itauma is the hottest young fighter in world boxing</title>
-      <link>https://www.boxingscene.com/articles/frank-warren-moses-itauma-is-the-hottest-young-fighter-in-world-boxing</link>
-      <description>Hall of Fame promoter says the 20-year-old has become the sport's most talked-about young fighter as he prepares to face Filip Hrgovic for the vacant IBF heavyweight title at London's O2 Arena</description>
-      <guid isPermaLink="false">5abe8469f93a45a728774cb84d67745c</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/Moses-Itauma-Frank-Warren.webp" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 17:35:33 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/Moses-Itauma-Frank-Warren.webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 06:45:20 +0000</lastBuildDate>
     <item>
       <title>Moses Itauma Gets Honest on Why He Won’t Target Anthony Joshua or Tyson Fury</title>
       <link>https://www.si.com/fannation/boxing/moses-itauma-gets-honest-on-why-he-wont-target-anthony-joshua-or-tyson-fury</link>
@@ -262,6 +240,17 @@
       </media:group>
     </item>
     <item>
+      <title>Latto, YG, Sauce Walka &amp; Diamond The Body Join Historic Claressa Shields Fight Night At State Farm Arena</title>
+      <link>https://fightnews.com/latto-yg-sauce-walka-diamond-the-body-join-historic-claressa-shields-fight-night-at-state-farm-arena/193683</link>
+      <description>Fight night is getting even bigger. Salita Promotions, Wynn Records and Zeus Network today announced an all-star lineup</description>
+      <guid isPermaLink="false">e40a1640652f471528bad7b487899808</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Shields-Scott-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 01:57:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Shields-Scott-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Marissa Williamson Pohlman On The Cost Of Speaking Up About Racism &amp; Bullying</title>
       <link>https://www.refinery29.com/en-au/marissa-williamson-pohlman-racism-boxing</link>
       <description>Marissa Williamson Pohlman gave up Olympic boxing to fight for athlete welfare. She speaks to R29 about racism, bullying and the cost of speaking up.</description>
@@ -278,6 +267,17 @@
       <description>Police officer by Day, Professional Boxer by night: Melanie Costa to fight on August 29th card in Everett, Massachusetts!</description>
       <guid isPermaLink="false">f53ceec6afd8d2204ca9a9fb8780b82b</guid>
       <pubDate>Fri, 07 Aug 2026 04:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Virat Kohli has been my sponsor': 2026 CWG boxing gold medalist Sakshi Dhanda credits India star for support</title>
+      <link>https://sports.yahoo.com/articles/virat-kohli-sponsor-2026-cwg-060054687.html</link>
+      <description>Sakshi Chaudhary Dhanda quickly silenced critics after she defeated Ruby White for 51 kg gold at the CWG, and the name she thanked was none other than the Run Machine Virat Kohli.</description>
+      <guid isPermaLink="false">b6160c0282f1c0b6578cf2089025493e</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/11e23d80348d255da40367add0f0b880148c3e5559f89c8ae23030468ceb3569/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb38dabe05f85b0082a189a7b13a85239" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 06:00:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/11e23d80348d255da40367add0f0b880148c3e5559f89c8ae23030468ceb3569/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb38dabe05f85b0082a189a7b13a85239" medium="image"/>
+      </media:group>
     </item>
   </channel>
 </rss>
