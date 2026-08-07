@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 03:27:35 +0000</lastBuildDate>
-    <item>
-      <title>Fox Theatre boxing event spotlights Michigan talent in marquee matchups</title>
-      <link>https://www.clickondetroit.com/sports/2026/08/06/fox-theatre-boxing-event-spotlights-michigan-talent-in-marquee-matchups/</link>
-      <description>Fox Theatre boxing event spotlights Michigan talent in marquee matchups</description>
-      <guid isPermaLink="false">2c297464da02064c7efb158a31a9abd7</guid>
-      <enclosure url="https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/BKQ62IG5TRDZHOPDBASA6A3GSE.jpg?_a=DATAg1kSZAA0" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 17:11:58 +0000</pubDate>
-      <media:group>
-        <media:content url="https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/BKQ62IG5TRDZHOPDBASA6A3GSE.jpg?_a=DATAg1kSZAA0" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Errol Spence wraps up a great career</title>
-      <link>https://www.maxboxing.com/news/main-lead/errol-spence-wraps-up-a-great-career</link>
-      <description>Not that long ago, Spence was considered one of the best fighters on the planet</description>
-      <guid isPermaLink="false">e54a35e8ea8119b15dd3b7dd8ba07f8b</guid>
-      <enclosure url="https://d2fmj9q21jcbgm.cloudfront.net/AcuCustom/Sitename/DAM/6058/The_Truth_12.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 17:25:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://d2fmj9q21jcbgm.cloudfront.net/AcuCustom/Sitename/DAM/6058/The_Truth_12.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 05:15:53 +0000</lastBuildDate>
     <item>
       <title>Mike Coppinger Places William Zepeda Among Best Mexican Pressure Fighters</title>
       <link>https://www.boxingnews24.com/2026/08/mike-coppinger-places-william-zepeda-among-best-mexican-pressure-fighters/</link>
@@ -282,6 +260,24 @@
       <media:group>
         <media:content url="https://www.ufc.com/s3/files/styles/card/s3/2026-08/080626-hero-callum-walsh.jpg?itok=sCUBwMG0" medium="image"/>
       </media:group>
+    </item>
+    <item>
+      <title>Marissa Williamson Pohlman On The Cost Of Speaking Up About Racism &amp; Bullying</title>
+      <link>https://www.refinery29.com/en-au/marissa-williamson-pohlman-racism-boxing</link>
+      <description>Marissa Williamson Pohlman gave up Olympic boxing to fight for athlete welfare. She speaks to R29 about racism, bullying and the cost of speaking up.</description>
+      <guid isPermaLink="false">29811f6bb0d4300da5d9ad4eefbe87b9</guid>
+      <enclosure url="https://www.refinery29.com/images/12000682.png?crop=2000%2C1051%2Cx0%2Cy25" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 03:51:30 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.refinery29.com/images/12000682.png?crop=2000%2C1051%2Cx0%2Cy25" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Police officer by Day, Professional Boxer by night: Melanie Costa to fight on August 29th card in Everett, Massachusetts!</title>
+      <link>https://www.womenboxing.com/NEWS2026/news080726melanie-costa-police-officer-boxer-to-fight-august-29.htm</link>
+      <description>Police officer by Day, Professional Boxer by night: Melanie Costa to fight on August 29th card in Everett, Massachusetts!</description>
+      <guid isPermaLink="false">f53ceec6afd8d2204ca9a9fb8780b82b</guid>
+      <pubDate>Fri, 07 Aug 2026 04:20:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
