@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 08:12:45 +0000</lastBuildDate>
-    <item>
-      <title>Moses Itauma Gets Honest on Why He Won’t Target Anthony Joshua or Tyson Fury</title>
-      <link>https://www.si.com/fannation/boxing/moses-itauma-gets-honest-on-why-he-wont-target-anthony-joshua-or-tyson-fury</link>
-      <description>Time in sports waits for no athlete. In boxing, the hourglass of a career runs on double time.</description>
-      <guid isPermaLink="false">b107d736fb8c502458b145a9433f3d1c</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_149,w_4237,h_2383/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01k25djcj1ws8vqjmt31.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 17:47:16 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_149,w_4237,h_2383/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01k25djcj1ws8vqjmt31.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Nevada Boxing Hall of Fame Introduces Historic Inaugural Special Awards</title>
-      <link>https://wbcboxing.com/en/nevada-boxing-hall-of-fame-introduces-historic-inaugural-special-awards/</link>
-      <description>Nevada Boxing Hall of Fame Introduces Historic Inaugural Special Awards Honoring the Visionaries Who Built Boxing Beyond the Ring Five new annual honors celebrate the officials, […]</description>
-      <guid isPermaLink="false">af12df71920837c3c70b3a46891a075a</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/induction-gala-nvbhof.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 06 Aug 2026 17:57:50 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/induction-gala-nvbhof.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 09:31:16 +0000</lastBuildDate>
     <item>
       <title>A Big Youth Boxing Event Is Coming to East Oakland</title>
       <link>https://www.kqed.org/arts/13992422/youth-boxing-coach-g-vertical-skillz-outreach-east-oakland-san-antonio-park</link>
@@ -277,6 +255,28 @@
       <pubDate>Fri, 07 Aug 2026 06:00:54 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/11e23d80348d255da40367add0f0b880148c3e5559f89c8ae23030468ceb3569/lightyear_networkapi/resizefill_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fb38dabe05f85b0082a189a7b13a85239" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Tony Bellew gives honest reaction to Anthony Joshua vs Tyson Fury being moved to America</title>
+      <link>https://boxingnewsonline.net/news/bellew-on-fury-vs-joshua-heading-to-usa/</link>
+      <description>A long-awaited clash between Tyson Fury and Anthony Joshua is nearing an announcement, but according to reports, it will now most likely take place in the</description>
+      <guid isPermaLink="false">6db6c32c902d1f42aa820af1714d5d46</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786024847533255517/Tyson-Fury-Tony-Bellew-and-Anthony-Joshua.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 07:25:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786024847533255517/Tyson-Fury-Tony-Bellew-and-Anthony-Joshua.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing 10 Official Weigh-In Results</title>
+      <link>https://www.ufc.com/news/zuffa-boxing-10-official-weigh-results</link>
+      <description>The Official Weights Of The Athletes Competing At McKenna vs Oliha Happens August 8 At 3Arena From Dublin, Ireland, On August 8</description>
+      <guid isPermaLink="false">986e458d0ae5bc080f29fa75b4b71b63</guid>
+      <enclosure url="https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 08:45:55 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i" medium="image"/>
       </media:group>
     </item>
   </channel>
