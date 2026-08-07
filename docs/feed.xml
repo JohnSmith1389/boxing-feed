@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 19:51:59 +0000</lastBuildDate>
-    <item>
-      <title>Zuffa Boxing 10 Official Weigh-In Results</title>
-      <link>https://www.ufc.com/news/zuffa-boxing-10-official-weigh-results</link>
-      <description>The Official Weights Of The Athletes Competing At McKenna vs Oliha Happens August 8 At 3Arena From Dublin, Ireland, On August 8</description>
-      <guid isPermaLink="false">986e458d0ae5bc080f29fa75b4b71b63</guid>
-      <enclosure url="https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 08:45:55 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/styles/card/s3/2026-06/Zuffa-Boxing-General-Generic-weigh-in-hero-scale-ZB.jpg?itok=q1r_vX7i" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 20:39:33 +0000</lastBuildDate>
     <item>
       <title>Roy Jones had one immediate thought when Anthony Joshua got knocked down twice by Kristian Prenga</title>
       <link>https://boxingnewsonline.net/news/jones-on-joshua-knocked-down-vs-prenga/</link>
@@ -215,6 +204,17 @@
       <pubDate>Fri, 07 Aug 2026 17:00:22 +0000</pubDate>
       <media:group>
         <media:content url="https://i.guim.co.uk/img/media/3c6a394b0b44d2cf22ce238bea85566392e41a6f/483_0_4830_3864/master/4830.jpg?width=1200&amp;height=1200&amp;quality=85&amp;auto=format&amp;fit=crop&amp;s=b49d862b6def7cbb06de204cd3f0034e" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Daniel Dubois Prepares For New-Look Fabio Wardley</title>
+      <link>https://www.boxingnews24.com/2026/08/daniel-dubois-prepares-for-new-look-fabio-wardley/</link>
+      <description>Daniel Dubois is already back in training for his WBO heavyweight title rematch with Fabio Wardley, preparing for an opponent who may look considerably</description>
+      <guid isPermaLink="false">ff965a230b20d9c4d4db7e76d000a48a</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Daniel-Dubois-training.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 17:03:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Daniel-Dubois-training.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
