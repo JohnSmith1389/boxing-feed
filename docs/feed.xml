@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 04:35:01 +0000</lastBuildDate>
-    <item>
-      <title>Shakur Stevenson’s Zuffa Debut Could Feature Rayo Valenzuela</title>
-      <link>https://www.boxingnews24.com/2026/08/shakur-stevensons-zuffa-debut-could-feature-rayo-valenzuela/</link>
-      <description>Jose “Rayo” Valenzuela is emerging as a possible choice for Shakur Stevenson’s first fight with Zuffa Boxing.</description>
-      <guid isPermaLink="false">066b564e1aa47849642f2eecd719dd41</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/02/valenzueal.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 16:26:37 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/02/valenzueal.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Keyshawn Davis Pulls Out Of Devin Haney Fight</title>
-      <link>https://boxing-social.com/news/keyshawn-davis-devin-haney/</link>
-      <description>Keyshawn Davis has pulled out of his WBO welterweight title fight with Devin Haney, and promoter Bob Arum admits he is baffled by the decision.</description>
-      <guid isPermaLink="false">2d4eb609c31032400ac79e930b553ef2</guid>
-      <enclosure url="https://media.boxing-social.com/boxingsocial/2026/05/Nahir-Albright-vs.-Keyshawn-Davis-rematch.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 16:45:17 +0000</pubDate>
-      <media:group>
-        <media:content url="https://media.boxing-social.com/boxingsocial/2026/05/Nahir-Albright-vs.-Keyshawn-Davis-rematch.png" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 05:41:57 +0000</lastBuildDate>
     <item>
       <title>‘Not braggadocious, not swaggerdocious’: Moses Itauma on why he lets his fists do the talking</title>
       <link>https://www.theguardian.com/sport/2026/aug/07/moses-itauma-world-heavyweight-boxing-champion-mike-tyson-filip-hrgovic</link>
@@ -185,6 +163,17 @@
       </media:group>
     </item>
     <item>
+      <title>Zuffa Dublin: McKenna vs Oliha Start Time, TV</title>
+      <link>https://boxing-social.com/news/zuffa-dublin-how-to-watch/</link>
+      <description>Zuffa Dublin: how to watch McKenna vs Oliha for the IBF middleweight title on August 8, plus TV channel, streaming, weights and the main-event details.</description>
+      <guid isPermaLink="false">ce5cd6ebf0202c284fed94ff0355f74c</guid>
+      <enclosure url="https://media.boxing-social.com/boxingsocial/2026/08/07192839/zuffa-dublin-how-to-watch.webp" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 20:10:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://media.boxing-social.com/boxingsocial/2026/08/07192839/zuffa-dublin-how-to-watch.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>McKenna, Oliha make weight for IBF 160-pound title at Zuffa Boxing 10</title>
       <link>https://www.fightmag.com/mckenna-oliha-make-weight-for-ibf-160-pound-title-at-zuffa-boxing-10/</link>
       <description>Aaron McKenna and Etinosa Oliha weigh in and face off ahead of their bout for the vacant IBF 160-pound title at Zuffa Boxing 10 in Dublin.</description>
@@ -281,6 +270,17 @@
       <pubDate>Sat, 08 Aug 2026 02:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_2159,h_1214/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kz74sjqwvtketq9ac6.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Aaron McKenna vs Etinosa Oliha live results, highlights, and reactions</title>
+      <link>https://www.badlefthook.com/live-boxing-updates/117778/aaron-mckenna-vs-etinosa-oliha-live-results-highlights-reactions-zuffa-boxing-news-2026</link>
+      <description>Aaron McKenna and Etinosa Oliha headline Zuffa Boxing 10 for a vacant middleweight title!</description>
+      <guid isPermaLink="false">72c80212a8d2d9e6f85868ea6c9a2148</guid>
+      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/mckenna-vs-oliha-live-results.png?quality=90&amp;strip=all&amp;crop=0,10.75214828329,100,78.49570343342" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 05:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/mckenna-vs-oliha-live-results.png?quality=90&amp;strip=all&amp;crop=0,10.75214828329,100,78.49570343342" medium="image"/>
       </media:group>
     </item>
   </channel>
