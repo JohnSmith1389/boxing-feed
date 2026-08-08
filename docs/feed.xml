@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 11:27:23 +0000</lastBuildDate>
-    <item>
-      <title>Best Buy Canada's Boxing Day in Summer sale includes rare deals on Dyson and Apple — save up to 78% on smartwatches, TVs, AirPods and more</title>
-      <link>https://ca.style.yahoo.com/best-buy-canadas-boxing-day-in-summer-sale-includes-rare-deals-on-dyson-and-apple--save-up-to-78-on-smartwatches-tvs-airpods-and-more-191500709.html</link>
-      <description>Best Buy Canada is selling a $1,250 robot vacuum for $280, an Apple Watch for $520 off, plus 9 more really good deals.</description>
-      <guid isPermaLink="false">3b2e63f3aad9e7020a856398537ba320</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/31721f9cd3967cce7cca71dda0ca39b05cf431d6fde35c4604deb04152c39977/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Famazon-2026-08-07t111927035_7261.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 19:15:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/31721f9cd3967cce7cca71dda0ca39b05cf431d6fde35c4604deb04152c39977/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Famazon-2026-08-07t111927035_7261.png" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Packers nickel Javon Bullard takes up boxing to better punch out football</title>
-      <link>https://www.packersnews.com/story/sports/nfl/packers/2026/08/07/packers-javon-bullard-hopes-boxing-leads-to-better-punches-on-football/91206313007/</link>
-      <description>A year ago, Packers nickel Javon Bullard punched like crazy to create takeaways, but never did. After boxing this offseason, he's better prepared.</description>
-      <guid isPermaLink="false">75d6ef836ed22f26705d47c2786dcb75</guid>
-      <enclosure url="https://www.packersnews.com/gcdn/authoring/authoring-images/2026/08/04/PGRB/91169545007-gpg-training-camp-day-6-080426-sk-40.jpg?crop=3935,2214,x0,y131&amp;width=3200&amp;height=1801&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 19:15:24 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.packersnews.com/gcdn/authoring/authoring-images/2026/08/04/PGRB/91169545007-gpg-training-camp-day-6-080426-sk-40.jpg?crop=3935,2214,x0,y131&amp;width=3200&amp;height=1801&amp;format=pjpg&amp;auto=webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 11:55:26 +0000</lastBuildDate>
     <item>
       <title>Packers nickel Javon Bullard takes up boxing to better punch out football</title>
       <link>https://www.jsonline.com/story/sports/nfl/packers/2026/08/07/packers-javon-bullard-hopes-boxing-leads-to-better-punches-on-football/91206313007/</link>
@@ -281,6 +259,28 @@
       <pubDate>Sat, 08 Aug 2026 10:00:02 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_6,w_3770,h_2120/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jweqqy695qw3jtdz17.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Rolly Romero Holds Back-To-School Giveaway</title>
+      <link>https://fightnews.com/rolly-romero-holds-back-to-school-giveaway/193713</link>
+      <description>WBA Welterweight World Champion and Las Vegas-native Rolly Romero held a back to school giveaway on Friday at</description>
+      <guid isPermaLink="false">24751639f2f14f8b2b24d9e6ffca0005</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/unnamed-241.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 11:30:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/unnamed-241.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Undefeated Heavyweight Contender Dainier Pero Has Big Dreams To Become First Cuban Heavyweight Champion</title>
+      <link>https://fightnews.com/undefeated-heavyweight-contender-dainier-pero-has-big-dreams-to-become-first-cuban-heavyweight-champion/193716</link>
+      <description>Undefeated heavyweight contender Dainier Pero (13-0, 10 KOs) continues his march toward boxing’s biggest prize when he faces</description>
+      <guid isPermaLink="false">d3c47e9ea37dcfc973c636f8f48ac48a</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Pero-2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 11:37:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Pero-2.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
