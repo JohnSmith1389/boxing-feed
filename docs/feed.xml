@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 08:39:19 +0000</lastBuildDate>
-    <item>
-      <title>Aaron McKenna vs Etinosa Oliha: Free live stream of weigh-in ahead Saturday's middleweight world title fight in Dublin</title>
-      <link>https://www.skysports.com/boxing/news/12183/13570621/aaron-mckenna-vs-etinosa-oliha-free-live-stream-of-weigh-in-ahead-saturdays-middleweight-world-title-fight-in-dublin</link>
-      <description>The vacant IBF world middleweight title is on the line as Aaron McKenna faces Etinosa Oliha in Dublin on Saturday night; watch Zuffa Boxing 10: McKenna vs Oliha on Sky Sports Action from 7pm and Sky Sports Main Event from 8pm</description>
-      <guid isPermaLink="false">f7553c41d9243cc9c43751a4f5ee0f6c</guid>
-      <enclosure url="https://e0.365dm.com/26/08/1600x900/skysports-zuffa-dublin-boxing_7315945.jpg?20260807103050" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 17:30:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/08/1600x900/skysports-zuffa-dublin-boxing_7315945.jpg?20260807103050" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 09:36:07 +0000</lastBuildDate>
     <item>
       <title>Moses Itauma: I'm in for a 'long night' against Filip Hrgovic</title>
       <link>https://www.espn.com/boxing/story/_/id/49554604/moses-itauma-long-night-filip-hrgovic</link>
@@ -281,6 +270,17 @@
       <pubDate>Sat, 08 Aug 2026 06:30:00 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/962d2b76523d51b279ce3e1fc560fbcd3f48c620f24681651bc20136b652e612/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F540a2e5d-11dd-4b6c-8b88-1c2ed5c11475" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Haverhill's Harry Gigliotti to hit cleanup at Fenway Park for bare knuckle bout</title>
+      <link>https://www.bostonglobe.com/2026/08/09/sports/bare-knuckle-fighting-fenway-harry-gigliotti/</link>
+      <description>Gigliotti, 31, is 6-0 in the BKFC and set to square off against Tai Stewart with the featherweight title on the line. The ring will sit atop Fenway's home plate area.</description>
+      <guid isPermaLink="false">70a8d6072f6caf13babe92f6580bf6c7</guid>
+      <enclosure url="https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/HNYQW7UVRRD7DPLD3VJV2ACYWM.JPG?auth=fa9a72fc405fd5ee8b4d4a88eddcd9a8fdaf56ac02c4698cd06399a251213bb9&amp;width=1440" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 09:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/HNYQW7UVRRD7DPLD3VJV2ACYWM.JPG?auth=fa9a72fc405fd5ee8b4d4a88eddcd9a8fdaf56ac02c4698cd06399a251213bb9&amp;width=1440" medium="image"/>
       </media:group>
     </item>
   </channel>
