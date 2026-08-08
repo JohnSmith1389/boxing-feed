@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 23:27:28 +0000</lastBuildDate>
-    <item>
-      <title>BKFC Sturgis Preview: Start Time, Fight Card, How to Watch &amp; Live Stream</title>
-      <link>https://www.si.com/fannation/boxing/bkfc-sturgis-preview-start-time-fight-card-how-to-watch-live-stream</link>
-      <description>The BKFC is back in South Dakota for its annual event at the Sturgis Motorcycle Rally, this time with a unique twist. The bare-knuckle boxing promotion will ple</description>
-      <guid isPermaLink="false">771c7264416b0abac9199bca5d079572</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_215,y_163,w_1464,h_823/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kzgzxnz5rbap2hbyq4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 16:09:15 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_215,y_163,w_1464,h_823/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kzgzxnz5rbap2hbyq4.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 23:56:03 +0000</lastBuildDate>
     <item>
       <title>Patrick O’Connor Ring Interview | Zuffa Boxing 10</title>
       <link>https://www.ufc.com/video/159002</link>
@@ -277,6 +266,17 @@
       <pubDate>Sat, 08 Aug 2026 23:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://e0.365dm.com/26/08/1600x900/skysports-aaron-mckenna-etinosa-oliha_7317247.jpg?20260808224756" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Aaron McKenna vs Etinosa Oliha</title>
+      <link>https://www.skysports.com/boxing/video/33722/13571266/aaron-mckenna-vs-etinosa-oliha-fight-highlights</link>
+      <description>Highlights of Aaron McKennas IBF middleweight world title fight against Etinosa Oliha.</description>
+      <guid isPermaLink="false">dc7f8cea463f78cc11c59db5a6949e9b</guid>
+      <enclosure url="https://e0.365dm.com/26/08/1600x900/skysports-aaron-mckenna_7317266.jpg?20260808235230" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 23:46:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://e0.365dm.com/26/08/1600x900/skysports-aaron-mckenna_7317266.jpg?20260808235230" medium="image"/>
       </media:group>
     </item>
   </channel>
