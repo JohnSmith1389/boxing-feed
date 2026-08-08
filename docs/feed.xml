@@ -7,51 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 23:32:22 +0000</lastBuildDate>
-    <item>
-      <title>Shakur Stevenson Next Fight: Haney Talks Stall</title>
-      <link>https://boxing-social.com/news/shakur-stevenson-next-fight/</link>
-      <description>Shakur Stevenson's next fight is in limbo again as a catchweight row with Devin Haney stalls talks. Is the champion now too picky for his own good?</description>
-      <guid isPermaLink="false">3d44c4bca73ae003bab3d9bb3c1a57d0</guid>
-      <enclosure url="https://media.boxing-social.com/boxingsocial/2026/02/Screenshot-2026-02-22-at-12.27.24-AM-scaled.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 13:47:20 +0000</pubDate>
-      <media:group>
-        <media:content url="https://media.boxing-social.com/boxingsocial/2026/02/Screenshot-2026-02-22-at-12.27.24-AM-scaled.png" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxing-Shields says fight with Price likely to take place in 2027</title>
-      <link>https://kfgo.com/2026/08/07/boxing-shields-says-fight-with-price-likely-to-take-place-in-2027/</link>
-      <description>Aug 7 (Reuters) - Undisputed heavyweight champion Claressa Shields expects her long-discussed blockbuster showdown with Wales' Lauren Price to be delayed until 2027. Price ​called for a fight with the ‌American after beating Stephanie Pineiro in April ...</description>
-      <guid isPermaLink="false">04977afa7d8f30e78fed8fe3148e4e41</guid>
-      <enclosure url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/07/2026-08-07T135744Z_2_LYNXMPEM7613S_RTROPTP_3_BOXING-BRITAIN-SHIELDS.JPG" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 13:57:44 +0000</pubDate>
-      <media:group>
-        <media:content url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/07/2026-08-07T135744Z_2_LYNXMPEM7613S_RTROPTP_3_BOXING-BRITAIN-SHIELDS.JPG" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>On This Day in Boxing… August 7</title>
-      <link>https://wbcboxing.com/en/on-this-day-in-boxing-august-7/</link>
-      <description>On This Day in Boxing… August 7 1966.- Legendary Mexican southpaw Vicente “El Zurdo de Oro” Saldívar successfully defended his WBC world featherweight title by defeating […]</description>
-      <guid isPermaLink="false">69248ea090548fdf7980285d0e909a43</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/jones-griffin.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 14:23:03 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/jones-griffin.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>William Zepeda Next Fight After Roach Win</title>
-      <link>https://boxing-social.com/news/william-zepeda-next-fight/</link>
-      <description>William Zepeda's next fight looms large after beating Lamont Roach: Mike Coppinger calls the WBC lightweight champion a rare Mexican pressure fighter.</description>
-      <guid isPermaLink="false">c7da35f412a904092f7a1d3f21ec20af</guid>
-      <enclosure url="https://media.boxing-social.com/boxingsocial/2026/08/07140051/william-zepeda-next-fight.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 07 Aug 2026 14:31:33 +0000</pubDate>
-      <media:group>
-        <media:content url="https://media.boxing-social.com/boxingsocial/2026/08/07140051/william-zepeda-next-fight.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 08 Aug 2026 01:27:48 +0000</lastBuildDate>
     <item>
       <title>WBC#1 Thammanoon Captures WBC Asia 108lb Title</title>
       <link>https://fightnews.com/wbc1-thammanoon-captures-wbc-asia-108lb-title/193700</link>
@@ -262,6 +218,17 @@
       </media:group>
     </item>
     <item>
+      <title>McKenna, Oliha make weight for IBF 160-pound title at Zuffa Boxing 10</title>
+      <link>https://www.fightmag.com/mckenna-oliha-make-weight-for-ibf-160-pound-title-at-zuffa-boxing-10/</link>
+      <description>Aaron McKenna and Etinosa Oliha weigh in and face off ahead of their bout for the vacant IBF 160-pound title at Zuffa Boxing 10 in Dublin.</description>
+      <guid isPermaLink="false">0d714828e504343836511144663dc86e</guid>
+      <enclosure url="https://www.fightmag.com/wp-content/uploads/2026/08/aaron-mckenna-weigh-in.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 20:25:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.fightmag.com/wp-content/uploads/2026/08/aaron-mckenna-weigh-in.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Oleksandr Usyk Addresses Deontay Wilder Fight Status, Leaves Door Open to Future Return</title>
       <link>https://www.si.com/fannation/boxing/oleksandr-usyk-addresses-deontay-wilder-fightstatus-leaves-door-open</link>
       <description>Oleksandr Usyk is 39 years old. While not old for the planet, boxing, for the most part, is a young man's game.</description>
@@ -281,6 +248,39 @@
       <pubDate>Fri, 07 Aug 2026 20:42:37 +0000</pubDate>
       <media:group>
         <media:content url="https://boxingireland.ie/wp-content/uploads/Fight-Details-Black-38-768x960.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Paulie Malignaggi: an Etinosa Oliha win over Aaron McKenna could revive Italian boxing</title>
+      <link>https://www.boxingscene.com/articles/paulie-malignaggi-an-etinosa-oliha-win-over-aaron-mckenna-could-revive-italian-boxing</link>
+      <description>Paulie Malignaggi outlines what a victory by middleweight Etinosa Oliha would mean to his homeland of Italy.</description>
+      <guid isPermaLink="false">457eb0be7dc8d3e6326338d7e409c8dd</guid>
+      <enclosure url="https://photo.boxingscene.com/uploads/etinosa-oliha-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 21:18:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://photo.boxingscene.com/uploads/etinosa-oliha-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>“Brawlin’ at the Frank” Boxing Event Comes to Meridian</title>
+      <link>https://www.wtok.com/2026/08/07/brawlin-frank-boxing-event-comes-meridian/</link>
+      <description>“Brawlin’ at the Frank” will be a boxing event held on August 29th at the Frank Cochran Center.</description>
+      <guid isPermaLink="false">b28cd9e945d613f0ea2e695924bb6db1</guid>
+      <enclosure url="https://gray-wtok-prod.gtv-cdn.com/resizer/v2/65VQKIWHSFHD5L36RCXY4GVGAU.png?auth=42e68efad82759e1859bba38c06518d0cf32ad9f7df196c6428d61c8dbd1bcd1&amp;width=1200&amp;height=600&amp;smart=true" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 07 Aug 2026 23:37:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://gray-wtok-prod.gtv-cdn.com/resizer/v2/65VQKIWHSFHD5L36RCXY4GVGAU.png?auth=42e68efad82759e1859bba38c06518d0cf32ad9f7df196c6428d61c8dbd1bcd1&amp;width=1200&amp;height=600&amp;smart=true" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Frank Martin Calls Devin Haney Boxing’s Biggest Risk Taker</title>
+      <link>https://www.boxing247.com/boxing-news/frank-martin-calls-devin-haney-boxings-biggest-risk-taker/308897</link>
+      <description>Frank Martin believes Devin Haney separates himself from boxing’s top fighters by accepting career risks others avoid.</description>
+      <guid isPermaLink="false">0043ed15bc0817c14eec7b1d8204e4e4</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Bulked-up-Haney.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 00:50:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Bulked-up-Haney.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
