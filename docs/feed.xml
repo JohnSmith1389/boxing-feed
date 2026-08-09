@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 09:38:07 +0000</lastBuildDate>
-    <item>
-      <title>Zuffa Boxing 10: Sam Hickey lands DEVASTATING knockout vs Brad Axe</title>
-      <link>https://www.skysports.com/boxing/video/13273/13571226/zuffa-boxing-10-sam-hickey-lands-devastating-knockout-vs-brad-axe</link>
-      <description>Sam Hickeys huge right hand knocked out Brad Axe in the seventh round of their contest.</description>
-      <guid isPermaLink="false">5da15ba0a5938f84d871ee2dde1a6135</guid>
-      <enclosure url="https://e0.365dm.com/26/08/1600x900/skysports-boxing-axe-hickey_7317151.jpg?20260808203214" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 20:26:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/08/1600x900/skysports-boxing-axe-hickey_7317151.jpg?20260808203214" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Troy Williamson vs Callum Simpson 2 live scorecard and fight result</title>
-      <link>https://boxingnewsonline.net/news/troy-williamson-vs-callum-simpson-2-live/</link>
-      <description>Callum Simpson has the chance to avenge the only defeat of his professional career tonight when he faces Troy Williamson for a second time at the First Direct</description>
-      <guid isPermaLink="false">e04c69ed142b4efa5fb97d971e5b8b01</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786219940143896327/Williamson-vs-Simpson-weigh-in.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 20:29:25 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786219940143896327/Williamson-vs-Simpson-weigh-in.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 10:33:32 +0000</lastBuildDate>
     <item>
       <title>Sam Hickey vs Brad Axe</title>
       <link>https://www.skysports.com/boxing/video/30998/13571229/sam-hickey-vs-brad-axe-fight-highlights</link>
@@ -170,6 +148,17 @@
       </media:group>
     </item>
     <item>
+      <title>Callum Simpson beats Troy Williamson in rematch to reclaim super-middleweight titles</title>
+      <link>https://www.bbc.com/sport/boxing/articles/c7vgjdry18jo</link>
+      <description>Callum Simpson reclaims the British and Commonwealth super-middleweight titles as he earns a unanimous decision in his rematch with Troy Williamson.</description>
+      <guid isPermaLink="false">9816905454fbd6d8bd3293a3161dac60</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b90/live/417bed90-937a-11f1-98f6-7b84e67b36bd.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 22:52:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b90/live/417bed90-937a-11f1-98f6-7b84e67b36bd.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Aaron McKenna wins dream homecoming bout against Etinosa Oliha to become IBF middleweight world champion in Dublin</title>
       <link>https://www.skysports.com/boxing/news/12183/13571057/aaron-mckenna-wins-dream-homecoming-bout-against-etinosa-oliha-to-become-ibf-middleweight-world-champion-in-dublin</link>
       <description>Irelands Aaron McKenna becomes a new middleweight world champion on an emotional night at the 3Arena in Dublin; McKenna seized a unanimous decision victory over Etinosa Oliha, winning 118-110, 117-111 and 116-112 on the scorecards in the headline bout on Zuffa Boxing 10</description>
@@ -266,6 +255,17 @@
       <pubDate>Sun, 09 Aug 2026 06:43:42 +0000</pubDate>
       <media:group>
         <media:content url="https://tss.ib.tv/boxing/wp-content/uploads/2026/08/the-sweet-science_Q8g9E01t.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Tyson Fury's last opponent Mariusz Wach beaten up and forced to quit in worrying 6 vs 1 bout</title>
+      <link>https://talksport.com/boxing/4500970/tyson-fury-opponent-mariusz-wach-quit-fight/</link>
+      <description>Mariusz Wach, who fought Tyson Fury three weeks ago, took a bizarre and brutal beating at the hands of SIX opponents at once. Wach recently took on Fury in a tune-up fight in Thailand under secret …</description>
+      <guid isPermaLink="false">2ded397396eaf4207a63fbd9c5da705b</guid>
+      <enclosure url="https://talksport.com/wp-content/uploads/2026/08/crop-4500971.jpg?strip=all&amp;quality=100&amp;w=1920&amp;h=1080&amp;crop=1" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 07:47:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://talksport.com/wp-content/uploads/2026/08/crop-4500971.jpg?strip=all&amp;quality=100&amp;w=1920&amp;h=1080&amp;crop=1" medium="image"/>
       </media:group>
     </item>
     <item>
