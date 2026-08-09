@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 05:03:20 +0000</lastBuildDate>
-    <item>
-      <title>Stevie McKenna Knocks Out Owen O’Neill | Zuffa Boxing 10</title>
-      <link>https://www.ufc.com/video/159004</link>
-      <description>Another Highlight Reel Moment For Stevie McKenna, One Of The Best KO Artists In The Game</description>
-      <guid isPermaLink="false">6c656450052ba2132fd5ad93da41896e</guid>
-      <enclosure url="https://ufc.com/images/2026-08/080826-Stevie-McKenna-KO-ZB10-X_20260808_C1N05062.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 17:42:59 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-08/080826-Stevie-McKenna-KO-ZB10-X_20260808_C1N05062.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 06:07:27 +0000</lastBuildDate>
     <item>
       <title>Archbold Rotary Program Spotlights Wauseon Boxing Club</title>
       <link>https://thevillagereporter.com/archbold-rotary-program-spotlights-wauseon-boxing-club/</link>
@@ -222,6 +211,17 @@
       <pubDate>Sat, 08 Aug 2026 22:35:00 +0000</pubDate>
       <media:group>
         <media:content url="https://www.sportsbettingdime.com/app/uploads/2026/08/2025-04-10T021150Z_599659001_MT1USATODAY25890266_RTRMADP_3_BOXING-TAYLOR-VS-SERRANO-3-PRESS-CONFERENCE-1024x683.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing 10 results: Aaron McKenna wins IBF middleweight gold, Callum Walsh survives knockdown to grab win</title>
+      <link>https://www.cbssports.com/boxing/news/zuffa-boxing-10-results-aaron-mckenna-callum-walsh/</link>
+      <description>McKenna and Walsh sent the fans home happy in Dublin</description>
+      <guid isPermaLink="false">11c165e4f2b6d1470f93a409d76f6ad4</guid>
+      <enclosure url="https://sportshub.cbsistatic.com/i/r/2026/08/08/2d470a69-b83b-4ad5-a231-84432d5ddb98/thumbnail/1200x675/bf030fabd01831ad0875991100775623/aaron-mckenna-title-ireland.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 22:40:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://sportshub.cbsistatic.com/i/r/2026/08/08/2d470a69-b83b-4ad5-a231-84432d5ddb98/thumbnail/1200x675/bf030fabd01831ad0875991100775623/aaron-mckenna-title-ireland.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
