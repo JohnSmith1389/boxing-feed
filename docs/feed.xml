@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 08:41:09 +0000</lastBuildDate>
-    <item>
-      <title>Sam Hickey Ring Interview | Zuffa Boxing 10</title>
-      <link>https://www.ufc.com/video/159006</link>
-      <description>Rising Scottish Star Talks His Big KO Victory At Zuffa Boxing 10 In Dublin</description>
-      <guid isPermaLink="false">f81e47312c8cce0579b8dd411907e3e0</guid>
-      <enclosure url="https://ufc.com/images/2026-08/080826-Sam-Hickey-thumb-2.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 19:48:36 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-08/080826-Sam-Hickey-thumb-2.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 09:38:07 +0000</lastBuildDate>
     <item>
       <title>Zuffa Boxing 10: Sam Hickey lands DEVASTATING knockout vs Brad Axe</title>
       <link>https://www.skysports.com/boxing/video/13273/13571226/zuffa-boxing-10-sam-hickey-lands-devastating-knockout-vs-brad-axe</link>
@@ -277,6 +266,17 @@
       <pubDate>Sun, 09 Aug 2026 06:43:42 +0000</pubDate>
       <media:group>
         <media:content url="https://tss.ib.tv/boxing/wp-content/uploads/2026/08/the-sweet-science_Q8g9E01t.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Where are the Ugandan boxers? Four are latest athletes to vanish after UK sports events</title>
+      <link>https://www.theguardian.com/sport/2026/aug/09/where-are-ugandan-boxers-athletes-vanish-uk-sports-events</link>
+      <description>Team manager has ‘no idea’ why they disappeared, after reports one of Commonwealth Games athletes said they intended to claim asylum</description>
+      <guid isPermaLink="false">8df233240172104ba70189cb72a29481</guid>
+      <enclosure url="https://i.guim.co.uk/img/media/0723f4533443547288c5bb04df34534b7b31a589/537_0_4046_3237/master/4046.jpg?width=1200&amp;height=1200&amp;quality=85&amp;auto=format&amp;fit=crop&amp;s=ea376e30d66366416172aba797d20332" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 09:00:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.guim.co.uk/img/media/0723f4533443547288c5bb04df34534b7b31a589/537_0_4046_3237/master/4046.jpg?width=1200&amp;height=1200&amp;quality=85&amp;auto=format&amp;fit=crop&amp;s=ea376e30d66366416172aba797d20332" medium="image"/>
       </media:group>
     </item>
   </channel>
