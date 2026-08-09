@@ -7,51 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 23:56:03 +0000</lastBuildDate>
-    <item>
-      <title>Patrick O’Connor Ring Interview | Zuffa Boxing 10</title>
-      <link>https://www.ufc.com/video/159002</link>
-      <description>Hear From The Cruiserweight Winner Of Zuffa Boxing's Very First Bout In Ireland</description>
-      <guid isPermaLink="false">66338c5ea3a42eefd39b2e9d344c441d</guid>
-      <enclosure url="https://ufc.com/images/2026-08/080826-Patrick-OConnor-thumb.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 16:30:51 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-08/080826-Patrick-OConnor-thumb.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Aaron McKenna vs Etinosa Oliha: Free live stream of undercard fights ahead of Saturday's middleweight world title fight in Dublin</title>
-      <link>https://www.skysports.com/boxing/news/12040/13570756/aaron-mckenna-vs-etinosa-oliha-free-live-stream-of-undercard-fights-ahead-of-saturdays-middleweight-world-title-fight-in-dublin</link>
-      <description>The vacant IBF world middleweight title is on the line as Aaron McKenna faces Etinosa Oliha in Dublin on Saturday night; watch Zuffa Boxing 10: McKenna vs Oliha on Sky Sports Action from 7pm and Sky Sports Main Event from 8pm</description>
-      <guid isPermaLink="false">f68093e6c578f685ec310824a51a4737</guid>
-      <enclosure url="https://e0.365dm.com/26/08/1600x900/skysports-zufa-boxing-zuffa-boxing-10_7315947.jpg?20260807103054" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 16:45:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/08/1600x900/skysports-zufa-boxing-zuffa-boxing-10_7315947.jpg?20260807103054" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Moses Itauma Names His Biggest Future Rival</title>
-      <link>https://boxing-social.com/news/moses-itauma-biggest-rival/</link>
-      <description>Moses Itauma has named Agit Kabayel as his biggest future rival — but he faces Filip Hrgovic for the vacant IBF title on August 29 first. Here’s why.</description>
-      <guid isPermaLink="false">a0b03bc5aa788a940f08aa284d7fed63</guid>
-      <enclosure url="https://media.boxing-social.com/boxingsocial/2026/01/Untitled-design-2026-01-13T155406.595.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 16:51:03 +0000</pubDate>
-      <media:group>
-        <media:content url="https://media.boxing-social.com/boxingsocial/2026/01/Untitled-design-2026-01-13T155406.595.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Zuffa Boxing 10 Aaron McKenna vs. Etinosa Oliha live results: Round-by-round updates, highlights and winner (August 8, 2026)</title>
-      <link>https://dknetwork.draftkings.com/2026/08/08/zuffa-boxing-10-aaron-mckenna-vs-etinosa-oliha-live-results-round-by-round-updates-highlights-and-winner-august-8-2026/</link>
-      <description>Follow Zuffa Boxing 10 McKenna vs. Oliha live with round-by-round updates, highlights, results, and the official winner.</description>
-      <guid isPermaLink="false">750ef4729f56b70497cf9dd191814ef1</guid>
-      <enclosure url="https://dknetwork.draftkings.com/wp-content/uploads/2026/08/GettyImages-2212130351.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 17:30:31 +0000</pubDate>
-      <media:group>
-        <media:content url="https://dknetwork.draftkings.com/wp-content/uploads/2026/08/GettyImages-2212130351.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 01:49:57 +0000</lastBuildDate>
     <item>
       <title>Stevie McKenna Ring Interview | Zuffa Boxing 10</title>
       <link>https://www.ufc.com/video/159003</link>
@@ -247,6 +203,28 @@
       </media:group>
     </item>
     <item>
+      <title>Zuffa 10 Undercard Results From Dublin</title>
+      <link>https://fightnews.com/zuffa-10-undercard-results-from-dublin/193738</link>
+      <description>Callum Walsh defeats Tyler Denny via unanimous decision In the co-main event, Callum Walsh bounced back from a</description>
+      <guid isPermaLink="false">9529569e1c715ada04c404bfb89e72e9</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/image-21.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 21:51:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/image-21.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Callum Simpson outpoints Troy Williamson in thrilling rematch, avenges only loss</title>
+      <link>https://www.boxingscene.com/articles/callum-simpson-outpoints-troy-williamson-in-thrilling-rematch-avenges-only-loss</link>
+      <description>Callum Simpson regained his British and Commonwealth super middleweight titles, avenging the only loss of his career in the process, when he outpointed Troy Williamson following a terrific battle in Leeds, England</description>
+      <guid isPermaLink="false">623bf7969ba268af0642a559b0d71096</guid>
+      <enclosure url="https://photo.boxingscene.com/uploads/WILLIAMSON-SIMPSON-71.webp" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 22:02:30 +0000</pubDate>
+      <media:group>
+        <media:content url="https://photo.boxingscene.com/uploads/WILLIAMSON-SIMPSON-71.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Aaron McKenna Ring Interview | Zuffa Boxing 10</title>
       <link>https://www.ufc.com/video/159014</link>
       <description>Newly Minted Middleweight World Champion Aaron McKenna Talks In The Ring Following His Win Over Etinosa Oliha At Zuffa Boxing 10 In Dublin, Ireland On August 8, 2026</description>
@@ -269,6 +247,17 @@
       </media:group>
     </item>
     <item>
+      <title>Zuffa Boxing 10 Results: Aaron McKenna Wins IBF Middleweight Title</title>
+      <link>https://www.boxinginsider.com/headlines/zuffa-boxing-10-results-aaron-mckenna-wins-ibf-middleweight-title/</link>
+      <description>Aaron McKenna won the vacant IBF middleweight title with a wide unanimous decision over Etinosa Oliha in the main event of Zuffa Boxing 10 on Saturday</description>
+      <guid isPermaLink="false">5a74357fdad5e137847c53057fcc1e5a</guid>
+      <enclosure url="https://www.boxinginsider.com/wp-content/uploads/2026/07/IMG_8382.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 08 Aug 2026 23:07:13 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxinginsider.com/wp-content/uploads/2026/07/IMG_8382.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Aaron McKenna vs Etinosa Oliha</title>
       <link>https://www.skysports.com/boxing/video/33722/13571266/aaron-mckenna-vs-etinosa-oliha-fight-highlights</link>
       <description>Highlights of Aaron McKennas IBF middleweight world title fight against Etinosa Oliha.</description>
@@ -277,6 +266,17 @@
       <pubDate>Sat, 08 Aug 2026 23:46:00 +0000</pubDate>
       <media:group>
         <media:content url="https://e0.365dm.com/26/08/1600x900/skysports-aaron-mckenna_7317266.jpg?20260808235230" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>BKFC Sturgis Live Results: Bryant Acheson vs. Mike Jones</title>
+      <link>https://www.si.com/fannation/boxing/bkfc-sturgis-live-results-bryant-acheson-vs-mike-jones</link>
+      <description>BKFC Sturgis returns to the Legendary Buffalo Chip on Saturday night with a potential cruiserweight title eliminator between undefeated Bryant Acheson (5-0) and</description>
+      <guid isPermaLink="false">e2e27afc694bfc5f15a06ba74e6817f3</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_294,w_3000,h_1687/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kzhzg32a59hbhwpb2h.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 01:14:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_294,w_3000,h_1687/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kzhzg32a59hbhwpb2h.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
