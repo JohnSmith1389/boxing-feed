@@ -7,51 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 21:30:50 +0000</lastBuildDate>
-    <item>
-      <title>Thorslund Takes Back Bantamweight Division From Johnson</title>
-      <link>https://www.boxing247.com/boxing-news/thorslund-takes-back-bantamweight-division-from-johnson/308925</link>
-      <description>Cherneka Johnson owned all four bantamweight belts when she stepped into the ring Saturday night. Dina Thorslund left little doubt about who the better</description>
-      <guid isPermaLink="false">0f888849c3ca88f9c047068e45db0c0e</guid>
-      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/08/Thorslund-vs-Johnson.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 05:57:47 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/08/Thorslund-vs-Johnson.jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Thorslund becomes undisputed with shutout win over Johnson</title>
-      <link>https://www.espn.com/boxing/story/_/id/49565966/thorslund-becomes-undisputed-shutout-win-johnson</link>
-      <description>After enduring an emotional journey since vacating her titles in June 2025, Dina Thorslund became the undisputed bantamweight champion with a dominant decision victory over Cherneka Johnson on Saturday night.</description>
-      <guid isPermaLink="false">9e87295d2fef345d2d8e2b28f761d6c2</guid>
-      <enclosure url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699436_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 06:06:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0809%2Fr1699436_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Championship boxer and hip-hop stars set for historic fight night at State Farm Arena</title>
-      <link>https://sports.yahoo.com/articles/championship-boxer-hip-hop-stars-062256234.html</link>
-      <description>The event is a collaboration between boxing promoter Salita Promotions, Atlanta-based Wynn Records and streaming platform Zeus Network.</description>
-      <guid isPermaLink="false">576db671a5584ea29ac95e7f265216f7</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/98cc9594cc30fc000dd5b6c272ae21020b45f68e21796c8a7ab76b6a27484336/lightyear_networkapi/resizefill_w300_h200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsb_cox_articles_232%2F314793016cbf17e1368d471fb84455e7" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 06:22:56 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/98cc9594cc30fc000dd5b6c272ae21020b45f68e21796c8a7ab76b6a27484336/lightyear_networkapi/resizefill_w300_h200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwsb_cox_articles_232%2F314793016cbf17e1368d471fb84455e7" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Championship boxer and hip-hop stars set for historic fight night at State Farm Arena</title>
-      <link>https://www.wsbtv.com/news/local/championship-boxer-hip-hop-stars-set-historic-fight-night-state-farm-arena/ITM6PJYVMVGBDPOCTDVD5TI5YQ/</link>
-      <description>The hip-hop artists will accompany fighters during their walkouts for the August 15 event, which will make Claressa Shields the first woman to headline a boxing event at State Farm Arena.</description>
-      <guid isPermaLink="false">20b0576cb103bf46b2061e6888c50ded</guid>
-      <enclosure url="https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FGQDKIDDLDFDGRI2MSPPEGU32P4.jpg?auth=9ab5410f94eb0ae006648fa491fde444b7e747476d337a798ade541fdb776859&amp;width=1200&amp;height=630&amp;smart=true" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 06:22:57 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FGQDKIDDLDFDGRI2MSPPEGU32P4.jpg?auth=9ab5410f94eb0ae006648fa491fde444b7e747476d337a798ade541fdb776859&amp;width=1200&amp;height=630&amp;smart=true" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 22:29:21 +0000</lastBuildDate>
     <item>
       <title>Zepeda Navarrete: Would Top Rank Risk The Fight?</title>
       <link>https://boxing-social.com/news/zepeda-navarrete/</link>
@@ -130,6 +86,17 @@
       </media:group>
     </item>
     <item>
+      <title>Jake Paul Now Owns a UBO. It’s Just Not Allowed in Boxing</title>
+      <link>https://www.boxinginsider.com/headlines/jake-paul-ubo-pfl-boxing/</link>
+      <description>By Larry Goldberg Congress has spent a year and forty pages of statute defining a unified boxing organization: one company that signs the fighters,</description>
+      <guid isPermaLink="false">26aee4037d93b06dad748434519399f1</guid>
+      <enclosure url="https://www.boxinginsider.com/wp-content/uploads/2024/11/J-Paul.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 11:27:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxinginsider.com/wp-content/uploads/2024/11/J-Paul.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Dana White shares bizarre reason behind ring card girl exclusion</title>
       <link>https://sports.yahoo.com/articles/dana-white-shares-bizarre-reason-120000686.html</link>
       <description>The inclusion of ring card girls at big combat sports events has been a custom for decades, but that could now be another change fans will have to get used to following Zuffa Boxing 10. Zuffa Boxing is Dana White's new passion, seemingly pouring his all into the resurection of a </description>
@@ -156,6 +123,17 @@
       <pubDate>Sun, 09 Aug 2026 12:14:26 +0000</pubDate>
       <media:group>
         <media:content url="https://wcti12.com/resources/media2/16x9/1920/1320/center/90/92759e77-c63f-4ca3-916b-6d6229981088-4b8900b4773d4e268fffc85c4441615c.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Dina Thorslund Defeats Cherneka Johnson To Become Undisputed Bantamweight World Champion</title>
+      <link>https://fightnews.com/dina-thorslund-defeats-cherneka-johnson-to-become-undisputed-bantamweight-world-champion/193752</link>
+      <description>At Most Valuable Promotions’ MVPW-05 tonight, MVP and Denmark’s Dina Thorslund (25-0, 9 KOs) regained her crown at</description>
+      <guid isPermaLink="false">da31a24d0b7cd06cd73e67bf104320ed</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/080826_Fight-Night_Cherneka_Johnson_vs_Dina_Thorslund_HA_30670.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 12:21:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/080826_Fight-Night_Cherneka_Johnson_vs_Dina_Thorslund_HA_30670.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -247,6 +225,17 @@
       </media:group>
     </item>
     <item>
+      <title>Gradus Kraus Decimates Sean Hemphill In 63 Seconds</title>
+      <link>https://www.boxingnews24.com/2026/08/gradus-kraus-decimates-sean-hemphill-in-63-seconds/</link>
+      <description>Gradus Kraus expected a serious test from Sean Hemphill on Saturday night. Instead, the Dutch light heavyweight tore through him in 63 seconds at the First</description>
+      <guid isPermaLink="false">30d8f331da9d177aa4930d25158d019a</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Gradus-Kraus-vs-Sean-Hempfill.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 17:41:38 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Gradus-Kraus-vs-Sean-Hempfill.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Eastern Shoshone Boxing Champ Used To Fight Everyone. Now She’s A Healer</title>
       <link>https://cowboystatedaily.com/2026/08/09/eastern-shoshone-boxing-champ-shifts-from-fighting-to-healing-through-nursing/</link>
       <description>Milanii Sojos dropped out of high school, became a mother at 17, endured abuse and spent years caught in a cycle of fighting and drinking. Today, she sees…</description>
@@ -255,6 +244,17 @@
       <pubDate>Sun, 09 Aug 2026 17:50:00 +0000</pubDate>
       <media:group>
         <media:content url="https://cowboystatedaily.imgix.net/Rez-nurse-Milanii-at-work-5-8.9.26.png?w=1200&amp;q=75&amp;auto=format%2Ccompress" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>"I would've knocked him out": Fighter who retired undefeated says Manny Pacquiao avoided him</title>
+      <link>https://boxingnewsonline.net/news/ex-champ-says-he-would-have-ko-pacquiao/</link>
+      <description>While never quite securing the opportunity to do so, a former world champion has claimed that he would have “1000%” knocked out Manny Pacquiao.</description>
+      <guid isPermaLink="false">fde5d594e3e3f8d5acc08c98d0ae720d</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786278369838455435/Manny-Pacquiao.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 18:39:04 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786278369838455435/Manny-Pacquiao.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
