@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 17:30:26 +0000</lastBuildDate>
-    <item>
-      <title>Aaron McKenna vs Etinosa Oliha</title>
-      <link>https://www.skysports.com/boxing/video/33722/13571266/aaron-mckenna-vs-etinosa-oliha-fight-highlights</link>
-      <description>Highlights of Aaron McKennas IBF middleweight world title fight against Etinosa Oliha.</description>
-      <guid isPermaLink="false">dc7f8cea463f78cc11c59db5a6949e9b</guid>
-      <enclosure url="https://e0.365dm.com/26/08/1600x900/skysports-aaron-mckenna_7317266.jpg?20260808235230" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 08 Aug 2026 23:46:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/08/1600x900/skysports-aaron-mckenna_7317266.jpg?20260808235230" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>BKFC Sturgis Live Results: Bryant Acheson vs. Mike Jones</title>
-      <link>https://www.si.com/fannation/boxing/bkfc-sturgis-live-results-bryant-acheson-vs-mike-jones</link>
-      <description>BKFC Sturgis returns to the Legendary Buffalo Chip on Saturday night with a potential cruiserweight title eliminator between undefeated Bryant Acheson (5-0) and</description>
-      <guid isPermaLink="false">e2e27afc694bfc5f15a06ba74e6817f3</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_294,w_3000,h_1687/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kzhzg32a59hbhwpb2h.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 01:14:08 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_294,w_3000,h_1687/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01kzhzg32a59hbhwpb2h.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 18:38:45 +0000</lastBuildDate>
     <item>
       <title>Tim Bradley Thinks Haney's Skills Scare Fighters, But Is It Really About Money?</title>
       <link>https://www.boxingnews24.com/2026/08/tim-bradley-thinks-haneys-skills-scare-fighters-but-is-it-really-about-money/</link>
@@ -251,6 +229,17 @@
       </media:group>
     </item>
     <item>
+      <title>Tamm Thibeault Wins Three Middleweight Belts</title>
+      <link>https://boxing-social.com/news/tamm-thibeault-titles/</link>
+      <description>Tamm Thibeault needed just five pro fights to rule women's middleweight, dominating Desley Robinson in Orlando to claim three world titles in one night.</description>
+      <guid isPermaLink="false">3052098dde513fd1a309dab4e94581a9</guid>
+      <enclosure url="https://media.boxing-social.com/boxingsocial/2026/08/09131412/tamm-thibeault-titles.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 13:06:55 +0000</pubDate>
+      <media:group>
+        <media:content url="https://media.boxing-social.com/boxingsocial/2026/08/09131412/tamm-thibeault-titles.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Dana White on potential UFC return to Ireland after walking out of Zuffa Boxing main event</title>
       <link>https://bloodyelbow.com/2026/08/09/dana-white-on-potential-ufc-return-to-ireland-after-walking-out-of-zuffa-boxing-main-event/</link>
       <description>White walked out of the Zuffa Boxing 10 event.</description>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 09 Aug 2026 15:39:25 +0000</pubDate>
       <media:group>
         <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/08072026_Public-Weigh-In_HA_0182_THIBEAULT.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C82.55462036362&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Eastern Shoshone Boxing Champ Used To Fight Everyone. Now She’s A Healer</title>
+      <link>https://cowboystatedaily.com/2026/08/09/eastern-shoshone-boxing-champ-shifts-from-fighting-to-healing-through-nursing/</link>
+      <description>Milanii Sojos dropped out of high school, became a mother at 17, endured abuse and spent years caught in a cycle of fighting and drinking. Today, she sees…</description>
+      <guid isPermaLink="false">197b12ab699e4c32f994bde63a3ab970</guid>
+      <enclosure url="https://cowboystatedaily.imgix.net/Rez-nurse-Milanii-at-work-5-8.9.26.png?w=1200&amp;q=75&amp;auto=format%2Ccompress" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 17:50:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cowboystatedaily.imgix.net/Rez-nurse-Milanii-at-work-5-8.9.26.png?w=1200&amp;q=75&amp;auto=format%2Ccompress" medium="image"/>
       </media:group>
     </item>
   </channel>
