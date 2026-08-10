@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 22:06:38 +0000</lastBuildDate>
-    <item>
-      <title>Dennis Rappaport, Floral Park resident, boxing legend and Hall of Fame, dies at 81</title>
-      <link>https://www.longislandpress.com/2026/08/10/dennis-rappaport-floral-park/</link>
-      <description>Dennis Rappaport, a Floral Park resident who helped shape professional boxing as a manager, promoter and businessman, died in May at the age of 81.</description>
-      <guid isPermaLink="false">ddb0117cede48fb3a36aa329c2b43041</guid>
-      <enclosure url="https://www.longislandpress.com/wp-content/uploads/2026/08/2006-08-09T000000Z_2001772697_MT1ZUMA000YR2H67_RTRMADP_3_ZUMA-1-e1786369656693.jpg?w=810&amp;p=q" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 14:04:01 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.longislandpress.com/wp-content/uploads/2026/08/2006-08-09T000000Z_2001772697_MT1ZUMA000YR2H67_RTRMADP_3_ZUMA-1-e1786369656693.jpg?w=810&amp;p=q" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 23:05:56 +0000</lastBuildDate>
     <item>
       <title>On This Day in Boxing… August 10</title>
       <link>https://wbcboxing.com/en/on-this-day-in-boxing-august-10/</link>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 10 Aug 2026 20:50:31 +0000</pubDate>
       <media:group>
         <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Ruiz-Jr.-vs-Knyba2.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Green Mountain Gloves</title>
+      <link>https://www.vermontpublic.org/vermont-events-calendar/event/green-mountain-gloves-07-08-2026-17-07-17</link>
+      <description>Green Mountain Gloves returns to Combat Fitness MMA in Winooski for an afternoon of live amateur boxing, community, and fun!Come watch boxers from Vermont and around the region step into the ring for live boxing from 1–4 PM. Whether you're already part of the boxing community or </description>
+      <guid isPermaLink="false">e4713b6c21a4b9b8b5e755947a9b3a22</guid>
+      <enclosure url="https://npr.brightspotcdn.com/dims4/default/6e19d2c/2147483647/strip/true/crop/1254x705+0+274/resize/1200x675!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fab%2F62%2Fa431c95446a49ebc81232c5c9188%2Fgmg-insta-post-edit.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 22:37:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://npr.brightspotcdn.com/dims4/default/6e19d2c/2147483647/strip/true/crop/1254x705+0+274/resize/1200x675!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fab%2F62%2Fa431c95446a49ebc81232c5c9188%2Fgmg-insta-post-edit.png" medium="image"/>
       </media:group>
     </item>
   </channel>
