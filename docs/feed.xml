@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 14:35:48 +0000</lastBuildDate>
-    <item>
-      <title>Eastern Shoshone Boxing Champ Used To Fight Everyone. Now She’s A Healer</title>
-      <link>https://cowboystatedaily.com/2026/08/09/eastern-shoshone-boxing-champ-shifts-from-fighting-to-healing-through-nursing/</link>
-      <description>Milanii Sojos dropped out of high school, became a mother at 17, endured abuse and spent years caught in a cycle of fighting and drinking. Today, she sees…</description>
-      <guid isPermaLink="false">197b12ab699e4c32f994bde63a3ab970</guid>
-      <enclosure url="https://cowboystatedaily.imgix.net/Rez-nurse-Milanii-at-work-5-8.9.26.png?w=1200&amp;q=75&amp;auto=format%2Ccompress" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 17:50:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cowboystatedaily.imgix.net/Rez-nurse-Milanii-at-work-5-8.9.26.png?w=1200&amp;q=75&amp;auto=format%2Ccompress" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>"I would've knocked him out": Fighter who retired undefeated says Manny Pacquiao avoided him</title>
-      <link>https://boxingnewsonline.net/news/ex-champ-says-he-would-have-ko-pacquiao/</link>
-      <description>While never quite securing the opportunity to do so, a former world champion has claimed that he would have “1000%” knocked out Manny Pacquiao.</description>
-      <guid isPermaLink="false">fde5d594e3e3f8d5acc08c98d0ae720d</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786278369838455435/Manny-Pacquiao.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 18:39:04 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786278369838455435/Manny-Pacquiao.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 15:58:40 +0000</lastBuildDate>
     <item>
       <title>SacTown Youth Nights and Flawless Boxing host Youth Fundraiser!</title>
       <link>https://www.cbsnews.com/gooddaysacramento/video/sactown-youth-nights-and-flawless-boxing-host-youth-fundraiser/</link>
@@ -138,6 +116,17 @@
       <pubDate>Mon, 10 Aug 2026 06:45:05 +0000</pubDate>
       <media:group>
         <media:content url="https://im.rediff.com/1200-630/news/2026/aug/10-narendra-modi5.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Did Opetaia Sell Out His Legacy For Zuffa Money?”</title>
+      <link>https://www.boxing247.com/boxing-news/did-opetaia-sell-out-his-legacy-for-zuffa-money/308951</link>
+      <description>Eddie Hearn believes Jai Opetaia exchanged part of his championship ambition for financial security since signing with Zuffa Boxing.</description>
+      <guid isPermaLink="false">e4f8000a9961a0ae4d8433d89cae43fe</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/03/opetaia-glanton8.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 07:06:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/03/opetaia-glanton8.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 10 Aug 2026 14:05:58 +0000</pubDate>
       <media:group>
         <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/nino-vs-viloria.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Dina Thorslund Reigns Supreme Once Again!</title>
+      <link>https://wbcboxing.com/en/dina-thorslund-reigns-supreme-once-again/</link>
+      <description>Dina Thorslund Reigns Supreme Once Again! In a night filled with emotion, grit, and world-class skill, undefeated Danish star Dina Thorslund wrote one of the most […]</description>
+      <guid isPermaLink="false">16bee70295be1b9c1e68c04a1e430449</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/dina-th.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 15:09:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/dina-th.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
