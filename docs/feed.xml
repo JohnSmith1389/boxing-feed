@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 07:39:04 +0000</lastBuildDate>
-    <item>
-      <title>Jake Paul Now Owns a UBO. It’s Just Not Allowed in Boxing</title>
-      <link>https://www.boxinginsider.com/headlines/jake-paul-ubo-pfl-boxing/</link>
-      <description>By Larry Goldberg Congress has spent a year and forty pages of statute defining a unified boxing organization: one company that signs the fighters,</description>
-      <guid isPermaLink="false">26aee4037d93b06dad748434519399f1</guid>
-      <enclosure url="https://www.boxinginsider.com/wp-content/uploads/2024/11/J-Paul.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 11:27:09 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxinginsider.com/wp-content/uploads/2024/11/J-Paul.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 09:19:15 +0000</lastBuildDate>
     <item>
       <title>Dana White shares bizarre reason behind ring card girl exclusion</title>
       <link>https://sports.yahoo.com/articles/dana-white-shares-bizarre-reason-120000686.html</link>
@@ -211,6 +200,17 @@
       <pubDate>Sun, 09 Aug 2026 19:33:18 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/080826_Fight-Night_Desley_Robinson_vs_Tamm_Thibeault_HA_23420.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>“Bodybuilder Boxer”: Thurman Unsure If Benn Has The Skill To Beat Garcia</title>
+      <link>https://www.boxingnews24.com/2026/08/bodybuilder-boxer-thurman-unsure-if-benn-has-the-skill-to-beat-garcia/</link>
+      <description>Keith Thurman isn't sold on Conor Benn's technical ability as the challenger prepares to face WBC welterweight champion Ryan Garcia on September 12 in Las</description>
+      <guid isPermaLink="false">21d000fc0a5c3347214d83eeac6ab3c5</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Conor-Benn-vs-Regis-Prograis09.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 09 Aug 2026 22:44:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Conor-Benn-vs-Regis-Prograis09.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
