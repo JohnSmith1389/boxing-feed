@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 05:54:40 +0000</lastBuildDate>
-    <item>
-      <title>Terence Crawford delivers verdict on Naoya Inoue vs Bam Rodriguez: "He's showed what level he's on"</title>
-      <link>https://boxingnewsonline.net/news/crawford-verdict-on-inoue-vs-bam/</link>
-      <description>Terence Crawford has weighed in with his view on the proposed Naoya Inoue vs Jesse Rodriguez showdown.</description>
-      <guid isPermaLink="false">f6659e0eb4895d0dae5bfbe0307fc41d</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786272059190573352/Naoya-Inoue-and-Jesse-Bam-Rodriguez.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 11:10:31 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786272059190573352/Naoya-Inoue-and-Jesse-Bam-Rodriguez.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Alleged crime boss Daniel Kinahan’s return to Ireland ends global game of cat-and-mouse</title>
-      <link>https://www.theguardian.com/world/2026/aug/09/daniel-kinahan-return-ireland-ends-global-game-cat-and-mouse</link>
-      <description>Kinahan built boxing empire while in exile in Dubai but now faces trial in Dublin charged with directing organised crime</description>
-      <guid isPermaLink="false">a21571cd8b08b49868bf6028354547fb</guid>
-      <enclosure url="https://i.guim.co.uk/img/media/5e1a10869215c1beab0793a7e3686e1f47b84f15/0_802_5000_3999/master/5000.jpg?width=1200&amp;height=1200&amp;quality=85&amp;auto=format&amp;fit=crop&amp;s=73332dbea22d555f46b14facb183515e" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 11:22:52 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.guim.co.uk/img/media/5e1a10869215c1beab0793a7e3686e1f47b84f15/0_802_5000_3999/master/5000.jpg?width=1200&amp;height=1200&amp;quality=85&amp;auto=format&amp;fit=crop&amp;s=73332dbea22d555f46b14facb183515e" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 07:39:04 +0000</lastBuildDate>
     <item>
       <title>Jake Paul Now Owns a UBO. It’s Just Not Allowed in Boxing</title>
       <link>https://www.boxinginsider.com/headlines/jake-paul-ubo-pfl-boxing/</link>
@@ -277,6 +255,28 @@
       <pubDate>Mon, 10 Aug 2026 04:47:32 +0000</pubDate>
       <media:group>
         <media:content url="https://www.hindustantimes.com/ht-img/img/2026/08/10/1600x900/logo/indian_boxer_Lovlina_Borgohain_1786337432020_1786337432191_abdd3893-6445-47e6-a489-2b37d4b139d4.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Sports Night Spotlight: Nemea Boxing Brings Big-Fight Energy to The Space</title>
+      <link>https://news3lv.com/sports/content/sports-night-spotlight-nemea-boxing-brings-big-fight-energy-to-the-space</link>
+      <description>KSNV NBC Las Vegas covers news, sports, weather and traffic for the Las Vegas, Nevada area including Paradise, Spring Valley, Henderson, North Las Vegas, Indian Springs, Sloan, Searchlight, Laughlin and Nellis AFB.</description>
+      <guid isPermaLink="false">4f76bd5d864e99cbdcfc4307f869581c</guid>
+      <enclosure url="https://news3lv.com/resources/media2/16x9/1173/1320/6x0/90/ae4bcc2c-d756-4662-9e80-b05706a913f1-nemeaboxingpic.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 06:22:01 +0000</pubDate>
+      <media:group>
+        <media:content url="https://news3lv.com/resources/media2/16x9/1173/1320/6x0/90/ae4bcc2c-d756-4662-9e80-b05706a913f1-nemeaboxingpic.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'I hate Narendra': Berwal tells Modi Pak boxer's remark</title>
+      <link>https://www.rediff.com/sports/report/i-hate-narendra-berwal-tells-modi-pak-boxers-remark-cwg/20260810.htm</link>
+      <description>Indian boxer Narender Berwal shared a humorous anecdote with Prime Minister Narendra Modi about a Pakistani opponent who, after being defeated, exclaimed his hatred for the name 'Narendra' due to its repeated presence in Berwal's life, including his coach and the Prime Minister.</description>
+      <guid isPermaLink="false">7c76ae6de449f1f3f681de3b85df9295</guid>
+      <enclosure url="https://im.rediff.com/1200-630/news/2026/aug/10-narendra-modi5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 06:45:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://im.rediff.com/1200-630/news/2026/aug/10-narendra-modi5.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
