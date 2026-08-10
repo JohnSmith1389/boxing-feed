@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 11:46:04 +0000</lastBuildDate>
-    <item>
-      <title>Tamm Thibeault Wins Three Middleweight Belts</title>
-      <link>https://boxing-social.com/news/tamm-thibeault-titles/</link>
-      <description>Tamm Thibeault needed just five pro fights to rule women's middleweight, dominating Desley Robinson in Orlando to claim three world titles in one night.</description>
-      <guid isPermaLink="false">3052098dde513fd1a309dab4e94581a9</guid>
-      <enclosure url="https://media.boxing-social.com/boxingsocial/2026/08/09131412/tamm-thibeault-titles.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 13:06:55 +0000</pubDate>
-      <media:group>
-        <media:content url="https://media.boxing-social.com/boxingsocial/2026/08/09131412/tamm-thibeault-titles.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tammara Thibeault becomes new unified middleweight world champion</title>
-      <link>https://www.cbc.ca/sports/olympics/summer/boxing/tammara-thibeault-new-middle-weight-world-champion-9.7301042</link>
-      <description>The 29-year-old from Shawinigan, Que., defeated Australia’s Desley Robinson by unanimous decision on Saturday in Orlando, Fla., to become the new unified IBF, WBO and Ring Magazine middleweight world champion.</description>
-      <guid isPermaLink="false">7b4130605e12b02a91835566c0baae25</guid>
-      <enclosure url="https://i.cbc.ca/ais/a098836a-46d2-477c-bf51-38de04aeb246,1786283764362/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C134%2C5458%2C3070%29%3BResize%3D620" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 13:56:23 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.cbc.ca/ais/a098836a-46d2-477c-bf51-38de04aeb246,1786283764362/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C134%2C5458%2C3070%29%3BResize%3D620" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 13:05:23 +0000</lastBuildDate>
     <item>
       <title>Dana White on potential UFC return to Ireland after walking out of Zuffa Boxing main event</title>
       <link>https://bloodyelbow.com/2026/08/09/dana-white-on-potential-ufc-return-to-ireland-after-walking-out-of-zuffa-boxing-main-event/</link>
@@ -262,6 +240,17 @@
       </media:group>
     </item>
     <item>
+      <title>Moses Itauma gives honest verdict on whether he would beat Oleksandr Usyk now</title>
+      <link>https://boxingnewsonline.net/news/itauma-on-if-he-would-beat-usyk-now/</link>
+      <description>While their crossroads showdown is becoming increasingly less likely, Moses Itauma has nonetheless considered whether he would defeat the great Oleksandr Usyk.</description>
+      <guid isPermaLink="false">7865c0ba7d004363366ce934822d2738</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786353284436865543/itauma-usyk.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 09:16:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786353284436865543/itauma-usyk.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Devin Haney Next Fight: Stevenson’s Ennis Demand</title>
       <link>https://boxing-social.com/news/devin-haney-jaron-ennis/</link>
       <description>Shakur Stevenson says Devin Haney has only one option left after Keyshawn Davis pulled out — a move up to face unified champion Jaron ‘Boots’ Ennis.</description>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 10 Aug 2026 09:44:00 +0000</pubDate>
       <media:group>
         <media:content url="https://www.whec.com/wp-content/uploads/2026/08/bxoing-event-snip.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>‘Narendra, the name feared in Pakistan’: Sports minister Mandaviya reacts to boxer’s anecdote for PM Modi</title>
+      <link>https://www.hindustantimes.com/india-news/narendra-the-name-feared-in-pakistan-sports-minister-mandaviya-reacts-to-boxer-s-anecdote-for-pm-modi-101786361030891.html</link>
+      <description>Mansukh Mandaviya’s post came after boxer Narender Berwal recalled what a Pakistani opponent told him after a 2015 bout, leaving PM Narendra Modi laughing | India News</description>
+      <guid isPermaLink="false">686ed50c7d760c60b43fa724c00db620</guid>
+      <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/08/10/1600x900/logo/PTI08-09-2026-000559B-0_1786361524505_1786361543548_93303095-8521-4bba-8bf8-49cffdae5ba7.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 11:34:12 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.hindustantimes.com/ht-img/img/2026/08/10/1600x900/logo/PTI08-09-2026-000559B-0_1786361524505_1786361543548_93303095-8521-4bba-8bf8-49cffdae5ba7.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
