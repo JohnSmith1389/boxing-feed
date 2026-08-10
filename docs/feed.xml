@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 20:10:19 +0000</lastBuildDate>
-    <item>
-      <title>Kyakonye Vs Morejon Headlines The Ben Bril Memorial</title>
-      <link>https://fightnews.com/kyakonye-vs-morejon-headlines-the-ben-bril-memorial/193815</link>
-      <description>By Per-Åke Persson As Fightnews previously reported, Dutch-Ugandan heavyweight Willy Kyakonye (14-0, 13 KOs) headlines the annual Ben</description>
-      <guid isPermaLink="false">3fb9069c0c0f14b18ea652aac9ab26c2</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Brin.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 13:14:41 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Brin.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 21:12:08 +0000</lastBuildDate>
     <item>
       <title>Tyson Fury Opponent Mariusz Wach Competes in 6 vs 1 MMA Bout</title>
       <link>https://www.si.com/fannation/boxing/tyson-fury-opponent-mariusz-wach-competes-in-6-vs-1-mma-bout</link>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 10 Aug 2026 19:56:40 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/002_Giovanni_Marquez-WEB.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>WBA Extends Negotiation Period for Schofield vs. Bahdi</title>
+      <link>https://www.wbaboxing.com/boxing-news/wba-extends-negotiation-period-for-schofield-vs-bahdi</link>
+      <description>The purse bid for the vacant WBA Lightweight World Championship bout between Floyd Schofield and Lucas Bahdi, which was scheduled...</description>
+      <guid isPermaLink="false">0e5231267ef19ccad18a063599b8219d</guid>
+      <enclosure url="https://i0.wp.com/www.wbaboxing.com/wp-content/uploads/2026/08/resolutions.jpeg?fit=600%2C600&amp;ssl=1&amp;w=640" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 20:34:58 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i0.wp.com/www.wbaboxing.com/wp-content/uploads/2026/08/resolutions.jpeg?fit=600%2C600&amp;ssl=1&amp;w=640" medium="image"/>
       </media:group>
     </item>
   </channel>
