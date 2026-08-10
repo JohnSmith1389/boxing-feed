@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 04:12:29 +0000</lastBuildDate>
-    <item>
-      <title>Former champion says Conor Benn 'doesn't belong in the ring with Ryan Garcia': "KO in 6"</title>
-      <link>https://boxingnewsonline.net/news/ex-champion-says-garcia-kos-benn-in-6/</link>
-      <description>A former world champion believes Ryan Garcia will knock out Conor Benn inside six rounds, underlining a glaring difference between them in skill and power.</description>
-      <guid isPermaLink="false">c89dc4ddb17ad40099d9913c7232f29b</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786205202235343216/Ryan-Garcia-and-Conor-Benn.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 09:35:10 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786205202235343216/Ryan-Garcia-and-Conor-Benn.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 10 Aug 2026 05:54:40 +0000</lastBuildDate>
     <item>
       <title>Terence Crawford delivers verdict on Naoya Inoue vs Bam Rodriguez: "He's showed what level he's on"</title>
       <link>https://boxingnewsonline.net/news/crawford-verdict-on-inoue-vs-bam/</link>
@@ -277,6 +266,17 @@
       <pubDate>Mon, 10 Aug 2026 00:36:19 +0000</pubDate>
       <media:group>
         <media:content url="https://photo.boxingscene.com/uploads/butchgottlieb.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>PM Modi lauds boxer Lovlina Borgohain for objecting to distorted Indian map at a restaurant in Glasgow</title>
+      <link>https://www.hindustantimes.com/india-news/pm-modi-lauds-boxer-lovlina-borgohain-for-objecting-to-distorted-indian-map-at-a-restaurant-in-glasgow-cwg-2026-101786337122477.html</link>
+      <description>Modi's remarks were made during a meeting with the Commonwealth champions after their return from Scotland. | India News</description>
+      <guid isPermaLink="false">b6339a3d3767bdd010bb78e98de6e9c6</guid>
+      <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/08/10/1600x900/logo/indian_boxer_Lovlina_Borgohain_1786337432020_1786337432191_abdd3893-6445-47e6-a489-2b37d4b139d4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 04:47:32 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.hindustantimes.com/ht-img/img/2026/08/10/1600x900/logo/indian_boxer_Lovlina_Borgohain_1786337432020_1786337432191_abdd3893-6445-47e6-a489-2b37d4b139d4.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
