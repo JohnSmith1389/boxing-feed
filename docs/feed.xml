@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 02:34:46 +0000</lastBuildDate>
-    <item>
-      <title>Jarrell Miller could receive world heavyweight title fight as Murat Gassiev is 'interested' in fighting the American</title>
-      <link>https://www.skysports.com/boxing/news/12040/13571708/jarrell-miller-could-receive-world-heavyweight-title-fight-as-murat-gassiev-is-interested-in-fighting-the-american</link>
-      <description>Jarrell Miller aims to challenge Murat Gassiev for WBA heavyweight belt; Miller could finally receive world title fight following cancelled clash against Anthony Joshua after American tested positive for banned substances in 2019; WBA champion Gassiev is interested in fighting Mi</description>
-      <guid isPermaLink="false">f5bb9da12ec7f4b06afa92150a5c9946</guid>
-      <enclosure url="https://e0.365dm.com/26/08/1600x900/skysports-jarrell-miller-boxing_7318401.jpg?20260810164011" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 16:13:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/08/1600x900/skysports-jarrell-miller-boxing_7318401.jpg?20260810164011" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 04:18:47 +0000</lastBuildDate>
     <item>
       <title>Chantal, the young woman who survived Mexican boxer Omar Chávez’s beatings</title>
       <link>https://english.elpais.com/international/2026-08-10/chantal-the-young-woman-who-survived-mexican-boxer-omar-chavezs-beatings.html</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 11 Aug 2026 02:06:06 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/1b91e86921f6052ef97e0033711ccac260700ceec4688b37b84eb6d699314ca5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F1bc3ef31eaaa7d5d99e7fcb23651d929" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Former Super Welterweight World Champion Abass Baraou Signs With Top Rank</title>
+      <link>https://fightnews.com/former-super-welterweight-world-champion-abass-baraou-signs-with-top-rank/193837</link>
+      <description>Former super welterweight world champion Abass Baraou has signed a multi-year promotional contract with Top Rank. The Germany-born</description>
+      <guid isPermaLink="false">df7a6118e57283140affbae89616259f</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Baraou.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Aug 2026 04:08:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Baraou.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
