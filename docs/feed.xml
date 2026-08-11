@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 08:30:20 +0000</lastBuildDate>
-    <item>
-      <title>Cobbs Creek’s Johnny Sample Rec Center Debuts New Boxing Gym, Pool After $15 Million Overhaul</title>
-      <link>https://philadelphia.today/2026/08/johnny-sample-recreation-center-cobbs-creek-reopens/</link>
-      <description>Cobbs Creek’s Johnny Sample Recreation Center reopens with a new boxing gym, upgraded pool and gymnasium after a $15 million renovation.</description>
-      <guid isPermaLink="false">c681eaa06faa6133cb76878ab540d22a</guid>
-      <enclosure url="https://philadelphia.today/wp-content/uploads/sites/8/2026/08/New-Boxing-Gym-at-Johnny-Sample-Rec-Center.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 18:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://philadelphia.today/wp-content/uploads/sites/8/2026/08/New-Boxing-Gym-at-Johnny-Sample-Rec-Center.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Manny Pacquiao accused of avoiding fight against welterweight champion: "He's a legend but he ducked me"</title>
-      <link>https://boxingnewsonline.net/news/current-champ-says-pacquiao-ducked-him/</link>
-      <description>While widely regarded as an “all-time legend”, Manny Pacquiao has equally been accused of swerving a world title opportunity at 147lbs.</description>
-      <guid isPermaLink="false">b0ec16cf8edef7312b8af87307d2fec1</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786385173618354861/manny-pacquiao-boxer.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 18:08:58 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786385173618354861/manny-pacquiao-boxer.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 09:59:40 +0000</lastBuildDate>
     <item>
       <title>WBC Activity -JULY 2026</title>
       <link>https://wbcboxing.com/en/wbc-activity-july-2026/</link>
@@ -127,6 +105,17 @@
       <pubDate>Mon, 10 Aug 2026 20:00:27 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/BoxersJourneyBanner.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Former Welterweight Champion Announces His Return To The Ring</title>
+      <link>https://www.forbes.com/sites/brianmazique/2026/08/10/kell-brook-announces-his-comeback-to-boxing-chris-eubank-jr-possible-opponent/</link>
+      <description>Kell Brook, 40-3, has confirmed a return to boxing this year at middleweight or super middleweight. He last fought in February 2022, stopping Amir Khan in six rounds.</description>
+      <guid isPermaLink="false">f718194e2f72b63f118fcb33b6ceeeb6</guid>
+      <enclosure url="https://imageio.forbes.com/specials-images/imageserve/6a7a2cb3b79d5025fc4fa70c/0x0.jpg?format=jpg&amp;crop=1324,744,x0,y88,safe&amp;height=600&amp;width=1200&amp;fit=bounds" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 10 Aug 2026 20:01:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://imageio.forbes.com/specials-images/imageserve/6a7a2cb3b79d5025fc4fa70c/0x0.jpg?format=jpg&amp;crop=1324,744,x0,y88,safe&amp;height=600&amp;width=1200&amp;fit=bounds" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -277,6 +266,17 @@
       <pubDate>Tue, 11 Aug 2026 07:47:05 +0000</pubDate>
       <media:group>
         <media:content url="https://bloodyelbow.com/wp-content/uploads/1/2026/08/King-Green-spar.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Mass. boxer Danny O'Connor tells story of eating disorder</title>
+      <link>https://www.bostonglobe.com/2026/08/11/sports/danny-oconnor-eating-disorder-book/</link>
+      <description>Framingham native Danny O'Connor missed his title shot because of his battle, and struggled to find resources for men who also battled this illness — so he wrote a book.</description>
+      <guid isPermaLink="false">2f458c34525ed74364968992ed59d4ae</guid>
+      <enclosure url="https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/CQJYCJZFGVEDHO7LXG4L7GDGGQ.jpg?auth=83c96516a52d3e33c96f1dd7ddbb1f4a796b592f68ed793f66d08b9bb0ce19d3&amp;width=1440" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Aug 2026 09:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/CQJYCJZFGVEDHO7LXG4L7GDGGQ.jpg?auth=83c96516a52d3e33c96f1dd7ddbb1f4a796b592f68ed793f66d08b9bb0ce19d3&amp;width=1440" medium="image"/>
       </media:group>
     </item>
   </channel>
