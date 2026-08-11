@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 11:50:02 +0000</lastBuildDate>
-    <item>
-      <title>The World Boxing Council Mourns the Passing of Butch Gottlieb</title>
-      <link>https://wbcboxing.com/en/the-world-boxing-council-mourns-the-passing-of-butch-gottlieb/</link>
-      <description>The World Boxing Council Mourns the Passing of Butch Gottlieb The World Boxing Council and its President, Mauricio Sulaimán, join in prayer and deep sorrow following […]</description>
-      <guid isPermaLink="false">b543da0e9b7e4807f60608a079140bac</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/butch-rip.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 19:28:37 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/butch-rip.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Devin Haney Looks Set to Defend WBO Welterweight Title Against Jack Catterall</title>
-      <link>https://www.si.com/fannation/boxing/devin-haney-looks-set-to-defend-wbo-welterweight-title-against-jack-catterall</link>
-      <description>WBO welterweight champion Devin Haney (33-1, 15 KO) last fought in November and won by unanimous decision over Brian Norman Jr, claiming his first world title a</description>
-      <guid isPermaLink="false">f5b7ff1584f942573484e4ff70a50542</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1019,y_382,w_2701,h_1519/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jt8nk1ya43acmktx87.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 10 Aug 2026 19:37:59 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_1019,y_382,w_2701,h_1519/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jt8nk1ya43acmktx87.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 13:02:11 +0000</lastBuildDate>
     <item>
       <title>Red Owl Boxing Heads To Hidalgo, Texas On Friday, Sept. 11</title>
       <link>https://fightnews.com/red-owl-boxing-heads-to-hidalgo-texas-on-friday-sept-11/193825</link>
@@ -174,6 +152,17 @@
       </media:group>
     </item>
     <item>
+      <title>Kell Brook's 168-Lb Return Is A Dangerous Gamble</title>
+      <link>https://www.boxing247.com/boxing-news/kell-brooks-168-lb-return-is-a-dangerous-gamble/308977</link>
+      <description>Kell Brook may look in excellent condition at 40, but adding muscle and returning at 168 pounds after four years away would be a very different test.</description>
+      <guid isPermaLink="false">4dadb13047a89020a9814d8c8f6a5022</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/08/Kell-Brook-interview.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Aug 2026 02:39:39 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/08/Kell-Brook-interview.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Video: King Green gets socked up by boxing world champion, chokes him out in seconds</title>
       <link>https://www.mmamania.com/ufc-videos/463838/video-king-green-gets-socked-up-by-boxing-world-champion-chokes-him-out-in-seconds</link>
       <description>Video: King Green showed up at another boxer’s gym and got his butt kicked this time around, but he didn’t leave without a little revenge.</description>
@@ -277,6 +266,17 @@
       <pubDate>Tue, 11 Aug 2026 10:31:18 +0000</pubDate>
       <media:group>
         <media:content url="https://boxingireland.ie/wp-content/uploads/Fight-Details-Pic-5-768x960.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Brian McIntyre reflects on career with Terence Crawford and more</title>
+      <link>https://www.badlefthook.com/boxing-news/117864/brian-mcintyre-reflects-on-career-with-terence-crawford-and-more</link>
+      <description>BoMac reflects on all he’s accomplished with Terence Crawford.</description>
+      <guid isPermaLink="false">f8922a3125824201810d44f08cc6d7ff</guid>
+      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/gettyimages-2285930356.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Aug 2026 12:11:03 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/gettyimages-2285930356.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image"/>
       </media:group>
     </item>
   </channel>
