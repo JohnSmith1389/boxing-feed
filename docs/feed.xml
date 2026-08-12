@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 04:07:01 +0000</lastBuildDate>
-    <item>
-      <title>Street named for beloved boxing coach</title>
-      <link>https://www.beverlyreview.net/news/top_story/article_d6f56da2-3ae7-45b9-87dd-3fefa01807f2.html</link>
-      <description>Martin McGarry was a decorated boxer and devoted coach whose influence extended from neighborhood kids to professional boxers.</description>
-      <guid isPermaLink="false">a47592c44ffe61df8904cb6e5cedd6ba</guid>
-      <enclosure url="https://bloximages.newyork1.vip.townnews.com/beverlyreview.net/content/tncms/assets/v3/editorial/4/46/4467fba7-4616-41d1-a63f-2eac230a34cd/6a7b4002cffb7.image.jpg?crop=701%2C368%2C502%2C397" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 15:27:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.newyork1.vip.townnews.com/beverlyreview.net/content/tncms/assets/v3/editorial/4/46/4467fba7-4616-41d1-a63f-2eac230a34cd/6a7b4002cffb7.image.jpg?crop=701%2C368%2C502%2C397" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Organizers cancel boxing event headlined by Hasim Rahman in Rochester</title>
-      <link>https://13wham.com/news/local/organizers-cancel-boxing-event-headlined-by-hasim-rahman-in-rochester-heavyweight-champion-comeback-fight</link>
-      <description>Rochester, N.Y. — A boxing event scheduled to be held at the home of the Rochester Red Wings has been canceled by organizers, the team announced Tuesday.</description>
-      <guid isPermaLink="false">63c895c42f6b100db16f4d10b0ad459e</guid>
-      <enclosure url="https://13wham.com/resources/media2/16x9/1280/1320/center/90/b4d859fd-7777-4652-8b9f-bbe25d7a81a9-BOXINGVOSOT_0001_frame_52284.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 15:33:07 +0000</pubDate>
-      <media:group>
-        <media:content url="https://13wham.com/resources/media2/16x9/1280/1320/center/90/b4d859fd-7777-4652-8b9f-bbe25d7a81a9-BOXINGVOSOT_0001_frame_52284.jpeg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 05:54:47 +0000</lastBuildDate>
     <item>
       <title>Ryan Garcia Drops 3-Man Hitlist for After Conor Benn Fight</title>
       <link>https://www.si.com/fannation/boxing/ryan-garcia-drops-3-man-hitlist-for-after-conor-benn-fight</link>
@@ -255,6 +233,28 @@
       <pubDate>Wed, 12 Aug 2026 00:22:02 +0000</pubDate>
       <media:group>
         <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/CONDE-.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>BoxingScene Today: The signs are all there, Terence Crawford is probably coming back</title>
+      <link>https://www.boxingscene.com/articles/boxingscene-today-the-signs-are-all-there-crawford-is-probably-coming-back</link>
+      <description>The BoxingScene Today panel feel that retired former champion Terence Crawford is probably testing his body to see if a comeback is possible.</description>
+      <guid isPermaLink="false">5347ea5428a3192c64e0f05beb76f3fe</guid>
+      <enclosure url="https://photo.boxingscene.com/uploads/TerenceCrawford_NYpresser42424.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 02:18:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://photo.boxingscene.com/uploads/TerenceCrawford_NYpresser42424.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ben Shalom Goes Nuclear On Zuffa Boxing</title>
+      <link>https://www.boxingnews24.com/2026/08/ben-shalom-goes-nuclear-on-zuffa-boxing/</link>
+      <description>Ben Shalom launched a fierce attack on Zuffa Boxing, accusing the organization of threatening the structure of British boxing and caring more about</description>
+      <guid isPermaLink="false">a8dbcf3f7ccb3fb9d2b4d6350e65ef2e</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Ben-Shalom2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 02:32:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Ben-Shalom2.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
