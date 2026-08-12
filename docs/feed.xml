@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 07:22:42 +0000</lastBuildDate>
-    <item>
-      <title>Claressa Shields' fight stirs talk of Laila Ali, potential blockbuster</title>
-      <link>https://www.usatoday.com/story/sports/boxing/2026/08/11/claressa-shields-fight-laila-ali-matchup/91256616007/</link>
-      <description>Claressa Shields' promoter, Dmitriy Salita, said he thinks a fight between Shields and Laila Ali would be an enormous event for women's sports.</description>
-      <guid isPermaLink="false">3c7bce2556e932b37ed9afb24e237d4e</guid>
-      <enclosure url="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/11/USAT/91257525007-20260223-t-061806-z-1694283633-mt-1-usatoday-28318374-rtrmadp-3-claressashieldstakestotheringbeforetheheavyweight.JPG?crop=2399,1350,x0,y99&amp;width=2399&amp;height=1350&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 16:33:27 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/11/USAT/91257525007-20260223-t-061806-z-1694283633-mt-1-usatoday-28318374-rtrmadp-3-claressashieldstakestotheringbeforetheheavyweight.JPG?crop=2399,1350,x0,y99&amp;width=2399&amp;height=1350&amp;format=pjpg&amp;auto=webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 08:47:15 +0000</lastBuildDate>
     <item>
       <title>Full fight card confirmed for International Boxing Day in Astana</title>
       <link>https://www.iba.sport/news/full-fight-card-confirmed-for-international-boxing-day-in-astana</link>
@@ -211,6 +200,17 @@
       <pubDate>Wed, 12 Aug 2026 00:22:02 +0000</pubDate>
       <media:group>
         <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/CONDE-.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Klitschko Brothers Ruled Heavyweight Boxing Their Own Way</title>
+      <link>https://www.boxingnews24.com/2026/08/klitschko-brothers-ruled-heavyweight-boxing-their-own-way/</link>
+      <description>Vitali and Wladimir Klitschko spent years dominating heavyweight boxing without ever facing the opponent fans naturally wanted to see against either man: each</description>
+      <guid isPermaLink="false">3d49d7ed2c64bcafba3d4205af1dc7c4</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Vitali-Klitschko-vs-Corrie-Sanders64.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 01:21:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Vitali-Klitschko-vs-Corrie-Sanders64.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
