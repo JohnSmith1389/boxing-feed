@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 13:56:36 +0000</lastBuildDate>
-    <item>
-      <title>Boxing Bear Brewery provides official state fair beer</title>
-      <link>https://www.kob.com/new-mexico/boxing-bear-brewery-provides-official-state-fair-beer/</link>
-      <description>The New Mexico State Fair and Boxing Bear Brewery have announced Centennial Lager, this year's state fair beer inspired by Route 66's centennial.</description>
-      <guid isPermaLink="false">78f47d372b4bb8cc922d1bfb62efebe2</guid>
-      <enclosure url="https://www.kob.com/wp-content/uploads/2026/08/boxing-bear-brewery.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 11 Aug 2026 23:51:59 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.kob.com/wp-content/uploads/2026/08/boxing-bear-brewery.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 12 Aug 2026 14:59:23 +0000</lastBuildDate>
     <item>
       <title>Edgar Berlanga Predicts Canelo Alvarez vs Christian Mbilli Fight</title>
       <link>https://www.si.com/fannation/boxing/edgar-berlanga-predicts-canelo-alvarez-vs-christian-mbilli-fight</link>
@@ -259,6 +248,17 @@
       <pubDate>Wed, 12 Aug 2026 13:17:06 +0000</pubDate>
       <media:group>
         <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/gettyimages-2258696535.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.738115224294%2C100%2C78.523769551413&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Caroline Dubois unification moves closer as Turkish champion Elif Nur Turhan joins MVP</title>
+      <link>https://www.bbc.com/sport/boxing/articles/ckg9pejzrvyo</link>
+      <description>Turkish lightweight world champion Elif Nur Turhan signs with Most Valuable Promotions, bringing a potential unification fight with Briton Caroline Dubois a step closer.</description>
+      <guid isPermaLink="false">67b1143caf7e1f5986ae9e5f8b2eba38</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/127a/live/23d94070-964b-11f1-a4de-8772188b26f6.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 13:23:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/127a/live/23d94070-964b-11f1-a4de-8772188b26f6.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
