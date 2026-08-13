@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 22:39:50 +0000</lastBuildDate>
-    <item>
-      <title>Prichard Colón’s Final Fight Still Haunts Boxing</title>
-      <link>https://www.boxing247.com/boxing-news/prichard-colons-final-fight-still-haunts-boxing/309034</link>
-      <description>Prichard Colón has died at 33, more than a decade after a boxing match in Virginia left the promising Puerto Rican fighter with catastrophic brain damage. His</description>
-      <guid isPermaLink="false">c6fe653eb459cea809dd8d79f2f61ed6</guid>
-      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/08/Colon-vs-Williams3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 13 Aug 2026 17:36:20 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/08/Colon-vs-Williams3.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 23:39:41 +0000</lastBuildDate>
     <item>
       <title>One year since the historic third stage of the WBC Boxing Grand Prix</title>
       <link>https://wbcboxing.com/en/one-year-since-the-historic-third-stage-of-the-wbc-boxing-grand-prix/</link>
@@ -277,6 +266,17 @@
       <pubDate>Thu, 13 Aug 2026 21:49:45 +0000</pubDate>
       <media:group>
         <media:content url="https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/wdiv/e1ed5b84-302e-4ed6-a581-2f7d83877651/image.jpg?_a=DATAg1kSZAA0" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Prichard Colon dies 11 years after suffering brain injury during boxing match</title>
+      <link>https://www.11alive.com/article/news/nation-world/boxer-prichard-colon-dies-years-after-brain-injury-match/507-39193abb-d22d-4f8a-865c-5a5d8535e71f</link>
+      <description>Prichard Colon dies 11 years after suffering brain injury during boxing match</description>
+      <guid isPermaLink="false">a6dc8037e1325375cec3f652dda95804</guid>
+      <enclosure url="https://media.11alive.com/assets/CCT/images/ddee2eef-6b34-4176-87cb-867ef2168603/20260813T213742/ddee2eef-6b34-4176-87cb-867ef2168603_1920x1080.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 22:54:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://media.11alive.com/assets/CCT/images/ddee2eef-6b34-4176-87cb-867ef2168603/20260813T213742/ddee2eef-6b34-4176-87cb-867ef2168603_1920x1080.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
