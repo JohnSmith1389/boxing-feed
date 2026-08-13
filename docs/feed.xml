@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 01:54:01 +0000</lastBuildDate>
-    <item>
-      <title>Morning Mingle</title>
-      <link>https://www.wtvy.com/video/2026/08/12/morning-mingle-boxing-match-cottonwood/</link>
-      <description>The Crossing at Big Creek is hosting a professional boxing match featuring Roy Jones Jr.</description>
-      <guid isPermaLink="false">96a1e8f5983374bbdc14619b4dfe5eca</guid>
-      <enclosure url="https://gray-wtvy-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F08-12-2026%2Ft_8636ecc4d8c44cc6889472d1f7a1746c_name_file_1280x720_2000_v3_1_.jpg?auth=20ef53965b20b54a2b9ecaa4fe07a79694bbde868fbb60a052e8d17b77fdb21a&amp;width=1200&amp;height=600&amp;smart=true" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 14:02:24 +0000</pubDate>
-      <media:group>
-        <media:content url="https://gray-wtvy-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F08-12-2026%2Ft_8636ecc4d8c44cc6889472d1f7a1746c_name_file_1280x720_2000_v3_1_.jpg?auth=20ef53965b20b54a2b9ecaa4fe07a79694bbde868fbb60a052e8d17b77fdb21a&amp;width=1200&amp;height=600&amp;smart=true" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>WBC demand Noel Mikaelian make his position clear as Zuffa's Jai Opetaia looms</title>
-      <link>https://www.boxingscene.com/articles/wbc-demand-noel-mikaelian-make-his-position-clear-as-date-with-zuffas-jai-opetaia-looms</link>
-      <description>WBC presses champion Noel Mikaelian to commit to Zuffa's Jai Opetaia or defense versus David Benavidez</description>
-      <guid isPermaLink="false">febff03bd14dca8484b5016ed23ab18f</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/NoelMikaelian12072025-01.webp" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 14:27:15 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/NoelMikaelian12072025-01.webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Teremoana Teremoana KOs DeAndre Savage in two; Michael Zerafa returns with stoppage over Alejandro Ortiz</title>
-      <link>https://sports.yahoo.com/boxing/article/teremoana-teremoana-kos-deandre-savage-in-two-michael-zerafa-returns-with-stoppage-over-alejandro-ortiz-145744073.html</link>
-      <description>Teremoana Teremoana KOs DeAndre Savage in two; Michael Zerafa returns with stoppage over Alejandro Ortiz</description>
-      <guid isPermaLink="false">9d4a3b6ce6f8f4ff862f8c1a2e9bbcb4</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/f74f48bcaa15b766678c3a191b47ad14ee76104c28429bdd11f1b49ac2bfb5ce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F0afb5325-c25b-41a3-9e86-29d6d5f41861" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 14:57:44 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/f74f48bcaa15b766678c3a191b47ad14ee76104c28429bdd11f1b49ac2bfb5ce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F0afb5325-c25b-41a3-9e86-29d6d5f41861" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>On This Day in Boxing… August 12</title>
-      <link>https://wbcboxing.com/en/on-this-day-in-boxing-august-12/</link>
-      <description>On This Day in Boxing… August 12 1988.- At the National Tennis Centre in Melbourne, Australia, local icon Jeff Fenech put on a masterclass to defend […]</description>
-      <guid isPermaLink="false">887e9f4f9dd875fb744a9176a8493202</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/maskaev-rahman.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 15:04:58 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/maskaev-rahman.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Egor Dëmin Takes on Boxing in Nets’ Latest Side Quest</title>
-      <link>https://roundtable.io/sports/nba/nets/players/egor-demin-takes-on-boxing-in-nets-latest-side-quest</link>
-      <description>Egor Dëmin traded the basketball court for the boxing ring in the latest Nets “Summer Side-Quests” video. The second-year guard got a crash course in footwork, combinations, and power from a former U.S.</description>
-      <guid isPermaLink="false">2589ac724dff8ab640e17a04f6152264</guid>
-      <enclosure url="https://deweb-519a7.b-cdn.net/post-images/6df73c78-9b65-4066-b068-db1e9dbab44c.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 16:00:34 +0000</pubDate>
-      <media:group>
-        <media:content url="https://deweb-519a7.b-cdn.net/post-images/6df73c78-9b65-4066-b068-db1e9dbab44c.png" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 04:11:34 +0000</lastBuildDate>
     <item>
       <title>Let's talk about DAZN's quality control (or lack thereof)</title>
       <link>https://sports.yahoo.com/boxing/article/lets-talk-about-dazns-quality-control-or-lack-thereof-162232907.html</link>
@@ -174,6 +119,17 @@
       </media:group>
     </item>
     <item>
+      <title>WBC Clean Boxing Program Warns Against the Risks of Excessive Energy Drink Consumption in Boxing</title>
+      <link>https://wbcboxing.com/en/wbc-clean-boxing-program-warns-against-the-risks-of-excessive-energy-drink-consumption-in-boxing/</link>
+      <description>WBC Clean Boxing Program Warns Against the Risks of Excessive Energy Drink Consumption in Boxing In recent years, the consumption of energy drinks has surged among […]</description>
+      <guid isPermaLink="false">0023ca99b974dadaf5034e228a4c6d6e</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/cbp-bebidas.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 20:08:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/cbp-bebidas.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Julius Ballo knows something about boxing that many champions are missing</title>
       <link>https://www.boxingscene.com/articles/julius-ballo-knows-something-about-boxing-that-many-champions-are-missing</link>
       <description>Julius Ballo knows something about boxing that many champions are missing</description>
@@ -182,6 +138,17 @@
       <pubDate>Wed, 12 Aug 2026 20:10:00 +0000</pubDate>
       <media:group>
         <media:content url="https://photo.boxingscene.com/uploads/JuliusBalloMediaWorkout12092025.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Mayweather Goes Country</title>
+      <link>https://fightnews.com/mayweather-goes-country/193881</link>
+      <description>Boxing legend Floyd Mayweather’s Mayweather Promotions has announced a partnership with Nashville-based promoter Country Box, led by famed</description>
+      <guid isPermaLink="false">1a2e64906c2db31c42b6068e3d72d330</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/file_00000000e548822f82377f5601afd87d.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 20:10:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/file_00000000e548822f82377f5601afd87d.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -281,6 +248,39 @@
       <pubDate>Wed, 12 Aug 2026 23:50:22 +0000</pubDate>
       <media:group>
         <media:content url="https://photo.boxingscene.com/uploads/markmagsayoandrescortes.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Teofimo Lopez</title>
+      <link>https://fightnews.com/teofimo-lopez-los-angeles-media-workout/193908</link>
+      <description>By Jeff Zimmerman Two-division world champ Teofimo Lopez shows off his skills on the double end bag at</description>
+      <guid isPermaLink="false">2b17d0b319d7d99fbcb1e6f767fb3bdf</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/image2-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 00:16:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/image2-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Round 12: The Art Of Remembering And Ring Nostalgia</title>
+      <link>https://fightnews.com/round-12-the-art-of-remembering-and-ring-nostalgia/193912</link>
+      <description>By Mauricio Sulaimán – WBC President – Son of José Sulaimán I went to the movies this past</description>
+      <guid isPermaLink="false">9bdd8e9b1c1291c114d7af3cb18a3dc1</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Mauricio-39.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 00:50:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Mauricio-39.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Dana White backs Bella Mir’s UFC, Olympics and boxing ambitions</title>
+      <link>https://sports.yahoo.com/videos/dana-white-backs-bella-mir-015219092.html</link>
+      <description>Dana White backs Bella Mir’s UFC, Olympics and boxing ambitions</description>
+      <guid isPermaLink="false">016c4050b75788755b30e2d3c5edc086</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/8b45f300902ed7773f503b2ab383f925021c6e3b00fe855250ae394eaa85bb65/lightyear_networkapi/resizefill_w1080_h1920%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsherdog_sports_videos_459%2F24503b202453c95b7ac58a50b9c775bb.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 13 Aug 2026 01:52:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/8b45f300902ed7773f503b2ab383f925021c6e3b00fe855250ae394eaa85bb65/lightyear_networkapi/resizefill_w1080_h1920%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsherdog_sports_videos_459%2F24503b202453c95b7ac58a50b9c775bb.png" medium="image"/>
       </media:group>
     </item>
   </channel>
