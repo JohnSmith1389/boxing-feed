@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 23:46:49 +0000</lastBuildDate>
-    <item>
-      <title>Bad Bunny pays tribute to deceased Puerto Rican boxer Prichard Colón</title>
-      <link>https://www.upi.com/Sports_News/2026/08/14/latam-puertorico-Prichard-Colon-death-boxer/3941786721732/</link>
-      <description>Puerto Rican superstar Bad Bunny paid tribute to boxer Prichard Colón, who died Thursday, 11 years after a fight that left him with brain damage.</description>
-      <guid isPermaLink="false">97611d1b80041b4c862d694c1dad3dea</guid>
-      <enclosure url="https://cdnph.upi.com/sv/ph/og/upi/3941786721732/2026/1/6549d0fe17be05c5a6d19cd3c9e5a967/v1.5/Bad-Bunny-pays-tribute-to-deceased-Puerto-Rican-boxer-Prichard-Coln.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 15:56:18 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdnph.upi.com/sv/ph/og/upi/3941786721732/2026/1/6549d0fe17be05c5a6d19cd3c9e5a967/v1.5/Bad-Bunny-pays-tribute-to-deceased-Puerto-Rican-boxer-Prichard-Coln.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 01:10:12 +0000</lastBuildDate>
     <item>
       <title>On This Day in Boxing… August 14</title>
       <link>https://wbcboxing.com/en/on-this-day-in-boxing-august-14/</link>
@@ -277,6 +266,17 @@
       <pubDate>Fri, 14 Aug 2026 22:56:15 +0000</pubDate>
       <media:group>
         <media:content url="https://tss.ib.tv/boxing/wp-content/uploads/2026/08/the-sweet-science_IguOVCsG.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxing star Claressa Shields has it all. Well, expect for knockouts. Does that matter?</title>
+      <link>https://www.usatoday.com/story/sports/boxing/2026/08/14/claressa-shields-knockouts-legacy/91312585007/</link>
+      <description>Claressa Shields has won two Olympic gold medals, 19 world titles and is 18-0 as a pro, but she has only three knockouts. Does that matter?</description>
+      <guid isPermaLink="false">c1a73f1886f4544422bc9a1b0587917f</guid>
+      <enclosure url="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/15/USAT/91313351007-20260223-t-061806-z-1694283633-mt-1-usatoday-28318374-rtrmadp-3-claressashieldstakestotheringbeforetheheavyweight.JPG?crop=2398,1348,x0,y158&amp;width=2398&amp;height=1348&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 00:08:57 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/15/USAT/91313351007-20260223-t-061806-z-1694283633-mt-1-usatoday-28318374-rtrmadp-3-claressashieldstakestotheringbeforetheheavyweight.JPG?crop=2398,1348,x0,y158&amp;width=2398&amp;height=1348&amp;format=pjpg&amp;auto=webp" medium="image"/>
       </media:group>
     </item>
   </channel>
