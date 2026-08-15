@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 11:18:40 +0000</lastBuildDate>
-    <item>
-      <title>Iglesias Vs Zaren For The Unified World Championship</title>
-      <link>https://fightnews.com/iglesias-vs-zaren-for-the-unified-world-championship/194031</link>
-      <description>Mathieu Vs Shishkin in the co-main event of a record-breaking card in Quebec City on October 8! The</description>
-      <guid isPermaLink="false">621de506c43858b23232036a991be9d4</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Iglesias-2.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 20:52:13 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Iglesias-2.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Rolly Romero Training Camp Quotes &amp; Photos</title>
-      <link>https://fightnews.com/rolly-romero-training-camp-quotes-photos/194034</link>
-      <description>WBA Welterweight World Champion Rolly Romero previewed his showdown against two-division world champion Teofimo Lopez and gave his</description>
-      <guid isPermaLink="false">73603f2725a9703a044fe528639fed42</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Rolly-Romero-Training-Camp-07.30.26_07_25_2026_Training-camp3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 20:58:43 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Rolly-Romero-Training-Camp-07.30.26_07_25_2026_Training-camp3.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 11:44:32 +0000</lastBuildDate>
     <item>
       <title>Matchroom Boxing Moves Saturday, August 22 Event To Copper Box Arena</title>
       <link>https://fightnews.com/matchroom-boxing-moves-saturday-august-22-event-to-copper-box-arena/194040</link>
@@ -281,6 +259,28 @@
       <pubDate>Sat, 15 Aug 2026 10:00:40 +0000</pubDate>
       <media:group>
         <media:content url="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/11/USAT/91253675007-getty-images-2196840111.jpg?crop=4196,2362,x2,y372&amp;width=3200&amp;height=1802&amp;format=pjpg&amp;auto=webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How to Watch Claressa Shields vs. Kaye Scott: Live Stream, Start Time &amp; Full Fight Card</title>
+      <link>https://nesn.com/boxing/news/watch-claressa-shields-kaye-scott-stream-time-fight-card/50f00d605443b1c9ee6eda39</link>
+      <description>Here is everything you need to know about Claressa Shields vs. Kaye Scott, including how to watch the fight on Saturday.</description>
+      <guid isPermaLink="false">608b63f88a150491a8b271bda6d90c50</guid>
+      <enclosure url="https://library.sportingnews.com/styles/twitter_card_120x120/s3/2026-08/Shields-vs-Scott-FTR-%28No-SN-Watermark%29.jpg?itok=NKxLUHpO" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 11:00:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://library.sportingnews.com/styles/twitter_card_120x120/s3/2026-08/Shields-vs-Scott-FTR-%28No-SN-Watermark%29.jpg?itok=NKxLUHpO" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Where to watch Claressa Shields vs. Kaye Scott: Live stream, TV channel &amp; start time for 2026 boxing fight</title>
+      <link>https://sports.yahoo.com/articles/where-watch-claressa-shields-vs-110002563.html</link>
+      <description>Here’s how to watch Claressa Shields vs. Kaye Scott, including streaming options and channel to catch the main card.</description>
+      <guid isPermaLink="false">50a37bfcc2418b2311623dc93007ea6c</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/b20b2af25ca46582dab6cadc3a8e834cff4612f431a6e86afb14b04b4035322a/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fca8b9e056fa901712f94d09a72fe8159.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 11:00:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/b20b2af25ca46582dab6cadc3a8e834cff4612f431a6e86afb14b04b4035322a/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fca8b9e056fa901712f94d09a72fe8159.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
