@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 11:44:32 +0000</lastBuildDate>
-    <item>
-      <title>Matchroom Boxing Moves Saturday, August 22 Event To Copper Box Arena</title>
-      <link>https://fightnews.com/matchroom-boxing-moves-saturday-august-22-event-to-copper-box-arena/194040</link>
-      <description>Matchroom Boxing’s upcoming London show next Saturday, August 22, headlined by George Liddard vs Dario Morello for the</description>
-      <guid isPermaLink="false">16be56aa2ad5b218c4ccc73d023dee19</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Liddard-3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 21:02:16 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Liddard-3.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 12:34:37 +0000</lastBuildDate>
     <item>
       <title>The Return to the Clyde boxing event is coming up Saturday</title>
       <link>https://www.wdio.com/top-stories/the-return-to-the-clyde-boxing-event-is-coming-up-saturday/</link>
@@ -204,6 +193,17 @@
       <pubDate>Sat, 15 Aug 2026 07:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://e0.365dm.com/26/04/1600x900/skysports-claressa-shields_7211238.jpg?20260404223842" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ray J Set to Fight Orlando Brown on Zeus Network</title>
+      <link>https://www.tmz.com/2026/08/15/ray-j-fighting-orlando-brown/</link>
+      <description>Ray J and Orlando Brown's much-anticipated fight is going down in just a few hours on Zeus Network ... a must-see matchup you don't want to miss.</description>
+      <guid isPermaLink="false">0a67d69e4116244ebfcd1b6ebed10f6c</guid>
+      <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/08/14/1d257b69b8814b498df929d30c5ae202_xl.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 07:00:46 +0000</pubDate>
+      <media:group>
+        <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/08/14/1d257b69b8814b498df929d30c5ae202_xl.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
