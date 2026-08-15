@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 12:34:37 +0000</lastBuildDate>
-    <item>
-      <title>The Return to the Clyde boxing event is coming up Saturday</title>
-      <link>https://www.wdio.com/top-stories/the-return-to-the-clyde-boxing-event-is-coming-up-saturday/</link>
-      <description>Local, state, and regional boxers will showcase their skills at The Return to the Clyde event on Saturday.</description>
-      <guid isPermaLink="false">cd632f494fd2af0cfa93c96bcb5c40ac</guid>
-      <enclosure url="https://www.wdio.com/wp-content/uploads/2026/08/Boxing-ring-at-Clyde.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 21:02:58 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.wdio.com/wp-content/uploads/2026/08/Boxing-ring-at-Clyde.png" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Indistry Media Makes Its Official Debut In Professional Boxing September 26</title>
-      <link>https://fightnews.com/indistry-media-makes-its-official-debut-in-professional-boxing-september-26/194043</link>
-      <description>Chicago-based entertainment company Indistry Media today officially announced its entry into professional boxing with its inaugural event, set</description>
-      <guid isPermaLink="false">0d5a0c36780ced84c5ae94a871f98541</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Indistry.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 21:16:28 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Indistry.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 13:29:14 +0000</lastBuildDate>
     <item>
       <title>Pro boxer battered in 2015 match in Northern Virginia dies at 33</title>
       <link>https://augustafreepress.com/news/pro-boxer-battered-in-2015-match-in-northern-virginia-dies-at-33/</link>
@@ -218,6 +196,17 @@
       </media:group>
     </item>
     <item>
+      <title>Anthony Joshua Needs Jalolov Before Tyson Fury</title>
+      <link>https://www.boxing247.com/boxing-news/anthony-joshua-needs-jalolov-before-tyson-fury/309069</link>
+      <description>Anthony Joshua looks comfortable getting ready for Tyson Fury. Maybe a little too comfortable.</description>
+      <guid isPermaLink="false">3fc5b0925350d5d1383db72bd82762a7</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/08/Anthony-Joshua53.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 08:01:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/08/Anthony-Joshua53.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Doncaster boxer to revive youth club he joined as a teen</title>
       <link>https://www.bbc.com/news/articles/c1m1ky2xzppo</link>
       <description>Jason Cunningham is creating a new youth hub at Brodsworth Miners Welfare in Doncaster.</description>
@@ -281,6 +270,17 @@
       <pubDate>Sat, 15 Aug 2026 11:00:02 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/b20b2af25ca46582dab6cadc3a8e834cff4612f431a6e86afb14b04b4035322a/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fca8b9e056fa901712f94d09a72fe8159.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing cuts ties with former world champion after just one defeat</title>
+      <link>https://boxingnewsonline.net/news/zuffa-boxing-drops-former-champion/</link>
+      <description>Former world champion Oleksandr Gvozdyk has been left between a rock and a hard place afterhis promotional contract with Zuffa Boxing has been terminated.</description>
+      <guid isPermaLink="false">7c4606f8b706215bb79cd3c48104dc18</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786798024222299490/Dana-White-Zuffa.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 12:49:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786798024222299490/Dana-White-Zuffa.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
