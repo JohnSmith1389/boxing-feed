@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 03:37:39 +0000</lastBuildDate>
-    <item>
-      <title>Bad Bunny Pays Tribute to Puerto Rican Boxer Prichard Colón</title>
-      <link>https://remezcla.com/sports/bad-bunny-pays-tribute-to-puerto-rican-boxer-prichard-colon/</link>
-      <description>Puerto Rican superstar Bad Bunny has paid tribute to former boxer Prichard Colón, who passed away at the age of 33.</description>
-      <guid isPermaLink="false">890492e9cc7ec382d11304a3fccabab4</guid>
-      <enclosure url="https://remezcla.com/wp-content/uploads/sites/3/2026/01/Bad-Bunny-with-pava.jpg?w=4096" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 16:41:52 +0000</pubDate>
-      <media:group>
-        <media:content url="https://remezcla.com/wp-content/uploads/sites/3/2026/01/Bad-Bunny-with-pava.jpg?w=4096" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Experience NVBHOF Weekend Alongside Boxing Legends in Las Vegas</title>
-      <link>https://wbcboxing.com/en/experience-nvbhof-weekend-alongside-boxing-legends-in-las-vegas/</link>
-      <description>Experience NVBHOF Weekend Alongside Boxing Legends in Las Vegas The “Boxing Capital of the World” will roll out the red carpet on Friday, August 14, and […]</description>
-      <guid isPermaLink="false">dc1a3ff76f8c32a0c53ae26fff737f6a</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/07/induction-gala-nvbhof.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 17:13:01 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/induction-gala-nvbhof.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 04:29:35 +0000</lastBuildDate>
     <item>
       <title>Former Muay Thai Champion Announces Boxing Transition for 2028 Olympics</title>
       <link>https://www.si.com/fannation/boxing/former-muay-thai-champion-announces-boxing-transition-for-2028-olympics</link>
@@ -247,6 +225,17 @@
       </media:group>
     </item>
     <item>
+      <title>Claressa Shields Goes Full Showgirl Seven Days After Tamm Thibeault Buzz</title>
+      <link>https://www.boxing247.com/boxing-news/claressa-shields-goes-full-showgirl-seven-days-after-tamm-thibeault-buzz/309057</link>
+      <description>Claressa Shields made quite an entrance Friday night, and the timing naturally raises questions about what prompted her to turn the glamour up this far.</description>
+      <guid isPermaLink="false">3e84d808501607b7e5985c575269c391</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/08/Shields-vs-Scott9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 00:08:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/08/Shields-vs-Scott9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Boxing star Claressa Shields has it all. Well, expect for knockouts. Does that matter?</title>
       <link>https://www.usatoday.com/story/sports/boxing/2026/08/14/claressa-shields-knockouts-legacy/91312585007/</link>
       <description>Claressa Shields has won two Olympic gold medals, 19 world titles and is 18-0 as a pro, but she has only three knockouts. Does that matter?</description>
@@ -277,6 +266,17 @@
       <pubDate>Sat, 15 Aug 2026 01:30:01 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_192,y_1592,w_3514,h_1976/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01m01g6g5en04vr5hqtw.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Fairmont boxer trains for WBF Super Silver Welterweight title fight in Morgantown</title>
+      <link>https://www.wdtv.com/2026/08/15/fairmont-boxer-trains-wbf-super-silver-welterweight-title-fight-morgantown/</link>
+      <description>National Guardsman Cody Wilson set to face Texas fighter Rudy Montenegro on Aug. 29.</description>
+      <guid isPermaLink="false">c9fdd8c6af734fd20f560fe8122b8d37</guid>
+      <enclosure url="https://gray-wdtv-prod.gtv-cdn.com/resizer/v2/YZ6U3XCOPFFEJLR52QQACTCC5Q.png?auth=dd12d39625c339e3193e45fb2a0e03f0ef860103fb13c95484cec163a5734ef6&amp;width=1200&amp;height=600&amp;smart=true" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 03:32:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://gray-wdtv-prod.gtv-cdn.com/resizer/v2/YZ6U3XCOPFFEJLR52QQACTCC5Q.png?auth=dd12d39625c339e3193e45fb2a0e03f0ef860103fb13c95484cec163a5734ef6&amp;width=1200&amp;height=600&amp;smart=true" medium="image"/>
       </media:group>
     </item>
   </channel>
