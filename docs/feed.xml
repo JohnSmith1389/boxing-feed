@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 18:57:20 +0000</lastBuildDate>
-    <item>
-      <title>Ray J Set to Fight Orlando Brown on Zeus Network</title>
-      <link>https://www.tmz.com/2026/08/15/ray-j-fighting-orlando-brown/</link>
-      <description>Ray J and Orlando Brown's much-anticipated fight is going down in just a few hours on Zeus Network ... a must-see matchup you don't want to miss.</description>
-      <guid isPermaLink="false">0a67d69e4116244ebfcd1b6ebed10f6c</guid>
-      <enclosure url="https://imagez.tmz.com/image/1d/16by9/2026/08/14/1d257b69b8814b498df929d30c5ae202_xl.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 07:00:46 +0000</pubDate>
-      <media:group>
-        <media:content url="https://imagez.tmz.com/image/1d/16by9/2026/08/14/1d257b69b8814b498df929d30c5ae202_xl.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 19:24:32 +0000</lastBuildDate>
     <item>
       <title>Teddy Atlas says Usyk has the chance to do something Muhammad Ali and Joe Louis couldn't</title>
       <link>https://boxingnewsonline.net/news/teddy-atlas-on-usyk-retirement/</link>
@@ -281,6 +270,17 @@
       <pubDate>Sat, 15 Aug 2026 18:29:44 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/Tyson-3-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Day 3 | Euro U19 Wins for Joyce, Jubani &amp; Joyce</title>
+      <link>https://boxingireland.ie/day-3-euro-u19-wins-for-joyce-jubani-joyce/</link>
+      <description>Watch The Serbia Boxing Federation is live-streaming the championships on its YouTube channel, here. Links, per ring, are published on the day of boxing.</description>
+      <guid isPermaLink="false">50bb4c6b1480405a417195210bf705de</guid>
+      <enclosure url="https://boxingireland.ie/wp-content/uploads/European-U19-Championship-Win-Assets-13-08-2026-1-768x960.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 19:08:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://boxingireland.ie/wp-content/uploads/European-U19-Championship-Win-Assets-13-08-2026-1-768x960.png" medium="image"/>
       </media:group>
     </item>
   </channel>
