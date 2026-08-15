@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 07:54:51 +0000</lastBuildDate>
-    <item>
-      <title>Kronk Boxing's quick return to national contention</title>
-      <link>https://www.fox2detroit.com/video/fmc-mdlr1fwgvbsejz5i</link>
-      <description>John Lepak from Kronk Boxing Gym sits down with Brandon Hudson to highlight the gym's rise back to national contention and the importance of the lessons kids learn through boxing, both inside and outside the ring.</description>
-      <guid isPermaLink="false">e46432e2497570086fd9b3e2096a9526</guid>
-      <enclosure url="https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/p8i1uo769uwffmr4/1200/630/xaxfc5o78qxu9u4h.jpg?ve=1&amp;tl=1" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 18:22:03 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/p8i1uo769uwffmr4/1200/630/xaxfc5o78qxu9u4h.jpg?ve=1&amp;tl=1" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 08:26:48 +0000</lastBuildDate>
     <item>
       <title>‘We both messed up’: Teofimo Lopez Jr and Sr have it out over loss to Shakur Stevenson</title>
       <link>https://www.badlefthook.com/boxing-news/117901/teofimo-lopez-jr-and-sr-have-it-out-over-loss-to-shakur-stevenson-boxing-news-2026</link>
@@ -277,6 +266,17 @@
       <pubDate>Sat, 15 Aug 2026 07:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://e0.365dm.com/26/04/1600x900/skysports-claressa-shields_7211238.jpg?20260404223842" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claressa Shields vs Kaye Scott live results, highlights, reactions</title>
+      <link>https://www.badlefthook.com/boxing-live-streams/117916/claressa-shields-vs-kaye-scott-live-results-highlights-reactions-womens-boxing-news-2026</link>
+      <description>Your best source for Boxing news, results, rumors, fights and rankings from the fan perspective.</description>
+      <guid isPermaLink="false">5f8ba99eef277ac5421c1665f78f9851</guid>
+      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/DSC00034.jpg?quality=90&amp;strip=all&amp;crop=0%2C17.078937449851%2C100%2C65.442128457126&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/DSC00034.jpg?quality=90&amp;strip=all&amp;crop=0%2C17.078937449851%2C100%2C65.442128457126&amp;w=1200" medium="image"/>
       </media:group>
     </item>
   </channel>
