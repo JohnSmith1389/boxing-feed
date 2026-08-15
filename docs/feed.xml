@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 15:18:59 +0000</lastBuildDate>
-    <item>
-      <title>Zuffa Boxing Isn't A Charity: Oleksandr Gvozdyk Cut Makes Sense</title>
-      <link>https://www.boxingnews24.com/2026/08/zuffa-boxing-isnt-a-charity-oleksandr-gvozdyk-cut-makes-sense/</link>
-      <description>Oleksandr Gvozdyk's release from Zuffa Boxing after his knockout loss to Radivoje Kalajdzic has upset some fans, but Zuffa isn't running a charity. It is</description>
-      <guid isPermaLink="false">6f20c49173e85d9c5046dac8d8c6794f</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/02/gvoz.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 00:35:48 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/02/gvoz.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 15:44:56 +0000</lastBuildDate>
     <item>
       <title>Ernesto Mercado to Enter the Ring With Rapper YG in Atlanta</title>
       <link>https://www.si.com/fannation/boxing/ernesto-mercado-to-enter-the-ring-with-rapper-yg-in-atlanta</link>
@@ -281,6 +270,17 @@
       <pubDate>Sat, 15 Aug 2026 14:32:33 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/t8Vf8.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ray J and Orlando Brown to settle feud in Atlanta boxing match</title>
+      <link>https://thegrio.com/2026/08/15/ray-j-orlando-brown-fight-atlanta/</link>
+      <description>Ray J and Orlando Brown's long simmering feud will be settling in the boxing ring on Saturday at State Farm Arena in Atlanta.</description>
+      <guid isPermaLink="false">829d17f1845fa2f44c1da84ef6a4df0d</guid>
+      <enclosure url="https://thegrio.com/wp-content/uploads/2026/06/GettyImages-2159999197-scaled.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 15:04:04 +0000</pubDate>
+      <media:group>
+        <media:content url="https://thegrio.com/wp-content/uploads/2026/06/GettyImages-2159999197-scaled.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
