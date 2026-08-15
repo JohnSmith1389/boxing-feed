@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 08:56:19 +0000</lastBuildDate>
-    <item>
-      <title>‘We both messed up’: Teofimo Lopez Jr and Sr have it out over loss to Shakur Stevenson</title>
-      <link>https://www.badlefthook.com/boxing-news/117901/teofimo-lopez-jr-and-sr-have-it-out-over-loss-to-shakur-stevenson-boxing-news-2026</link>
-      <description>Teofimo Lopez Jr and Sr still seem to have some emotional healing to do heading into Rolly Romero title fight.</description>
-      <guid isPermaLink="false">527a6661d76214c28469895656f7f4c9</guid>
-      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/gettyimages-2259334389.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737078445598%2C100%2C78.525843108805&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 18:50:15 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/gettyimages-2259334389.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737078445598%2C100%2C78.525843108805&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 09:27:09 +0000</lastBuildDate>
     <item>
       <title>Kaye Scott: Against All Odds</title>
       <link>https://fightpost.co.uk/2026/08/14/kaye-scott-against-all-odds/</link>
@@ -277,6 +266,17 @@
       <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/DSC00034.jpg?quality=90&amp;strip=all&amp;crop=0%2C17.078937449851%2C100%2C65.442128457126&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxer to revive youth club he joined as a teen</title>
+      <link>https://ca.style.yahoo.com/boxer-revive-youth-club-joined-085439229.html</link>
+      <description>Jason Cunningham is creating a new youth hub at Brodsworth Miners Welfare in Doncaster.</description>
+      <guid isPermaLink="false">590b95ade652a7380cb59c962b9bd3b5</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/30ce01f23700e1f737bc18a85863ce1932239763a023f3035e283372c25b5774/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F80c22556e463b8e175c2a182a6788b08.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 08:54:39 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/30ce01f23700e1f737bc18a85863ce1932239763a023f3035e283372c25b5774/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F80c22556e463b8e175c2a182a6788b08.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
