@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 01:10:12 +0000</lastBuildDate>
-    <item>
-      <title>On This Day in Boxing… August 14</title>
-      <link>https://wbcboxing.com/en/on-this-day-in-boxing-august-14/</link>
-      <description>On This Day in Boxing… August 14 1973 — Legendary Japanese champion Koichi Wajima successfully defended his WBC super welterweight world title, stopping hard-nosed Italian contender […]</description>
-      <guid isPermaLink="false">535d3633119271cd93ba285466697f7b</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/pascal-dawson.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 15:57:38 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/pascal-dawson.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxer Prichard Colón Passes Away At 33</title>
-      <link>https://www.fightful.com/boxing/boxer-prichard-colon-passes-away-at-33?xv=20260814162541</link>
-      <description>At the age of 33 years old, boxer Prichard Colon passed away. His father shared the unfortunate news on Facebook.</description>
-      <guid isPermaLink="false">44057ec1e636a964233360db3e1a1d6f</guid>
-      <enclosure url="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/08/14120851/Screenshot-334-e1786723766457.png?v=20260814162541" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 16:25:41 +0000</pubDate>
-      <media:group>
-        <media:content url="https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/08/14120851/Screenshot-334-e1786723766457.png?v=20260814162541" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 02:32:33 +0000</lastBuildDate>
     <item>
       <title>Bad Bunny Pays Tribute to Puerto Rican Boxer Prichard Colón</title>
       <link>https://remezcla.com/sports/bad-bunny-pays-tribute-to-puerto-rican-boxer-prichard-colon/</link>
@@ -277,6 +255,28 @@
       <pubDate>Sat, 15 Aug 2026 00:08:57 +0000</pubDate>
       <media:group>
         <media:content url="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/15/USAT/91313351007-20260223-t-061806-z-1694283633-mt-1-usatoday-28318374-rtrmadp-3-claressashieldstakestotheringbeforetheheavyweight.JPG?crop=2398,1348,x0,y158&amp;width=2398&amp;height=1348&amp;format=pjpg&amp;auto=webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing Isn't A Charity: Oleksandr Gvozdyk Cut Makes Sense</title>
+      <link>https://www.boxingnews24.com/2026/08/zuffa-boxing-isnt-a-charity-oleksandr-gvozdyk-cut-makes-sense/</link>
+      <description>Oleksandr Gvozdyk's release from Zuffa Boxing after his knockout loss to Radivoje Kalajdzic has upset some fans, but Zuffa isn't running a charity. It is</description>
+      <guid isPermaLink="false">6f20c49173e85d9c5046dac8d8c6794f</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/02/gvoz.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 00:35:48 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/02/gvoz.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ernesto Mercado to Enter the Ring With Rapper YG in Atlanta</title>
+      <link>https://www.si.com/fannation/boxing/ernesto-mercado-to-enter-the-ring-with-rapper-yg-in-atlanta</link>
+      <description>Heavy hitter and top prospect Ernesto "Tito" Mercado trained at Hall of Famer "Sugar" Shane Mosley's gym in Big Bear ahead of his showdown this weekend. Mercado</description>
+      <guid isPermaLink="false">158fcfa65defc19b76ee955c2357fdde</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_192,y_1592,w_3514,h_1976/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01m01g6g5en04vr5hqtw.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 01:30:01 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_192,y_1592,w_3514,h_1976/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01m01g6g5en04vr5hqtw.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
