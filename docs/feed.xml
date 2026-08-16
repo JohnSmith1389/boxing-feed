@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 16:23:06 +0000</lastBuildDate>
-    <item>
-      <title>Results From Sugarland, TX</title>
-      <link>https://fightnews.com/results-from-sugarland-tx/194075</link>
-      <description>Last night, Bobby Harrison’s BiYu Promotions presented “Fights Under the Lights” live from Constellation Field in Sugar Land,</description>
-      <guid isPermaLink="false">029ffc102b6c418a0e624e5aa53b8b0b</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Untitled-1-25.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 02:42:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Untitled-1-25.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 16:50:09 +0000</lastBuildDate>
     <item>
       <title>St. Louis County Sheriff’s Office holds first-ever PAL youth boxing event at Clyde Iron Works</title>
       <link>https://www.northernnewsnow.com/video/2026/08/16/st-louis-county-sheriffs-office-holds-first-ever-pal-youth-boxing-event-clyde-iron-works/</link>
@@ -277,6 +266,17 @@
       <link>https://cw34.com/news/local/texas-police-officer-bird-attack-video-gets-into-hilarious-boxing-match-with-dive-bombing-bird-southside-place-cop-bird-attack-bird-dive-bombs-texas-officer</link>
       <description>Texas police officer gets into hilarious boxing match with dive-bombing bird</description>
       <guid isPermaLink="false">a04aec52bfe4f56b35bcecd3d2d2bcd6</guid>
+      <enclosure url="https://cw34.com/resources/media2/16x9/970/1320/1x0/90/b10829c0-69d5-4129-ac9b-841b4f42f56f-officer_swing_best.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 15:30:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cw34.com/resources/media2/16x9/970/1320/1x0/90/b10829c0-69d5-4129-ac9b-841b4f42f56f-officer_swing_best.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Texas police officer gets into hilarious boxing match with dive-bombing bird</title>
+      <link>https://cw34.com/news/local/texas-police-officer-bird-attack-video-gets-into-hilarious-boxing-match-with-dive-bombing-bird-southside-place-cop-bird-attack-bird-dive-bombs-texas-officer?teaserSource=trending</link>
+      <description>Texas police officer gets into hilarious boxing match with dive-bombing bird</description>
+      <guid isPermaLink="false">684caae8e9376919d2fe64f57fd160f3</guid>
       <enclosure url="https://cw34.com/resources/media2/16x9/970/1320/1x0/90/b10829c0-69d5-4129-ac9b-841b4f42f56f-officer_swing_best.jpg" length="0" type="image/jpeg"/>
       <pubDate>Sun, 16 Aug 2026 15:30:00 +0000</pubDate>
       <media:group>
