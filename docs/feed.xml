@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 08:58:43 +0000</lastBuildDate>
-    <item>
-      <title>Terence Crawford trainer BoMac responds to Jaron Ennis saying 'Bud' is 'easy work'</title>
-      <link>https://boxingnewsonline.net/news/crawford-coach-on-ennis-saying-bud-easy/</link>
-      <description>Jaron Ennis was in hot pursuit of a showdown with Terence Crawford before the latter hung up the gloves, and now Crawford’s trainer Brian McIntyre has</description>
-      <guid isPermaLink="false">17d55586e02bed6fc0a6b85a89c6b192</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786618414393974234/Terence-Crawford-and-Jaron-Ennis.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 20:18:43 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786618414393974234/Terence-Crawford-and-Jaron-Ennis.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 09:34:26 +0000</lastBuildDate>
     <item>
       <title>Ray J v Orlando Brown and Tesehki v Big Lex boxing fight LIVE stream info, results and more from Zeus Network card</title>
       <link>https://bloodyelbow.com/2026/08/15/ray-j-v-orlando-brown-and-tesehki-v-big-lex-boxing-fight-live-stream-info-results-and-more-from-zeus-network-card/</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 16 Aug 2026 06:25:16 +0000</pubDate>
       <media:group>
         <media:content url="https://tss.ib.tv/boxing/wp-content/uploads/2026/08/the-sweet-science_cgT3RUsX.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Seniors who box reap physical and emotional health benefits</title>
+      <link>https://www.newsday.com/long-island/towns/commack-seniors-boxing-gurwin-o3hi5zq9</link>
+      <description>Seniors in the class range from their 70s into their 90s.</description>
+      <guid isPermaLink="false">0885102dbf207b287f73c6a47180b36d</guid>
+      <enclosure url="https://cdn.newsday.com/ace/c:YTRiODYyNWUtM2NhZC00:YTEwNjcwZjUtY2RjYy00/landscape/1280" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 09:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn.newsday.com/ace/c:YTRiODYyNWUtM2NhZC00:YTEwNjcwZjUtY2RjYy00/landscape/1280" medium="image"/>
       </media:group>
     </item>
   </channel>
