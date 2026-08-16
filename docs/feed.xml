@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 15:20:19 +0000</lastBuildDate>
-    <item>
-      <title>(LIVE-BOXING) CLARESSA SHIELDS v KAYE SCOTT LIVE FREE 15 AUG 2026</title>
-      <link>https://www.thealbertan.com/classifieds/announcements-and-events/community-events/2135302</link>
-      <description>(LIVE-BOXING) CLARESSA SHIELDS v KAYE SCOTT LIVE FREE 15 AUG 2026 Claressa Shields faces Kaye Scott in a highly anticipated contest.</description>
-      <guid isPermaLink="false">2541d7261adf028d102b70d5b4df0139</guid>
-      <enclosure url="https://www.vmcdn.ca/f/files/classifieds/706418/a4040dbd-b09f-4340-bc31-c5e1a87585d1.jpg;w=640" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 01:31:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.vmcdn.ca/f/files/classifieds/706418/a4040dbd-b09f-4340-bc31-c5e1a87585d1.jpg;w=640" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 15:46:06 +0000</lastBuildDate>
     <item>
       <title>Mark Zuckerberg Posts New Shirtless Boxing Video After Meta Ordered To Pay $567M Fine</title>
       <link>https://sg.finance.yahoo.com/news/mark-zuckerberg-posts-shirtless-boxing-023035446.html</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 16 Aug 2026 14:56:14 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/IMG_0498.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Texas police officer gets into hilarious boxing match with dive-bombing bird</title>
+      <link>https://cbs12.com/news/offbeat/texas-police-officer-bird-attack-video-gets-into-hilarious-boxing-match-with-dive-bombing-bird-southside-place-cop-bird-attack-bird-dive-bombs-texas-officer</link>
+      <description>Texas police officer gets into hilarious boxing match with dive-bombing bird</description>
+      <guid isPermaLink="false">a0bdd7ea248665dbb7c7e4bb652e2c7e</guid>
+      <enclosure url="https://cbs12.com/resources/media2/16x9/970/1320/1x0/90/b10829c0-69d5-4129-ac9b-841b4f42f56f-officer_swing_best.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 15:30:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cbs12.com/resources/media2/16x9/970/1320/1x0/90/b10829c0-69d5-4129-ac9b-841b4f42f56f-officer_swing_best.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
