@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 02:41:09 +0000</lastBuildDate>
-    <item>
-      <title>Weights From Antofagasta, Chile</title>
-      <link>https://fightnews.com/weights-from-antofagasta-chile/194051</link>
-      <description>Vacant UBO Continental (South America) Light Heavyweight Title: Alan Bahamondes: 79.3 KG. / 174.82 LBS.</description>
-      <guid isPermaLink="false">3e2ffcef8ef7e9e2f8c81e09fa62a41d</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/weigh-in-bahamondes-sposito.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 14:14:48 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/weigh-in-bahamondes-sposito.jpeg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 03:47:02 +0000</lastBuildDate>
     <item>
       <title>Bizhamov Captures IBF European Title As Asadullaev Halts Lubkovich Streak At IBA.PRO 20</title>
       <link>https://fightnews.com/bizhamov-captures-ibf-european-title-as-asadullaev-halts-lubkovich-streak-at-iba-pro-20/194054</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 16 Aug 2026 01:31:39 +0000</pubDate>
       <media:group>
         <media:content url="https://www.vmcdn.ca/f/files/classifieds/706418/a4040dbd-b09f-4340-bc31-c5e1a87585d1.jpg;w=640" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Results From Sugarland, TX</title>
+      <link>https://fightnews.com/results-from-sugarland-tx/194075</link>
+      <description>Last night, Bobby Harrison’s BiYu Promotions presented “Fights Under the Lights” live from Constellation Field in Sugar Land,</description>
+      <guid isPermaLink="false">029ffc102b6c418a0e624e5aa53b8b0b</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Untitled-1-25.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 02:42:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Untitled-1-25.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
