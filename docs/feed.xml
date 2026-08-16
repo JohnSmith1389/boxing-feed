@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 18:26:53 +0000</lastBuildDate>
-    <item>
-      <title>Troy Isley Beats Joseph Hicks, But Bigger Tests Await</title>
-      <link>https://www.boxingnews24.com/2026/08/troy-isley-beats-joseph-hicks-but-bigger-tests-await/</link>
-      <description>Troy Isley defeated Joseph Hicks by unanimous decision Saturday night in Atlanta, but the performance did little to answer how the 2020 U.S. Olympian will</description>
-      <guid isPermaLink="false">766cc9909ebc71d01c144f65b29e6ba7</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Isley-vs-Hicks4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 04:18:16 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Isley-vs-Hicks4.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 18:56:53 +0000</lastBuildDate>
     <item>
       <title>Ray J Defeats Orlando Brown in Celebrity Boxing Match</title>
       <link>https://www.complex.com/pop-culture/a/jadegomez510/ray-j-orlando-brown-boxing-atlanta-2026</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 16 Aug 2026 15:30:00 +0000</pubDate>
       <media:group>
         <media:content url="https://midmichigannow.com/resources/media2/16x9/970/1320/1x0/90/b10829c0-69d5-4129-ac9b-841b4f42f56f-officer_swing_best.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Denzel Washington’s Overlooked Boxing Classic Is Officially Leaving Netflix</title>
+      <link>https://collider.com/denzel-washington-the-hurricane-leaving-netflix-august-31-2026/</link>
+      <description>Denzel Washington's Rocky meets The Shawshank Redemption drama is officially leaving Netflix at the end of this month.</description>
+      <guid isPermaLink="false">df57fddefe136afe5af421c2fd3ad209</guid>
+      <enclosure url="https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/denzel-washington-1.jpg?w=1600&amp;h=900&amp;fit=crop" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 18:00:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/denzel-washington-1.jpg?w=1600&amp;h=900&amp;fit=crop" medium="image"/>
       </media:group>
     </item>
   </channel>
