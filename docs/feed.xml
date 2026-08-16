@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:37:50 +0000</lastBuildDate>
-    <item>
-      <title>Cus D’Amato Gym Event In One Week On August 22!</title>
-      <link>https://fightnews.com/cus-damato-gym-event-in-one-week-on-august-22/194066</link>
-      <description>Fans are invited to attend at the famous gym on August 22. Autographs available from numerous former champions,</description>
-      <guid isPermaLink="false">a8dc4c066fe462f2635a0b4b7c909055</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Tyson-3-1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 18:29:44 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Tyson-3-1.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Day 3 | Euro U19 Wins for Joyce, Jubani &amp; Joyce</title>
-      <link>https://boxingireland.ie/day-3-euro-u19-wins-for-joyce-jubani-joyce/</link>
-      <description>Watch The Serbia Boxing Federation is live-streaming the championships on its YouTube channel, here. Links, per ring, are published on the day of boxing.</description>
-      <guid isPermaLink="false">50bb4c6b1480405a417195210bf705de</guid>
-      <enclosure url="https://boxingireland.ie/wp-content/uploads/European-U19-Championship-Win-Assets-13-08-2026-1-768x960.png" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 15 Aug 2026 19:08:17 +0000</pubDate>
-      <media:group>
-        <media:content url="https://boxingireland.ie/wp-content/uploads/European-U19-Championship-Win-Assets-13-08-2026-1-768x960.png" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 07:29:52 +0000</lastBuildDate>
     <item>
       <title>Shields vs. Scott Undercard Picks: Best Boxing Bets for Every Atlanta Fight</title>
       <link>https://www.sportsbettingdime.com/news/boxing/shields-vs-scott-undercard-picks-best-boxing-bets-every-atlanta-fight/</link>
@@ -281,6 +259,28 @@
       <pubDate>Sun, 16 Aug 2026 04:49:13 +0000</pubDate>
       <media:group>
         <media:content url="https://www.vmcdn.ca/f/files/classifieds/706418/ec3a76a8-fcd0-4a9d-9031-4f31bd436f2a.jpg;w=640" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Bakhodir Jalolov Returns To Amateurs At 32</title>
+      <link>https://www.boxingnews24.com/2026/08/bakhodir-jalolov-returns-to-amateurs-at-32/</link>
+      <description>Bakhodir Jalolov is reportedly returning to amateur boxing, a surprising decision for a 32-year-old heavyweight with the tools to capture a world title.</description>
+      <guid isPermaLink="false">3421c1401024da9d92ff02fad82b586a</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Jalolov-vs-Teremoana.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 04:49:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Jalolov-vs-Teremoana.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claressa Shields Returns to Middleweight Throne with TKO of Kaye Scott</title>
+      <link>https://tss.ib.tv/boxing/claressa-shields-returns-to-middleweight-throne-with-tko-of-kaye-scott/</link>
+      <description>Claressa Shields took the dangerous route of dropping 20 pounds to challenge middleweight champion Kaye Scott and proved once again to be the best female fighter on the planet while taking back the WBC and WBA middleweight titles by technical knockout on Saturday. And she sold ou</description>
+      <guid isPermaLink="false">c8bddd3f15e4c125f7cc34bb3ffb4897</guid>
+      <enclosure url="https://tss.ib.tv/boxing/wp-content/uploads/2026/08/the-sweet-science_cgT3RUsX.webp" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 06:25:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://tss.ib.tv/boxing/wp-content/uploads/2026/08/the-sweet-science_cgT3RUsX.webp" medium="image"/>
       </media:group>
     </item>
   </channel>
