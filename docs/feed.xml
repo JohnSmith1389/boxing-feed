@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 20:47:25 +0000</lastBuildDate>
-    <item>
-      <title>Bakhodir Jalolov Returns To Amateurs At 32</title>
-      <link>https://www.boxingnews24.com/2026/08/bakhodir-jalolov-returns-to-amateurs-at-32/</link>
-      <description>Bakhodir Jalolov is reportedly returning to amateur boxing, a surprising decision for a 32-year-old heavyweight with the tools to capture a world title.</description>
-      <guid isPermaLink="false">3421c1401024da9d92ff02fad82b586a</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Jalolov-vs-Teremoana.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 04:49:24 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Jalolov-vs-Teremoana.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 16 Aug 2026 21:18:30 +0000</lastBuildDate>
     <item>
       <title>Shields stops Scott to reclaim WBA, WBC middleweight titles</title>
       <link>https://www.espn.com/boxing/story/_/id/49625377/shields-stops-scott-reclaim-wba-wbc-middleweight-titles</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 16 Aug 2026 19:26:06 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/6bea1233c7e78680d26dd1b7a864bd629cf2c9e4b129878b013cc5137a1bffa6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F0044cd6f31d697569248abfb6109b4b7.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Nevada Boxing Hall Of Fame Scores A Knockout With Gala Banquet</title>
+      <link>https://fightnews.com/nevada-boxing-hall-of-fame-scores-a-knockout-with-gala-banquet/194112</link>
+      <description>By David Finger The Orleans Hotel and Casino in Las Vegas played host to one of the biggest</description>
+      <guid isPermaLink="false">3760373c2ff9c1d95e88c363afee9731</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/NVBHOF-2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 16 Aug 2026 21:08:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/NVBHOF-2.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
