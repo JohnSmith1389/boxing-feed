@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 22:22:35 +0000</lastBuildDate>
-    <item>
-      <title>Filipino Underdog Albino Upsets WBC#25 Hatanaka</title>
-      <link>https://fightnews.com/filipino-underdog-albino-upsets-wbc25-hatanaka/194207</link>
-      <description>By Joe Koizumi Photo by Boxing Beat Magazine Boxingwise, August 16, 2026 must be a special day here</description>
-      <guid isPermaLink="false">c0985c2804638d0edf0291598b384bb8</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/image001-33.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 14:49:59 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/image001-33.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 22:50:07 +0000</lastBuildDate>
     <item>
       <title>Ray J beats Orlando Brown by unanimous decision in Atlanta boxing match</title>
       <link>https://thegrio.com/2026/08/17/ray-j-beats-orlando-brown-unanimous-decision/</link>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 17 Aug 2026 22:10:52 +0000</pubDate>
       <media:group>
         <media:content url="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/17/USAT/91342956007-20110117-t-120000-z-1162218338-gm-1-e-71-h-15-dx-01-rtrmadp-3-goldenglobes.JPG?crop=3141,1766,x0,y275&amp;width=3141&amp;height=1766&amp;format=pjpg&amp;auto=webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Hayden Panettiere found safety with boxing champ Wladimir Klitschko</title>
+      <link>https://www.yahoo.com/entertainment/celebrity/articles/hayden-panettiere-found-safety-boxing-221052964.html</link>
+      <description>Hayden Panettiere's romance with then-boxing champion Wladimir Klischko was marked by struggle as the two had a daughter but eventually separated.</description>
+      <guid isPermaLink="false">0663e71e5c2bea81e1e18e38fb35f16b</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/92f3f557a7df4415e5e55e95e002bd28b74c7e7a5ed84d2699b57d385764a144/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fde337a6d3d2844b3078f2192b4e30f69.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 22:10:52 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/92f3f557a7df4415e5e55e95e002bd28b74c7e7a5ed84d2699b57d385764a144/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fde337a6d3d2844b3078f2192b4e30f69.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
