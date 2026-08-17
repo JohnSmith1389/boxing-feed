@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 21:24:24 +0000</lastBuildDate>
-    <item>
-      <title>Alistair Overeem outlines boxing plan as he targets clash with Rico Verhoeven</title>
-      <link>https://www.independent.co.uk/sport/boxing/alistair-overeem-boxing-fight-rico-verhoeven-b3034219.html</link>
-      <description>Interview: The former kickboxing champion and UFC title challenger is eyeing a statement entry into boxing</description>
-      <guid isPermaLink="false">44c4944fb5c908e8e381e0785df7a8b8</guid>
-      <enclosure url="https://static.independent.co.uk/2026/04/24/09/814609850.jpg?trim=79,342,548,598&amp;width=1200&amp;height=800&amp;crop=1200:800" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 13:01:57 +0000</pubDate>
-      <media:group>
-        <media:content url="https://static.independent.co.uk/2026/04/24/09/814609850.jpg?trim=79,342,548,598&amp;width=1200&amp;height=800&amp;crop=1200:800" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>BOXING IS ASKING THE QUESTION. WILL THE HALL OF FAME ANSWER?</title>
-      <link>https://yonkerstimes.com/boxing-is-asking-the-question-will-the-hall-of-fame-answer/</link>
-      <description>The campaign for Junior Jones and Iran Barkley is asking for transparency, dialogue — and the opportunity to let the voters decide. By Neil Pellone/ Founder Tough Tony Team For months, boxing writer/historian José Corpas and I have been leading a growing grassroots campaign askin</description>
-      <guid isPermaLink="false">828018df5859e8876dbb526d979b35ac</guid>
-      <enclosure url="https://yonkerstimes.com/wp-content/uploads/2026/08/jjib.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 13:09:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://yonkerstimes.com/wp-content/uploads/2026/08/jjib.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 21:49:56 +0000</lastBuildDate>
     <item>
       <title>‘Fight Night Boston Harbor 2’ Press Conference *Tomorrow* At Sullivan’s Tap In Boston</title>
       <link>https://fightnews.com/fight-night-boston-harbor-2-press-conference-tomorrow-at-sullivans-tap-in-boston/194197</link>
@@ -251,6 +229,17 @@
       </media:group>
     </item>
     <item>
+      <title>Undefeated British heavyweight added to Itauma vs Hrgovic undercardcard</title>
+      <link>https://boxingnewsonline.net/news/undefeated-heavy-added-to-itauma-hrgovic/</link>
+      <description>There has been a late addition to the Moses Itauma vs. Filip Hrgovic card later this month after an unbeaten British heavyweight was added to the bill in an</description>
+      <guid isPermaLink="false">2ec31bdb4d73763ab43c33c72e68a260</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786987421542964120/Moses-Itauma-and-Filip-Hrgovic.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 18:06:43 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786987421542964120/Moses-Itauma-and-Filip-Hrgovic.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>DWCS' Logan Paxton's First Boxing Rounds Were Against Nate Diaz</title>
       <link>https://cagesidepress.com/2026/08/17/dwcs-logan-paxtons-first-boxing-rounds-were-against-nate-diaz/</link>
       <description>When Logan Paxton decided to give MMA a shot, he was pushed right into the deep end against one of the biggest names in the sport.</description>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 17 Aug 2026 21:08:46 +0000</pubDate>
       <media:group>
         <media:content url="https://wbcboxing.com/wp-content/uploads/2026/07/round-12.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>September 17th 2026 KC Boxing Promotions Event</title>
+      <link>https://fightnews.com/september-17th-2026-kc-boxing-promotions-event/194227</link>
+      <description>In an era when far too many fighters, managers, and even promoters often overprotect the “0,” a fresh</description>
+      <guid isPermaLink="false">0cee8ca0195e8d4a393c37180c2cbb55</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/KC-Boxing.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 21:18:56 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/KC-Boxing.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
