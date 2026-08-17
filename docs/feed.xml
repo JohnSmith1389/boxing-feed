@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 02:40:56 +0000</lastBuildDate>
-    <item>
-      <title>Big Bad Bazley Is Back!</title>
-      <link>https://fightnews.com/big-bad-bazley-is-back/194096</link>
-      <description>Perth’s heavyweight scene is set for another explosive night when Dragon Fire Boxing returns to Metro City Arena</description>
-      <guid isPermaLink="false">06cbc287a038cad8b3f394e5038c7f99</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/MichaelOImagery_MOI_0393.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 09:34:46 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/MichaelOImagery_MOI_0393.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Ray J Defeats Orlando Brown in Three-Round Celebrity Boxing Showdown</title>
-      <link>https://www.tmz.com/2026/08/16/ray-j-beats-orlando-brown-in-boxing-match/</link>
-      <description>Ray J got the last laugh Saturday night, defeating Orlando Brown by unanimous decision in a three-round celebrity boxing matchup at Atlanta's State Farm Arena.</description>
-      <guid isPermaLink="false">fc330077d64e85af5e4c9d6f5d4002b7</guid>
-      <enclosure url="https://imagez.tmz.com/image/45/16by9/2026/08/16/45c465f889c94792bab5659fe9da70d1_xl.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 12:31:14 +0000</pubDate>
-      <media:group>
-        <media:content url="https://imagez.tmz.com/image/45/16by9/2026/08/16/45c465f889c94792bab5659fe9da70d1_xl.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Conor Benn picks a winner in prime Oscar De La Hoya vs Terence Crawford</title>
-      <link>https://boxingnewsonline.net/news/benn-predicts-de-la-hoya-vs-crawford/</link>
-      <description>Terence Crawford has been hailed by many as the best fighter of this generation following his retirement, and now WBC welterweight title hopeful Conor Benn</description>
-      <guid isPermaLink="false">1c1f158a5464615832991f3b4c1b6532</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786534174420805788/Oscar-De-La-Hoya-and-Terence-Crawford.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 13:33:42 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786534174420805788/Oscar-De-La-Hoya-and-Terence-Crawford.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Results: UFC 330 in Philadelphia</title>
-      <link>https://fightnews.com/results-ufc-330-in-philadelphia/194105</link>
-      <description>By Gabriel F. Cordero The 34-year-old Russian Islam Makhachev defeated Ireland’s Ian Machado Garry by unanimous decision in</description>
-      <guid isPermaLink="false">789822751701e195a80c1e6b2571a457</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/UFC-5.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 14:48:52 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/UFC-5.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Results From Buenos Aires, Argentina</title>
-      <link>https://fightnews.com/results-from-buenos-aires-argentina/194108</link>
-      <description>By Gabriel F. Cordero Another night of the World Boxing Association’s KO to Drugs event took place at</description>
-      <guid isPermaLink="false">afddd2d6ec03d6deeaf6086106564a99</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/IMG_0498.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 16 Aug 2026 14:56:14 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/IMG_0498.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 03:49:21 +0000</lastBuildDate>
     <item>
       <title>Texas police officer gets into hilarious boxing match with dive-bombing bird</title>
       <link>https://cbs12.com/news/offbeat/texas-police-officer-bird-attack-video-gets-into-hilarious-boxing-match-with-dive-bombing-bird-southside-place-cop-bird-attack-bird-dive-bombs-texas-officer</link>
@@ -281,6 +226,61 @@
       <pubDate>Mon, 17 Aug 2026 00:56:47 +0000</pubDate>
       <media:group>
         <media:content url="https://cdn.onefc.com/wp-content/uploads/2026/08/Nabil-Anane-vs-Suakim-at-The-Inner-Circle-25-19-36-scaled.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Nabil Anane Announces Bid To Represent Thailand In Boxing At LA28 Olympics</title>
+      <link>https://sports.yahoo.com/articles/nabil-anane-announces-bid-represent-005647238.html</link>
+      <description>The former ONE World Champion aims to secure a spot on the Thai national boxing team.</description>
+      <guid isPermaLink="false">027fc5863f8d8add61d1ccdf814d7f71</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/449571e36fc05af6ee47003cddaee030978caa93cae2e00806b08c95698ed82b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fone_championship_articles_385%2Fcf173be74114db7446556c2c4dcd00ea.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 00:56:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/449571e36fc05af6ee47003cddaee030978caa93cae2e00806b08c95698ed82b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fone_championship_articles_385%2Fcf173be74114db7446556c2c4dcd00ea.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claressa Shields Didn’t Just Wynn in Atlanta — She Changed the Temperature of Boxing - Inside the Ropes Boxing - Your #1 source for boxing news.</title>
+      <link>https://itrboxing.com/2026/08/16/claressa-shields-didnt-just-wynn-in-atlanta-she-changed-the-temperature-of-boxing/</link>
+      <description>ATLANTA — August 16, 2026 — I’ve covered Claressa Shields more than a few times over the years. I’ve watched her fight.</description>
+      <guid isPermaLink="false">20613c11c143c19165fdba9ff6980103</guid>
+      <enclosure url="https://itrboxing.com/wp-content/uploads/2026/08/LR_SALITA-PROMOTIONS-FIGHT-NIGHT-SHIELDS-VS-SCOTT-TRAPPFOTOS-08152026-7515-scaled.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 02:43:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://itrboxing.com/wp-content/uploads/2026/08/LR_SALITA-PROMOTIONS-FIGHT-NIGHT-SHIELDS-VS-SCOTT-TRAPPFOTOS-08152026-7515-scaled.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Late boxing trainer Paul O'Malley honored at one-mile race in Scranton</title>
+      <link>https://www.wnep.com/video/news/local/lackawanna-county/late-boxing-trainer-paul-omalley-honored-at-one-mile-race-in-scranton/523-e52fd3e5-5491-45b7-963d-98a767115e45</link>
+      <description>Late boxing trainer Paul O'Malley honored at one-mile race in Scranton</description>
+      <guid isPermaLink="false">f220c4ca9e34556e4df56c663b1f1ec8</guid>
+      <enclosure url="https://media.tegna-media.com/assets/WNEP/images/c7e9f8db-47ba-4bf0-bc1d-b4eb29430e60/20260817T024402/c7e9f8db-47ba-4bf0-bc1d-b4eb29430e60_1920x1080.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 02:45:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://media.tegna-media.com/assets/WNEP/images/c7e9f8db-47ba-4bf0-bc1d-b4eb29430e60/20260817T024402/c7e9f8db-47ba-4bf0-bc1d-b4eb29430e60_1920x1080.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claressa Shields Builds Herself, Not Women’s Boxing</title>
+      <link>https://www.boxing247.com/boxing-news/claressa-shields-builds-herself-not-womens-boxing/309097</link>
+      <description>Claressa Shields has collected enough belts to demand respect for her skill in the ring. Winning titles has failed to turn her into an effective leader for</description>
+      <guid isPermaLink="false">2c87c648b707fee3a686468a292c30a5</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/08/LR_SALITA-PROMOTIONS-FIGHT-NIGHT-SHIELDS-VS-SCOTT-TRAPPFOTOS-08152026-7512.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 02:58:12 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/08/LR_SALITA-PROMOTIONS-FIGHT-NIGHT-SHIELDS-VS-SCOTT-TRAPPFOTOS-08152026-7512.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>FILE PHOTO: Panettiere, girlfriend of heavyweight boxing World Champion Klitschko, reacts to Klitschko's victory over Pianeta in Mannheim</title>
+      <link>https://lufkindailynews.com/news_reuters/top_news/file-photo-panettiere-girlfriend-of-heavyweight-boxing-world-champion-klitschko-reacts-to-klitschkos-victory-over/image_472483d5-4464-55b6-b9ac-2b2cf7b2a72c.html</link>
+      <description>FILE PHOTO: Hayden Panettiere, girlfriend of Ukrainian heavyweight boxing world champion Vladimir Klitschko, reacts to Klitschko's victory over his Italian-born challenger Francesco Pianeta at the SAP</description>
+      <guid isPermaLink="false">213dc6867e5bcc5499ad87e3af23f44d</guid>
+      <enclosure url="https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/4/72/472483d5-4464-55b6-b9ac-2b2cf7b2a72c/6a8281181faf2.image.jpg?crop=800%2C420%2C0%2C84" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 03:22:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/4/72/472483d5-4464-55b6-b9ac-2b2cf7b2a72c/6a8281181faf2.image.jpg?crop=800%2C420%2C0%2C84" medium="image"/>
       </media:group>
     </item>
   </channel>
