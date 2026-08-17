@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 17:55:16 +0000</lastBuildDate>
-    <item>
-      <title>Boxer Chantelle Cameron: ‘If we want equal rights, equal pay, we can’t be doing two-minute rounds’</title>
-      <link>https://www.theguardian.com/sport/2026/aug/17/chantelle-cameron-boxing-equal-rights-two-minute-rounds</link>
-      <description>The Northampton fighter talks to Donald McRae about beating Katie Taylor, facing Mikaela Mayer and why women’s boxing needs three-minute rounds</description>
-      <guid isPermaLink="false">4b4b80d03fe42d7a40af78276e5a0d50</guid>
-      <enclosure url="https://i.guim.co.uk/img/media/a8e6bdbd5522ab25d281aa988c4edaf00354955c/509_0_4800_3840/master/4800.jpg?width=1200&amp;height=1200&amp;quality=85&amp;auto=format&amp;fit=crop&amp;s=f2595df78b986712dcf84f7af62ab31d" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 10:12:12 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.guim.co.uk/img/media/a8e6bdbd5522ab25d281aa988c4edaf00354955c/509_0_4800_3840/master/4800.jpg?width=1200&amp;height=1200&amp;quality=85&amp;auto=format&amp;fit=crop&amp;s=f2595df78b986712dcf84f7af62ab31d" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Ngatane says Ferreira’s win opens global boxing doors</title>
-      <link>https://www.sowetan.co.za/sport/boxing/2026-08-17-ngatane-says-ferreiras-win-opens-global-boxing-doors/</link>
-      <description>Historic night sees Shields cement 'GWOAT' legacy alongside Ferreira's triumph</description>
-      <guid isPermaLink="false">573e3d28cc81402e1ee3eda497fdc177</guid>
-      <enclosure url="https://www.sowetan.co.za/resizer/v2/JAQ3HCQBYFGE3M5LPNOC4DTTUY.jpg?smart=true&amp;auth=30ecdc67c1684106c4302ce7ca275ac00a1447b0cc143f02ea8d7f93284d963f&amp;width=1200&amp;height=630" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 10:12:25 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.sowetan.co.za/resizer/v2/JAQ3HCQBYFGE3M5LPNOC4DTTUY.jpg?smart=true&amp;auth=30ecdc67c1684106c4302ce7ca275ac00a1447b0cc143f02ea8d7f93284d963f&amp;width=1200&amp;height=630" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 18:37:45 +0000</lastBuildDate>
     <item>
       <title>Hayden Panettiere's heartbreaking Wladimir Klitschko admission in last interview</title>
       <link>https://www.walesonline.co.uk/sport/boxing/hayden-panettieres-heartbreaking-wladimir-klitschko-34469691</link>
@@ -241,6 +219,17 @@
     </item>
     <item>
       <title>Trey Anastasio Performs in a Boxing Ring with Hank Heaven</title>
+      <link>https://relix.com/news/detail/trey-anastasio-performs-in-a-boxing-ring-with-hank-heaven/</link>
+      <description>On Saturday, Trey Anastasio made a surprise appearance with Hank Heaven at New York’s Church Street Boxing Gym. The Phish guitarist emerged near the end</description>
+      <guid isPermaLink="false">48aff482b3fecb51bed4ac4a38d8063f</guid>
+      <enclosure url="https://lede-admin.relix.com/wp-content/uploads/sites/74/2026/08/DSCF8932.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 16:31:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://lede-admin.relix.com/wp-content/uploads/sites/74/2026/08/DSCF8932.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Trey Anastasio Performs in a Boxing Ring with Hank Heaven</title>
       <link>https://jambands.com/news/2026/08/17/trey-anastasio-performs-in-a-boxing-ring-with-hank-heaven/</link>
       <description>Photo by Emilio Herce On Saturday, Trey Anastasio made a surprise appearance with Hank Heaven at New York’s Church Street Boxing Gym. The Phish guitarist</description>
       <guid isPermaLink="false">9bdac232f093f9a83886d77dfe2c79f2</guid>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 17 Aug 2026 17:11:48 +0000</pubDate>
       <media:group>
         <media:content url="https://www.boxing247.com/wp-content/uploads/2026/02/gvoz.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Nevada Boxing Hall of Fame Immortalizes 13 lucky and deserving Legends</title>
+      <link>https://wbcboxing.com/en/el-salon-de-la-fama-del-boxeo-de-nevada-inmortaliza-a-13-leyendas-en-una-emotiva-e-historica-gala-en-las-vegas/</link>
+      <description>Nevada Boxing Hall of Fame Immortalizes 13 lucky and deserving Legends The iconic The Orleans Hotel &amp; Casino in Las Vegas, served as the epicenter for […]</description>
+      <guid isPermaLink="false">965e443dc84ea2cdf2809e1e7652271c</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/nbhof.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 17:55:40 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/nbhof.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
