@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 07:36:39 +0000</lastBuildDate>
-    <item>
-      <title>Nevada Boxing Hall of Fame Immortalizes 13 lucky and deserving Legends</title>
-      <link>https://wbcboxing.com/en/el-salon-de-la-fama-del-boxeo-de-nevada-inmortaliza-a-13-leyendas-en-una-emotiva-e-historica-gala-en-las-vegas/</link>
-      <description>Nevada Boxing Hall of Fame Immortalizes 13 lucky and deserving Legends The iconic The Orleans Hotel &amp; Casino in Las Vegas, served as the epicenter for […]</description>
-      <guid isPermaLink="false">965e443dc84ea2cdf2809e1e7652271c</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/nbhof.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 17:55:40 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/nbhof.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 08:35:23 +0000</lastBuildDate>
     <item>
       <title>Undefeated British heavyweight added to Itauma vs Hrgovic undercardcard</title>
       <link>https://boxingnewsonline.net/news/undefeated-heavy-added-to-itauma-hrgovic/</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/f/98/f98898fd-5b60-45bf-87af-2a1655412c0c/6a83b273ec287.image.jpg?crop=1821%2C956%2C0%2C90&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Brockton High grad on boxing at Fenway. 'Can't even put it into words'</title>
+      <link>https://www.enterprisenews.com/story/sports/pro/2026/08/18/brocktons-shane-jordan-ready-for-bkfc-92-boxing-card-at-fenway-park/91213405007/</link>
+      <description>The 2012 Brockton High graduate will be featured on the upcoming BKFC-92 card at Fenway Park: \</description>
+      <guid isPermaLink="false">4f476764df9558cfed5e5b812e0bc65f</guid>
+      <enclosure url="https://www.gannett-cdn.com/authoring/authoring-images/2026/07/29/NPAL/91085650007-bkfc-22.jpg?auto=webp&amp;crop=5739,3228,x0,y0&amp;format=pjpg&amp;width=1200" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 08:03:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.gannett-cdn.com/authoring/authoring-images/2026/07/29/NPAL/91085650007-bkfc-22.jpg?auto=webp&amp;crop=5739,3228,x0,y0&amp;format=pjpg&amp;width=1200" medium="image"/>
       </media:group>
     </item>
   </channel>
