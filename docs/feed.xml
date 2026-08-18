@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 19:25:54 +0000</lastBuildDate>
-    <item>
-      <title>Moses Lake's newest gym brings energy to the boxing community</title>
-      <link>https://hagadonenewsnetwork.com/news/2026/aug/18/moses-lakes-newest-gym-brings-energy-to-the-boxing-community/</link>
-      <description>MOSES LAKE — The city of Moses Lake welcomed its newest fitness club Thursday afternoon with the grand opening of Hamman Boxing. Jordan Hamman, the owner of the gym said he is excited to get this new chapter in his life started.</description>
-      <guid isPermaLink="false">5fef9e49ef900f4d6d6561f666742022</guid>
-      <enclosure url="https://hagadone.media.clients.ellingtoncms.com/img/photos/2026/08/14/8-14_Hamman1_t1200x1200.JPG?89991875fe57e095a7a6851653f0e1c1091b3037" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 10:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://hagadone.media.clients.ellingtoncms.com/img/photos/2026/08/14/8-14_Hamman1_t1200x1200.JPG?89991875fe57e095a7a6851653f0e1c1091b3037" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Floyd Mayweather strikes promotional partnership with Nashville's Country Box</title>
-      <link>https://www.tennessean.com/story/sports/boxing/2026/08/18/floyd-mayweathers-boxing-promotion-partners-nashville-country-box/91307576007/</link>
-      <description>Floyd Mayweather Jr.'s Mayweather Promotions has agreed to a partnership with Nashville's Country Box, which will bring his prospects to Music City.</description>
-      <guid isPermaLink="false">c87209f2897987c39fcfbd7c647ee5d2</guid>
-      <enclosure url="https://www.tennessean.com/gcdn/authoring/authoring-images/2026/02/20/SMMA/88786559007-2167170603.jpg?crop=4163,2342,x0,y175&amp;width=3200&amp;height=1801&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 10:03:28 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.tennessean.com/gcdn/authoring/authoring-images/2026/02/20/SMMA/88786559007-2167170603.jpg?crop=4163,2342,x0,y175&amp;width=3200&amp;height=1801&amp;format=pjpg&amp;auto=webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 19:48:59 +0000</lastBuildDate>
     <item>
       <title>Wladimir Klitschko shares emotional tribute to Hayden Panettiere</title>
       <link>https://www.freep.com/story/sports/boxing/2026/08/18/hayden-panettiere-death-wladimir-klitschko-tribute/91348705007/</link>
@@ -281,6 +259,28 @@
       <pubDate>Tue, 18 Aug 2026 18:51:53 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/image6-11.jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>JuJu Ballo &amp; Jonny Mansour Join Detroit Media Workout</title>
+      <link>https://fightnews.com/juju-ballo-jonny-mansour-join-detroit-media-workout/194316</link>
+      <description>WHAT: Undefeated rising prospects and former amateur standouts JuJu Ballo and Jonny Mansour will join local Michigan fighters</description>
+      <guid isPermaLink="false">a0b4619e42fe04877db3d555f313a0e7</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/unnamed2-46.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 19:15:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/unnamed2-46.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>BKB Re-Signings &amp; New Notables</title>
+      <link>https://fightnews.com/bkb-re-signings-new-notables/194319</link>
+      <description>BKB Bare Knuckle Boxing, the world’s largest professional bare knuckle boxing organization, today announced a series of prominent</description>
+      <guid isPermaLink="false">dff4704df96f58ca6c069862969d61ea</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/BKB-6.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 19:18:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/BKB-6.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
