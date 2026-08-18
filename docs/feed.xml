@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 05:56:06 +0000</lastBuildDate>
-    <item>
-      <title>Wladimir Klitschko’s Record Reveals How Completely He Ruled Heavyweight Boxing</title>
-      <link>https://sports.yahoo.com/articles/wladimir-klitschko-record-reveals-completely-173505215.html</link>
-      <description>Renewed interest in Wladimir Klitschko’s life has put his remarkable boxing career back under the microscope. The essential numbers explain why “Dr.</description>
-      <guid isPermaLink="false">da0bde22011b2945a41d170c3afac5fd</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/e974d741d70a282fb2d4d8dcfa0cd465f59f1bc45220355129e116217e982463/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2Fe05d1a70b3e17ed47b06416ed8b6f445.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 17:35:05 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/e974d741d70a282fb2d4d8dcfa0cd465f59f1bc45220355129e116217e982463/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2Fe05d1a70b3e17ed47b06416ed8b6f445.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 06:44:19 +0000</lastBuildDate>
     <item>
       <title>Nevada Boxing Hall of Fame Immortalizes 13 lucky and deserving Legends</title>
       <link>https://wbcboxing.com/en/el-salon-de-la-fama-del-boxeo-de-nevada-inmortaliza-a-13-leyendas-en-una-emotiva-e-historica-gala-en-las-vegas/</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 18 Aug 2026 05:03:00 +0000</pubDate>
       <media:group>
         <media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/3651/live/1af91f30-9a19-11f1-9a44-e568b7279c37.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>LOCAL BOXING: Sluggers’ Russell wins bout in Aurora</title>
+      <link>https://www.wyomingnews.com/wyosports/other_sports/community/local-boxing-sluggers-russell-wins-bout-in-aurora/article_c150ceda-736d-42ab-83fa-d7a4a38ae5eb.html</link>
+      <description>CHEYENNE — South Side Sluggers Boxing Club athlete Chaplain Tyvavion Russell picked up a victory at the Athletics and Beyond showcase Saturday in Aurora, Colorado.</description>
+      <guid isPermaLink="false">4d74dac27fd5dbf78be54abcecf24972</guid>
+      <enclosure url="https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/f/98/f98898fd-5b60-45bf-87af-2a1655412c0c/6a83b273ec287.image.jpg?crop=1821%2C956%2C0%2C90&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/f/98/f98898fd-5b60-45bf-87af-2a1655412c0c/6a83b273ec287.image.jpg?crop=1821%2C956%2C0%2C90&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
       </media:group>
     </item>
   </channel>
