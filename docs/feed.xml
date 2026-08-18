@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 13:40:59 +0000</lastBuildDate>
-    <item>
-      <title>Vergil Ortiz Jnr, rejected by Jaron Ennis, aiming for Jermell Charlo next</title>
-      <link>https://www.boxingscene.com/articles/vergil-ortiz-jnr-rejected-by-jaron-ennis-aiming-for-jermell-charlo-next</link>
-      <description>Vergil Ortiz Jnr promoter and manager declaring Philadelphia’s unified 154lbs champion Jaron “Boots” Ennis, 36-0 (32 KOs), is disinterested in fighting Ortiz, 24-0 (22 KOs), next, the targeted foe has shifted to Jermell Charlo for a mid-November bout in Texas or Las Vegas.</description>
-      <guid isPermaLink="false">a804a1745bff2612013feddeef49aeeb</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/VergilOrtizRobertGarcia11082025-01.webp" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 22:23:42 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/VergilOrtizRobertGarcia11082025-01.webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Fans Blast David Benavidez For Easy Cieślak Defense Over Jai Opetaia</title>
-      <link>https://www.boxingnews24.com/2026/08/fans-blast-david-benavidez-for-easy-cieslak-defense-over-jai-opetaia/</link>
-      <description>David Benavidez is taking heat from boxing fans over plans to face Michal Cieślak on December 12 rather than Jai Opetaia, the former IBF champion regarded as</description>
-      <guid isPermaLink="false">ccf7344dc8540ec33089fd21666af7ed</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Benavidez-vs.-Ramirez533.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 22:31:13 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Benavidez-vs.-Ramirez533.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 14:32:04 +0000</lastBuildDate>
     <item>
       <title>BRANDRISK 15: McBroom vs. FaZe Temper fight card, start time, date and location</title>
       <link>https://sports.yahoo.com/articles/brandrisk-15-mcbroom-vs-faze-000655250.html</link>
@@ -196,6 +174,17 @@
       </media:group>
     </item>
     <item>
+      <title>Tyson Fury vs Anthony Joshua negotiations enter critical week with ongoing talks about staging fight in New York</title>
+      <link>https://www.skysports.com/boxing/news/12040/13574297/tyson-fury-vs-anthony-joshua-negotiations-enter-critical-week-with-ongoing-talks-about-staging-fight-in-new-york</link>
+      <description>Tyson Fury has teased an Anthony Joshua fight announcement on social media; The British heavyweight rivals are yet to finalise terms for a fight; Anthony Joshuas promoter Eddie Hearn is keen for the bout to be held in the UK but New York is now being discussed as a location</description>
+      <guid isPermaLink="false">7b6b6dca5f1c14e68d4577661b998691</guid>
+      <enclosure url="https://e0.365dm.com/26/04/1600x900/skysports-anthony-joshua-tyson-fury_7220062.png?20260414165154" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 11:02:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://e0.365dm.com/26/04/1600x900/skysports-anthony-joshua-tyson-fury_7220062.png?20260414165154" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Show him the money: Odel Kamara has been 'bred' for professional boxing</title>
       <link>https://www.boxingscene.com/articles/show-him-the-money-odel-kamara-has-been-bred-for-professional-boxing</link>
       <description>Odel Kamara talks about his decision to turn pro, his home city of Liverpool, looking up to Roy Jones, and being open to working with Nike</description>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 18 Aug 2026 13:19:36 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/c8b4d2fca38bf4f0cd1033c1994ba47bee9ba5be9f2b64c2adbd7d0f97fe85db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F6786b5c52d11fd90876d98fa25695d36.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>On This Day in Boxing… August 18th</title>
+      <link>https://wbcboxing.com/en/on-this-day-in-boxing-august-18th/</link>
+      <description>On This Day in Boxing… August 18th 1979.- American Matthew Saad Muhammad made the first successful defense of his WBC light heavyweight title, defeating Britain’s John […]</description>
+      <guid isPermaLink="false">2fb5689519ae92c0b6328eb156cdb9b1</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/rosales-vs-barnes.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 14:00:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/rosales-vs-barnes.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
