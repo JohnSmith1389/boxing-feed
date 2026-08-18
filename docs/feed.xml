@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 15:30:12 +0000</lastBuildDate>
-    <item>
-      <title>Louisville Cardinals Unveil Uniforms Inspired By Muhammad Ali’s Everlast Boxing Gloves, Trunks</title>
-      <link>https://news.sportslogos.net/2026/08/17/louisville-cardinals-unveil-uniforms-inspired-by-muhammad-alis-everlast-boxing-gloves-trunks/college/</link>
-      <description>The Louisville Cardinals football program will once again honor native son and boxing icon Muhammad Ali by wearing all-black alternate uniforms against Stanford on Oct. 31.</description>
-      <guid isPermaLink="false">4066f7a2b9bad39a1dedcb9219ac0079</guid>
-      <enclosure url="https://content.sportslogos.net/news/2026/05/slnet-logo-social.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 01:41:13 +0000</pubDate>
-      <media:group>
-        <media:content url="https://content.sportslogos.net/news/2026/05/slnet-logo-social.png" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 16:29:55 +0000</lastBuildDate>
     <item>
       <title>509 Boxing gym helps build confidence beyond the ring</title>
       <link>https://www.nbcrightnow.com/yakima/509-boxing-gym-helps-build-confidence-beyond-the-ring/article_693f2bf4-a93d-47b7-8039-8b68d032c89c.html</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 18 Aug 2026 14:00:02 +0000</pubDate>
       <media:group>
         <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/rosales-vs-barnes.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Michael Magnesi Moves Up to Lightweight</title>
+      <link>https://wbcboxing.com/en/michael-magnesi-moves-up-to-lightweight/</link>
+      <description>Michael Magnesi Moves Up to Lightweight Prominent Italian fighter Michael Magnesi is ready to begin a decisive new chapter in his professional career. Following an exhaustive […]</description>
+      <guid isPermaLink="false">21bb41fa7faa018712914d6883d7a100</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/magnesi.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 15:28:13 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/magnesi.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
