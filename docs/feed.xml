@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 16:59:47 +0000</lastBuildDate>
-    <item>
-      <title>509 Boxing gym helps build confidence beyond the ring</title>
-      <link>https://www.nbcrightnow.com/yakima/509-boxing-gym-helps-build-confidence-beyond-the-ring/article_693f2bf4-a93d-47b7-8039-8b68d032c89c.html</link>
-      <description>Yakima, Wash. — A boxing gym in Yakima says its focused-on building confidence and discipline for kids both inside and outside the ring.</description>
-      <guid isPermaLink="false">faa3a73b9ff5033bf2d6650d615dafd2</guid>
-      <enclosure url="https://bloximages.newyork1.vip.townnews.com/nbcrightnow.com/content/tncms/assets/v3/editorial/2/c3/2c347cd5-b246-5189-b762-8877f745c98c/6a83bd90a5e3a.image.jpg?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 01:54:45 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.newyork1.vip.townnews.com/nbcrightnow.com/content/tncms/assets/v3/editorial/2/c3/2c347cd5-b246-5189-b762-8877f745c98c/6a83bd90a5e3a.image.jpg?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 17:35:27 +0000</lastBuildDate>
     <item>
       <title>Lakewood gym punching back against Parkinson’s</title>
       <link>https://www.cleveland19.com/2026/08/18/lakewood-gym-punching-back-against-parkinsons/</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 18 Aug 2026 15:28:13 +0000</pubDate>
       <media:group>
         <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/magnesi.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Amanda Serrano vs. Lucrecia Manzur: How to watch title bout on TikTok</title>
+      <link>https://www.usatoday.com/story/sports/boxing/2026/08/18/amanda-serrano-lucrecia-manzur-fight-card-watch-tiktok/91352126007/</link>
+      <description>Amanda Serrano seeks to defend her WBA and WBO featherweight titles against Lucrecia Manzur on Aug. 21.</description>
+      <guid isPermaLink="false">4d1cd1afcb963526c90af781da8013f9</guid>
+      <enclosure url="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/18/USAT/91352143007-getty-images-2254548016.jpg?crop=4310,2426,x0,y79&amp;width=3200&amp;height=1802&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 16:04:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/18/USAT/91352143007-getty-images-2254548016.jpg?crop=4310,2426,x0,y79&amp;width=3200&amp;height=1802&amp;format=pjpg&amp;auto=webp" medium="image"/>
       </media:group>
     </item>
   </channel>
