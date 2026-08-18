@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 04:34:05 +0000</lastBuildDate>
-    <item>
-      <title>Zuffa Defender Challenges Loaded Oleksandr Gvozdyk Coverage</title>
-      <link>https://www.boxing247.com/boxing-news/zuffa-defender-challenges-loaded-oleksandr-gvozdyk-coverage/309109</link>
-      <description>Round by Round Radio defended Zuffa Boxing’s decision to release Oleksandr Gvozdyk while accusing traditional boxing media of applying a double standard. The</description>
-      <guid isPermaLink="false">56d151ee77aa35c1f953eed657b30e93</guid>
-      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/02/gvoz.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 17 Aug 2026 17:11:48 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/02/gvoz.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 05:27:39 +0000</lastBuildDate>
     <item>
       <title>Wladimir Klitschko’s Record Reveals How Completely He Ruled Heavyweight Boxing</title>
       <link>https://sports.yahoo.com/articles/wladimir-klitschko-record-reveals-completely-173505215.html</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 18 Aug 2026 03:03:41 +0000</pubDate>
       <media:group>
         <media:content url="https://gray-woio-prod.gtv-cdn.com/resizer/v2/J4UIXTC5KBFEVEHZW42NYF4EDA.png?auth=56b07a59fd8c0891999c7f76e7936f9a61440611584fab2e41fda3d2773dc873&amp;width=1200&amp;height=600&amp;smart=true" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Rugby boxer Bobby Brannen's gym for SEND children attracts hundreds nationwide</title>
+      <link>https://www.bbc.com/news/articles/c3r03lny8qwo</link>
+      <description>Bobby Brannen's TikTok showcasing his work has been viewed by nearly seven million people</description>
+      <guid isPermaLink="false">26f334d64911463a2581306b4238fb3a</guid>
+      <enclosure url="https://ichef.bbci.co.uk/news/1024/branded_news/3651/live/1af91f30-9a19-11f1-9a44-e568b7279c37.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 05:03:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/3651/live/1af91f30-9a19-11f1-9a44-e568b7279c37.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
