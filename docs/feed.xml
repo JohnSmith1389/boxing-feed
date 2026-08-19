@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 07:37:09 +0000</lastBuildDate>
-    <item>
-      <title>Anthony Joshua and Tyson Fury sign contracts for November 20 fight in New York</title>
-      <link>https://www.boxingscene.com/articles/anthony-joshua-and-tyson-fury-sign-contracts-for-november-20-fight-in-new-york</link>
-      <description>Anthony Joshua and Tyson Fury have signed contracts to finally meet on November 20 at New York’s Madison Square Garden, according to the Daily Mail.</description>
-      <guid isPermaLink="false">625b3b81c17e8e87ad04381a2185424b</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/anthonyjoshuatysonfury2.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 17:55:18 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/anthonyjoshuatysonfury2.webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 08:35:38 +0000</lastBuildDate>
     <item>
       <title>Tyson Fury Anthony Joshua Leave British Fans Behind</title>
       <link>https://www.boxing247.com/boxing-news/tyson-fury-anthony-joshua-leave-british-fans-behind/309124</link>
@@ -245,6 +234,17 @@
       <description>Honoring the Legends in the Sport: The Who’s Who at our 2026 International Women’s Boxing Hall of Fame in Las Vegas!</description>
       <guid isPermaLink="false">864fd55f56e1f6d6c598fa6d8ee89f70</guid>
       <pubDate>Wed, 19 Aug 2026 03:47:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>31 Years Ago Today: Boxing Legend's Long-Awaited Comeback Lasted Just 89 Seconds</title>
+      <link>https://uk.sports.yahoo.com/news/31-years-ago-today-boxing-041100808.html</link>
+      <description>Mike Tyson spent three years in prison after being convicted of rape in 1992.</description>
+      <guid isPermaLink="false">100626fbde7688098f254a3762b1a760</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/236d4449b8fb734020cb13f539cbd0d48db2f96aad4377dce1d67d0f2d2e6ee1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F2998fcfd2cf0eb45e0a9828094091906.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 04:11:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/236d4449b8fb734020cb13f539cbd0d48db2f96aad4377dce1d67d0f2d2e6ee1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F2998fcfd2cf0eb45e0a9828094091906.jpg" medium="image"/>
+      </media:group>
     </item>
     <item>
       <title>Rolly Romero Wants To Become A Pastor After His Boxing Career Is Over, Credits His Faith For Turning His Life Around After Becoming Homeless (Interview)</title>
