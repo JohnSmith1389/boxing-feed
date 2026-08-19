@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:33:41 +0000</lastBuildDate>
-    <item>
-      <title>Amateur Boxing returns to valley Saturday night at Metroplex</title>
-      <link>https://www.wfmj.com/sports/local-sports/amateur-boxing-returns-to-valley-saturday-night-at-metroplex/article_f102e81f-1688-449f-acd1-b84ab5676976.html</link>
-      <description>Jack Loew and the Southside Boxing Club are putting on a 15 bout amateur fight show Saturday at the Metroplex in Girard.</description>
-      <guid isPermaLink="false">73ec2aa775a078780dac70d12124f27a</guid>
-      <enclosure url="https://bloximages.chicago2.vip.townnews.com/wfmj.com/content/tncms/assets/v3/editorial/c/ca/ccae83b8-3562-5d39-a48a-917ad1f1e581/697931f142990.image.jpg?crop=724%2C380%2C0%2C51" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 10:45:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.chicago2.vip.townnews.com/wfmj.com/content/tncms/assets/v3/editorial/c/ca/ccae83b8-3562-5d39-a48a-917ad1f1e581/697931f142990.image.jpg?crop=724%2C380%2C0%2C51" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Women's boxing pound-for-pound rankings: Shields keeps top spot, Thorslund makes top 10</title>
-      <link>https://www.espn.ph/boxing/story/_/id/49647443/women-boxing-pound-pound-rankings-claressa-shields-keep-top-spot-dina-thorslund-makes-top-10</link>
-      <description>Claressa Shields remains No. 1, but where does Dina Thorslund land after her impressive victory?</description>
-      <guid isPermaLink="false">3e5d925f2080a7030bc21e851e9b879b</guid>
-      <enclosure url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0818%2Fr1703326_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 11:47:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0818%2Fr1703326_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 19:23:41 +0000</lastBuildDate>
     <item>
       <title>Women's boxing pound-for-pound rankings: Shields keeps top spot, Thorslund makes top 10</title>
       <link>https://www.espn.com/boxing/story/_/id/49647443/women-boxing-pound-pound-rankings-claressa-shields-keep-top-spot-dina-thorslund-makes-top-10</link>
@@ -277,6 +255,28 @@
       <pubDate>Wed, 19 Aug 2026 18:01:52 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/2665ad835afa9a1006341bb530fd08e250d1e6e5feb18ddd577aa81e5b398c01/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fed-081826-whatmakesagreatchin_3563.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>UFC legend Henry Cejudo books Misfits Boxing debut less than a year on from MMA retirement</title>
+      <link>https://bloodyelbow.com/2026/08/19/ufc-legend-henry-cejudo-books-misfits-boxing-debut-less-than-a-year-on-from-mma-retirement/</link>
+      <description>'Triple C' is making the move into boxing</description>
+      <guid isPermaLink="false">1a171d12c2ae7ba8b4aaa321178c2740</guid>
+      <enclosure url="https://bloodyelbow.com/wp-content/uploads/1/2025/10/GettyImages-1148664728-scaled.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 18:32:56 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloodyelbow.com/wp-content/uploads/1/2025/10/GettyImages-1148664728-scaled.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing Announces Johnny Fisher Main Event Fight in London</title>
+      <link>https://www.si.com/fannation/boxing/zuffa-boxing-announces-johnny-fisher-main-event-fight-in-london</link>
+      <description>Zuffa Boxing has made Johnny Fisher's debut fight official. The news of Fisher's signing with the promotion broke in July, making him one of the handful of figh</description>
+      <guid isPermaLink="false">02ae0d3c78b012baf0155836533dd4fd</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_201,w_3618,h_2035/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/boxing/01m0de2c00c3kdkbwx9y.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 18:47:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_201,w_3618,h_2035/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/boxing/01m0de2c00c3kdkbwx9y.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
