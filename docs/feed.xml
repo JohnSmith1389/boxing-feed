@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:25:20 +0000</lastBuildDate>
-    <item>
-      <title>Peter Fury delivers final verdict on Moses Itauma vs Hgrovic: "That could be a big problem”</title>
-      <link>https://boxingnewsonline.net/news/peter-fury-verdict-on-itauma-vs-hgrovic/</link>
-      <description>Moses Itauma is set to take on Filip Hrgovic in a clash for the vacant IBF heavyweight world title next weekend and now esteemed British boxing trainer Peter</description>
-      <guid isPermaLink="false">dd4d623470eee5afe6e33dec5968b5c2</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1787054862948555095/Moses-Itauma-and-Filip-Hrgovic.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 09:15:50 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1787054862948555095/Moses-Itauma-and-Filip-Hrgovic.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Front Street Pictures creates drama based on life of boxing deacon Zak Santiago</title>
-      <link>https://www.c21media.net/news/front-street-pictures-creates-drama-based-on-life-of-boxing-deacon-zak-santiago/</link>
-      <description>Vancouver-based prodco Front Street Pictures has acquired rights to the life story of actor, Golden Gloves boxer, DJ and ordained Deacon Zak Santiago (Virgin River, Billy the Kid, Untamed).</description>
-      <guid isPermaLink="false">e35a3406c9251a961b507cf9aa095573</guid>
-      <enclosure url="https://cdn.c21media.net/wp-content/uploads/2026/08/deacon.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 09:20:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn.c21media.net/wp-content/uploads/2026/08/deacon.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 17:50:11 +0000</lastBuildDate>
     <item>
       <title>Formula 1: Isack Hadjar to miss Dutch Grand Prix with hand injury</title>
       <link>https://www.bbc.com/sport/formula1/articles/crrvyzz0w0vo</link>
@@ -277,6 +255,28 @@
       <pubDate>Wed, 19 Aug 2026 16:17:13 +0000</pubDate>
       <media:group>
         <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/gettyimages-2289331984.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Free agency-bound Hamzah Sheeraz will 'definitely' explore Zuffa Boxing switch, blasts 'corrupt' WBO</title>
+      <link>https://sports.yahoo.com/boxing/article/free-agency-bound-hamzah-sheeraz-will-definitely-explore-zuffa-boxing-switch-blasts-corrupt-wbo-170051089.html</link>
+      <description>Free agency-bound Hamzah Sheeraz will 'definitely' explore Zuffa Boxing switch, blasts 'corrupt' WBO</description>
+      <guid isPermaLink="false">be9fa2a29a597fb5ec5deeec476cb21c</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/e944cf7be488a8941b7cf7268c79814c7c405b50d20d4ff0b7ff367b5274e669/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Ff17073a0-a80d-40f3-8828-f57495d45b8c" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 17:00:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/e944cf7be488a8941b7cf7268c79814c7c405b50d20d4ff0b7ff367b5274e669/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Ff17073a0-a80d-40f3-8828-f57495d45b8c" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>No Te Dejes Brings the Faith, Sacrifice and Culture of Mexican Boxing to Dallas</title>
+      <link>https://wbcboxing.com/en/no-te-dejes-brings-the-faith-sacrifice-and-culture-of-mexican-boxing-to-dallas/</link>
+      <description>No Te Dejes Brings the Faith, Sacrifice and Culture of Mexican Boxing to Dallas After five years photographing Mexico’s boxing culture, visual artist, filmmaker and photographer […]</description>
+      <guid isPermaLink="false">245c433040fda759f8f2f395e5d49601</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/NTD_POST_01_2026.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 17:22:27 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/NTD_POST_01_2026.png" medium="image"/>
       </media:group>
     </item>
   </channel>
