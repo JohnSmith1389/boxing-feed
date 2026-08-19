@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 22:50:36 +0000</lastBuildDate>
-    <item>
-      <title>On This Day in Boxing… August 19</title>
-      <link>https://wbcboxing.com/en/on-this-day-in-boxing-august-19/</link>
-      <description>On This Day in Boxing… August 19 1972.- At the Idrætsparken in Copenhagen, Denmark, legendary Argentine middleweight king Carlos Monzón retained his WBC middleweight world title […]</description>
-      <guid isPermaLink="false">949ae33dba11f9771382e014ad57e816</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/NORRIS-SANTANA.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 14:48:38 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/NORRIS-SANTANA.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 23:21:03 +0000</lastBuildDate>
     <item>
       <title>RTÉ To Broadcast Historic Katie Taylor Fight Free-To-Air In Ireland – And Live Worldwide On DAZN</title>
       <link>https://fightnews.com/rte-to-broadcast-historic-katie-taylor-fight-free-to-air-in-ireland-and-live-worldwide-on-dazn/194344</link>
@@ -281,6 +270,17 @@
       <pubDate>Wed, 19 Aug 2026 20:55:38 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_493,y_489,w_4737,h_2664/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jqa087va8m9eh9dw52.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Teofimo Lopez explains why he couldn’t bring himself to sign with Zuffa Boxing</title>
+      <link>https://uk.sports.yahoo.com/video/teofimo-lopez-explains-why-couldn-223945804.html</link>
+      <description>Teofimo Lopez explains why he couldn’t bring himself to sign with Zuffa Boxing</description>
+      <guid isPermaLink="false">37cd9cd0beb84287e4f9371448e39c8e</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/c12fa6cde9e791245098d9ba5114592733f26289c0470edb6d5da3c7f580ce5c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fteo_6789.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 22:39:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/c12fa6cde9e791245098d9ba5114592733f26289c0470edb6d5da3c7f580ce5c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fteo_6789.png" medium="image"/>
       </media:group>
     </item>
   </channel>
