@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:42:36 +0000</lastBuildDate>
-    <item>
-      <title>Boxer Barrett Hanlon works out at the Everybody Fights Gym in Boston</title>
-      <link>https://www.metrowestdailynews.com/picture-gallery/sports/2026/08/18/barrett-hanlon-hopkinton-native-to-make-pro-boxing-debut-august-29th/91361140007/</link>
-      <description>Boxer Barrett Hanlon to make pro boxing debut August 29th, here working out at the Everybody Fights Gym in Boston, Aug. 18, 2026.</description>
-      <guid isPermaLink="false">ac53b3bd1815800170ad767695164d8e</guid>
-      <enclosure url="https://www.metrowestdailynews.com/gcdn/authoring/authoring-images/2026/08/18/NMWD/91361023007-barrett-hanlon-shadow-boxing-looking-straight.jpg?crop=2124,1195,x0,y300&amp;width=2124&amp;height=1195&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 21:39:16 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.metrowestdailynews.com/gcdn/authoring/authoring-images/2026/08/18/NMWD/91361023007-barrett-hanlon-shadow-boxing-looking-straight.jpg?crop=2124,1195,x0,y300&amp;width=2124&amp;height=1195&amp;format=pjpg&amp;auto=webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Shakur Stevenson's achievements dismissed by US all-time great: "What has he done?”</title>
-      <link>https://boxingnewsonline.net/news/stevenson-dismissed-by-former-champion/</link>
-      <description>A three-division world champion has dismissed the accomplishments of Shakur Stevenson and told him what he must do in order to become the pound-for-pound king.</description>
-      <guid isPermaLink="false">cc5d55536cc022660c42f64d1f99d143</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786974314048377386/Shakur-Stevenson.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 22:39:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786974314048377386/Shakur-Stevenson.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 14:32:03 +0000</lastBuildDate>
     <item>
       <title>Teofimo Lopez sums up Conor Benn's chances of beating Ryan Garcia to become champion</title>
       <link>https://boxingnewsonline.net/news/lopez-on-ryan-garcia-vs-conor-benn/</link>
@@ -273,6 +251,28 @@
       <pubDate>Wed, 19 Aug 2026 12:45:39 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/ATS.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Jarrell Miller Hoping to Fill the American Heavyweight Power Vacuum With a World Title (Exclusive)</title>
+      <link>https://www.si.com/fannation/boxing/jarrell-miller-hoping-to-fill-the-american-heavyweight-power-vacuum-with-a-world-title-exclusive</link>
+      <description>American heavyweight boxing is in what can only be referred to as a slump, with its last champion, Deontay Wilder, in the last throws of his career and no young</description>
+      <guid isPermaLink="false">2e460f188a8c3d3370045094af02bc12</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_340,w_5163,h_2904/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jt3y8pv1grq9cfk4ep.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 13:27:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_340,w_5163,h_2904/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jt3y8pv1grq9cfk4ep.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Brandon Gonzales says boxing ‘greatest analogy for life,’ mentors Sacramento youth</title>
+      <link>https://www.sacbee.com/news/local/article316731247.html</link>
+      <description>Gonzales is one of the 2026 Change Makers, an award from The Sacramento Bee and the Nehemiah Leaders Programs.</description>
+      <guid isPermaLink="false">b18eea798c065bb2ebb4e9c7d2c52cbd</guid>
+      <enclosure url="https://www.sacbee.com/public/latest-news/cnsv6y/picture316765689/alternates/LANDSCAPE_1200/832767_BrandonGonzales_HA_260622.JPG" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 13:57:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.sacbee.com/public/latest-news/cnsv6y/picture316765689/alternates/LANDSCAPE_1200/832767_BrandonGonzales_HA_260622.JPG" medium="image"/>
       </media:group>
     </item>
   </channel>
