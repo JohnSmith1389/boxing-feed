@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 06:54:35 +0000</lastBuildDate>
-    <item>
-      <title>Carl Froch says he would beat Canelo and Crawford but lose to another 168 legend</title>
-      <link>https://boxingnewsonline.net/news/froch-says-he-beats-canelo-and-crawford/</link>
-      <description>Carl Froch is praised as one of the best British fighters of all time, but when ‘The Cobra’ was quizzed on which fellow super-middleweights he could have</description>
-      <guid isPermaLink="false">ac6230025f622561e18da8db864cba06</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1787055187148625502/Carl-Froch-Canelo-Alvarez-and-Terence-Crawford.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 17:18:59 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1787055187148625502/Carl-Froch-Canelo-Alvarez-and-Terence-Crawford.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Red Owl Boxing Announces Complete Main Card, Including 2020 Olympian, Sept. 11</title>
-      <link>https://fightnews.com/red-owl-boxing-announces-complete-main-card-including-2020-olympian-for-sept-11/194281</link>
-      <description>Red Owl Boxing today announced the complete, six-bout main card, including the return of 2020 Olympian Shakilya Ellis,</description>
-      <guid isPermaLink="false">1e95ffc6ab62d4f17822ce05f7735802</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Shakilya-Ellis-WEB.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 17:39:45 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Shakilya-Ellis-WEB.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 07:37:09 +0000</lastBuildDate>
     <item>
       <title>Anthony Joshua and Tyson Fury sign contracts for November 20 fight in New York</title>
       <link>https://www.boxingscene.com/articles/anthony-joshua-and-tyson-fury-sign-contracts-for-november-20-fight-in-new-york</link>
@@ -277,6 +255,28 @@
       <pubDate>Wed, 19 Aug 2026 04:32:30 +0000</pubDate>
       <media:group>
         <media:content url="https://brobible.com/wp-content/uploads/2026/08/MixCollage-19-Aug-2026-12-25-AM-4162.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Stake signs Jully Poca as its first boxing ambassador</title>
+      <link>https://europeangaming.eu/portal/press-releases/2026/08/19/212882/stake-jully-poca-boxing-ambassador/</link>
+      <description>Stake has named Brazilian boxer Jully Poca de Oliveira as its first boxing ambassador, ahead of her super lightweight bout on 21 August.</description>
+      <guid isPermaLink="false">425e5c18addfe3fac0b3ee6a773c2b29</guid>
+      <enclosure url="https://media.europeangaming.eu/uploads/2026/08/Stake-signs-Brazilian-boxer-Jully-Poca-as-its-first-boxing-ambassador.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 06:30:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://media.europeangaming.eu/uploads/2026/08/Stake-signs-Brazilian-boxer-Jully-Poca-as-its-first-boxing-ambassador.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Joe Gallagher on cancer rollercoaster: 'After January setback, I have an operation in September to get rid of this'</title>
+      <link>https://www.skysports.com/boxing/news/12183/13574439/joe-gallagher-on-cancer-rollercoaster-after-january-setback-i-have-an-operation-in-september-to-get-rid-of-this</link>
+      <description>Manchester boxing coach Joe Gallagher speaks on latest episode of Toe2Toe Sky Sports Boxing podcast; Gallagher reveals after receiving all-clear from cancer in September, scans in January showed it had returned to his liver; Having undergone chemo, he will have operation in Septe</description>
+      <guid isPermaLink="false">0fa57c29cf79cec8c2c45f42cbf19f58</guid>
+      <enclosure url="https://e0.365dm.com/26/08/1600x900/skysports-joe-gallagher-mikie-tallon_7325047.jpg?20260818175057" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 07:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://e0.365dm.com/26/08/1600x900/skysports-joe-gallagher-mikie-tallon_7325047.jpg?20260818175057" medium="image"/>
       </media:group>
     </item>
   </channel>
