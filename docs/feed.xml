@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 02:37:51 +0000</lastBuildDate>
-    <item>
-      <title>Filip Hrgovic Plans To Ruin Moses Itauma Coronation</title>
-      <link>https://www.boxingnews24.com/2026/08/filip-hrgovic-plans-to-ruin-moses-itauma-coronation/</link>
-      <description>Filip Hrgovic feels the boxing public is counting him out, treating his August 29 fight with Moses Itauma as though Itauma has already won.</description>
-      <guid isPermaLink="false">a57883c91e30b732f00712af5ccccab1</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Itauma-vs-Hrgovic34.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 15:33:59 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Itauma-vs-Hrgovic34.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 03:45:04 +0000</lastBuildDate>
     <item>
       <title>Amanda Serrano vs. Lucrecia Manzur: How to watch title bout on TikTok</title>
       <link>https://www.usatoday.com/story/sports/boxing/2026/08/18/amanda-serrano-lucrecia-manzur-fight-card-watch-tiktok/91352126007/</link>
@@ -281,6 +270,17 @@
       <pubDate>Wed, 19 Aug 2026 01:39:46 +0000</pubDate>
       <media:group>
         <media:content url="https://imageio.forbes.com/specials-images/imageserve/6a8507e4d9df264704d6a9bb/0x0.jpg?format=jpg&amp;height=600&amp;width=1200&amp;fit=bounds" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Eddie Hearn says he ‘should be suing Dana White’ over Fury-Joshua claims; White responds</title>
+      <link>https://www.mmafighting.com/boxing/505831/eddie-hearn-says-he-should-be-suing-dana-white-over-fury-joshua-claims-white-responds</link>
+      <description>Eddie Hearn disputes Dana White’s involvement in Tyson Fury - Anthony Joshua fight; White fires back</description>
+      <guid isPermaLink="false">c9ffe92bac718db32458bfb4e2134ddf</guid>
+      <enclosure url="https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2290371781.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 02:32:12 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2290371781.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image"/>
       </media:group>
     </item>
   </channel>
