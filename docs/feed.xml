@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 21:23:54 +0000</lastBuildDate>
-    <item>
-      <title>Brandon Gonzales says boxing ‘greatest analogy for life,’ mentors Sacramento youth</title>
-      <link>https://www.sacbee.com/news/local/article316731247.html</link>
-      <description>Gonzales is one of the 2026 Change Makers, an award from The Sacramento Bee and the Nehemiah Leaders Programs.</description>
-      <guid isPermaLink="false">b18eea798c065bb2ebb4e9c7d2c52cbd</guid>
-      <enclosure url="https://www.sacbee.com/public/latest-news/cnsv6y/picture316765689/alternates/LANDSCAPE_1200/832767_BrandonGonzales_HA_260622.JPG" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 13:57:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.sacbee.com/public/latest-news/cnsv6y/picture316765689/alternates/LANDSCAPE_1200/832767_BrandonGonzales_HA_260622.JPG" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 21:50:28 +0000</lastBuildDate>
     <item>
       <title>Farewall To Prichard Colón Today</title>
       <link>https://fightnews.com/farewall-to-prichard-colon-today/194338</link>
@@ -127,6 +116,17 @@
       <pubDate>Wed, 19 Aug 2026 15:24:59 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/Fisher-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Johnny Fisher's opponent confirmed as Michael Pirotton ahead of return of 'The Romford Bull' on Sky Sports</title>
+      <link>https://www.skysports.com/boxing/news/12183/13574695/johnny-fishers-opponent-confirmed-as-michael-pirotton-ahead-of-return-of-the-romford-bull-on-sky-sports</link>
+      <description>Johnny Fisher returns against Belgian opponent Michael Pirotton at The Copper Box Arena on September 26, live on Sky Sports, Fisher has vowed to deliver an explosive victory; Craig Richards faces Radivoje Hot Rod Kalajdzic and Lee Cutler collides with Louie Greene on the undercar</description>
+      <guid isPermaLink="false">eebfbba30792bb534f187f215ecc5807</guid>
+      <enclosure url="https://e0.365dm.com/26/08/1600x900/skysports-boxing-zuffa-announcement_7325309.jpg?20260819075047" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 15:30:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://e0.365dm.com/26/08/1600x900/skysports-boxing-zuffa-announcement_7325309.jpg?20260819075047" medium="image"/>
       </media:group>
     </item>
     <item>
