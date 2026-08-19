@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 15:59:16 +0000</lastBuildDate>
-    <item>
-      <title>Stake signs Jully Poca as its first boxing ambassador</title>
-      <link>https://europeangaming.eu/portal/press-releases/2026/08/19/212882/stake-jully-poca-boxing-ambassador/</link>
-      <description>Stake has named Brazilian boxer Jully Poca de Oliveira as its first boxing ambassador, ahead of her super lightweight bout on 21 August.</description>
-      <guid isPermaLink="false">425e5c18addfe3fac0b3ee6a773c2b29</guid>
-      <enclosure url="https://media.europeangaming.eu/uploads/2026/08/Stake-signs-Brazilian-boxer-Jully-Poca-as-its-first-boxing-ambassador.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 06:30:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://media.europeangaming.eu/uploads/2026/08/Stake-signs-Brazilian-boxer-Jully-Poca-as-its-first-boxing-ambassador.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Joe Gallagher on cancer rollercoaster: 'After January setback, I have an operation in September to get rid of this'</title>
-      <link>https://www.skysports.com/boxing/news/12183/13574439/joe-gallagher-on-cancer-rollercoaster-after-january-setback-i-have-an-operation-in-september-to-get-rid-of-this</link>
-      <description>Manchester boxing coach Joe Gallagher speaks on latest episode of Toe2Toe Sky Sports Boxing podcast; Gallagher reveals after receiving all-clear from cancer in September, scans in January showed it had returned to his liver; Having undergone chemo, he will have operation in Septe</description>
-      <guid isPermaLink="false">0fa57c29cf79cec8c2c45f42cbf19f58</guid>
-      <enclosure url="https://e0.365dm.com/26/08/1600x900/skysports-joe-gallagher-mikie-tallon_7325047.jpg?20260818175057" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/08/1600x900/skysports-joe-gallagher-mikie-tallon_7325047.jpg?20260818175057" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 16:39:33 +0000</lastBuildDate>
     <item>
       <title>Taylor's final fight at Croke Park to be broadcast by RTÉ</title>
       <link>https://www.rte.ie/sport/boxing/2026/0819/1588450-taylors-final-fight-at-croke-park-to-be-broadcast-by-rte/</link>
@@ -61,6 +39,17 @@
       <pubDate>Wed, 19 Aug 2026 09:20:39 +0000</pubDate>
       <media:group>
         <media:content url="https://cdn.c21media.net/wp-content/uploads/2026/08/deacon.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Formula 1: Isack Hadjar to miss Dutch Grand Prix with hand injury</title>
+      <link>https://www.bbc.com/sport/formula1/articles/crrvyzz0w0vo</link>
+      <description>Red Bull's Isack Hadjar will miss this weekend's Dutch Grand Prix after injuring his hand during the summer break.</description>
+      <guid isPermaLink="false">7a6a5e7470afc452bbeb7fdf17968342</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/54c3/live/9f57a470-9bab-11f1-92e6-b1dfcecd4308.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 09:22:22 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/54c3/live/9f57a470-9bab-11f1-92e6-b1dfcecd4308.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -277,6 +266,17 @@
       <pubDate>Wed, 19 Aug 2026 15:24:59 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/Fisher-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Johnny Fisher’s September 26 opponent announced as Michael Pirotton</title>
+      <link>https://www.badlefthook.com/boxing-news/118011/johnny-fishers-sept-26-opponent-announced-as-michael-pirotton-boxing-news-2026</link>
+      <description>Johnny Fisher headlines at The Copper Box Arena next month.</description>
+      <guid isPermaLink="false">8f82ef5c02b5a8a183f28bcdc957478e</guid>
+      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/gettyimages-2289331984.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 16:17:13 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/08/gettyimages-2289331984.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" medium="image"/>
       </media:group>
     </item>
   </channel>
