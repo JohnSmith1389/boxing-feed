@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 20:25:43 +0000</lastBuildDate>
-    <item>
-      <title>Eddie Hearn threatens to sue Dana White over Joshua vs. Fury interference</title>
-      <link>https://www.mmamania.com/boxing/465862/eddie-hearn-threatens-to-sue-dana-white-over-joshua-vs-fury-interference</link>
-      <description>Eddie Hearn says he should be suing Dana White for stepping into the middle of the Anthony Joshua vs. Tyson Fury fight.</description>
-      <guid isPermaLink="false">2a264c3a18088988cc14a6dbf066a75d</guid>
-      <enclosure url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/08/gettyimages-2286694448.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737970580903%2C100%2C78.524058838195&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.mmamania.com/wp-content/uploads/sites/110/2026/08/gettyimages-2286694448.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737970580903%2C100%2C78.524058838195&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Eye Of The Tiger And Steve Claggett Part Ways</title>
-      <link>https://fightnews.com/eye-of-the-tiger-and-steve-claggett-part-ways/194326</link>
-      <description>As Steve Claggett’s contract comes to an end, Quebec-based promoter Eye of the Tiger has made the decision</description>
-      <guid isPermaLink="false">04deb7e259129a380817846405797a63</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Claggett.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 12:39:26 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Claggett.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Paulo Costa aiming for boxing match soon</title>
-      <link>https://mmasucka.com/news/paulo-costa-aiming-for-boxing-match-soon/</link>
-      <description>Despite being on a win streak in the UFC, Paulo Costa is interested in competing in the 'Sweet Science' of boxing.</description>
-      <guid isPermaLink="false">d328ac336ecad605111e4379bb1e1aa3</guid>
-      <enclosure url="https://mmasucka.com/api/media/file/paulo-costa.webp" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 12:41:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://mmasucka.com/api/media/file/paulo-costa.webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 20:54:17 +0000</lastBuildDate>
     <item>
       <title>Ward Gets Emotional With Dawson</title>
       <link>https://fightnews.com/ward-gets-emotional-with-dawson/194329</link>
@@ -281,6 +248,39 @@
       <pubDate>Wed, 19 Aug 2026 19:22:36 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/Pitbull.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Henry Cejudo set to make Misfits Boxing debut against Deen The Great</title>
+      <link>https://mmasucka.com/news/henry-cejudo-set-to-make-misfits-boxing-debut-against-deen-the-great/</link>
+      <description>The former UFC two-division champion will make his Misfits Boxing debut less than a year after retiring from MMA.</description>
+      <guid isPermaLink="false">0af1d8cf6bf4a55d5948937e7b4a7f9b</guid>
+      <enclosure url="https://mmasucka.com/api/media/file/Henry-Cejudo-1.webp" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 20:05:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mmasucka.com/api/media/file/Henry-Cejudo-1.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Henry Cejudo set for boxing debut against influencer</title>
+      <link>https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/19/ufc-henry-cejudo-boxing-vs-deen-the-great-misfits/91375316007/</link>
+      <description>Henry Cejudo has achieved greatness in MMA and wrestling and now... influencer boxing?</description>
+      <guid isPermaLink="false">c630a8f0ba6706dcd22d91c3ea85238b</guid>
+      <enclosure url="https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2025/12/07/SMMA/87652748007-payton-talbott-def-henry-cejudo-ufc-323-49.jpg?crop=4943,2781,x0,y0&amp;width=3200&amp;height=1801&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 20:10:29 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2025/12/07/SMMA/87652748007-payton-talbott-def-henry-cejudo-ufc-323-49.jpg?crop=4943,2781,x0,y0&amp;width=3200&amp;height=1801&amp;format=pjpg&amp;auto=webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Henry Cejudo set for boxing debut against influencer</title>
+      <link>https://sports.yahoo.com/articles/henry-cejudo-set-boxing-debut-201029222.html</link>
+      <description>Henry Cejudo has achieved greatness in MMA and wrestling and now... influencer boxing?</description>
+      <guid isPermaLink="false">1f78ef7c01c28a4872b4ec609fc14eed</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/70dc56f8dc4097a687a39ea557a9918b0fb81fb6002d662743ba1340401dc23e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2Ff4f4fa82cee98fee72f453b082f41297.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 20:10:29 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/70dc56f8dc4097a687a39ea557a9918b0fb81fb6002d662743ba1340401dc23e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2Ff4f4fa82cee98fee72f453b082f41297.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
