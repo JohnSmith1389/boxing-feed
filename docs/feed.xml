@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 15:29:23 +0000</lastBuildDate>
-    <item>
-      <title>31 Years Ago Today: Boxing Legend's Long-Awaited Comeback Lasted Just 89 Seconds</title>
-      <link>https://uk.sports.yahoo.com/news/31-years-ago-today-boxing-041100808.html</link>
-      <description>Mike Tyson spent three years in prison after being convicted of rape in 1992.</description>
-      <guid isPermaLink="false">100626fbde7688098f254a3762b1a760</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/236d4449b8fb734020cb13f539cbd0d48db2f96aad4377dce1d67d0f2d2e6ee1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F2998fcfd2cf0eb45e0a9828094091906.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 04:11:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/236d4449b8fb734020cb13f539cbd0d48db2f96aad4377dce1d67d0f2d2e6ee1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F2998fcfd2cf0eb45e0a9828094091906.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Rolly Romero Wants To Become A Pastor After His Boxing Career Is Over, Credits His Faith For Turning His Life Around After Becoming Homeless (Interview)</title>
-      <link>https://brobible.com/sports/article/rolly-romero-wants-to-become-a-pastor-after-his-boxing-career-is-over-credits-his-faith-for-turning-his-life-around-after-becoming-homeless-interview/</link>
-      <description>Outside the boxing ring, Rolly Romero pursues an even greater passion. This weekend, Romero will face one of the toughest tests in the ring when he</description>
-      <guid isPermaLink="false">1b157db62376616eafaf935daa6bf36d</guid>
-      <enclosure url="https://brobible.com/wp-content/uploads/2026/08/MixCollage-19-Aug-2026-12-25-AM-4162.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 04:32:30 +0000</pubDate>
-      <media:group>
-        <media:content url="https://brobible.com/wp-content/uploads/2026/08/MixCollage-19-Aug-2026-12-25-AM-4162.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 15:59:16 +0000</lastBuildDate>
     <item>
       <title>Stake signs Jully Poca as its first boxing ambassador</title>
       <link>https://europeangaming.eu/portal/press-releases/2026/08/19/212882/stake-jully-poca-boxing-ambassador/</link>
@@ -277,6 +255,28 @@
       <pubDate>Wed, 19 Aug 2026 15:12:53 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/Gleasons-6.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Dalton Smith Vs Alberto Puello Launch Press Conference</title>
+      <link>https://fightnews.com/dalton-smith-vs-alberto-puello-launch-press-conference/194365</link>
+      <description>WBC World Super Lightweight Champion Dalton Smith makes the first defence of his title against the tough</description>
+      <guid isPermaLink="false">f817f0a9cc1e649f2a167bb047b78756</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/unnamed-251.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 15:18:40 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/unnamed-251.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>September 26: Johnny Fisher Steps Up Against Michael Pirotton</title>
+      <link>https://fightnews.com/september-26-johnny-fisher-steps-up-against-michael-pirotton/194371</link>
+      <description>British heavyweight star Johnny Fisher will return to his home turf against Michael Pirotton in the 10-round main</description>
+      <guid isPermaLink="false">ccde2105b2aeb63658dfff455ea7f496</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/Fisher-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 15:24:59 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/Fisher-1.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
