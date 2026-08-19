@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 11:25:42 +0000</lastBuildDate>
-    <item>
-      <title>BKB Re-Signings &amp; New Notables</title>
-      <link>https://fightnews.com/bkb-re-signings-new-notables/194319</link>
-      <description>BKB Bare Knuckle Boxing, the world’s largest professional bare knuckle boxing organization, today announced a series of prominent</description>
-      <guid isPermaLink="false">dff4704df96f58ca6c069862969d61ea</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/BKB-6.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 19:18:20 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/BKB-6.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 11:50:31 +0000</lastBuildDate>
     <item>
       <title>Boxing Champion Vows to Honor Hayden Panettiere’s Legacy for Their Daughter After Tragic Death</title>
       <link>https://www.nysun.com/article/boxing-champion-vows-to-honor-hayden-panettieres-legacy-for-their-daughter-after-tragic-death</link>
@@ -266,6 +255,17 @@
       <pubDate>Wed, 19 Aug 2026 07:11:24 +0000</pubDate>
       <media:group>
         <media:content url="https://www.rte.ie/images/0024c508-1600.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Peter Fury delivers final verdict on Moses Itauma vs Hgrovic: "That could be a big problem”</title>
+      <link>https://boxingnewsonline.net/news/peter-fury-verdict-on-itauma-vs-hgrovic/</link>
+      <description>Moses Itauma is set to take on Filip Hrgovic in a clash for the vacant IBF heavyweight world title next weekend and now esteemed British boxing trainer Peter</description>
+      <guid isPermaLink="false">dd4d623470eee5afe6e33dec5968b5c2</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1787054862948555095/Moses-Itauma-and-Filip-Hrgovic.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 09:15:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1787054862948555095/Moses-Itauma-and-Filip-Hrgovic.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
