@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 16:39:33 +0000</lastBuildDate>
-    <item>
-      <title>Taylor's final fight at Croke Park to be broadcast by RTÉ</title>
-      <link>https://www.rte.ie/sport/boxing/2026/0819/1588450-taylors-final-fight-at-croke-park-to-be-broadcast-by-rte/</link>
-      <description>Katie Taylor's historic undisputed super lightweight title fight with Flora Pili next month at Croke Park will be available to watch live free-to-air with RTÉ Sport.</description>
-      <guid isPermaLink="false">431356b1a2fb846a6eaea5a487c85717</guid>
-      <enclosure url="https://www.rte.ie/images/0024c508-1600.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 07:11:24 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.rte.ie/images/0024c508-1600.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 17:25:20 +0000</lastBuildDate>
     <item>
       <title>Peter Fury delivers final verdict on Moses Itauma vs Hgrovic: "That could be a big problem”</title>
       <link>https://boxingnewsonline.net/news/peter-fury-verdict-on-itauma-vs-hgrovic/</link>
@@ -244,6 +233,17 @@
       <pubDate>Wed, 19 Aug 2026 15:12:53 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/Gleasons-6.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Johnny Fisher's opponent finally confirmed for Zuffa Boxing London debut</title>
+      <link>https://boxingnewsonline.net/news/fisher-opponent-confirmed-for-zuffa/</link>
+      <description>Johnny Fisher now knows who he will be taking on when he makes his Zuffa Boxing debut next month.</description>
+      <guid isPermaLink="false">e17cabb62f5b1db10a50ad3198f865bf</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1787152245717784702/Johnny-Fisher.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 15:14:32 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1787152245717784702/Johnny-Fisher.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
