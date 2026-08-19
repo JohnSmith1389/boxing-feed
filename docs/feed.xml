@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 20:54:17 +0000</lastBuildDate>
-    <item>
-      <title>Ward Gets Emotional With Dawson</title>
-      <link>https://fightnews.com/ward-gets-emotional-with-dawson/194329</link>
-      <description>Fourteen years after the fight that changed both their lives, Andre Ward sits down with “Bad” Chad Dawson</description>
-      <guid isPermaLink="false">054bf8cf0cb209b8dde18de8d97a4f33</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/ATS.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 12:45:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/ATS.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Jarrell Miller Hoping to Fill the American Heavyweight Power Vacuum With a World Title (Exclusive)</title>
-      <link>https://www.si.com/fannation/boxing/jarrell-miller-hoping-to-fill-the-american-heavyweight-power-vacuum-with-a-world-title-exclusive</link>
-      <description>American heavyweight boxing is in what can only be referred to as a slump, with its last champion, Deontay Wilder, in the last throws of his career and no young</description>
-      <guid isPermaLink="false">2e460f188a8c3d3370045094af02bc12</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_340,w_5163,h_2904/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jt3y8pv1grq9cfk4ep.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 13:27:35 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_340,w_5163,h_2904/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jt3y8pv1grq9cfk4ep.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 21:23:54 +0000</lastBuildDate>
     <item>
       <title>Brandon Gonzales says boxing ‘greatest analogy for life,’ mentors Sacramento youth</title>
       <link>https://www.sacbee.com/news/local/article316731247.html</link>
@@ -281,6 +259,28 @@
       <pubDate>Wed, 19 Aug 2026 20:10:29 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/70dc56f8dc4097a687a39ea557a9918b0fb81fb6002d662743ba1340401dc23e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2Ff4f4fa82cee98fee72f453b082f41297.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Rolly Romero vs.Teofimo Lopez odds, picks: Boxing analyst reveals best bets for August 22 welterweight showdown</title>
+      <link>https://www.sportsline.com/insiders/rolly-romero-vs-teofimo-lopez-odds-picks-boxing-analyst-reveals-best-bets-for-august-22-welterweight-showdown/</link>
+      <description>SportsLine combat expert Josh Nagel has released his top selections for Saturday's fight in Las Vegas</description>
+      <guid isPermaLink="false">d6c509439e589b400ece9eb35cf01941</guid>
+      <enclosure url="https://splnhub.cbsistatic.com/i/2020/07/07/6f1a942a-0ef1-407f-a117-1a4827323a04/boxingring-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 20:30:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://splnhub.cbsistatic.com/i/2020/07/07/6f1a942a-0ef1-407f-a117-1a4827323a04/boxingring-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Mikaela Mayer Questions Claressa Shields' GWOAT Status as She Eyes Fight</title>
+      <link>https://www.si.com/fannation/boxing/mikaela-mayer-questions-claressa-shields-gwoat-status-as-she-eyes-fight</link>
+      <description>In boxing history, no other woman possesses the resume that Claressa Shields continues to build. In all honesty, her accomplishments align with the best, regard</description>
+      <guid isPermaLink="false">b93d899fb48a7b751e57907143851608</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_493,y_489,w_4737,h_2664/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jqa087va8m9eh9dw52.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 20:55:38 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_493,y_489,w_4737,h_2664/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jqa087va8m9eh9dw52.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
