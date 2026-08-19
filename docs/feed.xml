@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:46:38 +0000</lastBuildDate>
-    <item>
-      <title>Jully Poca Is Stake’s Global Ambassador</title>
-      <link>https://fightnews.com/jully-poca-is-stakes-global-ambassador/194259</link>
-      <description>STAKE, the world-leading online sportsbook and casino has today announced Brazilian boxer Jully “Poca” de Oliveira, marking a</description>
-      <guid isPermaLink="false">1f69fc7597d4cc2c5748ece02f43c4ef</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Poca.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 12:11:51 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Poca.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Round 12: Straight From The Heart: Emotions, Legends, And Boxing Unity</title>
-      <link>https://fightnews.com/round-12-straight-from-the-heart-emotions-legends-and-boxing-unity/194262</link>
-      <description>By Mauricio Sulaimán / Son of José Sulaimán / President of the WBC A week filled with emotions</description>
-      <guid isPermaLink="false">6321b0a86588f156ecf4924d4736c990</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Mauricio-40.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 12:39:21 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Mauricio-40.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxing Out Negativity Opens North Lawndale Gym, Giving West Side Kids A Place To Thrive</title>
-      <link>https://blockclubchicago.org/2026/08/18/boxing-out-negativity-opens-north-lawndale-gym-giving-west-side-kids-a-place-to-thrive/</link>
-      <description>NORTH LAWNDALE — Growing up in North Lawndale, Derek Brown lived four blocks from a community center that he wished he could've visited more regularly. A</description>
-      <guid isPermaLink="false">775bd0ab21880709f533f814b5391d1e</guid>
-      <enclosure url="https://bcc-newspack.s3.amazonaws.com/uploads/2026/08/081326-Boxing-Out-Negativity-Colin-Boyle-4253.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 13:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bcc-newspack.s3.amazonaws.com/uploads/2026/08/081326-Boxing-Out-Negativity-Colin-Boyle-4253.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 01:10:30 +0000</lastBuildDate>
     <item>
       <title>Father of Hayden Panettiere’s daughter, former boxing champ Wladimir Klitschko, shares statement on actress’ sudden death</title>
       <link>https://www.yahoo.com/entertainment/celebrity/articles/father-hayden-panettiere-daughter-former-131936932.html</link>
@@ -262,6 +229,17 @@
       </media:group>
     </item>
     <item>
+      <title>Terence Crawford's trainer BoMac addresses comeback rumours after new training footage</title>
+      <link>https://boxingnewsonline.net/news/bomac-responds-to-crawford-rumours/</link>
+      <description>Terence Crawford's longtime trainer Brian 'BoMac' McIntyre has responded to speculation that 'Bud' will return to the ring.</description>
+      <guid isPermaLink="false">637c3238c2a03e8a1325595e24837e90</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786542928586140856/Terence-Crawford-side-glance.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 20:30:01 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786542928586140856/Terence-Crawford-side-glance.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Coliseo Boxing Announces “Noche Suprema” in Hermosillo Featuring Four WBC Titles, Strict Medical Protocol, and the Return of Miguel “Alacrán” Berchelt</title>
       <link>https://wbcboxing.com/en/coliseo-boxing-announces-noche-suprema-in-hermosillo-featuring-four-wbc-titles-strict-medical-protocol-and-the-return-of-miguel-alacran-berchelt/</link>
       <description>Coliseo Boxing Announces “Noche Suprema” in Hermosillo Featuring Four WBC Titles, Strict Medical Protocol, and the Return of Miguel “Alacrán” Berchelt During the traditional Martes de […]</description>
@@ -281,6 +259,28 @@
       <pubDate>Tue, 18 Aug 2026 21:39:16 +0000</pubDate>
       <media:group>
         <media:content url="https://www.metrowestdailynews.com/gcdn/authoring/authoring-images/2026/08/18/NMWD/91361023007-barrett-hanlon-shadow-boxing-looking-straight.jpg?crop=2124,1195,x0,y300&amp;width=2124&amp;height=1195&amp;format=pjpg&amp;auto=webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Shakur Stevenson's achievements dismissed by US all-time great: "What has he done?”</title>
+      <link>https://boxingnewsonline.net/news/stevenson-dismissed-by-former-champion/</link>
+      <description>A three-division world champion has dismissed the accomplishments of Shakur Stevenson and told him what he must do in order to become the pound-for-pound king.</description>
+      <guid isPermaLink="false">cc5d55536cc022660c42f64d1f99d143</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1786974314048377386/Shakur-Stevenson.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 22:39:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1786974314048377386/Shakur-Stevenson.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>WBC President Mauricio Sulaiman praises the fantastic achievements and advances of Women’s Boxing</title>
+      <link>https://wbcboxing.com/en/wbc-president-mauricio-sulaiman-praises-the-fantastic-achievements-and-advances-of-womens-boxing/</link>
+      <description>WBC President Mauricio Sulaiman praises the fantastic achievements and advances of Women’s Boxing The fruits of many years of labor, blood, sweat and tears, is combining […]</description>
+      <guid isPermaLink="false">24a4f7ff95351591778805405c199c03</guid>
+      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-18-at-5.08.50-PM.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 23:17:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-18-at-5.08.50-PM.jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>
