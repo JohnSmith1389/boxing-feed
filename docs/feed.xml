@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 08:36:37 +0000</lastBuildDate>
-    <item>
-      <title>Zuffa Boxing Announces Johnny Fisher Main Event Fight in London</title>
-      <link>https://www.si.com/fannation/boxing/zuffa-boxing-announces-johnny-fisher-main-event-fight-in-london</link>
-      <description>Zuffa Boxing has made Johnny Fisher's debut fight official. The news of Fisher's signing with the promotion broke in July, making him one of the handful of figh</description>
-      <guid isPermaLink="false">02ae0d3c78b012baf0155836533dd4fd</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_201,w_3618,h_2035/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/boxing/01m0de2c00c3kdkbwx9y.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 18:47:45 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_201,w_3618,h_2035/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/boxing/01m0de2c00c3kdkbwx9y.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 09:33:19 +0000</lastBuildDate>
     <item>
       <title>Henry Cejudo makes Misfits Boxing debut next month</title>
       <link>https://www.mmafighting.com/boxing/505939/henry-cejudo-makes-misfits-boxing-debut-next-month</link>
@@ -127,6 +116,17 @@
       <pubDate>Wed, 19 Aug 2026 20:55:38 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_493,y_489,w_4737,h_2664/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jqa087va8m9eh9dw52.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>WATCH: ‘Come fight me Zios’: This anti-Israel MMA fighter challenged Zionists. He got his wish</title>
+      <link>https://www.jpost.com/israel-news/article-905898</link>
+      <description>“So, this is an open invitation. Write me a DM, and we meet here in Tel Aviv.</description>
+      <guid isPermaLink="false">3f396878510f069a85372eb5f6f22cd2</guid>
+      <enclosure url="https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734435" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 21:01:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734435" medium="image"/>
       </media:group>
     </item>
     <item>
