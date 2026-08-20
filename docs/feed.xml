@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 09:33:19 +0000</lastBuildDate>
-    <item>
-      <title>Henry Cejudo makes Misfits Boxing debut next month</title>
-      <link>https://www.mmafighting.com/boxing/505939/henry-cejudo-makes-misfits-boxing-debut-next-month</link>
-      <description>Henry Cejudo fights Deen the Great at a Misfits Boxing event in September</description>
-      <guid isPermaLink="false">cf00b389836b958415483b0cc48b1f9e</guid>
-      <enclosure url="https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-1488067677.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.692595362752%2C100%2C74.614809274495&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-1488067677.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.692595362752%2C100%2C74.614809274495&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>UFC Legend Booked for Debut Fight With Misfits Boxing</title>
-      <link>https://www.si.com/fannation/mma/news/ufc-legend-henry-cejudo-booked-debut-fight-misfits-boxing</link>
-      <description>In an unexpected turn of events, a former two-division UFC champion is set to make his boxing debut in September.</description>
-      <guid isPermaLink="false">8cb3f1f2ad45b317e9c814e220e3153d</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_768,h_432/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mma_knockout/01m0dpf2htwje9qb6bd6.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 19:14:40 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_768,h_432/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mma_knockout/01m0dpf2htwje9qb6bd6.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 10:28:23 +0000</lastBuildDate>
     <item>
       <title>Back on Duty: Melanie ‘Pitbull’ Costa Returns August 29 At Encore Boston Harbor</title>
       <link>https://fightnews.com/back-on-duty-melanie-pitbull-costa-returns-august-29-at-encore-boston-harbor/194394</link>
@@ -281,6 +259,28 @@
       <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://www1-cdn.sherdog.com/_images/headers/20260820043417_Untitled1.JPG" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Yoenli Hernandez and the 10 most destructive fighters in boxing today</title>
+      <link>https://www.boxingscene.com/articles/yoenli-hernandez-and-the-10-most-destructive-fighters-in-boxing-today</link>
+      <description>Lance Pugmire ranks boxing's 10 most destructive fighters</description>
+      <guid isPermaLink="false">823418802019cc08a4cc17337669b872</guid>
+      <enclosure url="https://photo.boxingscene.com/uploads/YoenliHernandez-03282026-02.webp" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 09:42:46 +0000</pubDate>
+      <media:group>
+        <media:content url="https://photo.boxingscene.com/uploads/YoenliHernandez-03282026-02.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Why Moses Itauma Still Views Filip Hrgovic as 'Undefeated' Ahead of IBF Title Fight</title>
+      <link>https://www.si.com/fannation/boxing/why-moses-itauma-still-views-filip-hrgovic-as-undefeated-ahead-of-ibf-title-fight</link>
+      <description>Filip Hrgovic officially has one loss on his record, but Moses Itauma views his upcoming IBF heavyweight title fight opponent as undefeated. Hrgovic suffered hi</description>
+      <guid isPermaLink="false">56008c430de62d77ccc1746536e06102</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_40,w_4237,h_2383/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01k25djcj1ws8vqjmt31.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 10:00:04 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_40,w_4237,h_2383/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01k25djcj1ws8vqjmt31.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
