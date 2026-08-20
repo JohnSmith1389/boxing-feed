@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:28:23 +0000</lastBuildDate>
-    <item>
-      <title>Back on Duty: Melanie ‘Pitbull’ Costa Returns August 29 At Encore Boston Harbor</title>
-      <link>https://fightnews.com/back-on-duty-melanie-pitbull-costa-returns-august-29-at-encore-boston-harbor/194394</link>
-      <description>Whether she is patrolling the streets of Norton or stalking an opponent inside the ring, Melanie “Pitbull” Costa</description>
-      <guid isPermaLink="false">e89b6f818b9868f0091d10f99128ff8b</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Pitbull.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 19:22:36 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Pitbull.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Henry Cejudo set to make Misfits Boxing debut against Deen The Great</title>
-      <link>https://mmasucka.com/news/henry-cejudo-set-to-make-misfits-boxing-debut-against-deen-the-great/</link>
-      <description>The former UFC two-division champion will make his Misfits Boxing debut less than a year after retiring from MMA.</description>
-      <guid isPermaLink="false">0af1d8cf6bf4a55d5948937e7b4a7f9b</guid>
-      <enclosure url="https://mmasucka.com/api/media/file/Henry-Cejudo-1.webp" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 20:05:33 +0000</pubDate>
-      <media:group>
-        <media:content url="https://mmasucka.com/api/media/file/Henry-Cejudo-1.webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 10:59:07 +0000</lastBuildDate>
     <item>
       <title>Henry Cejudo set for boxing debut against influencer</title>
       <link>https://mmajunkie.usatoday.com/story/sports/ufc/2026/08/19/ufc-henry-cejudo-boxing-vs-deen-the-great-misfits/91375316007/</link>
@@ -251,6 +229,17 @@
       </media:group>
     </item>
     <item>
+      <title>Dudley Council leader Patrick Harley ready for charity boxing match</title>
+      <link>https://www.bbc.com/news/articles/c4g397280wzo</link>
+      <description>Dudley leader Patrick Harley lost weight, trained for months and is ready to rumble in charity bout.</description>
+      <guid isPermaLink="false">de9e808e831304e22f40cec76f34b941</guid>
+      <enclosure url="https://ichef.bbci.co.uk/news/1024/branded_news/0ee4/live/aa7192b0-9243-11f1-afba-01cbe043dea0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 05:09:11 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/0ee4/live/aa7192b0-9243-11f1-afba-01cbe043dea0.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Former 2-division UFC champ Henry Cejudo set for pro boxing debut</title>
       <link>https://www.sherdog.com/news/news/Former-2division-UFC-champ-Henry-Cejudo-set-for-pro-boxing-debut-202442</link>
       <description>Henry Cejudo is set to compete in his third combat sport after accruing several accolades in wrestling and mixed martial arts.</description>
@@ -270,6 +259,17 @@
       <pubDate>Thu, 20 Aug 2026 09:42:46 +0000</pubDate>
       <media:group>
         <media:content url="https://photo.boxingscene.com/uploads/YoenliHernandez-03282026-02.webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Francesca Hennessy in talks to fight undisputed bantamweight champion Dina Thorslund</title>
+      <link>https://www.bbc.com/sport/boxing/articles/c0km0054037o</link>
+      <description>Francesca Hennessy is in talks to fight undisputed bantamweight world champion Dina Thorslund in the United Kingdom later this year, BBC Sport understands.</description>
+      <guid isPermaLink="false">e0453834b0d2523a1ac99e5af3f96ef2</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4a9c/live/1b6dbb50-9c7c-11f1-8413-79a38c9f8909.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 09:59:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4a9c/live/1b6dbb50-9c7c-11f1-8413-79a38c9f8909.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
