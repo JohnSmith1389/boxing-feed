@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 04:35:23 +0000</lastBuildDate>
-    <item>
-      <title>No Te Dejes Brings the Faith, Sacrifice and Culture of Mexican Boxing to Dallas</title>
-      <link>https://wbcboxing.com/en/no-te-dejes-brings-the-faith-sacrifice-and-culture-of-mexican-boxing-to-dallas/</link>
-      <description>No Te Dejes Brings the Faith, Sacrifice and Culture of Mexican Boxing to Dallas After five years photographing Mexico’s boxing culture, visual artist, filmmaker and photographer […]</description>
-      <guid isPermaLink="false">245c433040fda759f8f2f395e5d49601</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/NTD_POST_01_2026.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 17:22:27 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/NTD_POST_01_2026.png" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tyson Fury vs Anthony Joshua: Contract delays raise doubts, says Fury's manager Spencer Brown</title>
-      <link>https://www.skysports.com/boxing/news/12183/13574804/tyson-fury-vs-anthony-joshua-contract-delays-raise-doubts-says-furys-manager-spencer-brown</link>
-      <description>Tyson Furys manager Spencer Brown admits concerns are growing over whether the Anthony Joshua fight will happen as delays continue; Brown says Fury is ready to rock and roll but fears fans could lose interest if an announcement is not made soon</description>
-      <guid isPermaLink="false">ca30a70aa2bdc5e2a3a8e4d2dfb04d92</guid>
-      <enclosure url="https://e0.365dm.com/26/07/1600x900/skysports-aj-fury-boxing_7302485.png?20260720144323" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 17:52:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/07/1600x900/skysports-aj-fury-boxing_7302485.png?20260720144323" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 05:28:45 +0000</lastBuildDate>
     <item>
       <title>Broadcaster Juan Carlos Tapia inducted into 2026 Atlantic City Boxing Hall of Fame</title>
       <link>https://www.boxingscene.com/articles/broadcaster-juan-carlos-tapia-inducted-into-2026-atlantic-city-boxing-hall-of-fame</link>
@@ -281,6 +259,28 @@
       <pubDate>Thu, 20 Aug 2026 03:26:44 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/bad8ba88f6793a1ec461a1b83acb34f4896a0267b85e94430de46e73973175ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fjit%2F6415665815001%2Feb581020-4794-42e9-8379-c8eca04588c4%2Fmain%2F1280x720%2F2m11s136ms%2Fmatch%2Fimage.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Fans Mock Johnny Fisher’s Soft Zuffa Boxing Debut</title>
+      <link>https://www.boxing247.com/boxing-news/fans-mock-johnny-fishers-soft-zuffa-boxing-debut/309153</link>
+      <description>Fans on social media are ridiculing Johnny Fisher’s first Zuffa Boxing matchup after the company selected little-known Michael Pirotton for its new</description>
+      <guid isPermaLink="false">0f0b87ba389fdd6a83d31eae1e5d7b9f</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2025/12/081A7296.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 04:41:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2025/12/081A7296.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Former 2-division UFC champ Henry Cejudo set for pro boxing debut</title>
+      <link>https://www.sherdog.com/news/news/Former-2division-UFC-champ-Henry-Cejudo-set-for-pro-boxing-debut-202442</link>
+      <description>Henry Cejudo is set to compete in his third combat sport after accruing several accolades in wrestling and mixed martial arts.</description>
+      <guid isPermaLink="false">456231aaa50bf415691ef36cb628a156</guid>
+      <enclosure url="https://www1-cdn.sherdog.com/_images/headers/20260820043417_Untitled1.JPG" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 08:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www1-cdn.sherdog.com/_images/headers/20260820043417_Untitled1.JPG" medium="image"/>
       </media:group>
     </item>
   </channel>
