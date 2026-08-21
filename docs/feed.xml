@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 03:49:23 +0000</lastBuildDate>
-    <item>
-      <title>Glover Teixeira explains boxing Mauricio Rua, plans to 'take his head off'</title>
-      <link>https://mmajunkie.usatoday.com/story/sports/mma/2026/08/20/glover-teixeira-explains-boxing-match-vs-mauricio-shogun-rua/91381565007/</link>
-      <description>Glover Teixeira will lace up the gloves against fellow UFC legend Maurio Rua, and has intentions of finishing the fight.</description>
-      <guid isPermaLink="false">48751cf2c47be11809d7ef8fd6d27833</guid>
-      <enclosure url="https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2026/08/20/SMMA/91381576007-screenshot-20260819-at-93821-pm.png?crop=766,431,x0,y21&amp;width=766&amp;height=383&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 15:20:26 +0000</pubDate>
-      <media:group>
-        <media:content url="https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2026/08/20/SMMA/91381576007-screenshot-20260819-at-93821-pm.png?crop=766,431,x0,y21&amp;width=766&amp;height=383&amp;format=pjpg&amp;auto=webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 04:36:52 +0000</lastBuildDate>
     <item>
       <title>Glover Teixeira explains boxing Mauricio Rua, plans to 'take his head off'</title>
       <link>https://sports.yahoo.com/articles/glover-teixeira-explains-boxing-mauricio-152026171.html</link>
@@ -215,6 +204,17 @@
       <pubDate>Thu, 20 Aug 2026 19:53:00 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/PHOTO-2026-08-20-11-51-40.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Jimi Manuwa set to face Chase Sherman in boxing match</title>
+      <link>https://mmasucka.com/news/jimi-manuwa-set-to-face-chase-sherman-in-boxing-match/</link>
+      <description>The former UFC light heavyweight top contender will return to competition for the first time in seven years against fellow UFC veteran Chase Sherman.</description>
+      <guid isPermaLink="false">8c8c6a71fb525a94c10b1a64d0cf3992</guid>
+      <enclosure url="https://mmasucka.com/api/media/file/Jimi-Manuwa.webp" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 21:33:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://mmasucka.com/api/media/file/Jimi-Manuwa.webp" medium="image"/>
       </media:group>
     </item>
     <item>
