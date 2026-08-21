@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 17:27:05 +0000</lastBuildDate>
-    <item>
-      <title>Headlining on TikTok &amp; targeting KO record</title>
-      <link>https://au.sports.yahoo.com/headlining-tiktok-targeting-ko-record-072054155.html</link>
-      <description>Seven-division champion Amanda Serrano talks to BBC Sport about fighting on TikTok, going for the women's boxing knockout record and retirement plans.</description>
-      <guid isPermaLink="false">7abfbb7c6fc9ea38bd9a048ab7c2e7e7</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/9310668b70fa993867ff4cbfdfc010c8fcc6875d3ff3988042783b535316c07c/lightyear_networkapi/resizefill_w1016_h572%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1cf1886eb82c663e12571b893d6f67d1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 07:20:54 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/9310668b70fa993867ff4cbfdfc010c8fcc6875d3ff3988042783b535316c07c/lightyear_networkapi/resizefill_w1016_h572%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1cf1886eb82c663e12571b893d6f67d1.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 17:57:24 +0000</lastBuildDate>
     <item>
       <title>Meet the former Hollywood exec bringing BKB to the top of Bare Knuckle Boxing</title>
       <link>https://bloodyelbow.com/2026/08/21/meet-the-former-hollywood-exec-bringing-bkb-to-the-top-of-bare-knuckle-boxing/</link>
@@ -281,6 +270,17 @@
       <pubDate>Fri, 21 Aug 2026 16:07:35 +0000</pubDate>
       <media:group>
         <media:content url="https://brobible.com/wp-content/uploads/2026/08/MixCollage-21-Aug-2026-12-05-PM-9247.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>As Amanda Serrano and Katie Taylor near the end, 5 big questions that will define the future of women's boxing</title>
+      <link>https://sports.yahoo.com/boxing/article/as-amanda-serrano-and-katie-taylor-near-the-end-5-big-questions-that-will-define-the-future-of-womens-boxing-130607257.html</link>
+      <description>As Amanda Serrano and Katie Taylor near the end, 5 big questions that will define the future of women's boxing</description>
+      <guid isPermaLink="false">f194eeca6927c559d903a4609b8e1299</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/a6b2e2fa56bc2f4fdcb44d5e47d724b83d06fd153740b36deab08d47396086f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2Ffae0b460-665c-11f0-be9d-afa1a81c5a4c" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 17:26:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/a6b2e2fa56bc2f4fdcb44d5e47d724b83d06fd153740b36deab08d47396086f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2Ffae0b460-665c-11f0-be9d-afa1a81c5a4c" medium="image"/>
       </media:group>
     </item>
   </channel>
