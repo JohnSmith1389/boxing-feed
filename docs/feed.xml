@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 23:22:21 +0000</lastBuildDate>
-    <item>
-      <title>Ex-Carlisle United striker swaps football for boxing at charity event</title>
-      <link>https://uk.sports.yahoo.com/news/ex-carlisle-united-striker-swaps-125827186.html</link>
-      <description>Former Carlisle United centre-forward Gary Madine is swapping his football boots for boxing gloves.</description>
-      <guid isPermaLink="false">7612790cc49bb86a9164920c95eac985</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/e0519bb374325917c6145413753307918b2b381c7033aa4a9054f2af4e640c39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnews_and_star_893%2Fa37646764754a9d1edb61c7e1bbc9c7d.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 12:58:27 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/e0519bb374325917c6145413753307918b2b381c7033aa4a9054f2af4e640c39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnews_and_star_893%2Fa37646764754a9d1edb61c7e1bbc9c7d.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 23:48:43 +0000</lastBuildDate>
     <item>
       <title>This Week In Photos: North Lawndale Boxing Program Expands, Crosstown Classic And More</title>
       <link>https://blockclubchicago.org/2026/08/21/this-week-in-photos-north-lawndale-boxing-program-expands-crosstown-classic-and-more/</link>
@@ -277,6 +266,17 @@
       <pubDate>Fri, 21 Aug 2026 21:49:53 +0000</pubDate>
       <media:group>
         <media:content url="https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40455102.jpg?quality=75&amp;strip=all&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claressa Shields leads night of boxing and celebrity showdowns</title>
+      <link>https://www.fultonneighbor.com/news/south/claressa-shields-leads-night-of-boxing-and-celebrity-showdowns/collection_ba584b9f-b9d0-4136-a78c-c42e5ad6097a.html</link>
+      <description>On Aug. 15, Claressa Shields defeated Kaye Scott by sixth-round TKO to reclaim the WBA and WBC middleweight titles at State Farm Arena.</description>
+      <guid isPermaLink="false">1e77832822760173b403201d1dc0080c</guid>
+      <enclosure url="https://bloximages.newyork1.vip.townnews.com/fultonneighbor.com/content/tncms/assets/v3/editorial/7/35/73573ece-5c63-4afa-877b-c027c8a3eea1/6a87f5e13ed57.image.jpg?crop=1439%2C755%2C0%2C342&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 23:15:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloximages.newyork1.vip.townnews.com/fultonneighbor.com/content/tncms/assets/v3/editorial/7/35/73573ece-5c63-4afa-877b-c027c8a3eea1/6a87f5e13ed57.image.jpg?crop=1439%2C755%2C0%2C342&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
       </media:group>
     </item>
   </channel>
