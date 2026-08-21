@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:42:26 +0000</lastBuildDate>
-    <item>
-      <title>Tony Bellew names the most ruthless boxer of all time: "I've never seen anything like him"</title>
-      <link>https://boxingnewsonline.net/news/tony-bellew-on-most-ruthless-boxer/</link>
-      <description>Tony Bellew has named one heavyweight as the most ruthless fighter of all time: a complete package when it comes to speed, movement and ferocity.</description>
-      <guid isPermaLink="false">b268101b190de2ecd842d6bb62e6cf84</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1787306512503747896/tony-bellew-speaking.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 10:02:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1787306512503747896/tony-bellew-speaking.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 19:24:53 +0000</lastBuildDate>
     <item>
       <title>Amanda Serrano vs. Lucrecia Manzur main event: Ring walk, fight time</title>
       <link>https://www.usatoday.com/story/sports/boxing/2026/08/21/amanda-serrano-vs-lucrecia-manzur-fight-ring-walk-time-stream/91383375007/</link>
@@ -282,6 +271,13 @@
       <media:group>
         <media:content url="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0219%2Fr668175_1296x729_16%2D9.jpg" medium="image"/>
       </media:group>
+    </item>
+    <item>
+      <title>Betting on Big Fight Nights: A Boxing Guide</title>
+      <link>https://www.womenboxing.com/NEWS2026/news082126betting-on-big-fight-nights-a-boxing-guide.htm</link>
+      <description>Betting on Big Fight Nights: A Boxing Guide</description>
+      <guid isPermaLink="false">0f9cab93ae22e14c079fe4adc3f5b12f</guid>
+      <pubDate>Fri, 21 Aug 2026 18:43:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
