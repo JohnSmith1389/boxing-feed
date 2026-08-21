@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 05:31:15 +0000</lastBuildDate>
-    <item>
-      <title>Takahashi Upsets WBO#3 Utsuki, Wins WBO AP 135lb Belt</title>
-      <link>https://fightnews.com/takahashi-upsets-wbo3-utsuki-wins-wbo-ap-135lb-belt/194467</link>
-      <description>By Joe Koizumi Photos by Naoki Fukuda The Korakuen Hall was completely stunned by an unbelievable upset when</description>
-      <guid isPermaLink="false">843747c30cc31767d81284034a3f8adb</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/01-9-26.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 15:34:18 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/01-9-26.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>The Challenge of the Scale: How Professional Boxing Divisions Are Structured</title>
-      <link>https://wbcboxing.com/en/the-challenge-of-the-scale-how-professional-boxing-divisions-are-structured/</link>
-      <description>The Challenge of the Scale: How Professional Boxing Divisions Are Structured The weigh-in is a boxer’s first true opponent. The physical and mental toll can be […]</description>
-      <guid isPermaLink="false">14be6b805abba934919687c70ca5e32c</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/boxing-divisions-e1787240553743.png" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 15:42:44 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/boxing-divisions-e1787240553743.png" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 06:43:28 +0000</lastBuildDate>
     <item>
       <title>World Champion Rejects Zuffa Boxing After One Major Detail Changes His Plans</title>
       <link>https://sports.yahoo.com/articles/world-champion-rejects-zuffa-boxing-163633368.html</link>
@@ -281,6 +259,28 @@
       <pubDate>Fri, 21 Aug 2026 04:19:24 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/646cf325eaf7a9b3e8aed9199bb7c1e6a5e95cdda32ad6b24480489ce58458a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F82621004b8cef411def8f80e4b528783.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Can Build A Middleweight Survival Tournament</title>
+      <link>https://www.boxingnews24.com/2026/08/zuffa-can-build-a-middleweight-survival-tournament/</link>
+      <description>Middleweight gives Zuffa Boxing an inexpensive opportunity to generate interest in one division while finding out how good Aaron McKenna truly is.</description>
+      <guid isPermaLink="false">d2effe1910be15990538b0d18fa20d15</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Aaron-McKenna-vs.-Oliha5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 04:30:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Aaron-McKenna-vs.-Oliha5.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>BKB Bare Knuckle Boxing brings world championship action to Newcastle on October 10</title>
+      <link>https://bloodyelbow.com/2026/08/20/bkb-bare-knuckle-boxing-brings-world-championship-action-to-newcastle-on-october-10/</link>
+      <description>BKB Bare Knuckle returns to the United Kingdom this October for a major card</description>
+      <guid isPermaLink="false">4384848912f78fd10d4fd86b42e90e7e</guid>
+      <enclosure url="https://bloodyelbow.com/wp-content/uploads/1/2026/08/Mick-Terrill.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 06:06:29 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloodyelbow.com/wp-content/uploads/1/2026/08/Mick-Terrill.png" medium="image"/>
       </media:group>
     </item>
   </channel>
