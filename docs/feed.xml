@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 23:50:28 +0000</lastBuildDate>
-    <item>
-      <title>Don King: The Legendary Promoter Who Conquered the Boxing World Turns 95</title>
-      <link>https://wbcboxing.com/en/don-king-the-legendary-promoter-who-conquered-the-boxing-world-turns-95/</link>
-      <description>Don King: The Legendary Promoter Who Conquered the Boxing World Turns 95 With a booming, commanding voice that echoes with its own natural power without the […]</description>
-      <guid isPermaLink="false">6123a66dc5eb607e3e1cf8ded7b53bac</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/don-king-95.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 14:24:02 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/don-king-95.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Former World Champ Says Christian Mbilli Winning ‘Might Do Us All a Favor’</title>
-      <link>https://www.si.com/fannation/boxing/former-world-champ-says-christian-mbilli-winning-might-do-us-all-a-favor</link>
-      <description>Dominance atop the division is not new to the sport of boxing. Terence Crawford retired with more than one undisputed reign in a division.</description>
-      <guid isPermaLink="false">af8aeda6b321ae7d6c34d41830433c6c</guid>
-      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4004,h_2252/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01k4zam0fv19kmxrynjq.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 20 Aug 2026 14:35:16 +0000</pubDate>
-      <media:group>
-        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_4004,h_2252/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01k4zam0fv19kmxrynjq.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 01:13:24 +0000</lastBuildDate>
     <item>
       <title>Who’s Who In The Tszyu Zoo</title>
       <link>https://fightnews.com/whos-who-in-the-tszyu-zoo/194413</link>
@@ -281,6 +259,28 @@
       <pubDate>Thu, 20 Aug 2026 19:53:00 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/PHOTO-2026-08-20-11-51-40.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Amanda Serrano eyes boxing history on first-ever TikTok Live card</title>
+      <link>https://sports.yahoo.com/videos/amanda-serrano-eyes-boxing-history-233332738.html</link>
+      <description>Amanda Serrano eyes boxing history on first-ever TikTok Live card</description>
+      <guid isPermaLink="false">a292da8c3565a5a252742569eea061fe</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/30fc064573261fd3943951494eeba315dff44cbae12df765dcba02ec57321c9a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fas_4657.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 23:33:32 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/30fc064573261fd3943951494eeba315dff44cbae12df765dcba02ec57321c9a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fas_4657.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Bill Robinson, Ottumwa Boxing Club founder</title>
+      <link>https://www.ktvo.com/bill-robinson-ottumwa-boxing-club-founder/collection_691163ac-f4e7-48d3-ba0a-7c7547ee1f13.html</link>
+      <description>Click here to view this item from KTVO.com.</description>
+      <guid isPermaLink="false">ce04f646e83538fbd906f539c9d80d81</guid>
+      <enclosure url="https://bloximages.chicago2.vip.townnews.com/ktvo.com/content/tncms/assets/v3/editorial/1/d8/1d8f8246-89d0-4658-931f-eb1dc6eafac2/6a8798ce71abf.image.png?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 00:34:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloximages.chicago2.vip.townnews.com/ktvo.com/content/tncms/assets/v3/editorial/1/d8/1d8f8246-89d0-4658-931f-eb1dc6eafac2/6a8798ce71abf.image.png?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
       </media:group>
     </item>
   </channel>
