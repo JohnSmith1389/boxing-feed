@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 22:23:16 +0000</lastBuildDate>
-    <item>
-      <title>Watch Boxing Legend Mike Tyson on Career, Sugar Factory Launch</title>
-      <link>https://www.bloomberg.com/news/videos/2026-08-21/boxing-legend-mike-tyson-on-career-sugar-factory-launch-video</link>
-      <description>Former Heavyweight Champion Mike Tyson discussed his new business venture partnering with Sugar Factory to produce high-protein sliders available in grocery stores. Tyson emphasized the health benefits of these sliders compared to typical frozen options that often contain unhealt</description>
-      <guid isPermaLink="false">ab95b7112e58c4fc6563bca66c55e12c</guid>
-      <enclosure url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izXSNA9oNk5E/v3/-1x-1.webp" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izXSNA9oNk5E/v3/-1x-1.webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 22:50:50 +0000</lastBuildDate>
     <item>
       <title>Weights From London: Liddard Vs Morrello</title>
       <link>https://fightnews.com/weights-from-london-liddard-vs-morrello/194544</link>
@@ -193,6 +182,17 @@
       <pubDate>Fri, 21 Aug 2026 17:49:43 +0000</pubDate>
       <media:group>
         <media:content url="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0219%2Fr668175_1296x729_16%2D9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>12:53 PM. Boxing Saturday</title>
+      <link>https://rickeystokesnews.com/1253-pm-boxing-saturday/</link>
+      <description>( window.advanced_ads_ready || jQuery( document ).ready ).call( null, function() {var $rickeslider2897515727 = jQuery( ".ricke-slider-2897515727" );$rickeslider2897515727.on( "unslider.ready", function() { jQuery( "div.custom-slider ul li" ).css( "display", "block" ); });$rickesl</description>
+      <guid isPermaLink="false">b73f234b7deeada769d9ef456d7f1bcf</guid>
+      <enclosure url="https://i0.wp.com/rickeystokesnews.com/wp-content/uploads/2026/08/8404015452015692040.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 17:53:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i0.wp.com/rickeystokesnews.com/wp-content/uploads/2026/08/8404015452015692040.png" medium="image"/>
       </media:group>
     </item>
     <item>
