@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 15:19:14 +0000</lastBuildDate>
-    <item>
-      <title>Claressa Shields leads night of boxing and celebrity showdowns</title>
-      <link>https://www.fultonneighbor.com/news/south/claressa-shields-leads-night-of-boxing-and-celebrity-showdowns/collection_ba584b9f-b9d0-4136-a78c-c42e5ad6097a.html</link>
-      <description>On Aug. 15, Claressa Shields defeated Kaye Scott by sixth-round TKO to reclaim the WBA and WBC middleweight titles at State Farm Arena.</description>
-      <guid isPermaLink="false">1e77832822760173b403201d1dc0080c</guid>
-      <enclosure url="https://bloximages.newyork1.vip.townnews.com/fultonneighbor.com/content/tncms/assets/v3/editorial/7/35/73573ece-5c63-4afa-877b-c027c8a3eea1/6a87f5e13ed57.image.jpg?crop=1439%2C755%2C0%2C342&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 23:15:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.newyork1.vip.townnews.com/fultonneighbor.com/content/tncms/assets/v3/editorial/7/35/73573ece-5c63-4afa-877b-c027c8a3eea1/6a87f5e13ed57.image.jpg?crop=1439%2C755%2C0%2C342&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 15:46:13 +0000</lastBuildDate>
     <item>
       <title>Ottumwa Boxing Club founder Bill Robinson remembered for impact on community</title>
       <link>https://www.ktvo.com/ottumwa-boxing-club-founder-bill-robinson-remembered-for-impact-on-community/video_9794fdd9-a7a6-5b55-b7a1-669aa955431f.html</link>
@@ -277,6 +266,17 @@
       <pubDate>Sat, 22 Aug 2026 11:00:01 +0000</pubDate>
       <media:group>
         <media:content url="https://library.sportingnews.com/styles/twitter_card_120x120/s3/2026-08/GFX-2795%20Rolly%20Romero%20vs_0.jpg?itok=w06W9zWp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxing with a Local Legend</title>
+      <link>https://www.cbsnews.com/gooddaysacramento/video/boxing-with-a-local-legend/</link>
+      <description>Boxing with a Local Legend</description>
+      <guid isPermaLink="false">d8b7a553eb3e555fe0abbb65c9e4b1bc</guid>
+      <enclosure url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/22/c5dcd630-c6cb-4ff3-93b6-1ba1b3fbd4bb/thumbnail/1200x630/a9f942b02f6b29c5c77ecefda0327b16/599529ec09b98555a7699a1697e95622.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 15:01:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/22/c5dcd630-c6cb-4ff3-93b6-1ba1b3fbd4bb/thumbnail/1200x630/a9f942b02f6b29c5c77ecefda0327b16/599529ec09b98555a7699a1697e95622.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
