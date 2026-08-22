@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:48:47 +0000</lastBuildDate>
-    <item>
-      <title>Streamer Vitaly 'handcuffed and detained' by police days before boxing return against Larry Wheels</title>
-      <link>https://bloodyelbow.com/2026/08/22/streamer-vitaly-handcuffed-and-detained-by-police-days-before-boxing-return-against-larry-wheels/</link>
-      <description>Vitaly's latest fight week has been a fascinating one to say the least</description>
-      <guid isPermaLink="false">a97fa3d0308797761b9cc6a6d6e0a5cc</guid>
-      <enclosure url="https://bloodyelbow.com/wp-content/uploads/1/2026/08/Vitaly-arrest.png" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 05:04:14 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloodyelbow.com/wp-content/uploads/1/2026/08/Vitaly-arrest.png" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 21:20:01 +0000</lastBuildDate>
     <item>
       <title>Conor Benn’s 157.8-Pound Check Raises Garcia Concern</title>
       <link>https://www.boxing247.com/boxing-news/conor-benns-157-8-pound-check-raises-garcia-concern/309206</link>
@@ -277,6 +266,17 @@
       <pubDate>Sat, 22 Aug 2026 20:10:40 +0000</pubDate>
       <media:group>
         <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/08/22145507/ZolaniTete-scaled.jpg?width=1200&amp;height=630&amp;fit=cover" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Watch PBC Rolly Romero vs. Teofimo Lopez Boxing Match PPV Live Online</title>
+      <link>https://variety.com/2026/shopping/news/how-to-watch-rolly-romero-vs-teofimo-lopez-ppv-boxing-live-online-1236838232/</link>
+      <description>Here's where to find a Rolly Romero vs. Teofimo Lopez PBC boxing livestream live from Las Vegas on Saturday, Aug.</description>
+      <guid isPermaLink="false">fdc8bb00fd48e5e673c5023b186f0b93</guid>
+      <enclosure url="https://variety.com/wp-content/uploads/2026/08/PBC-Rolly-Romero-vs.-Teofimo-Lopez-Boxing-Getty-VR-Featured.jpg?w=1000&amp;h=563&amp;crop=1" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 21:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://variety.com/wp-content/uploads/2026/08/PBC-Rolly-Romero-vs.-Teofimo-Lopez-Boxing-Getty-VR-Featured.jpg?w=1000&amp;h=563&amp;crop=1" medium="image"/>
       </media:group>
     </item>
   </channel>
