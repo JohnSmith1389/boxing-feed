@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:34:04 +0000</lastBuildDate>
-    <item>
-      <title>FightBook &amp; Bash Boxing Present – Butterfly Brawl – Santa Monica Pier</title>
-      <link>https://wbcboxing.com/en/fightbook-bash-boxing-present-butterfly-brawl-santa-monica-pier-saturday-august-22/</link>
-      <description>FightBook &amp; Bash Boxing Present – Butterfly Brawl – Santa Monica Pier • Saturday, August 22 The Butterfly Brawl returns to the iconic Santa Monica Pier […]</description>
-      <guid isPermaLink="false">eefc1e98b1cd6752d22436e3f92d62a0</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/08/butterflty.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 19:06:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/08/butterflty.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 10:21:21 +0000</lastBuildDate>
     <item>
       <title>Park City boxing and martial arts gym brings back charitable boxing event</title>
       <link>https://www.parkrecord.com/2026/08/21/park-city-boxing-and-martial-arts-gym-brings-back-charitable-boxing-event/</link>
@@ -277,6 +266,17 @@
       <pubDate>Sat, 22 Aug 2026 06:53:21 +0000</pubDate>
       <media:group>
         <media:content url="https://dims.apnews.com/dims4/default/74b899c/2147483647/strip/true/crop/1281x854+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Former world champion boxer Zolani Tete shot and killed in South Africa</title>
+      <link>https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa</link>
+      <description>Zolani Tete, who held WBF flyweight and WBO bantamweight world titles, killed at his home in Eastern Cape, South Africa.</description>
+      <guid isPermaLink="false">c5d7b4e873ec6e8be5315a10e436272d</guid>
+      <enclosure url="https://www.aljazeera.com/wp-content/uploads/2026/08/2022-07-02T212231Z_535875165_UP1EI721NDGE7_RTRMADP_3_BOXING-HEAVYWEIGHT-JOYCE-HAMMER-1787389411.jpg?resize=1920%2C1440" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 09:51:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/08/2022-07-02T212231Z_535875165_UP1EI721NDGE7_RTRMADP_3_BOXING-HEAVYWEIGHT-JOYCE-HAMMER-1787389411.jpg?resize=1920%2C1440" medium="image"/>
       </media:group>
     </item>
   </channel>
