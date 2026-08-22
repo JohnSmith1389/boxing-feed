@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:18:57 +0000</lastBuildDate>
-    <item>
-      <title>Boxing champion shot &amp; killed at 38 in wild ambush, ‘hail of bullets’</title>
-      <link>https://sports.yahoo.com/articles/boxing-champion-shot-killed-38-011156107.html</link>
-      <description>Boxing champion Zolani Tete was shot dead in his hometime of Mdantsane, Eastern Cap, South Africa, while returning from the gym.</description>
-      <guid isPermaLink="false">b4c6272e7419a64ac51417157445fb64</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/5aa5157807627b6da708544e68197496705d8f51c0e1e9b2b78a74cee6b722f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Fe39e8f112dec3ef7016790675c518e55.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 01:11:56 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/5aa5157807627b6da708544e68197496705d8f51c0e1e9b2b78a74cee6b722f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Fe39e8f112dec3ef7016790675c518e55.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 17:46:03 +0000</lastBuildDate>
     <item>
       <title>Boxing champion shot &amp; killed at 38 in wild ambush, ‘hail of bullets’</title>
       <link>https://www.thebiglead.com/boxing-champion-zolani-tete-shot-killed/</link>
@@ -277,6 +266,17 @@
       <pubDate>Sat, 22 Aug 2026 15:01:00 +0000</pubDate>
       <media:group>
         <media:content url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/22/c5dcd630-c6cb-4ff3-93b6-1ba1b3fbd4bb/thumbnail/1200x630/a9f942b02f6b29c5c77ecefda0327b16/599529ec09b98555a7699a1697e95622.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Rolly Romero vs. Teofimo Lopez odds, prediction, time: Boxing picks for Aug. 22 fight card by top expert</title>
+      <link>https://www.cbssports.com/boxing/news/rolly-romero-teofimo-lopez-odds-line-prediction-time-boxing-picks-for-aug-22-fight-card/</link>
+      <description>Expert Josh Nagel reveals his boxing best bets for the Aug. 22 fight card on DAZN pay-per-view</description>
+      <guid isPermaLink="false">5783133c43d6bb82bea0503950733873</guid>
+      <enclosure url="https://sportshub.cbsistatic.com/i/r/2026/08/22/a2307b47-7f25-42f1-baea-877341b0edf4/thumbnail/1200x675/3ee7d30f93b9e803fece7e773bc4b1ec/teofimo-lopez-boxing-imagn-images.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 16:53:52 +0000</pubDate>
+      <media:group>
+        <media:content url="https://sportshub.cbsistatic.com/i/r/2026/08/22/a2307b47-7f25-42f1-baea-877341b0edf4/thumbnail/1200x675/3ee7d30f93b9e803fece7e773bc4b1ec/teofimo-lopez-boxing-imagn-images.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
