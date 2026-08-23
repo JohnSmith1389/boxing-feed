@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 18:27:25 +0000</lastBuildDate>
-    <item>
-      <title>Butterfly Brawl brings boxing to Santa Monica Pier</title>
-      <link>https://www.nbclosangeles.com/video/news/local/butterfly-brawl-boxing-santa-monica-pier/3932666/</link>
-      <description>All the net proceeds will benefit organization Teen Cancer America.</description>
-      <guid isPermaLink="false">e9dbedd8285ce1262f3fa3a43a614282</guid>
-      <enclosure url="https://media.nbclosangeles.com/2026/08/50607829875-1080pnbcstations.jpg?quality=85&amp;strip=all&amp;resize=1200%2C675" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 00:47:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://media.nbclosangeles.com/2026/08/50607829875-1080pnbcstations.jpg?quality=85&amp;strip=all&amp;resize=1200%2C675" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>𝚆𝙰𝚃𝙲𝙷 Teofimo Lopez vs. Rolando “Rolly” Romero 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ!Boxing™PPV</title>
-      <link>https://www.jacksoncountypilot.com/articles/%f0%9d%9a%86%f0%9d%99%b0%f0%9d%9a%83%f0%9d%99%b2%f0%9d%99%b7-teofimo-lopez-vs-rolando-rolly-romero-%f0%9d%90%8b%f0%9d%90%88%f0%9d%90%95%f0%9d%90%84-%ef%bd%93%ef%bd%94%ef%bd%92%ef%bd%85%ef%bd%81/</link>
-      <description>Rolando "Rolly" Romero competes live against Teofimo Lopez in Boxing Event action — all the context, highlights, and insights. UPDATED: August 22, 2026 Watch Rolando Romero vs.</description>
-      <guid isPermaLink="false">2ed4300e3e19506f2b930337aec7727c</guid>
-      <enclosure url="https://jacksoncountypilot.demo.our-hometown.com/wp-content/uploads/2018/03/logo-background.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 01:09:38 +0000</pubDate>
-      <media:group>
-        <media:content url="https://jacksoncountypilot.demo.our-hometown.com/wp-content/uploads/2018/03/logo-background.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 18:57:51 +0000</lastBuildDate>
     <item>
       <title>Savea: It was like a boxing match</title>
       <link>https://sports.yahoo.com/articles/savea-boxing-match-015945656.html</link>
@@ -94,6 +72,17 @@
       <pubDate>Sun, 23 Aug 2026 03:37:08 +0000</pubDate>
       <media:group>
         <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Yoenli-Hernandez-vs.-Francisco-Veron101.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Yoenli Hernandez Defeats Francisco Veron By Majority Decision</title>
+      <link>https://www.boxing247.com/boxing-news/yoenli-hernandez-defeats-francisco-veron-by-majority-decision/309256</link>
+      <description>Constant pressure was not enough to overcome the cleaner punching of Yoenli Hernandez on Saturday night. The Cuban middleweight defeated Francisco Daniel</description>
+      <guid isPermaLink="false">88d2303863678c01b0e0882662654e56</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/08/Yoenli-Hernandez-vs-Francisco-Vergon73.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 03:44:06 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/08/Yoenli-Hernandez-vs-Francisco-Vergon73.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 23 Aug 2026 13:41:50 +0000</pubDate>
       <media:group>
         <media:content url="https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2228263813_large_cropped.jpg?w=1120&amp;h=630" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Chaldean cousins set to headline boxing card at Fox Theater on Aug. 29</title>
+      <link>https://www.clickondetroit.com/sports/2026/08/23/chaldean-cousins-set-to-headline-boxing-card-at-fox-theater-on-aug-29/</link>
+      <description>Jonny Mansoor and Ju-Ju Ballo plan to represent for their Middle Eastern Heritage in Detroit during "Big Time Boxing" event</description>
+      <guid isPermaLink="false">f276baa33c86133a70ad1c7e242bd306</guid>
+      <enclosure url="https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/6JMM22FNZJENVPGWPWRO7CA5YY.png?_a=DATAg1kSZAA0" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 18:21:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/6JMM22FNZJENVPGWPWRO7CA5YY.png?_a=DATAg1kSZAA0" medium="image"/>
       </media:group>
     </item>
   </channel>
