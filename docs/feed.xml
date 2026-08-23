@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 18:57:51 +0000</lastBuildDate>
-    <item>
-      <title>Savea: It was like a boxing match</title>
-      <link>https://sports.yahoo.com/articles/savea-boxing-match-015945656.html</link>
-      <description>&gt;Continued from front his delight after winning in one of the toughest environments in Test rugby. “It meant everything,” he said.</description>
-      <guid isPermaLink="false">c63a743efbd91203e89202af145b9fd3</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/dcea6e5e23f41086fcb8372fe9b878e59ece64968a704c3b9365b1a2f13f0a9f/lightyear_networkapi/resizefill_w275_h215%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_rugby_paper_154%2Fd31060f033d0e81bb90778e916fc9000.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 01:59:45 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/dcea6e5e23f41086fcb8372fe9b878e59ece64968a704c3b9365b1a2f13f0a9f/lightyear_networkapi/resizefill_w275_h215%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_rugby_paper_154%2Fd31060f033d0e81bb90778e916fc9000.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 19:26:17 +0000</lastBuildDate>
     <item>
       <title>Israel Mercado deprived by judges against Carlos Utria</title>
       <link>https://www.boxingscene.com/articles/israel-mercado-deprived-by-judges-against-carlos-utria</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 23 Aug 2026 18:21:05 +0000</pubDate>
       <media:group>
         <media:content url="https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/6JMM22FNZJENVPGWPWRO7CA5YY.png?_a=DATAg1kSZAA0" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Emily Austin lands major Jake Paul boxing role after Serrano title fight</title>
+      <link>https://ca.sports.yahoo.com/news/emily-austin-lands-major-jake-185128856.html</link>
+      <description>Popular boxing broadcaster Emily Austin worked with Jake Paul’s Most Valuable Promotions for Friday’s Amanda Serrano title fight. It’s another major boxing assignment she can add to her resume.</description>
+      <guid isPermaLink="false">71675ffea9a3eaa2c1e088d73e7ea50f</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/1d9b910fdca1d1c959188dcf3a38383b2609851e3d2a1416651064519692163c/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F6d4115c13942ad74abce5e6e7a8d5beb.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 18:51:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/1d9b910fdca1d1c959188dcf3a38383b2609851e3d2a1416651064519692163c/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F6d4115c13942ad74abce5e6e7a8d5beb.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
