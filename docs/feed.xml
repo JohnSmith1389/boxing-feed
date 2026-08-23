@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 20:20:30 +0000</lastBuildDate>
-    <item>
-      <title>Russell Dominates Santillan for WBA Interim Title</title>
-      <link>https://fightnews.com/russell-dominates-santillan-for-wba-interim-title/194674</link>
-      <description>By Boxing Bob Newman WBA interim super bantamweight champion Victor Santillan and challenger Gary Antonio Russell held and</description>
-      <guid isPermaLink="false">7f1c812f3c6ed07501ecdd876d20c572</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/image0-32.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 02:33:37 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/image0-32.jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Hernandez Veron Boxing</title>
-      <link>https://www.springfieldnewssun.com/nation-world/hernandez-veron-boxing/image_799686bf-6a55-538d-beec-3c8e58757e36.html</link>
-      <description>Yoenli Hernandez, center, wins a fight against Francisco Daniel Veron in a middleweight boxing match Saturday, Aug. 22, 2026, in Las Vegas.</description>
-      <guid isPermaLink="false">484b296ab6a488a93f5a0c3e1e7eee7e</guid>
-      <enclosure url="https://bloximages.chicago2.vip.townnews.com/springfieldnewssun.com/content/tncms/assets/v3/editorial/7/99/799686bf-6a55-538d-beec-3c8e58757e36/6a8a6a956b3cd.image.jpg?crop=4602%2C2416%2C0%2C325&amp;resize=1200%2C630&amp;order=crop%2Cresize" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 03:31:54 +0000</pubDate>
-      <media:group>
-        <media:content url="https://bloximages.chicago2.vip.townnews.com/springfieldnewssun.com/content/tncms/assets/v3/editorial/7/99/799686bf-6a55-538d-beec-3c8e58757e36/6a8a6a956b3cd.image.jpg?crop=4602%2C2416%2C0%2C325&amp;resize=1200%2C630&amp;order=crop%2Cresize" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 20:48:44 +0000</lastBuildDate>
     <item>
       <title>Yoenli Hernandez weathers his stiffest test yet from Francisco Daniel Veron</title>
       <link>https://www.boxingscene.com/articles/yoenli-hernandez-weathers-his-stiffest-test-yet-from-francisco-daniel-veron</link>
@@ -262,6 +240,17 @@
       </media:group>
     </item>
     <item>
+      <title>Xander Zayas Faces Dangerous Road At Middleweight</title>
+      <link>https://www.boxingnews24.com/2026/08/xander-zayas-faces-dangerous-road-at-middleweight/</link>
+      <description>Xander Zayas is moving to middleweight after losing his WBA and WBO junior middleweight titles to Jaron Ennis in June. The move may ease the strain of making</description>
+      <guid isPermaLink="false">ffc716200709a7edde0c8fa4108a6683</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Jaron-Ennis-vs-Xander-Zayas743.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 18:43:21 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/07/Jaron-Ennis-vs-Xander-Zayas743.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Emily Austin lands major Jake Paul boxing role after Serrano title fight</title>
       <link>https://ca.sports.yahoo.com/news/emily-austin-lands-major-jake-185128856.html</link>
       <description>Popular boxing broadcaster Emily Austin worked with Jake Paul’s Most Valuable Promotions for Friday’s Amanda Serrano title fight. It’s another major boxing assignment she can add to her resume.</description>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 23 Aug 2026 19:57:46 +0000</pubDate>
       <media:group>
         <media:content url="https://images.wral.com/3b0076f5-0794-4a3d-af32-ea46276f1713?w=1200&amp;h=630&amp;height=630" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Teofimo Lopez Outboxes Rolly Romero to Capture WBA Welterweight Title</title>
+      <link>https://tss.ib.tv/boxing/teofimo-lopez-outboxes-rolly-romero-to-capture-wba-welterweight-title/</link>
+      <description>Teofimo Lopez Takes Rolly Romero’s WBA Title in Las Vegas By the end of Saturday night, Teofimo Lopez held another world championship, making him a three-division champion. With titles at lightweight and super lightweight, he had moved up to 147 pounds Saturday night for his firs</description>
+      <guid isPermaLink="false">4157fb6ec275e1a0e6eeba4b8338fab0</guid>
+      <enclosure url="https://tss.ib.tv/boxing/wp-content/uploads/2026/08/the-sweet-science_4FvVPSiV.webp" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 20:07:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://tss.ib.tv/boxing/wp-content/uploads/2026/08/the-sweet-science_4FvVPSiV.webp" medium="image"/>
       </media:group>
     </item>
   </channel>
