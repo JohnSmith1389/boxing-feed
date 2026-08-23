@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 13:31:15 +0000</lastBuildDate>
-    <item>
-      <title>Prelim Results From Las Vegas</title>
-      <link>https://fightnews.com/prelim-results-from-las-vegas-2/194657</link>
-      <description>New PBC signee Marco “El Tiburon” Romero wasted little time in living up to his nickname (the shark</description>
-      <guid isPermaLink="false">4d36157f5beda8c7b1a1b669b2461d5d</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/HQXYsndWMAADlZc.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 00:22:55 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/HQXYsndWMAADlZc.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 14:21:34 +0000</lastBuildDate>
     <item>
       <title>How to watch Rolando Romero vs Teofimo Lopez: Boxing, live stream, TV channel</title>
       <link>https://sports.yahoo.com/articles/watch-rolando-romero-vs-teofimo-003100027.html</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 23 Aug 2026 10:39:30 +0000</pubDate>
       <media:group>
         <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/08/TETE-1787481557.jpg?resize=1920%2C1417" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Bodybuilder Larry Wheels Tears Bicep in Boxing Fight vs. Vitaly on Video at Adin Ross' Brand Risk 15</title>
+      <link>https://bleacherreport.com/articles/25481604-bodybuilder-larry-wheels-tears-bicep-boxing-fight-vs-vitaly-video-adin-ross-brand-risk-15</link>
+      <description>The co-main event of streamer Adin Ross' Brand Risk 15 boxing event in Miami, Florida, on Saturday night was ruled a no contest due to injury.</description>
+      <guid isPermaLink="false">24abf761bc270486ab6ad81766174e25</guid>
+      <enclosure url="https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2228263813_large_cropped.jpg?w=1120&amp;h=630" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 13:41:50 +0000</pubDate>
+      <media:group>
+        <media:content url="https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-08/2228263813_large_cropped.jpg?w=1120&amp;h=630" medium="image"/>
       </media:group>
     </item>
   </channel>
