@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:32:02 +0000</lastBuildDate>
-    <item>
-      <title>LIVE! Official BrandRisk 15 Video Stream, Quick Results</title>
-      <link>https://sports.yahoo.com/articles/live-official-brandrisk-15-video-220748575.html</link>
-      <description>Brand Risk Boxing is returning to action later this evening (Sat., Aug. 22, 2026) as Adin Ross rolls out BrandRisk 15 from inside Brand Risk Arena in Miami, Florida.</description>
-      <guid isPermaLink="false">5a5f1877d4a19cd755a1a30f0e22e3db</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/2a1c2d94474b60f82e137859ab4cad87008a76c5b8768176a7f4b5f0ec416d62/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F090094deaa5dec5b2de21a9b64195ff3.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 22:07:48 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/2a1c2d94474b60f82e137859ab4cad87008a76c5b8768176a7f4b5f0ec416d62/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F090094deaa5dec5b2de21a9b64195ff3.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 08:28:20 +0000</lastBuildDate>
     <item>
       <title>George Liddard Stops Dario Morello After Eight Rounds</title>
       <link>https://www.boxingnews24.com/2026/08/george-liddard-stops-dario-morello-after-eight-rounds/</link>
@@ -259,6 +248,17 @@
       <pubDate>Sun, 23 Aug 2026 04:56:09 +0000</pubDate>
       <media:group>
         <media:content url="https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705623_1296x729_16%2D9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Rolando Romero Hurts Teofimo Lopez, Then Gives Away WBA Belt</title>
+      <link>https://www.boxing247.com/boxing-news/rolando-romero-hurts-teofimo-lopez-then-gives-away-wba-belt/309258</link>
+      <description>One damaging left hand gave Rolando Romero the opening he had waited for Saturday night. His failure to follow that success with sustained pressure allowed</description>
+      <guid isPermaLink="false">9086fc4d2b4cf06d6dd7671d549740c4</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/08/4444.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 04:56:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/08/4444.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
