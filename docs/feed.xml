@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 03:49:31 +0000</lastBuildDate>
-    <item>
-      <title>Boxing with a Local Legend</title>
-      <link>https://www.cbsnews.com/gooddaysacramento/video/boxing-with-a-local-legend/</link>
-      <description>Boxing with a Local Legend</description>
-      <guid isPermaLink="false">d8b7a553eb3e555fe0abbb65c9e4b1bc</guid>
-      <enclosure url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/22/c5dcd630-c6cb-4ff3-93b6-1ba1b3fbd4bb/thumbnail/1200x630/a9f942b02f6b29c5c77ecefda0327b16/599529ec09b98555a7699a1697e95622.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 15:01:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/22/c5dcd630-c6cb-4ff3-93b6-1ba1b3fbd4bb/thumbnail/1200x630/a9f942b02f6b29c5c77ecefda0327b16/599529ec09b98555a7699a1697e95622.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Former world champ Zolani Tete ambushed, killed in South Africa</title>
-      <link>https://www.espn.com/boxing/story/_/id/49692468/former-world-champ-zolani-tete-ambushed-killed-south-africa</link>
-      <description>Former world champion boxer Zolani Tete was shot and killed at his home in South Africa, government officials said Friday. He was 38.</description>
-      <guid isPermaLink="false">44cc4d338651787a816eb4ddb4a4d136</guid>
-      <enclosure url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F1221%2Fr38212_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 16:45:27 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F1221%2Fr38212_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 04:35:12 +0000</lastBuildDate>
     <item>
       <title>Rolly Romero vs. Teofimo Lopez odds, prediction, time: Boxing picks for Aug. 22 fight card by top expert</title>
       <link>https://www.cbssports.com/boxing/news/rolly-romero-teofimo-lopez-odds-line-prediction-time-boxing-picks-for-aug-22-fight-card/</link>
@@ -281,6 +259,28 @@
       <pubDate>Sun, 23 Aug 2026 01:09:38 +0000</pubDate>
       <media:group>
         <media:content url="https://jacksoncountypilot.demo.our-hometown.com/wp-content/uploads/2018/03/logo-background.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Savea: It was like a boxing match</title>
+      <link>https://sports.yahoo.com/articles/savea-boxing-match-015945656.html</link>
+      <description>&gt;Continued from front his delight after winning in one of the toughest environments in Test rugby. “It meant everything,” he said.</description>
+      <guid isPermaLink="false">c63a743efbd91203e89202af145b9fd3</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/dcea6e5e23f41086fcb8372fe9b878e59ece64968a704c3b9365b1a2f13f0a9f/lightyear_networkapi/resizefill_w275_h215%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_rugby_paper_154%2Fd31060f033d0e81bb90778e916fc9000.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 01:59:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/dcea6e5e23f41086fcb8372fe9b878e59ece64968a704c3b9365b1a2f13f0a9f/lightyear_networkapi/resizefill_w275_h215%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_rugby_paper_154%2Fd31060f033d0e81bb90778e916fc9000.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Israel Mercado deprived by judges against Carlos Utria</title>
+      <link>https://www.boxingscene.com/articles/israel-mercado-deprived-by-judges-against-carlos-utria</link>
+      <description>Unbeaten Carlos Utria opened the pay-per-view portion of Saturday night’s Rolly Romero-Teofimo Lopez card with a jeered split-decision victory over Israel Mercado.</description>
+      <guid isPermaLink="false">6051538b1c8e7a39b8cbc4df5bb8188d</guid>
+      <enclosure url="https://photo.boxingscene.com/uploads/carlosutriaisraelmercado.webp" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 02:33:01 +0000</pubDate>
+      <media:group>
+        <media:content url="https://photo.boxingscene.com/uploads/carlosutriaisraelmercado.webp" medium="image"/>
       </media:group>
     </item>
   </channel>
