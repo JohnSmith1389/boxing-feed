@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 19:45:39 +0000</lastBuildDate>
-    <item>
-      <title>Israel Mercado deprived by judges against Carlos Utria</title>
-      <link>https://www.boxingscene.com/articles/israel-mercado-deprived-by-judges-against-carlos-utria</link>
-      <description>Unbeaten Carlos Utria opened the pay-per-view portion of Saturday night’s Rolly Romero-Teofimo Lopez card with a jeered split-decision victory over Israel Mercado.</description>
-      <guid isPermaLink="false">6051538b1c8e7a39b8cbc4df5bb8188d</guid>
-      <enclosure url="https://photo.boxingscene.com/uploads/carlosutriaisraelmercado.webp" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 02:33:01 +0000</pubDate>
-      <media:group>
-        <media:content url="https://photo.boxingscene.com/uploads/carlosutriaisraelmercado.webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 23 Aug 2026 20:20:30 +0000</lastBuildDate>
     <item>
       <title>Russell Dominates Santillan for WBA Interim Title</title>
       <link>https://fightnews.com/russell-dominates-santillan-for-wba-interim-title/194674</link>
@@ -281,6 +270,17 @@
       <pubDate>Sun, 23 Aug 2026 18:51:28 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/1d9b910fdca1d1c959188dcf3a38383b2609851e3d2a1416651064519692163c/lightyear_networkapi/resizefill_w760_h428%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F6d4115c13942ad74abce5e6e7a8d5beb.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Herring takes aim at pro boxing debut, helping put North Carolina on the map</title>
+      <link>https://www.wral.com/sports/felix-herring-boxing-august-2026/</link>
+      <description>Wallace, NC native Felix Herring makes his pro boxing debut in Raleigh on August 29th</description>
+      <guid isPermaLink="false">d0c94b6d6d3a6291c3348805f3b261c9</guid>
+      <enclosure url="https://images.wral.com/3b0076f5-0794-4a3d-af32-ea46276f1713?w=1200&amp;h=630&amp;height=630" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 19:57:46 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images.wral.com/3b0076f5-0794-4a3d-af32-ea46276f1713?w=1200&amp;h=630&amp;height=630" medium="image"/>
       </media:group>
     </item>
   </channel>
