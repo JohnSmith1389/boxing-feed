@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 21:53:39 +0000</lastBuildDate>
-    <item>
-      <title>Moses Itauma’s Record Chase Cannot Sell Hrgovic PPV</title>
-      <link>https://www.boxingnews24.com/2026/08/moses-itaumas-record-chase-cannot-sell-hrgovic-ppv/</link>
-      <description>Becoming the second-youngest heavyweight champion in boxing history is being used as the main selling point for Moses Itauma’s August 29 fight against Filip</description>
-      <guid isPermaLink="false">f0b951d72968ab98aaa17712256eddcb</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/03/Moses-Itauma-Jermaine-Franklin-results.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 09:03:34 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/03/Moses-Itauma-Jermaine-Franklin-results.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 22:24:38 +0000</lastBuildDate>
     <item>
       <title>Elite Boxing Comes to Beaver County: Six Premier Fights Set for Brady’s Run Lodge, Ellwood Fighters Among Lineup</title>
       <link>https://ellwoodcity.org/2026/08/24/elite-boxing-comes-to-beaver-county-six-premier-fights-set-for-bradys-run-lodge-ellwood-fighters-among-lineup/</link>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 24 Aug 2026 20:23:25 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_390,w_4651,h_2616/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jrnnz1b6mabhmxrn6g.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>David Benavidez targets Jai Opetaia for Cinco de Mayo after expected December return home</title>
+      <link>https://www.boxingscene.com/articles/david-benavidez-targets-jai-opetaia-for-cinco-de-mayo-after-expected-december-return-home</link>
+      <description>David Benavidez targets Jai Opetaia for Cinco de Mayo after expected December return home</description>
+      <guid isPermaLink="false">7719540fa21435148ac486567b7b9ed9</guid>
+      <enclosure url="https://photo.boxingscene.com/uploads/DavidBenavidez1.webp" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 20:54:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://photo.boxingscene.com/uploads/DavidBenavidez1.webp" medium="image"/>
       </media:group>
     </item>
   </channel>
