@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:55:40 +0000</lastBuildDate>
-    <item>
-      <title>Boxing: Teofimo Lopez beats Rolando Romero to claim WBA welterweight title</title>
-      <link>https://www.bbc.com/sport/boxing/articles/c87n7rd30vro</link>
-      <description>American Teofimo Lopez beats Rolando Romero in Las Vegas to claim the WBA welterweight title then seemingly snubs number one challenger Jack Catterall.</description>
-      <guid isPermaLink="false">adee49e8b9302dad61f8b928a3ce02e2</guid>
-      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8e9c/live/c7dd59a0-9ece-11f1-8957-ef757d61d645.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 09:14:37 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8e9c/live/c7dd59a0-9ece-11f1-8957-ef757d61d645.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 07:57:32 +0000</lastBuildDate>
     <item>
       <title>Robots compete in boxing, football and sprinting at World Humanoid Games</title>
       <link>https://www.bbc.com/news/videos/c7vgvj6e1emo</link>
@@ -277,6 +266,17 @@
       <pubDate>Mon, 24 Aug 2026 05:14:05 +0000</pubDate>
       <media:group>
         <media:content url="https://hermes.media.static.aol.com/media/2026/08/24/e7eb1101-55fb-3e19-9342-7ae437e39d73/322755cb-04ea-4966-aea6-ee905bce764d.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Mikaela Mayer vs Chantelle Cameron: Super-welterweight unification fight in Birmingham live on Sky Sports</title>
+      <link>https://www.skysports.com/boxing/news/12183/13575019/mikaela-mayer-vs-chantelle-cameron-super-welterweight-unification-fight-in-birmingham-live-on-sky-sports</link>
+      <description>The WBO, WBA and WBC titles will be on the line when Mikaela Mayer and Chantelle Cameron headline MVPW-06 in Birmingham; who will unify the super-welterweight division and take a step closer to undisputed?; watch MVPW-06: UK vs USA live on Sky Sports on August 29</description>
+      <guid isPermaLink="false">d54a1541ccb744c7f3732732bd3d16af</guid>
+      <enclosure url="https://e0.365dm.com/26/07/1600x900/skysports-mikaela-mayer-chantelle-cameron_7308644.png?20260728151755" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 08:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://e0.365dm.com/26/07/1600x900/skysports-mikaela-mayer-chantelle-cameron_7308644.png?20260728151755" medium="image"/>
       </media:group>
     </item>
   </channel>
