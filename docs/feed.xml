@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 02:44:34 +0000</lastBuildDate>
-    <item>
-      <title>Teofimo Lopez becomes 3-division champion, outboxes Rolando Romero</title>
-      <link>https://www.reviewjournal.com/sports/boxing/teofimo-lopez-becomes-3-division-champion-outboxes-rolando-romero-3868148/</link>
-      <description>Teofimo Lopez captured the WBA welterweight title Saturday at T-Mobile Arena winning a majority decision over Las Vegas native and reigning champion Rolando Romero.</description>
-      <guid isPermaLink="false">8cdfc92b0527c15dfaddf2e2f85214d9</guid>
-      <enclosure url="https://www.reviewjournal.com/wp-content/uploads/2026/08/22003810_web1_APTOPIX-Romero-Lopez-Boxing.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 04:51:45 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.reviewjournal.com/wp-content/uploads/2026/08/22003810_web1_APTOPIX-Romero-Lopez-Boxing.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 03:53:11 +0000</lastBuildDate>
     <item>
       <title>Lopez wrests Romero's WBA title by decision, now 3-weight champ</title>
       <link>https://www.espn.com/boxing/story/_/id/49698350/lopez-wrests-romero-wba-title-decision-now-3-weight-champ</link>
@@ -277,6 +266,17 @@
       <pubDate>Mon, 24 Aug 2026 01:10:10 +0000</pubDate>
       <media:group>
         <media:content url="https://image.abqjournal.com/406071.jpg?imageId=406071&amp;x=0&amp;y=6.51&amp;cropw=100&amp;croph=76.33&amp;panox=0&amp;panoy=6.51&amp;panow=100&amp;panoh=76.33&amp;width=1200&amp;height=683" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>North Carolina boxer on verge of going pro</title>
+      <link>https://www.wral.com/video/felix-herring-going-pro-boxer-august-2026/</link>
+      <description>North Carolina boxer on verge of going pro</description>
+      <guid isPermaLink="false">12c53b899002b9e4945b588751135754</guid>
+      <enclosure url="https://images.wral.com/ed67930d-b411-5cbf-a98b-723e0baf6a62?w=1200&amp;h=630&amp;f=jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 02:46:37 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images.wral.com/ed67930d-b411-5cbf-a98b-723e0baf6a62?w=1200&amp;h=630&amp;f=jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
