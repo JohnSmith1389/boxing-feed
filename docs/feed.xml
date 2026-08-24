@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 23:45:19 +0000</lastBuildDate>
-    <item>
-      <title>Yoenli Hernandez Defeats Francisco Veron By Majority Decision</title>
-      <link>https://www.boxing247.com/boxing-news/yoenli-hernandez-defeats-francisco-veron-by-majority-decision/309256</link>
-      <description>Constant pressure was not enough to overcome the cleaner punching of Yoenli Hernandez on Saturday night. The Cuban middleweight defeated Francisco Daniel</description>
-      <guid isPermaLink="false">88d2303863678c01b0e0882662654e56</guid>
-      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/08/Yoenli-Hernandez-vs-Francisco-Vergon73.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 03:44:06 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/08/Yoenli-Hernandez-vs-Francisco-Vergon73.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Can Yoenli Hernandez find top gear if he gets a shot at a middleweight title?</title>
-      <link>https://www.reviewjournal.com/sports/boxing/can-yoenli-hernandez-find-top-gear-if-he-gets-a-shot-at-a-middleweight-title-3868139/</link>
-      <description>Yoenli Hernandez scored an uninspiring 99-91, 98-92, 95-95 win over Francisco Daniel Veron on the undercard of the Romero-Lopez title fight.</description>
-      <guid isPermaLink="false">be7b7634055d12044b972763bac6ee0a</guid>
-      <enclosure url="https://www.reviewjournal.com/wp-content/uploads/2026/08/22003805_web1_Hernandez-Veron-Boxing.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 04:15:26 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.reviewjournal.com/wp-content/uploads/2026/08/22003805_web1_Hernandez-Veron-Boxing.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 01:13:38 +0000</lastBuildDate>
     <item>
       <title>Austin McBroom scores terrifying knockout over Faze Temper in Brand Risk 15 main event</title>
       <link>https://www.mmafighting.com/boxing/506708/austin-mcbroom-scores-terrifying-knockout-over-faze-temper-in-brand-risk-15-main-event</link>
@@ -282,6 +260,24 @@
       <media:group>
         <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Moses-Itauma-vs-Filip-Hrgovic6.jpg" medium="image"/>
       </media:group>
+    </item>
+    <item>
+      <title>Ryan Garcia predicts prime welterweight battle between Tommy Hearns and Floyd Mayweather</title>
+      <link>https://boxingnewsonline.net/news/garcia-predicts-hearns-vs-mayweather/</link>
+      <description>Ryan Garcia has revealed who he thinks would have come out on top in a fantasy welterweight match-up between Tommy Hearns and Floyd Mayweather.</description>
+      <guid isPermaLink="false">163207224c178e5d47b06b29ad29277d</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1787501006481328759/Tommy-Hearns-and-Floyd-Mayweather.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 21:57:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1787501006481328759/Tommy-Hearns-and-Floyd-Mayweather.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The Reality Behind Sold Out professional boxing Events...Are they REALLY Sold Out?</title>
+      <link>https://www.womenboxing.com/NEWS2026/news082326how-many-times-do-we-see-in-media-event-is-sold-out.htm</link>
+      <description>The Reality Behind Sold Out professional boxing Events...Are they REALLY Sold Out?</description>
+      <guid isPermaLink="false">bc7e6b130c8b1ba9018dca1518620f52</guid>
+      <pubDate>Sun, 23 Aug 2026 23:47:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
