@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 09:46:05 +0000</lastBuildDate>
-    <item>
-      <title>Zamorano Retains WBC Atomweight Title</title>
-      <link>https://fightnews.com/zamorano-retains-wbc-atomweight-title/194806</link>
-      <description>By Gabriel F. Cordero The charismatic and stellar young Mexican boxer Camila “La Magnífica” Zamorano (15-0, 1 KO),</description>
-      <guid isPermaLink="false">2d0042a0b21d26c83fa47c5da8e8cb3b</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/Zamorano.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 12:32:49 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/Zamorano.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Khyzhniak Wins Gold WBA Light Heavyweight Title</title>
-      <link>https://fightnews.com/khyzhniak-wins-gold-wba-light-heavyweight-title/194809</link>
-      <description>By Gabriel F. Cordero Ukrainian Olympic champion Oleksandr Khyzhniak (3-0, 2 KOs), 31, defeated experienced Argentinian Durval Palacio</description>
-      <guid isPermaLink="false">c6db2e83179d1597f6234af5f899b2c0</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/oleksandr-khyzhniak-wins-wba.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 12:41:36 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/oleksandr-khyzhniak-wins-wba.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 10:35:55 +0000</lastBuildDate>
     <item>
       <title>Bodybuilder Larry Wheels Tears Bicep in Boxing Fight vs. Vitaly on Video at Adin Ross' Brand Risk 15</title>
       <link>https://bleacherreport.com/articles/25481604-bodybuilder-larry-wheels-tears-bicep-boxing-fight-vs-vitaly-video-adin-ross-brand-risk-15</link>
@@ -277,6 +255,28 @@
       <pubDate>Mon, 24 Aug 2026 08:31:46 +0000</pubDate>
       <media:group>
         <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/42e6/live/2b70b280-9be8-11f1-8219-5943a9899f1a.png" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Elite Boxing Comes to Beaver County: Six Premier Fights Set for Brady’s Run Lodge, Ellwood Fighters Among Lineup</title>
+      <link>https://ellwoodcity.org/2026/08/24/elite-boxing-comes-to-beaver-county-six-premier-fights-set-for-bradys-run-lodge-ellwood-fighters-among-lineup/</link>
+      <description>Boxing fans in Beaver and Lawrence Counties will have a big night to look forward to this September as six premier fights come to Brady’s Run Lodge on September 11 for an event that promises to be much more than a night at the fights. The doors open at 5 p.m., with the first bell</description>
+      <guid isPermaLink="false">5478aeca458a28e7203b31b6833b23ff</guid>
+      <enclosure url="https://ellwoodcity.org/images/logo.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 09:30:56 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ellwoodcity.org/images/logo.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Mick Terrill is the Grand Daddy of 21st Century Combat Sports [Exclusive]</title>
+      <link>https://www.si.com/fannation/boxing/mick-terrill-is-the-grand-daddy-of-21st-century-combat-sports-exclusive</link>
+      <description>Former BKB heavyweight champion Mick Terrill heads to Newcastle for a bout with clear implications for the future of the BKB heavyweight title. BKB's first-ever</description>
+      <guid isPermaLink="false">4b14534c9cb34bdd20ebd5fbac13ec92</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1024,h_576/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01m0ggxdpf6xpna7gqk8.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 10:00:03 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1024,h_576/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01m0ggxdpf6xpna7gqk8.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
