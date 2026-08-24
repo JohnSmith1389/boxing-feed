@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:36:09 +0000</lastBuildDate>
-    <item>
-      <title>Maltby Academy boxing scholarship gives students fighting chance</title>
-      <link>https://www.bbc.com/news/articles/c5ydn8z50mro</link>
-      <description>Sheffield boxing champ Dalton Smith visits Maltby Academy to launch its new programme.</description>
-      <guid isPermaLink="false">ff496bcbdfd276bf38890a16868c40b1</guid>
-      <enclosure url="https://ichef.bbci.co.uk/news/1024/branded_news/de74/live/6b35fe10-9bc1-11f1-ae8a-8d57110c5ba6.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 05:14:01 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/de74/live/6b35fe10-9bc1-11f1-ae8a-8d57110c5ba6.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxing scholarship gives students fighting chance</title>
-      <link>https://www.aol.com/articles/boxing-scholarship-gives-students-fighting-051405000.html</link>
-      <description>Sheffield boxing champ Dalton Smith visits Maltby Academy to launch its new programme.</description>
-      <guid isPermaLink="false">2e3f9d54c2ddee425e1be8c11405a1ca</guid>
-      <enclosure url="https://hermes.media.static.aol.com/media/2026/08/24/e7eb1101-55fb-3e19-9342-7ae437e39d73/322755cb-04ea-4966-aea6-ee905bce764d.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 05:14:05 +0000</pubDate>
-      <media:group>
-        <media:content url="https://hermes.media.static.aol.com/media/2026/08/24/e7eb1101-55fb-3e19-9342-7ae437e39d73/322755cb-04ea-4966-aea6-ee905bce764d.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 17:29:43 +0000</lastBuildDate>
     <item>
       <title>Boxing Community Grieves Zolani Tete, Shot Dead at 38 in Home Ambush</title>
       <link>https://sports.yahoo.com/articles/boxing-community-grieves-zolani-tete-065435223.html</link>
@@ -281,6 +259,28 @@
       <pubDate>Mon, 24 Aug 2026 16:00:40 +0000</pubDate>
       <media:group>
         <media:content url="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/08/2026-05-30T022348Z_907984906_MT1USATODAY29090271_RTRMADP_3_PUERTO-RICAN-BOXER-AMANDA-SERRANO-POSES-WITH-THE-PUERTO-scaled-e1787585130559.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>TikTok earns 3.4M views for live boxing debut</title>
+      <link>https://sports.yahoo.com/articles/tiktok-earns-3-4m-views-160040655.html</link>
+      <description>In what was perhaps an under-the-radar sports media story this past weekend, TikTok made its first major foray into live sports streaming as the exclusive broadcaster for Puerto Rican boxer Amanda Serrano’s WBA and WBO featherweight title defense against Argentine challenger Lucr</description>
+      <guid isPermaLink="false">ca766807d8a50eba087042c0337a6821</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/c34da92ec58c09037f7231c5c8e1e5d1479e1cdb05aba2692daa93f721aab37e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fawful_announcing_173%2Fdde12ac34fe8f6a64bfe5092a34519a5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 16:00:40 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/c34da92ec58c09037f7231c5c8e1e5d1479e1cdb05aba2692daa93f721aab37e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fawful_announcing_173%2Fdde12ac34fe8f6a64bfe5092a34519a5.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Meet Emily Austin: The Boxing Mainstay Part of Jake Paul's MVP Broadcast Team</title>
+      <link>https://www.si.com/onsi/athlete-lifestyle/meet-emily-austin-boxing-mainstay-part-jake-paul-mvp-broadcast-team</link>
+      <description>Some fun facts about the sportscaster who brings her boxing star power and eye-catching fits ringside for MVP.</description>
+      <guid isPermaLink="false">a9afa5cb1b88600516e20d581fb2ef43</guid>
+      <enclosure url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_113,w_1970,h_1108/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/the_athlete_lifestyle_on_si/01m0d8bqv80fmxbtx5ap.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 16:37:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_113,w_1970,h_1108/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/the_athlete_lifestyle_on_si/01m0d8bqv80fmxbtx5ap.png" medium="image"/>
       </media:group>
     </item>
   </channel>
