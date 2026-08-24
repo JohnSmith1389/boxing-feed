@@ -7,51 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:57:32 +0000</lastBuildDate>
-    <item>
-      <title>Robots compete in boxing, football and sprinting at World Humanoid Games</title>
-      <link>https://www.bbc.com/news/videos/c7vgvj6e1emo</link>
-      <description>The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.</description>
-      <guid isPermaLink="false">8063a72c7c4d33b4ca8359f76fb80434</guid>
-      <enclosure url="https://ichef.bbci.co.uk/news/1024/branded_news/7317/live/a6132ae0-9ed6-11f1-a291-b542ee92de7c.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 09:42:05 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/7317/live/a6132ae0-9ed6-11f1-a291-b542ee92de7c.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Robots compete in boxing, football and sprinting at World Humanoid Games</title>
-      <link>https://www.bbc.co.uk/news/videos/c7vgvj6e1emo</link>
-      <description>The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.</description>
-      <guid isPermaLink="false">93e6a1f1647cf964a7bc9cdbc0b11465</guid>
-      <enclosure url="https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7317/live/a6132ae0-9ed6-11f1-a291-b542ee92de7c.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 09:42:05 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7317/live/a6132ae0-9ed6-11f1-a291-b542ee92de7c.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>South Africa’s former boxing champion Tete shot dead outside home</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/23/south-africas-former-boxing-champion-tete-shot-dead-outside-home</link>
-      <description>South Africa’s former boxing champion Tete shot dead outside home</description>
-      <guid isPermaLink="false">453bc23db4c49e6fddae75811a031bcd</guid>
-      <enclosure url="https://www.aljazeera.com/wp-content/uploads/2026/08/TETE-1787481557.jpg?resize=1920%2C1417" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 10:39:30 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.aljazeera.com/wp-content/uploads/2026/08/TETE-1787481557.jpg?resize=1920%2C1417" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Jaden &amp; Julian Newman Allegedly Get Into Fight After Julian's Boxing Win</title>
-      <link>https://www.hotnewhiphop.com/1006955-jaden-julian-newman-fight-after-boxing-win</link>
-      <description>The Newman family seemed very supportive of each other at Julian's boxing match, which makes this alleged fight with his sister Jaden odd.</description>
-      <guid isPermaLink="false">c94dc764d5177ab6b79e0628246391a5</guid>
-      <enclosure url="https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/08/Jaden-Julian-Newman-Fight-After-Boxing-Win.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 11:34:54 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/08/Jaden-Julian-Newman-Fight-After-Boxing-Win.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 08:54:15 +0000</lastBuildDate>
     <item>
       <title>Zamorano Retains WBC Atomweight Title</title>
       <link>https://fightnews.com/zamorano-retains-wbc-atomweight-title/194806</link>
@@ -192,6 +148,17 @@
       <pubDate>Sun, 23 Aug 2026 23:47:12 +0000</pubDate>
     </item>
     <item>
+      <title>Joe Joyce Wants Return Despite Suslenkov Memory Blank</title>
+      <link>https://www.boxingnews24.com/2026/08/joe-joyce-wants-return-despite-suslenkov-memory-blank/</link>
+      <description>Joe Joyce intends to continue boxing at 40 despite admitting he could not remember why he surrendered during his 11th-round stoppage loss to Artem Suslenkov</description>
+      <guid isPermaLink="false">8f3041d5c3922e98d2e2a770935e942d</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Joe-Joyce5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 00:04:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Joe-Joyce5.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>New promoters aim to expand Albuquerque boxing</title>
       <link>https://www.abqjournal.com/sports/more-promoters-join-the-albuquerque-boxing-scene/3108106</link>
       <description>Prime Time Promotions and Moreu Boxing Promotions join Albuquerque's growing boxing scene, aiming to create more opportunities for New Mexico fighters.</description>
@@ -277,6 +244,39 @@
       <pubDate>Mon, 24 Aug 2026 08:00:00 +0000</pubDate>
       <media:group>
         <media:content url="https://e0.365dm.com/26/07/1600x900/skysports-mikaela-mayer-chantelle-cameron_7308644.png?20260728151755" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Come to the gym with Barrett Hanlon to train for his pro boxing debut</title>
+      <link>https://www.metrowestdailynews.com/videos/sports/2026/08/24/barrett-hanlon-boxing-hopkinton-pro-debut-encore-boston-harbor-fight-night/91410326007/</link>
+      <description>Come to the gym with Barrett Hanlon to train for his pro boxing debut</description>
+      <guid isPermaLink="false">deba2900acd1737b1d3ff792324a3a1b</guid>
+      <enclosure url="https://www.metrowestdailynews.com/gcdn/authoring/authoring-images/2026/08/18/NMWD/91361025007-boston-barrett-hanlon-speedbag.jpg?crop=2999,1687,x0,y0&amp;width=2999&amp;height=1687&amp;format=pjpg&amp;auto=webp" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 08:03:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.metrowestdailynews.com/gcdn/authoring/authoring-images/2026/08/18/NMWD/91361025007-boston-barrett-hanlon-speedbag.jpg?crop=2999,1687,x0,y0&amp;width=2999&amp;height=1687&amp;format=pjpg&amp;auto=webp" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Barrett Hanlon boxing at Encore in pro debut. 'He absolutely cracks'</title>
+      <link>https://www.metrowestdailynews.com/story/sports/2026/08/24/barrett-hanlon-boxing-hopkinton-encore-fight-night-ratavious-thrasher/91303295007/</link>
+      <description>Barrett Hanlon found boxing after his college basketball career ended. The Hopkinton High grad is making his pro debut at the Encore Boston Harbor.</description>
+      <guid isPermaLink="false">984bdc9d41c01fbd4317e69c69b6069c</guid>
+      <enclosure url="https://www.gannett-cdn.com/authoring/authoring-images/2026/08/18/NMWD/91361024007-boston-barett-hanlon-practicing.jpg?auto=webp&amp;crop=2999,1688,x0,y190&amp;format=pjpg&amp;width=1200" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 08:03:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.gannett-cdn.com/authoring/authoring-images/2026/08/18/NMWD/91361024007-boston-barett-hanlon-practicing.jpg?auto=webp&amp;crop=2999,1688,x0,y190&amp;format=pjpg&amp;width=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Itauma vs Hrgovic: Chantelle Cameron vs Mikaela Mayer date, ringwalk, UK time, undercard, venue, records &amp; how to follow on the BBC</title>
+      <link>https://www.bbc.com/sport/boxing/articles/ckg6pnjdkl6o</link>
+      <description>All you need to know about Moses Itauma v Filip Hrgovic and Mikaela Mayer v Chantelle Cameron Saturday.</description>
+      <guid isPermaLink="false">514bcafdc88cc64b95872cf9cef84c44</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/42e6/live/2b70b280-9be8-11f1-8219-5943a9899f1a.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 08:31:46 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/42e6/live/2b70b280-9be8-11f1-8219-5943a9899f1a.png" medium="image"/>
       </media:group>
     </item>
   </channel>
