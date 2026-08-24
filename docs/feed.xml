@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 19:54:33 +0000</lastBuildDate>
-    <item>
-      <title>Zolani Tete: Four arrested over boxing champion's murder in South Africa</title>
-      <link>https://www.bbc.com/news/articles/cg7k9rmnzp7o</link>
-      <description>One of the suspects is due in court on Monday to be charged with murder and attempted murder.</description>
-      <guid isPermaLink="false">02f4e6e45275e670ae8fcd3844899b47</guid>
-      <enclosure url="https://ichef.bbci.co.uk/news/1024/branded_news/268e/live/95256940-9f90-11f1-9fae-bbc7231f436d.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 08:32:46 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ichef.bbci.co.uk/news/1024/branded_news/268e/live/95256940-9f90-11f1-9fae-bbc7231f436d.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 20:28:48 +0000</lastBuildDate>
     <item>
       <title>Mikaela Mayer vs. Chantelle Cameron: How the 'easiest pound-for-pound match-up ever made' was agreed</title>
       <link>https://www.espn.com/boxing/story/_/id/49638439/mikaela-mayer-vs-chantelle-cameron-how-easiest-pound-pound-match-ever-made-was-agreed</link>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 24 Aug 2026 18:50:35 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/5dcd836e18559a16d5b4cefbb594f54a5a262981fd7348c8f274b47a8a437275/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2Ff7dfdaca-bf04-4dcd-9a77-5fe6ee2f823c" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Moses Itauma vs Filip Hrgovic, Cameron vs Mayer, Tszyu, Martinez, Lara: Boxing schedule and previews for August 26-29, 2026</title>
+      <link>https://www.badlefthook.com/boxing-schedule/118101/how-to-watch-moses-itauma-filip-hrgovic-mikaela-mayer-chantelle-cameron-tszyu-martinez-lara-streaming-tv-schedule-boxing-news-2026</link>
+      <description>Itauma vs Hrgovic for the IBF belt, Cameron and Mayer unify, and much more this week in boxing!</description>
+      <guid isPermaLink="false">2b23d5393138a18a9efeccca0de5e1d7</guid>
+      <enclosure url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/06/gettyimages-2268832888.jpg?quality=90&amp;strip=all&amp;crop=0%2C2.9382632621296%2C100%2C78.524692130533&amp;w=1200" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 19:46:06 +0000</pubDate>
+      <media:group>
+        <media:content url="https://platform.badlefthook.com/wp-content/uploads/sites/18/2026/06/gettyimages-2268832888.jpg?quality=90&amp;strip=all&amp;crop=0%2C2.9382632621296%2C100%2C78.524692130533&amp;w=1200" medium="image"/>
       </media:group>
     </item>
   </channel>
