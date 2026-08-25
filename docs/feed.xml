@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:54:43 +0000</lastBuildDate>
-    <item>
-      <title>Mortensen prevails in dramatic finish against Flores</title>
-      <link>https://www.wbaboxing.com/boxing-news/mortensen-prevails-in-dramatic-finish-against-flores</link>
-      <description>In a high-intensity clash of styles at Pechanga Resort Casino in Temecula, California, Denmark’s Melissa Mortensen preserved her unbeaten record...</description>
-      <guid isPermaLink="false">ae980538b85a95803573c473860dc736</guid>
-      <enclosure url="https://i0.wp.com/www.wbaboxing.com/wp-content/uploads/2026/08/5a4d9ef6-4daf-4a41-93d1-07e9b4f7911d.jpg?fit=900%2C1200&amp;ssl=1" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 18:01:37 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i0.wp.com/www.wbaboxing.com/wp-content/uploads/2026/08/5a4d9ef6-4daf-4a41-93d1-07e9b4f7911d.jpg?fit=900%2C1200&amp;ssl=1" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 12:44:17 +0000</lastBuildDate>
     <item>
       <title>Gary Antonio Russell dominates Santillán to capture interim WBA crown</title>
       <link>https://www.wbaboxing.com/boxing-news/gary-antonio-russell-dominates-santillan-to-capture-interim-wba-crown</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 25 Aug 2026 10:00:04 +0000</pubDate>
       <media:group>
         <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_40,w_3600,h_2025/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/boxing/01jv8ng0pdecywsmd633.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Alycia Baumgardner, Elif Nur Turhan lightweight title clash set for November</title>
+      <link>https://www.espn.com/boxing/story/_/id/49713107/alycia-baumgardner-elif-nur-turhan-lightweight-title-clash-set-november</link>
+      <description>Alycia Baumgardner will take on IBF lightweight champion Elif Nur Turhan on Nov. 8 in Arlington, Texas, Most Valuable Promotions have confirmed.</description>
+      <guid isPermaLink="false">e2cf4acd77e3e0b00b277c4024647287</guid>
+      <enclosure url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0824%2Fr1706524_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0824%2Fr1706524_1296x729_16%2D9.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
