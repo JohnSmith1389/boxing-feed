@@ -7,40 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 01:11:36 +0000</lastBuildDate>
-    <item>
-      <title>4 arrested after world champion boxer Zolani Tete shot dead, woman injured in South Africa</title>
-      <link>https://www.cbsnews.com/news/zolani-tete-murder-champion-boxer-killed-south-africa-arrests/</link>
-      <description>Zolani Tete made history in 2017 when he took just 11 seconds to knock out his opponent with his first punch to retain his WBO bantamweight crown.</description>
-      <guid isPermaLink="false">dafa91da0711eefcd54d7d6692dd9e09</guid>
-      <enclosure url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/24/9be5bc7a-75b8-41c0-b644-d63fd418d568/thumbnail/1200x630/a85c9275d59c363f17761fba5db34275/ap769321253231.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 11:36:51 +0000</pubDate>
-      <media:group>
-        <media:content url="https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/24/9be5bc7a-75b8-41c0-b644-d63fd418d568/thumbnail/1200x630/a85c9275d59c363f17761fba5db34275/ap769321253231.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Risk Worth Taking For IBF # 1 Welterweight Paddy Donovan On Sept. 5th In Dublin</title>
-      <link>https://fightnews.com/risk-worth-taking-for-ibf-1-welterweight-paddy-donovan-on-sept-5th-in-dublin/194860</link>
-      <description>International Boxing Federation (IBF) No. 1 world welterweight contender Paddy “The Real Deal” Donovan isn’t concerned about risking</description>
-      <guid isPermaLink="false">19c81e425bace828bfda16dcb460e147</guid>
-      <enclosure url="https://fightnews.com/wp-content/uploads/unnamed-256.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 11:50:41 +0000</pubDate>
-      <media:group>
-        <media:content url="https://fightnews.com/wp-content/uploads/unnamed-256.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>South African police arrest 4 in the killing of former champion boxer Zolani Tete</title>
-      <link>https://abcnews.com/International/wireStory/south-african-police-arrest-4-killing-former-champion-135898827</link>
-      <description>South African police have arrested four suspects in the killing of former world champion boxer Zolani Tete</description>
-      <guid isPermaLink="false">23584c3754684c43b5d8192566b68079</guid>
-      <enclosure url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 11:54:02 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 02:38:06 +0000</lastBuildDate>
     <item>
       <title>South African police arrest 4 in the killing of former champion boxer Zolani Tete</title>
       <link>https://www.seattlepi.com/news/world/south-african-police-arrest-4-in-the-killing-of-a22400722</link>
@@ -262,6 +229,28 @@
       </media:group>
     </item>
     <item>
+      <title>"I'm going to beat him": Undefeated world champion says he is the man to defeat Shakur Stevenson</title>
+      <link>https://boxingnewsonline.net/news/champ-says-he-is-man-to-beat-stevenson/</link>
+      <description>A world champion has expressed his “big belief” in defeating Shakur Stevenson, who is still yet to announce an opponent for his Zuffa Boxing debut.</description>
+      <guid isPermaLink="false">bf78dad6ab2cdc2946443cefae96c4ff</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1787608504070409225/shakur-stevenson-in-ring.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 21:55:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1787608504070409225/shakur-stevenson-in-ring.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>William Zepeda Owes Jadier Herrera The First Shot</title>
+      <link>https://www.boxingnews24.com/2026/08/william-zepeda-owes-jadier-herrera-the-first-shot/</link>
+      <description>William Zepeda has two dangerous Cuban lightweights calling for his attention, but only one already owns a WBC belt. Jadier Herrera should face Zepeda first</description>
+      <guid isPermaLink="false">0921e86df16b5edfa567f0cdf2d0245a</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Zepeda-vs-Roach0042.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 23:22:40 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Zepeda-vs-Roach0042.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Jesús Ramos Jr. To Hold Media Workout In Casa Grande, AZ</title>
       <link>https://fightnews.com/jesus-ramos-jr-to-hold-media-workout-in-casa-grande-az/194902</link>
       <description>Rising Mexican star and Interim WBC Middleweight Champion Jesús “Mono” Ramos Jr. will hold a media workout in</description>
@@ -281,6 +270,17 @@
       <pubDate>Mon, 24 Aug 2026 23:40:38 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/unnamed1-69.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Results from Rio Negro, Argentina</title>
+      <link>https://fightnews.com/results-from-rio-negro-argentina/194915</link>
+      <description>By Gabriel F. Cordero Christian Luis (15-5, 10 KOs) WKO3 to Salvador Piccolo (6-1, 2 KOs) Argentine Boxing</description>
+      <guid isPermaLink="false">8198b3e725ccc878b0d8ad300d80a4b0</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/image-26.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 00:32:25 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/image-26.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
