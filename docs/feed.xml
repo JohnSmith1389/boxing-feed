@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:33:34 +0000</lastBuildDate>
-    <item>
-      <title>Trump busted by boxing legend for cheating at golf: 'Don't lie about moving your ball'</title>
-      <link>https://www.rawstory.com/trumpo-golf-cheating/</link>
-      <description>Boxing legend Oscar De La Hoya had nothing good to say about a round of golf with President Donald Trump, accusing him of cheating in multiple ways.According to a report from the Daily Mail, De La Hoya has claimed the president repeatedly bent the rules in his favor during a roun</description>
-      <guid isPermaLink="false">fece11e86c7dfd836469649a940172ea</guid>
-      <enclosure url="https://www.rawstory.com/media-library/file-photo-eric-trump-speaks-with-his-father-u-s-president-donald-trump-on-the-day-of-the-grand-opening-of-trump-internation.jpg?id=61991193&amp;width=1200&amp;height=600&amp;coordinates=0%2C491%2C0%2C492" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 16:11:59 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.rawstory.com/media-library/file-photo-eric-trump-speaks-with-his-father-u-s-president-donald-trump-on-the-day-of-the-grand-opening-of-trump-internation.jpg?id=61991193&amp;width=1200&amp;height=600&amp;coordinates=0%2C491%2C0%2C492" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 10:31:21 +0000</lastBuildDate>
     <item>
       <title>Meet Emily Austin: The Boxing Mainstay Part of Jake Paul's MVP Broadcast Team</title>
       <link>https://www.si.com/onsi/athlete-lifestyle/meet-emily-austin-boxing-mainstay-part-jake-paul-mvp-broadcast-team</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 25 Aug 2026 09:07:28 +0000</pubDate>
       <media:group>
         <media:content url="https://media.boxing-social.com/boxingsocial/2026/08/25100709/joel-muniz-_wCdhOulQVc-unsplash-2.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ties That Bind Us: Down to Box builds skills, friendship through boxing</title>
+      <link>https://www.coasttv.com/features/ties_that_bind/ties-that-bind-us-down-to-box-builds-skills-friendship-through-boxing/article_f77ac2e5-40f2-44bb-a09a-0e4fd93ad2d1.html</link>
+      <description>Down to Box gives people with intellectual and developmental disabilities a place to exercise, build boxing skills and connect with others. At Five Points Boxing Club, athletes gain confidence, strength and friendship without competition through the program.</description>
+      <guid isPermaLink="false">2dcb16960042b4a8533e54a665be982d</guid>
+      <enclosure url="https://bloximages.newyork1.vip.townnews.com/coasttv.com/content/tncms/assets/v3/editorial/f/77/f77ac2e5-40f2-44bb-a09a-0e4fd93ad2d1/6a8d1bd288ced.social.png?resize=1500%2C817" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 10:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloximages.newyork1.vip.townnews.com/coasttv.com/content/tncms/assets/v3/editorial/f/77/f77ac2e5-40f2-44bb-a09a-0e4fd93ad2d1/6a8d1bd288ced.social.png?resize=1500%2C817" medium="image"/>
       </media:group>
     </item>
   </channel>
