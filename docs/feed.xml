@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:40:22 +0000</lastBuildDate>
-    <item>
-      <title>TikTok earns 3.4M views for live boxing debut</title>
-      <link>https://sports.yahoo.com/articles/tiktok-earns-3-4m-views-160040655.html</link>
-      <description>In what was perhaps an under-the-radar sports media story this past weekend, TikTok made its first major foray into live sports streaming as the exclusive broadcaster for Puerto Rican boxer Amanda Serrano’s WBA and WBO featherweight title defense against Argentine challenger Lucr</description>
-      <guid isPermaLink="false">ca766807d8a50eba087042c0337a6821</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/c34da92ec58c09037f7231c5c8e1e5d1479e1cdb05aba2692daa93f721aab37e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fawful_announcing_173%2Fdde12ac34fe8f6a64bfe5092a34519a5.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 16:00:40 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/c34da92ec58c09037f7231c5c8e1e5d1479e1cdb05aba2692daa93f721aab37e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fawful_announcing_173%2Fdde12ac34fe8f6a64bfe5092a34519a5.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 09:33:34 +0000</lastBuildDate>
     <item>
       <title>Trump busted by boxing legend for cheating at golf: 'Don't lie about moving your ball'</title>
       <link>https://www.rawstory.com/trumpo-golf-cheating/</link>
@@ -281,6 +270,17 @@
       <pubDate>Tue, 25 Aug 2026 06:01:25 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/18550d187e747a87ac85529113285da13de33565f497b6fcdbe1c3fa61cce11d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2Fbbb260fcdbca1e49b31da164e610e7f6.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Chasing Tyson: Can Moses Itauma’s Explosive Power Overwhelm Filip Hrgović?</title>
+      <link>https://boxing-social.com/x-not-to-newsnow/chasing-tyson-can-moses-itaumas-explosive-power-overwhelm-filip-hrgovic/</link>
+      <description>Saturday, August 29 could be a monumental day for heavyweight boxing, as rising British star Moses Itauma seeks to emulate Mike Tyson and become the youngest champion in the weight class since the American. In his way stands Croatian veteran Filip Hrgović, but the 21-year-old is </description>
+      <guid isPermaLink="false">933eb57d5f6c52b3cb75546a524a38ec</guid>
+      <enclosure url="https://media.boxing-social.com/boxingsocial/2026/08/25100709/joel-muniz-_wCdhOulQVc-unsplash-2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 09:07:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://media.boxing-social.com/boxingsocial/2026/08/25100709/joel-muniz-_wCdhOulQVc-unsplash-2.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
