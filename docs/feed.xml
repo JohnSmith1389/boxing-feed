@@ -7,29 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:46:51 +0000</lastBuildDate>
-    <item>
-      <title>Shakur Stevenson says one former lightweight champion is 'the most underrated boxer of all time'</title>
-      <link>https://boxingnewsonline.net/news/stevenson-on-most-underrated-boxer-ever/</link>
-      <description>Shakur Stevenson has offered a somewhat surprising selection for the most underrated fighter of all time.</description>
-      <guid isPermaLink="false">adcaf56580cb3b193eff8d989d445679</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1787681681161224276/shakur-stevenson-press-conference.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 18:15:51 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1787681681161224276/shakur-stevenson-press-conference.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Hull bare knuckle boxer lands chance of a lifetime against son of Roberto Duran</title>
-      <link>https://uk.sports.yahoo.com/news/hull-bare-knuckle-boxer-lands-181908509.html</link>
-      <description>Ryan Spivey has flown to Miami to fight Roberto Duran Jr</description>
-      <guid isPermaLink="false">23acc3db8df2224b4bdacb6f7e6e60ab</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/67b029dd13e924bdfd9570053a6a8aac8288651b210bdb9090b2ce77cd517b8e/lightyear_networkapi/resizefill_w810_h539%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhull_live_176%2Fd3c46738972ac29f46c05959a4fb49a4.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 18:19:08 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/67b029dd13e924bdfd9570053a6a8aac8288651b210bdb9090b2ce77cd517b8e/lightyear_networkapi/resizefill_w810_h539%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhull_live_176%2Fd3c46738972ac29f46c05959a4fb49a4.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 07:44:30 +0000</lastBuildDate>
     <item>
       <title>Rock Steady Boxing Fishhawk helps Parkinson's patients fight back one punch at a time</title>
       <link>https://www.tampabay28.com/sports/rock-steady-boxing-fishhawk-helps-parkinsons-patients-fight-back-one-punch-at-a-time</link>
@@ -281,6 +259,28 @@
       <pubDate>Wed, 26 Aug 2026 05:59:55 +0000</pubDate>
       <media:group>
         <media:content url="https://centralca.cdn-anvilcms.net/media/images/2026/08/26/images/boxing_1.max-640x480.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>From influencers to queens of women's boxing</title>
+      <link>https://sports.yahoo.com/articles/influencers-queens-womens-boxing-five-062834501.html</link>
+      <description>On Saturday, Most Valuable Promotions celebrates its fifth anniversary. One of the feistiest upstarts in modern boxing has given a new platform to the world's best female fighters.</description>
+      <guid isPermaLink="false">aea3f9747fca819386f76a568fec667a</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/6160f0d49b5fd5807da34561a624ca90f74812db0e17a70adae9a344aafae561/lightyear_networkapi/resizefill_w819_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8a87dd7f53ce2389a1e60d7a82e9b6e4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 06:28:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/6160f0d49b5fd5807da34561a624ca90f74812db0e17a70adae9a344aafae561/lightyear_networkapi/resizefill_w819_h461%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8a87dd7f53ce2389a1e60d7a82e9b6e4.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Claressa Shields Wants Beyoncé To Walk Her To The Ring Before Boxing Retirement</title>
+      <link>https://www.tmz.com/2026/08/26/claressa-shields-wants-beyonce-walk-her-to-boxing-ring/</link>
+      <description>Claressa Shields has accomplished just about everything in the boxing ring ... but there's still one more MUST on her bucket list -- Beyoncé!</description>
+      <guid isPermaLink="false">4a3a005655ddcb8f40103d674dbfcf7a</guid>
+      <enclosure url="https://imagez.tmz.com/image/97/16by9/2026/08/25/973bbddeff1046ba857fded720640de0_xl.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 07:30:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://imagez.tmz.com/image/97/16by9/2026/08/25/973bbddeff1046ba857fded720640de0_xl.png" medium="image"/>
       </media:group>
     </item>
   </channel>
