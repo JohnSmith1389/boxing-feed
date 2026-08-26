@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:41:23 +0000</lastBuildDate>
-    <item>
-      <title>Toro Boxing</title>
-      <link>https://www.hellogeorgetown.com/business-directory/toro-boxing/</link>
-      <description>Building champions in the ring and in life. Boxing for all ages and skill levels in Georgetown, Texas</description>
-      <guid isPermaLink="false">ca00c824ea8afff46adb8e2f5d676220</guid>
-      <enclosure url="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2798/files/2026/08/toro-boxing-1200x675.png" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 19:04:49 +0000</pubDate>
-      <media:group>
-        <media:content url="https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2798/files/2026/08/toro-boxing-1200x675.png" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 09:39:33 +0000</lastBuildDate>
     <item>
       <title>HBO orders boxing comedy set in Las Vegas</title>
       <link>https://neon.reviewjournal.com/tv/hbo-orders-boxing-comedy-set-in-las-vegas-3341072/</link>
@@ -281,6 +270,17 @@
       <pubDate>Wed, 26 Aug 2026 07:43:14 +0000</pubDate>
       <media:group>
         <media:content url="https://www.vmcdn.ca/f/files/classifieds/716816/58a5903b-fdd3-491c-945d-45991ec5635f.jpg;w=640" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>~@!FREE![LIVESTREA.Ms!Boxing]Ben Mahoney vs Nikita Tszyu 𝐋𝐈𝐕𝐄 Ｆｒｅｅ 𝐒𝐭𝐑𝐞𝐀𝐦 On</title>
+      <link>https://www.griceconnect.com/classifieds/announcements-and-events/volunteers-needed/2139680</link>
+      <description>~@!FREE![LIVESTREA.Ms!Boxing]Ben Mahoney vs Nikita Tszyu 𝐋𝐈𝐕𝐄 Ｆｒｅｅ 𝐒𝐭𝐑𝐞𝐀𝐦 OnNikita Tszyu is on the verge of crashing into the world title picture.</description>
+      <guid isPermaLink="false">d817159ac7cbc0bc7240ac7c886a9199</guid>
+      <enclosure url="https://www.vmcdn.ca/f/files/classifieds/716816/0bc2542e-2ff7-4894-92c8-f16cc69ccb08.jpg;w=640" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 08:57:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.vmcdn.ca/f/files/classifieds/716816/0bc2542e-2ff7-4894-92c8-f16cc69ccb08.jpg;w=640" medium="image"/>
       </media:group>
     </item>
   </channel>
