@@ -7,18 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 05:33:19 +0000</lastBuildDate>
-    <item>
-      <title>Three former Reading FC stars to fight in charity boxing match</title>
-      <link>https://uk.sports.yahoo.com/news/three-former-reading-fc-stars-180000866.html</link>
-      <description>Former Reading FC stars Harlee Dean, Leroy Lita, and Simon Cox are gearing up for a charity boxing match in October.</description>
-      <guid isPermaLink="false">fe4a5cca251de3de973e4970a322fafb</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/30bde7da92fe2d2822010cce3463da6b260ef7ad1f73cfc94b232dba0b252a18/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freading_chronicle_901%2F0920dec3e13363eb18f9839d119eb620.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 18:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/30bde7da92fe2d2822010cce3463da6b260ef7ad1f73cfc94b232dba0b252a18/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freading_chronicle_901%2F0920dec3e13363eb18f9839d119eb620.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 06:46:51 +0000</lastBuildDate>
     <item>
       <title>Shakur Stevenson says one former lightweight champion is 'the most underrated boxer of all time'</title>
       <link>https://boxingnewsonline.net/news/stevenson-on-most-underrated-boxer-ever/</link>
@@ -281,6 +270,17 @@
       <pubDate>Wed, 26 Aug 2026 02:14:41 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/9296cd9f07bd3fad46fecdf265c009e400044315823602ac9f5d64bdb3174c12/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F8bea5e7b764a62b3dbdaefcec6deaa98.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Turlock brothers help Teofimo Lopez ring in boxing history</title>
+      <link>https://www.turlockjournal.com/sports/community/turlock-brothers-help-teofimo-lopez-ring-in-boxing-history/</link>
+      <description>LAS VEGAS — Teofimo Lopez had a little help from his friends as he entered T-Mobile Arena to challenge close friend Rolly Romero for the WBA Welterweight World Championship on Saturday night.</description>
+      <guid isPermaLink="false">76dda18b8a9d1ac7ea97750ce2a3d6f8</guid>
+      <enclosure url="https://centralca.cdn-anvilcms.net/media/images/2026/08/26/images/boxing_1.max-640x480.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 05:59:55 +0000</pubDate>
+      <media:group>
+        <media:content url="https://centralca.cdn-anvilcms.net/media/images/2026/08/26/images/boxing_1.max-640x480.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
