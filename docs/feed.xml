@@ -7,51 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 23:03:01 +0000</lastBuildDate>
-    <item>
-      <title>Boxing: Ishii betters Inoue record for Japan's fastest world title knockout</title>
-      <link>https://english.kyodonews.net/articles/-/83820</link>
-      <description>Takeshi Ishii rewrote Naoya Inoue's record for the fastest knockout by a Japanese male boxer in a world title bout on Wednesday as he seized the WBA minimumweight belt against Wilfredo Mendez of Puerto Rico.</description>
-      <guid isPermaLink="false">0fafc2af1f03c09ae8350e21ca3aa13a</guid>
-      <enclosure url="https://english-kyodo.ismcdn.jp/mwimgs/f/9/1200x/img_f97a409ededb7da2aa5eefeef1268994899639.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Sep 2026 13:41:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://english-kyodo.ismcdn.jp/mwimgs/f/9/1200x/img_f97a409ededb7da2aa5eefeef1268994899639.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Honoring A Legacy — Holy Trinity Boxing Club, West Belfast</title>
-      <link>https://wbcboxing.com/en/honoring-a-legacy-holy-trinity-boxing-club-west-belfast/</link>
-      <description>Honoring A Legacy — Holy Trinity Boxing Club, West Belfast Tonight was a very special evening at the historic Holy Trinity Boxing Club in West Belfast, […]</description>
-      <guid isPermaLink="false">649f4991fb9beaccd2db4f77595746f4</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/09/notekn1.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Sep 2026 13:44:48 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/09/notekn1.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Women's boxing supremacy as fighters brace for bruising clash</title>
-      <link>https://novanews.co.za/bloemnewsexpress/womens-boxing-supremacy-as-fighters-brace-for-bruising-clash/</link>
-      <description>A women's boxing rivalry intensified as Mokatsane seeks redemption against Nonina in a highly anticipated bout.</description>
-      <guid isPermaLink="false">e9e7513d21e1bd5ec81d9c10e3732587</guid>
-      <enclosure url="https://novanews.co.za/bloemnewsexpress/wp-content/uploads/2026/09/Bukiwe-Nonina-v-Matshediso-Mokatsaneleft-in-previous-bout-e1788357146339.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Sep 2026 13:51:15 +0000</pubDate>
-      <media:group>
-        <media:content url="https://novanews.co.za/bloemnewsexpress/wp-content/uploads/2026/09/Bukiwe-Nonina-v-Matshediso-Mokatsaneleft-in-previous-bout-e1788357146339.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>In September, the WBC Joins the Fight Against Alzheimer’s</title>
-      <link>https://wbcboxing.com/en/in-september-the-wbc-joins-the-fight-against-alzheimers/</link>
-      <description>In September, the WBC Joins the Fight Against Alzheimer’s Our lives are built on memories. Every victory, every embrace, every step along our journey is etched […]</description>
-      <guid isPermaLink="false">4f5d46f6576dcd52803dea913bfb95fb</guid>
-      <enclosure url="https://wbcboxing.com/wp-content/uploads/2026/09/alzhaimer-wbccares.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 02 Sep 2026 13:55:32 +0000</pubDate>
-      <media:group>
-        <media:content url="https://wbcboxing.com/wp-content/uploads/2026/09/alzhaimer-wbccares.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 01:17:16 +0000</lastBuildDate>
     <item>
       <title>Jubani to box at Youth Olympic Games.</title>
       <link>https://boxingireland.ie/jubani-to-box-at-youth-olympic-games/</link>
@@ -203,6 +159,17 @@
       </media:group>
     </item>
     <item>
+      <title>Wladimir Klitschko called out for comeback fight against fellow Hall of Fame legend: "I would KO him"</title>
+      <link>https://boxingnewsonline.net/news/klitschko-called-out-by-hall-of-famer/</link>
+      <description>Wladimir Klitschko retired in 2017 after having one of the most impressive reigns as a heavyweight world champion, but the Ukrainian superstar has now been</description>
+      <guid isPermaLink="false">d0f118db2cf007bc64fea48b02c4ab36</guid>
+      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1788378252199628715/wladimir-klitschko.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Sep 2026 19:45:17 +0000</pubDate>
+      <media:group>
+        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1788378252199628715/wladimir-klitschko.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Corpus Christi boxer Julian Delgado retires, citing faith and community calling</title>
       <link>https://www.kristv.com/news/local-news/in-your-neighborhood/corpus-christi/corpus-christi-boxer-julian-delgado-retires-citing-faith-and-community-calling</link>
       <description>Corpus Christi boxer Julian "King Julian" Delgado retires after 5 years, citing his faith and a calling to serve his community.</description>
@@ -222,6 +189,17 @@
       <pubDate>Wed, 02 Sep 2026 20:40:47 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/Canelo.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>'40 is the new 30' - Taylor limbers up in public workout</title>
+      <link>https://www.rte.ie/sport/boxing/2026/0902/1590140-40-is-the-new-30-taylor-limbers-up-in-public-workout/</link>
+      <description>Katie Taylor reassured people that "40 is the new 30" at her public workout session in the Helix theatre three days out from her final professional fight against Flora Pili in Croke Park.</description>
+      <guid isPermaLink="false">597f7f8793125731749a29156d780da6</guid>
+      <enclosure url="https://www.rte.ie/images/0024f21f-1600.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Sep 2026 20:48:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.rte.ie/images/0024f21f-1600.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -269,6 +247,17 @@
       </media:group>
     </item>
     <item>
+      <title>Inside TNT's unlikely bet to 'revive boxing' for the U.S. masses, 5.6 million viewers later</title>
+      <link>https://sports.yahoo.com/boxing/article/inside-tnts-unlikely-bet-to-revive-boxing-for-the-us-masses-56-million-viewers-later-andy-ruiz-vs-damian-knyba-204823057.html</link>
+      <description>Inside TNT's unlikely bet to 'revive boxing' for the U.S. masses, 5.6 million viewers later</description>
+      <guid isPermaLink="false">051354b05f559b319560d0d4e4251460</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/716d579039e40c9eb49ba3171bb877edfa2616f27455d5837809433eb6b41389/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F782bb964-65d0-4ac9-aec6-6926d8e908ce" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Sep 2026 21:38:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/716d579039e40c9eb49ba3171bb877edfa2616f27455d5837809433eb6b41389/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F782bb964-65d0-4ac9-aec6-6926d8e908ce" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Exclusive | Sugar Ray Leonard’s troubled son Daniel arrested for alleged possession of dangerous cocktail of drugs</title>
       <link>https://nypost.com/2026/09/02/sports/sugar-ray-leonards-son-daniel-arrested-in-santa-monica-drug-case/</link>
       <description>The 25-year-old son of the boxing legend was arrested earlier this summer after he was allegedly found by police with a dangerous combination of drugs.</description>
@@ -277,6 +266,17 @@
       <pubDate>Wed, 02 Sep 2026 22:13:08 +0000</pubDate>
       <media:group>
         <media:content url="https://nypost.com/wp-content/uploads/sites/2/2026/09/139367186.jpg?quality=75&amp;strip=all&amp;w=1200" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>The Katie Generation: Inside Ireland's boxing gyms, Katie Taylor's greatest legacy is everywhere</title>
+      <link>https://sports.yahoo.com/boxing/article/the-katie-generation-inside-irelands-boxing-gyms-katie-taylors-greatest-legacy-is-everywhere-flora-pili-000448844.html</link>
+      <description>As one of boxing's all-time greats prepares to say farewell, a new generation of young women across Ireland and Northern Ireland are forging paths of their own, having grown up in the world Taylor helped create.</description>
+      <guid isPermaLink="false">d9225c8ece02951b5e75e64d26c7385f</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/6c4f415ea74db41b20f38509e55943414e3c3f64f01b260224ffe4a0236fc772/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fportrait-jackson-morrow-katie-generation-05_2857.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Sep 2026 00:04:48 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/6c4f415ea74db41b20f38509e55943414e3c3f64f01b260224ffe4a0236fc772/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fportrait-jackson-morrow-katie-generation-05_2857.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
