@@ -7,51 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 14:20:07 +0000</lastBuildDate>
-    <item>
-      <title>Katie Taylor vs Flora Pili</title>
-      <link>https://www.skysports.com/boxing/video/30998/13582175/katie-taylor-vs-flora-pili-boxing-highlights</link>
-      <description>Highlights of the fight between Katie Taylor and Flora Pili.</description>
-      <guid isPermaLink="false">374cfb51942a6f0482919987aa849d2f</guid>
-      <enclosure url="https://e0.365dm.com/26/09/1600x900/skysports-boxing-katie-taylor_7342749.jpg?20260906011550" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 06 Sep 2026 07:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/09/1600x900/skysports-boxing-katie-taylor_7342749.jpg?20260906011550" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Katie Taylor vs Flora Pili</title>
-      <link>https://www.skysports.com/boxing/video/19516/13582175/katie-taylor-vs-flora-pili-boxing-highlights</link>
-      <description>Highlights of the fight between Katie Taylor and Flora Pili.</description>
-      <guid isPermaLink="false">bb7adfbbd8202489a6670ac20eb0eb18</guid>
-      <enclosure url="https://e0.365dm.com/26/09/1600x900/skysports-boxing-katie-taylor_7342749.jpg?20260906011550" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 06 Sep 2026 07:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/09/1600x900/skysports-boxing-katie-taylor_7342749.jpg?20260906011550" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Dave Allen v Thomas Carty: 'What on earth?!' Allen fight ends in CHAOS as Carty falls out of ring!</title>
-      <link>https://www.skysports.com/boxing/video/30998/13582155/dave-allen-v-thomas-carty-what-on-earth-allen-fight-ends-in-chaos-as-carty-falls-out-of-ring</link>
-      <description>Thomas Cartys fight came to an end during round one against Dave Allen after the fighter fell out of the ring and required medical attention.</description>
-      <guid isPermaLink="false">ee42b7394dcb3ca190bfc6910f0cee49</guid>
-      <enclosure url="https://e0.365dm.com/26/09/1600x900/skysports-boxing-carty-allen_7342735.jpg?20260905235023" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 06 Sep 2026 07:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://e0.365dm.com/26/09/1600x900/skysports-boxing-carty-allen_7342735.jpg?20260905235023" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Ryan Garcia Says Boxing Is Full Of Daejon Loves</title>
-      <link>https://www.tmz.com/2026/09/06/ryan-garcia-says-boxing-is-full-of-daejon-love/</link>
-      <description>Ryan Garcia has a word of caution for women on social media ... beware of boxers!</description>
-      <guid isPermaLink="false">35fa577e769853b3d9479dc7cc59853f</guid>
-      <enclosure url="https://imagez.tmz.com/image/9c/16by9/2026/09/04/9c515949917c4af89e0e570278ddba55_xl.png" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 06 Sep 2026 07:30:55 +0000</pubDate>
-      <media:group>
-        <media:content url="https://imagez.tmz.com/image/9c/16by9/2026/09/04/9c515949917c4af89e0e570278ddba55_xl.png" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 06 Sep 2026 17:15:15 +0000</lastBuildDate>
     <item>
       <title>Ryan Garcia Says Boxing Is Full Of Daejon Loves</title>
       <link>https://sports.yahoo.com/articles/ryan-garcia-says-boxing-full-073055349.html</link>
@@ -207,6 +163,17 @@
       </media:group>
     </item>
     <item>
+      <title>FULL MATCH: Matt Hardy vs. Evander Holyfield | Boxing Match: SNME, Aug. 18, 2007</title>
+      <link>https://www.youtube.com/watch?v=JMoAfORvKMM</link>
+      <description>FULL MATCH: Matt Hardy vs. Evander Holyfield | Boxing Match: SNME, Aug.</description>
+      <guid isPermaLink="false">2c0622763e3ec1515a686ac1d26c20f5</guid>
+      <enclosure url="https://i.ytimg.com/vi/JMoAfORvKMM/maxresdefault.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 06 Sep 2026 11:00:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.ytimg.com/vi/JMoAfORvKMM/maxresdefault.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Katie Taylor’s farewell was a night of magic, impossibility and buried hatchets</title>
       <link>https://www.independent.co.uk/sport/boxing/katie-taylor-fight-croke-park-retirement-father-peter-pili-b3045470.html</link>
       <description>Taylor eased to victory over Flora Pili while realising her dream of boxing at Croke Park, in front of 80,000 fans</description>
@@ -281,6 +248,39 @@
       <pubDate>Sun, 06 Sep 2026 13:30:39 +0000</pubDate>
       <media:group>
         <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/be/Katie_Taylor_2012_%282%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Taylor Retires After Final Dublin Fight At Croke Park</title>
+      <link>https://boxingnews.com/news/katie-taylor-retires-dublin-croke-park</link>
+      <description>Katie Taylor fought her final bout at Dublin's Croke Park, cementing her legacy before a home crowd. The two-division champion called time on a historic career.</description>
+      <guid isPermaLink="false">dc25793b95b4cfbd05148f0b8be034b6</guid>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/b/be/Katie_Taylor_2012_%282%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 06 Sep 2026 14:30:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/be/Katie_Taylor_2012_%282%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Tim Tszyu Chases Another Name From The Past</title>
+      <link>https://www.boxing247.com/boxing-news/tim-tszyu-chases-another-name-from-the-past/309597</link>
+      <description>Tim Tszyu may be preparing to face another older former champion whose reputation was built years ago. After defeating a badly faded Errol Spence Jr.</description>
+      <guid isPermaLink="false">a2ed2ecd4e4066411b40c43525989c4f</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Spence_v_Tszyu_MK4801.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 06 Sep 2026 14:40:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Spence_v_Tszyu_MK4801.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>He’s back! Tony Ferguson booked against former soccer player on Sept. 26</title>
+      <link>https://sports.yahoo.com/articles/back-tony-ferguson-booked-against-160000396.html</link>
+      <description>“El Cucuy” is back for more. Former Ultimate Fighting Championship (UFC) interim Lightweight champion Tony Ferguson will return to the boxing ring to defend his Misfits Middleweight title against former soccer player Kenzo Biyong on Sept.</description>
+      <guid isPermaLink="false">7e2213c9c9e9c1a1956e9010d7bd4235</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/99261fc530d384f76827b3af16fae88e30072c458323af2f870e010ed2d1653c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F956dcbdc0a6af823df85da601b8607f4.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 06 Sep 2026 16:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/99261fc530d384f76827b3af16fae88e30072c458323af2f870e010ed2d1653c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F956dcbdc0a6af823df85da601b8607f4.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
