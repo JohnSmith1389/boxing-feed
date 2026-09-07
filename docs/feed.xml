@@ -7,73 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 23:30:14 +0000</lastBuildDate>
-    <item>
-      <title>One final time, Dublin sounded off for Katie Taylor</title>
-      <link>https://www.espn.com/boxing/story/_/id/49844006/dublin-croke-park-shows-appreciation-katie-taylor-retirement-fight</link>
-      <description>With the pressure of Ireland's appreciation heavy on her, Katie Taylor cemented her legacy in her final bout.</description>
-      <guid isPermaLink="false">70ebb18c7e348ebd3785326d311fee6c</guid>
-      <enclosure url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0906%2Fr1712149_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 06 Sep 2026 13:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0906%2Fr1712149_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>One final time, Dublin sounded off for Katie Taylor</title>
-      <link>https://africa.espn.com/boxing/story/_/id/49844006/dublin-croke-park-shows-appreciation-katie-taylor-retirement-fight</link>
-      <description>With the pressure of Ireland's appreciation heavy on her, Katie Taylor cemented her legacy in her final bout.</description>
-      <guid isPermaLink="false">2d388d0f9504961cd501b400142a0adc</guid>
-      <enclosure url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0906%2Fr1712149_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 06 Sep 2026 13:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0906%2Fr1712149_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Taylor Retires After Becoming Undisputed Champion</title>
-      <link>https://boxingnews.com/news/katie-taylor-retires-undisputed-champion</link>
-      <description>Katie Taylor closed her boxing career with a win over Flora Pili at Croke Park, capturing the undisputed junior welterweight title in her final bout.</description>
-      <guid isPermaLink="false">c720cb094da18a7cf7cd390f36d022cc</guid>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/b/be/Katie_Taylor_2012_%282%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 06 Sep 2026 13:30:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/be/Katie_Taylor_2012_%282%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Vito Mielnicki Dominates Ammo Williams in Career Performance; Damian Knyba Beats Andy Ruiz</title>
-      <link>https://www.maxboxing.com/news/main-lead/vito-mielnicki-dominates-ammo-williams-in-career-performance-damian-knyba-beats-andy-ruiz</link>
-      <description>Watching a thinner Ruiz look flat and seeing his usually iron chin cracked brought back memories of Chris Arreola, another tough Mexican heavyweight who also seemed more vulnerable later in his career after losing weight after, like Ruiz, usually fighting heavier and being more d</description>
-      <guid isPermaLink="false">821a939d8d87ac9a3e328be922d830ea</guid>
-      <enclosure url="https://d2fmj9q21jcbgm.cloudfront.net/AcuCustom/Sitename/DAM/6058/Knyba_defeats_Ruiz_12.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 06 Sep 2026 13:31:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://d2fmj9q21jcbgm.cloudfront.net/AcuCustom/Sitename/DAM/6058/Knyba_defeats_Ruiz_12.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Taylor Retires After Final Dublin Fight At Croke Park</title>
-      <link>https://boxingnews.com/news/katie-taylor-retires-dublin-croke-park</link>
-      <description>Katie Taylor fought her final bout at Dublin's Croke Park, cementing her legacy before a home crowd. The two-division champion called time on a historic career.</description>
-      <guid isPermaLink="false">dc25793b95b4cfbd05148f0b8be034b6</guid>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/b/be/Katie_Taylor_2012_%282%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 06 Sep 2026 14:30:42 +0000</pubDate>
-      <media:group>
-        <media:content url="https://upload.wikimedia.org/wikipedia/commons/b/be/Katie_Taylor_2012_%282%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tim Tszyu Chases Another Name From The Past</title>
-      <link>https://www.boxing247.com/boxing-news/tim-tszyu-chases-another-name-from-the-past/309597</link>
-      <description>Tim Tszyu may be preparing to face another older former champion whose reputation was built years ago. After defeating a badly faded Errol Spence Jr.</description>
-      <guid isPermaLink="false">a2ed2ecd4e4066411b40c43525989c4f</guid>
-      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/07/Spence_v_Tszyu_MK4801.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 06 Sep 2026 14:40:14 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/07/Spence_v_Tszyu_MK4801.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Mon, 07 Sep 2026 03:05:43 +0000</lastBuildDate>
     <item>
       <title>He’s back! Tony Ferguson booked against former soccer player on Sept. 26</title>
       <link>https://sports.yahoo.com/articles/back-tony-ferguson-booked-against-160000396.html</link>
@@ -174,6 +108,17 @@
       </media:group>
     </item>
     <item>
+      <title>Tony Ferguson def. Nathaniel Bustamante, Misfits Boxing 22</title>
+      <link>https://www.galvnews.com/news_reuters/nation/tony-ferguson-def-nathaniel-bustamante-misfits-boxing-22/image_84770633-c184-54ea-aedc-e00982e05173.html</link>
+      <description>Tony Ferguson def.</description>
+      <guid isPermaLink="false">e28c5b2f029ee6dad2d74becc81e26b7</guid>
+      <enclosure url="https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/8/47/84770633-c184-54ea-aedc-e00982e05173/6a9db56e542ba.image.jpg?crop=800%2C420%2C0%2C56" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 06 Sep 2026 18:40:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/8/47/84770633-c184-54ea-aedc-e00982e05173/6a9db56e542ba.image.jpg?crop=800%2C420%2C0%2C56" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Ex-UFC star books Misfits Boxing title defense</title>
       <link>https://sports.yahoo.com/articles/ex-ufc-star-books-misfits-190000101.html</link>
       <description>Tony Ferguson competes in the boxing ring later this month</description>
@@ -251,6 +196,17 @@
       </media:group>
     </item>
     <item>
+      <title>Tyson Fury claims Anthony Joshua fight is off; challenges Oleksandr Usyk to trilogy</title>
+      <link>https://www.espn.com/boxing/story/_/id/49852931/tyson-fury-claims-anthony-joshua-fight-challenges-oleksandr-usyk-trilogy</link>
+      <description>Tyson Fury has suggested his all-British blockbuster bout with Anthony Joshua is off and has challenged Oleksandr Usyk to a third fight.</description>
+      <guid isPermaLink="false">661eeeba2d33089eaf6e150f6e46a2aa</guid>
+      <enclosure url="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0725%2Fr1693576_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 06 Sep 2026 22:03:44 +0000</pubDate>
+      <media:group>
+        <media:content url="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0725%2Fr1693576_1296x729_16%2D9.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Conor McGregor Heaps Praise on Katie Taylor, Urges Boxing Icon to Fight One More Time</title>
       <link>https://mmasucka.com/news/conor-mcgregor-heaps-praise-on-katie-taylor-urges-boxing-icon-to-fight-one-more-time/</link>
       <description>Conor McGregor heaps praise on Katie Taylor after her Croke Park farewell and urges the Irish boxing icon to fight “one more” time.</description>
@@ -281,6 +237,50 @@
       <pubDate>Sun, 06 Sep 2026 22:40:43 +0000</pubDate>
       <media:group>
         <media:content url="https://fightnews.com/wp-content/uploads/0905-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>‘S**t his pants’: Circus continues as Fury claims AJ fight is OFF... and challenges another superstar</title>
+      <link>https://www.foxsports.com.au/boxing/boxing-2026-tyson-fury-calls-off-joshua-fight-challenges-usyk-to-trilogy/news-story/3d2d4c3627a1eda2bb33418158d2703d</link>
+      <description>‘S**t his pants’: Circus continues as Fury claims AJ fight is OFF... and challenges another superstar</description>
+      <guid isPermaLink="false">7f26128a5e199f259bfec765ff373be7</guid>
+      <enclosure url="https://content.api.news/v3/images/bin/1434698eba3f428c6aff4ba5d1e2a849" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 06 Sep 2026 23:02:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://content.api.news/v3/images/bin/1434698eba3f428c6aff4ba5d1e2a849" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Crawford Tells Ennis To Prove Himself Against Ortiz</title>
+      <link>https://boxingnews.com/news/crawford-ennis-ortiz-junior-middleweight</link>
+      <description>Terence Crawford challenged Jaron Ennis to face Vergil Ortiz and Sebastian Fundora during a contentious DAZN broadcast Friday, questioning the value of Ennis' p</description>
+      <guid isPermaLink="false">339b6c9ea8542223506db797c17d2275</guid>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/5/55/Terence_Crawford.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 06 Sep 2026 23:20:44 +0000</pubDate>
+      <media:group>
+        <media:content url="https://upload.wikimedia.org/wikipedia/commons/5/55/Terence_Crawford.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=original" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>8-year-old Bakersfield boxer is already 6-0 with three titles to his name</title>
+      <link>https://www.turnto23.com/news/in-your-neighborhood/bakersfield/8-year-old-bakersfield-boxer-is-already-6-0-with-three-titles-to-his-name</link>
+      <description>An 8-year-old from Bakersfield is already 6-0 in boxing with three titles. Jayd Soto's discipline and work ethic are earning him serious recognition</description>
+      <guid isPermaLink="false">01ebbfd9a2b1828299c5dda5de72696b</guid>
+      <enclosure url="https://ewscripps.brightspotcdn.com/dims4/default/c27cdd1/2147483647/strip/true/crop/1280x720+0+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F8c%2F6a%2F21b876414c649fac3f92d35d85dd%2F8-year-old-bakersfield-boxer-is-already-6-0-with-three-titles-to-his-name.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 00:29:40 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ewscripps.brightspotcdn.com/dims4/default/c27cdd1/2147483647/strip/true/crop/1280x720+0+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F8c%2F6a%2F21b876414c649fac3f92d35d85dd%2F8-year-old-bakersfield-boxer-is-already-6-0-with-three-titles-to-his-name.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Daily Guardian</title>
+      <link>https://www.facebook.com/DailyGuardianPH/posts/filipino-boxing-superstar-mark-magsayo-is-ready-to-protect-his-five-fight-winnin/1513324937490951/</link>
+      <description>Filipino boxing superstar Mark Magsayo is ready to protect his five-fight winning streak against unbeaten American Andres Cortes on the undercard of the Ryan Garcia-Conor Benn main event at T-Mobile...</description>
+      <guid isPermaLink="false">640d029c8cf0a479e5c83b3a2f1fd7b2</guid>
+      <enclosure url="https://scontent-den2-1.xx.fbcdn.net/v/t39.99422-6/798274650_1105417515259985_5474959519182532492_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x1200&amp;ctp=s600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=vOWuXin7zbAQ7kNvwHbG8kK&amp;_nc_oc=Adryp94AtuW0sbn-yPxdcxvS0833V0NRSb2U7eW46gnxBlzZ9DAyqF1KIxm27bvftg8&amp;_nc_zt=14&amp;_nc_ht=scontent-den2-1.xx&amp;_nc_gid=OKAk4ShuLgmbzltfMDDk8g&amp;_nc_ss=7b289&amp;oh=00_AQIUdKn-ZYVNBiZ3-dgHnOzp3qRLNd0M3zLi7MGC5-074g&amp;oe=6AA3EF48" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 01:31:01 +0000</pubDate>
+      <media:group>
+        <media:content url="https://scontent-den2-1.xx.fbcdn.net/v/t39.99422-6/798274650_1105417515259985_5474959519182532492_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x1200&amp;ctp=s600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=vOWuXin7zbAQ7kNvwHbG8kK&amp;_nc_oc=Adryp94AtuW0sbn-yPxdcxvS0833V0NRSb2U7eW46gnxBlzZ9DAyqF1KIxm27bvftg8&amp;_nc_zt=14&amp;_nc_ht=scontent-den2-1.xx&amp;_nc_gid=OKAk4ShuLgmbzltfMDDk8g&amp;_nc_ss=7b289&amp;oh=00_AQIUdKn-ZYVNBiZ3-dgHnOzp3qRLNd0M3zLi7MGC5-074g&amp;oe=6AA3EF48" medium="image"/>
       </media:group>
     </item>
   </channel>
