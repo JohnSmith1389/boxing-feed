@@ -7,62 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 20:22:51 +0000</lastBuildDate>
-    <item>
-      <title>Fury-Joshua fight set to be held at Cardiff’s Principality Stadium in December</title>
-      <link>https://www.nytimes.com/athletic/7613142/2026/09/20/fury-joshua-cardiff-venue-boxing/</link>
-      <description>The likely date for the highly-anticipated fight is December 11 but it is not confirmed yet.</description>
-      <guid isPermaLink="false">529f6a2fcf67f709c5865cfcf6a80071</guid>
-      <enclosure url="https://static01.nyt.com/athletic/uploads/wp/2026/09/20100617/fury-joshua-1.png?width=1200&amp;height=630&amp;fit=crop" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 20 Sep 2026 14:43:29 +0000</pubDate>
-      <media:group>
-        <media:content url="https://static01.nyt.com/athletic/uploads/wp/2026/09/20100617/fury-joshua-1.png?width=1200&amp;height=630&amp;fit=crop" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Eumir Marcial to skip Asian Games after latest professional victory</title>
-      <link>https://www.espn.com/boxing/story/_/id/49989470/eumir-marcial-skip-asian-games-latest-professional-victory</link>
-      <description>The ABAP has confirmed that Eumir Marcial will not compete at the Asian Games following his latest professional win.</description>
-      <guid isPermaLink="false">2d05c05c37176a5b12f9a5fd75ef6414</guid>
-      <enclosure url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0920%2Fr1719448_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 20 Sep 2026 14:45:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0920%2Fr1719448_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Eumir Marcial to skip Asian Games after latest professional victory</title>
-      <link>https://africa.espn.com/boxing/story/_/id/49989470/eumir-marcial-skip-asian-games-latest-professional-victory</link>
-      <description>The ABAP has confirmed that Eumir Marcial will not compete at the Asian Games following his latest professional win.</description>
-      <guid isPermaLink="false">430a33b3e0bc572fc22ece63a606fc70</guid>
-      <enclosure url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0920%2Fr1719448_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 20 Sep 2026 14:45:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0920%2Fr1719448_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Eumir Marcial to skip Asian Games after latest professional victory</title>
-      <link>https://www.espn.ph/boxing/story/_/id/49989470/eumir-marcial-skip-asian-games-latest-professional-victory</link>
-      <description>The ABAP has confirmed that Eumir Marcial will not compete at the Asian Games following his latest professional win.</description>
-      <guid isPermaLink="false">327cbbfb19e383274876f43d9296e42e</guid>
-      <enclosure url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0920%2Fr1719448_1296x729_16%2D9.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 20 Sep 2026 14:45:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0920%2Fr1719448_1296x729_16%2D9.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>After Boxing Debut, Jaylen Brown Tries Another Sport in Europe</title>
-      <link>https://www.basketballnews.com/news/basketballnews-nba-active-news-after-boxing-debut-jaylen-brown-tries-another-sport-in-europe/</link>
-      <description>After a risky boxing debut, Philadelphia 76ers star guard Jaylen Brown tries another sport in europe as part of his offseason tours</description>
-      <guid isPermaLink="false">4a63d71683e5a7e8b5a29390aa49efcc</guid>
-      <enclosure url="https://imgcdn.basketballnews.com/Copy-of-ES-WEB-FIs-1200-x-800-px-1-96-9.webp" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 20 Sep 2026 14:47:22 +0000</pubDate>
-      <media:group>
-        <media:content url="https://imgcdn.basketballnews.com/Copy-of-ES-WEB-FIs-1200-x-800-px-1-96-9.webp" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sun, 20 Sep 2026 22:37:00 +0000</lastBuildDate>
     <item>
       <title>Team USA Earns Five Wins at Melee Gala XI in Canada</title>
       <link>https://www.usaboxing.org/news/2026/september/20/team-usa-earns-five-wins-at-melee-gala-xi-in-canada</link>
@@ -94,6 +39,17 @@
       <pubDate>Sun, 20 Sep 2026 15:00:04 +0000</pubDate>
       <media:group>
         <media:content url="https://s.yimg.com/lo/mysterio/api/a809daa810fe74fa6fd4f36391654b073cbd58d7aedd43d7cd79b381c810b871/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbig_fight_weekend_995%2Fe06596080937774c5f39b0a3b61b53a7" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxing News: Results From BKB 59 » September 20, 2026</title>
+      <link>https://fightnews.com/results-from-bkb-59/196640</link>
+      <description>BKB Bare Knuckle Boxing, the world’s largest professional bare knuckle boxing organization, made history with BKB 59, bringing its high-octane brand of</description>
+      <guid isPermaLink="false">2aaf1ca4580fff40b59b0ad3ebab5971</guid>
+      <enclosure url="https://fightnews.com/wp-content/uploads/202609199_BKB59_FIGHTS451.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 15:29:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fightnews.com/wp-content/uploads/202609199_BKB59_FIGHTS451.jpg" medium="image"/>
       </media:group>
     </item>
     <item>
@@ -277,6 +233,50 @@
       <pubDate>Sun, 20 Sep 2026 19:28:18 +0000</pubDate>
       <media:group>
         <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Teofimo-beats-Romero5.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Report: Tyson Fury-Anthony Joshua bout set for December in Cardiff</title>
+      <link>https://fieldlevelmedia.com/%news_cat%/report-tyson-fury-anthony-joshua-bout-set-for-december-in-cardiff/</link>
+      <description>Tyson Fury and Anthony Joshua will step into the ring for their highly anticipated heavyweight fight in December in Cardiff, Wales, The Athletic reported Sunday. According to the report, Dec....</description>
+      <guid isPermaLink="false">c45268765470ac5d02dc032262b71b25</guid>
+      <enclosure url="https://fieldlevelmedia.com/wp-content/uploads/2026/09/S6ed16e6a-b6a2-4f18-aa39-a4e978df8064.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 19:51:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://fieldlevelmedia.com/wp-content/uploads/2026/09/S6ed16e6a-b6a2-4f18-aa39-a4e978df8064.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Canelo Alvarez Dismisses Christian Mbilli As Crude, Predictable Target</title>
+      <link>https://www.boxing247.com/boxing-news/canelo-alvarez-dismisses-christian-mbilli-as-crude-predictable-target/310017</link>
+      <description>Canelo Alvarez believes Christian Mbilli’s aggressive style has been designed for his counterpunching. After losing to Terence Crawford and going almost five</description>
+      <guid isPermaLink="false">1e94730a0e7499855267e824e059c392</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/05/Canelo-Alvarez98453-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 20:11:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/05/Canelo-Alvarez98453-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxing champ George Chuvalo's funeral set for Monday</title>
+      <link>https://torontosun.com/news/local-news/boxing-champ-george-chuvalos-funeral-set-for-monday</link>
+      <description>The boxing community and loved ones of the boxing legend George Chuvalo will be gathering for his final sendoff on Monday. Read more.</description>
+      <guid isPermaLink="false">6b5d7dbf79615851615cccfb3e0f297c</guid>
+      <enclosure url="https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/09/chuvalo.jpg?quality=100&amp;strip=all" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 21:09:25 +0000</pubDate>
+      <media:group>
+        <media:content url="https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/09/chuvalo.jpg?quality=100&amp;strip=all" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Boxing champ George Chuvalo's funeral set for Monday</title>
+      <link>https://ca.news.yahoo.com/boxing-champ-george-chuvalos-funeral-210925057.html</link>
+      <description>Boxing champ George Chuvalo's funeral set for Monday</description>
+      <guid isPermaLink="false">0a203101486e126582b0025afa80ce61</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/8f61ae41eab57a220ed8d76c95f51ad33cb2860e0c6d7f2ec939b462a112ee7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftoronto_sun_articles_263%2F8840bc39bb93add898a59d22cea19591.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 21:09:25 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/8f61ae41eab57a220ed8d76c95f51ad33cb2860e0c6d7f2ec939b462a112ee7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftoronto_sun_articles_263%2F8840bc39bb93add898a59d22cea19591.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
