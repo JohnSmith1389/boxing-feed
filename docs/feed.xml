@@ -7,271 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 01:34:44 +0000</lastBuildDate>
-    <item>
-      <title>Fight Day in Atlantic City: The Rematch Nobody Could Walk Away From</title>
-      <link>https://www.boxinginsider.com/headlines/fight-day-in-atlantic-city-the-rematch-nobody-could-walk-away-from/</link>
-      <description>By Larry Goldberg Justin Figueroa got on the scale at The Showroom at Tropicana Atlantic City on Thursday and weighed 160 pounds. Nothing dramatic.</description>
-      <guid isPermaLink="false">b1833ef67966c4af8ebe4e71589a3283</guid>
-      <enclosure url="https://www.boxinginsider.com/wp-content/uploads/2026/11/IMG_0981.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 18:26:30 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxinginsider.com/wp-content/uploads/2026/11/IMG_0981.jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Mike Perry set for UFC return? New update suggests he’s back following BKFC exit</title>
-      <link>https://sports.yahoo.com/articles/mike-perry-set-ufc-return-183728752.html</link>
-      <description>Mike Perry’s commitment to continuing his MMA career could be leading him back to the Octagon. Last month, ‘Platinum’ said on The Ariel Helwani Show that he’s moving on from bare-knuckle boxing after achieving a lot of success in the sport.</description>
-      <guid isPermaLink="false">14957f121ff9a2eafa65cb55ab27276b</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/6e0f4cd46881818974f8f6d063675fe86d21f21f450588b621fc00c4d1273b26/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F43a4cc005fcacc4bdd26d06e122505ea.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 18:37:28 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/6e0f4cd46881818974f8f6d063675fe86d21f21f450588b621fc00c4d1273b26/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F43a4cc005fcacc4bdd26d06e122505ea.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tonight in Atlantic City: Fight Order, Free Stream and Everything You Need</title>
-      <link>https://www.boxinginsider.com/headlines/fight-night-tropicana-atlantic-city-guide/</link>
-      <description>Boxing Insider Promotions presents seven professional fights tonight, Friday, November 13, at The Showroom at Tropicana Atlantic City. Doors open at 7</description>
-      <guid isPermaLink="false">df3f9f7004c82cbea8931a10c1eb810f</guid>
-      <enclosure url="https://www.boxinginsider.com/wp-content/uploads/2026/11/IMG_0633.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 18:47:44 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxinginsider.com/wp-content/uploads/2026/11/IMG_0633.jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>‘I know we can deliver the fights for him’: Eddie Hearn makes his case to sign Shakur Stevenson</title>
-      <link>https://sports.yahoo.com/articles/know-deliver-fights-him-eddie-191507902.html</link>
-      <description>The WBO and Ring super lightweight champion Shakur Stevenson is undoubtedly one of the most talented fighters in the sport. Stevenson was signed with Eddie Hearn at Matchroom before ending up signing with Zuffa Boxing, a move that got the whole of the boxing world talking.</description>
-      <guid isPermaLink="false">1b5dee3d5e730725d9ba44457ca42b85</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/fcecc2bc9bcbb8353883afc1af7199609c4a5f9a53ece55d5e34d72e501c5494/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbig_fight_weekend_995%2F1e2d445ffdd549beb8d9498c3a465cb4" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 19:15:07 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/fcecc2bc9bcbb8353883afc1af7199609c4a5f9a53ece55d5e34d72e501c5494/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbig_fight_weekend_995%2F1e2d445ffdd549beb8d9498c3a465cb4" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Vadim Nemkov sees ‘really good’ chance Fedor Emelianenko beats Francis Ngannou in boxing</title>
-      <link>https://www.mmafighting.com/pfl/520659/vadim-nemkov-sees-really-good-chance-fedor-emelianenko-beats-francis-ngannou-in-boxing</link>
-      <description>Vedim Nemkov headlines PFL Dubai against Sergey Bilostennyi</description>
-      <guid isPermaLink="false">715b8771a8a9b934632448e71a8c2e5b</guid>
-      <enclosure url="https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/20251213231911-_85A3396-JP.jpg?quality=90&amp;strip=all&amp;crop=0%2C23.481326352531%2C100%2C34.904013961606&amp;w=1200" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 19:30:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/20251213231911-_85A3396-JP.jpg?quality=90&amp;strip=all&amp;crop=0%2C23.481326352531%2C100%2C34.904013961606&amp;w=1200" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Vadim Nemkov sees ‘really good’ chance Fedor Emelianenko beats Francis Ngannou in boxing</title>
-      <link>https://sports.yahoo.com/articles/vadim-nemkov-sees-really-good-193000590.html</link>
-      <description>Vedim Nemkov headlines PFL Dubai against Sergey Bilostennyi</description>
-      <guid isPermaLink="false">f47c71f31a01be4cade4eba0f3a6d5c0</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/35b72708a90176d9b060f26cc45d0d549a316c14ee8c455e89b680a1576aa42e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F11a58063a0056cc7c63940549c2fc60c.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 19:30:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/35b72708a90176d9b060f26cc45d0d549a316c14ee8c455e89b680a1576aa42e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F11a58063a0056cc7c63940549c2fc60c.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Zuffa Boxing 13 start time, fight card, predictions and where to watch Carlos Adames vs. Gerome Warburton</title>
-      <link>https://www.cbssports.com/boxing/news/zuffa-boxing-13-start-time-fight-card-date-predictions/</link>
-      <description>The middleweight champion makes his debut at 168 pounds on Saturday in Saudi Arabia</description>
-      <guid isPermaLink="false">8c6af8659fe42df5cd744114a73eb380</guid>
-      <enclosure url="https://sportshub.cbsistatic.com/i/r/2026/11/13/284d956c-76ce-4e7a-ada9-30ffde914240/thumbnail/1200x675/9bab55526eab7ef29c2045f68c0bd618/carlos-adames-gerome-warburton-weighins.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 19:38:37 +0000</pubDate>
-      <media:group>
-        <media:content url="https://sportshub.cbsistatic.com/i/r/2026/11/13/284d956c-76ce-4e7a-ada9-30ffde914240/thumbnail/1200x675/9bab55526eab7ef29c2045f68c0bd618/carlos-adames-gerome-warburton-weighins.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Boxer on Death Row in Iran Wins Human Rights Award, Vows He Will ‘Not Bow Before Oppression’</title>
-      <link>https://www.algemeiner.com/2026/11/13/boxer-on-death-row-in-iran-wins-human-rights-award-vows-he-will-not-bow-before-oppression/</link>
-      <description>An Iranian boxing champion, coach and political prisoner who is facing execution in Iran has been named the winner of…</description>
-      <guid isPermaLink="false">91235538f0ab8332fe382a6a8e21b6f5</guid>
-      <enclosure url="https://www.algemeiner.com/wp-content/uploads/2018/06/2018-01-08T014925Z_1606458336_RC1A94FF8A40_RTRMADP_3_IRAN-RALLIES-LOS-ANGELES.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 19:43:26 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.algemeiner.com/wp-content/uploads/2018/06/2018-01-08T014925Z_1606458336_RC1A94FF8A40_RTRMADP_3_IRAN-RALLIES-LOS-ANGELES.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Main Event Preview</title>
-      <link>https://www.ufc.com/video/161959</link>
-      <description>Two Of The Best In The World At 160-lbs Collide In Riyadh November 14 When Carlos Adames Meets Gerome Warburton.</description>
-      <guid isPermaLink="false">c45c2e9f66c7b4a928ff99c6eb7f1680</guid>
-      <enclosure url="https://ufc.com/images/2026-11/Zuffa-Boxing-13-ME-Preview.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 19:46:22 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-11/Zuffa-Boxing-13-ME-Preview.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Gerome Warburton: The Underdog Always Comes Out On Top</title>
-      <link>https://www.ufc.com/video/161960</link>
-      <description>Gerome Warburton thrives under pressure and is determined to prove everyone wrong in the biggest fight of his career. Don’t miss Gerome Warburton vs.</description>
-      <guid isPermaLink="false">775f95e3105acab59e78d0b5e3083168</guid>
-      <enclosure url="https://ufc.com/images/2026-11/Ger.Warb_.Clean-MP4.00_02_03_01.Still001.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 19:54:35 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-11/Ger.Warb_.Clean-MP4.00_02_03_01.Still001.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Jason Moloney Is Plotting His Route Back To A World Title</title>
-      <link>https://www.ufc.com/news/jason-moloney-plotting-his-route-back-world-title-zuffa-boxing-13</link>
-      <description>Australia’s Former Bantamweight World Champion Jason Moloney Is Eyeing A Route Back To Championship Glory With Zuffa Boxing.</description>
-      <guid isPermaLink="false">29cfafb08aeeec421ae037c20637d9a5</guid>
-      <enclosure url="https://ufc.com/images/styles/card/s3/2026-11/DSC03251.JPG?itok=1PGuyhSG" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 19:58:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/styles/card/s3/2026-11/DSC03251.JPG?itok=1PGuyhSG" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Andres Teran: Respect The Power</title>
-      <link>https://www.ufc.com/news/andres-teran-respect-power-zuffa-boxing-13</link>
-      <description>Mexican Bantamweight Andres Teran Has Demonstrated His Fight-Altering Punch Power. Now He Plans To Add A Former World Champion’s Name To His Resumé.</description>
-      <guid isPermaLink="false">39a8147f4f2ea21dfff411f08e8c55d7</guid>
-      <enclosure url="https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2291366478.jpg?itok=IpYhv-me" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 20:00:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/styles/card/s3/2026-11/GettyImages-2291366478.jpg?itok=IpYhv-me" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Carlos Adames: “I’ll Knock Out Warburton In Three Rounds”</title>
-      <link>https://www.ufc.com/video/161961</link>
-      <description>Undefeated Middleweight boxing Carlos Adames from the Dominican Republic fights for his family as he looks to destroy Gerome Warburton. Don’t miss Carlos Adames vs.</description>
-      <guid isPermaLink="false">bb60be322ce8cc5e4426c2a3a5627d76</guid>
-      <enclosure url="https://ufc.com/images/2026-11/Zuffa13_Carlos_Adames_Feature_V14_POSTED_MIXED_4Digital-MP4.00_03_04_23.Still001.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 20:05:34 +0000</pubDate>
-      <media:group>
-        <media:content url="https://ufc.com/images/2026-11/Zuffa13_Carlos_Adames_Feature_V14_POSTED_MIXED_4Digital-MP4.00_03_04_23.Still001.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Workshops</title>
-      <link>https://boxingireland.ie/workshops-community-facilities-fund/</link>
-      <description>Boxing Ireland is holding a series of workshops to support clubs in preparing applications for the Sport Capital grant, now known as the Community Sport Facilities Fund (CSFF). We recognise the importance of supporting our clubs to access funding opportunities that can improve fa</description>
-      <guid isPermaLink="false">1d112c59b65a1f52bfaf5d0f359ed8a2</guid>
-      <enclosure url="https://boxingireland.ie/wp-content/uploads/Fight-Details-Black-58-768x960.png" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 20:10:35 +0000</pubDate>
-      <media:group>
-        <media:content url="https://boxingireland.ie/wp-content/uploads/Fight-Details-Black-58-768x960.png" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Raymond Ford’s Matchroom Deal Is Up. What Has He Earned?</title>
-      <link>https://www.boxingnews24.com/2026/11/raymond-fords-matchroom-deal-is-up-what-has-he-earned/</link>
-      <description>Raymond Ford's contract with Eddie Hearn's Matchroom has expired, and it now remains to be seen whether he'll be re-signed for another stint. Hearn hasn't</description>
-      <guid isPermaLink="false">d74427b76e3628b48eff6591c1b1af66</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2024/03/Otabek-Kholmatov-vs-Raymond-Ford_action24.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 20:17:51 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2024/03/Otabek-Kholmatov-vs-Raymond-Ford_action24.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Gilbert Kabamba and Jajaira Gonzalez to Represent Team USA at 2026 Papp Cup</title>
-      <link>https://www.usaboxing.org/news/2026/november/13/gilbert-kabamba-and-jajaira-gonzalez-to-represent-team-usa-at-2026-papp-cup</link>
-      <description>Following Team USA’s eight-medal performance at the 2026 PanAmerican Championships in Puebla, Mexico, two American gold medalists have been invited to represent the Pan American Continental Team at the inaugural 2026 Papp Cup. This Confederation Boxing...</description>
-      <guid isPermaLink="false">c3091d6ea7df377ba5b4a38f28b0f4c4</guid>
-      <enclosure url="https://res.cloudinary.com/usopc-prod/image/upload/c_fill,g_faces:auto,h_630,w_1200/q_auto/f_jpg/v1/NGB%20Boxing/2026/2026%20Copa%20America/2026_Papp_Cup" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 20:19:41 +0000</pubDate>
-      <media:group>
-        <media:content url="https://res.cloudinary.com/usopc-prod/image/upload/c_fill,g_faces:auto,h_630,w_1200/q_auto/f_jpg/v1/NGB%20Boxing/2026/2026%20Copa%20America/2026_Papp_Cup" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Flores vs Nunez Prediction, Odds &amp; Friday Boxing Picks</title>
-      <link>https://www.sportsbettingdime.com/news/boxing/flores-vs-nunez-prediction-odds-friday-boxing-picks/</link>
-      <description>Updated odds and prediction for Friday's boxing main event super lightweight bout between Bryan Flores and Jose Nunez</description>
-      <guid isPermaLink="false">49ec385ae016218ea25626328104023b</guid>
-      <enclosure url="https://www.sportsbettingdime.com/app/uploads/2026/11/2026-10-17T234310Z_775837892_MT1USATODAY30116623_RTRMADP_3_BOXING-PBC-AT-THE-COSMOPOLITAN-scaled.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 21:45:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.sportsbettingdime.com/app/uploads/2026/11/2026-10-17T234310Z_775837892_MT1USATODAY30116623_RTRMADP_3_BOXING-PBC-AT-THE-COSMOPOLITAN-scaled.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Terence Crawford sums up Ryan Garcia's chances of beating Floyd Mayweather</title>
-      <link>https://boxingnewsonline.net/news/terence-crawford-on-garcia-vs-mayweather/</link>
-      <description>Ryan Garcia continues to claim that a blockbuster showdown against Floyd Mayweather is locked in for next year.</description>
-      <guid isPermaLink="false">e4f278f11670be685fbd417618cf51b4</guid>
-      <enclosure url="https://cdn-img.boxingnewsonline.net/uploads/content/1794606690400253836/Garcia-Crawford-and-Mayweather.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 21:57:59 +0000</pubDate>
-      <media:group>
-        <media:content url="https://cdn-img.boxingnewsonline.net/uploads/content/1794606690400253836/Garcia-Crawford-and-Mayweather.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Diego Pacheco stars on TNT, Zuffa heads to Saudi Arabia and more: 5 things for the boxing weekend</title>
-      <link>https://sports.yahoo.com/boxing/article/diego-pacheco-vs-darius-fulghum-zuffa-boxing-13-carlos-adames-gerome-warburton-viddal-riley-weekend-preview-220154358.html</link>
-      <description>Diego Pacheco stars on TNT, Zuffa heads to Saudi Arabia and more: 5 things for the boxing weekend</description>
-      <guid isPermaLink="false">6e443d90298908154a63f561ed5c9873</guid>
-      <enclosure url="https://s.yimg.com/lo/mysterio/api/061900c0d04c89482724eb0b3bd76e22f6a30ccbc5bd18f2b12e9b45181f15ff/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fpacheco-v-fulghum-press-conference-cropped_3335.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 22:01:54 +0000</pubDate>
-      <media:group>
-        <media:content url="https://s.yimg.com/lo/mysterio/api/061900c0d04c89482724eb0b3bd76e22f6a30ccbc5bd18f2b12e9b45181f15ff/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fpacheco-v-fulghum-press-conference-cropped_3335.jpg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Garland boxing coach charged with child sexual assault after student's report</title>
-      <link>https://www.nbcdfw.com/news/local/garland-boxing-coach-charged-child-sexual-assault-after-students-report/4105972/</link>
-      <description>A boxing gym coach faces child sexual assault charges after a 15-year-old reported an alleged assault. The investigation remains ongoing.</description>
-      <guid isPermaLink="false">743a1a9756335c0d263479e389eb8012</guid>
-      <enclosure url="https://media.nbcdfw.com/2026/11/0_25-KXAS-4P-M-F-_-DFW-TZ-3-VO1-DFW-Garland-Boxing-Instructor-Arrest.png?resize=1200%2C675&amp;quality=85&amp;strip=all" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 22:16:47 +0000</pubDate>
-      <media:group>
-        <media:content url="https://media.nbcdfw.com/2026/11/0_25-KXAS-4P-M-F-_-DFW-TZ-3-VO1-DFW-Garland-Boxing-Instructor-Arrest.png?resize=1200%2C675&amp;quality=85&amp;strip=all" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Meet Oneida's Kiona (Senior) Greene, one of the world's top-ranked boxers</title>
-      <link>https://www.cbc.ca/news/canada/london/meet-oneida-s-kiona-senior-greene-one-of-the-world-s-top-ranked-boxers-9.7421164</link>
-      <description>Kiona Greene always knew she wanted to box. She didn't know she'd one day open her own boxing gym in Oneida of the Thames First Nation, or win gold at an international championship.</description>
-      <guid isPermaLink="false">f0370fa704096c932efe0d121e4bb8a5</guid>
-      <enclosure url="https://i.cbc.ca/ais/e2f33497-c0e3-4976-a5a0-850707104002,1794607879287/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3BResize%3D620" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 22:26:23 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.cbc.ca/ais/e2f33497-c0e3-4976-a5a0-850707104002,1794607879287/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2048%2C1152%29%3BResize%3D620" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Rivals in the Ring showcases boxers from USC and other colleges</title>
-      <link>https://www.dailynews.com/2026/11/13/rivals-in-the-ring-showcases-boxers-from-usc-and-other-colleges/</link>
-      <description>The Los Angeles Athletic Club revamps its collegiate boxing invitational Saturday, which includes a champion from USC in the main event and a USC-UCLA matchup.</description>
-      <guid isPermaLink="false">ce00f391e11b469e883593a3db145a59</guid>
-      <enclosure url="https://www.dailynews.com/wp-content/uploads/2026/11/IMG_4804.jpeg?w=1200&amp;h=675" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 22:37:08 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.dailynews.com/wp-content/uploads/2026/11/IMG_4804.jpeg?w=1200&amp;h=675" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Avila Perspective, Chap. 402: Pacheco and Olascuaga – Those L.A. Boyz Back in L.A.</title>
-      <link>https://tss.ib.tv/boxing/avila-perspective-chap-402-pacheco-and-olascuaga-those-l-a-boyz-back-in-l-a/</link>
-      <description>A couple of L.A. boys, Diego Pacheco and Anthony Olascuaga, are lacing up in front of their hoods this weekend.</description>
-      <guid isPermaLink="false">ca0752e8d088b67d256ac32684f7ab40</guid>
-      <enclosure url="https://tss.ib.tv/boxing/wp-content/uploads/2026/11/the-sweet-science_2aQIZqiP-771x600.webp" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 13 Nov 2026 23:43:32 +0000</pubDate>
-      <media:group>
-        <media:content url="https://tss.ib.tv/boxing/wp-content/uploads/2026/11/the-sweet-science_2aQIZqiP-771x600.webp" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Hearn Wants Diego Pacheco On The Turnbuckle Calling Out Canelo</title>
-      <link>https://www.boxingnews24.com/2026/11/hearn-wants-diego-pacheco-on-the-turnbuckle-calling-out-canelo/</link>
-      <description>Eddie Hearn wants Diego Pacheco to look so good in victory over Darius Fulghum on Saturday night that he can climb on the turnbuckle in Carson, California,</description>
-      <guid isPermaLink="false">191216b19b326bc39f2330eaf98276ab</guid>
-      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/11/Eddie-Hearn-interview0443.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 14 Nov 2026 00:25:29 +0000</pubDate>
-      <media:group>
-        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/11/Eddie-Hearn-interview0443.jpg" medium="image"/>
-      </media:group>
-    </item>
+    <lastBuildDate>Sat, 14 Nov 2026 08:38:18 +0000</lastBuildDate>
     <item>
       <title>Emilio Garcia Drops Diego Zuniga in Round 1 | Future Stars LIVE</title>
       <link>https://www.boxingscene.com/clips/emilio-garcia-drops-diego-zuniga-in-round-1-future-stars-live</link>
@@ -281,6 +17,270 @@
       <pubDate>Sat, 14 Nov 2026 00:58:45 +0000</pubDate>
       <media:group>
         <media:content url="https://www.boxingscene.com/api/share-image?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fj5xHO0r3W6c%2Fmaxresdefault.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Navarrete Enters Free Agency, Will Hear Top Rank Out</title>
+      <link>https://www.boxing247.com/boxing-news/navarrete-enters-free-agency-will-hear-top-rank-out/311315</link>
+      <description>Emanuel “Vaquero” Navarrete is a free agent again, and Top Rank will get a chance to keep him.</description>
+      <guid isPermaLink="false">e0012b1ff8f9452da192beb3502e1b60</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/03/CB6A2978.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 01:22:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/03/CB6A2978.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Diego Pacheco vs Darius Fulghum, Rain or Shine on Saturday</title>
+      <link>https://nyfights.com/boxing/diego-pacheco-darius-fulghum-carson-saturday/</link>
+      <description>Southern California fans count on Carson for exciting fights, and it's up to Diego Pacheco and Darium Fulghum and friends to deliver Saturday.</description>
+      <guid isPermaLink="false">4752994592805646074a4d9edc436c92</guid>
+      <enclosure url="https://nyfights.com/wp-content/uploads/2026/11/Pacheco-v-Fulghum-weigh-ins-flex-252.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 02:06:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://nyfights.com/wp-content/uploads/2026/11/Pacheco-v-Fulghum-weigh-ins-flex-252.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Shakur Leads Six Boxing Free Agents Up For Grabs</title>
+      <link>https://www.boxing247.com/boxing-news/shakur-leads-six-boxing-free-agents-up-for-grabs/311316</link>
+      <description>Six of boxing’s biggest free agents are on the market at once. Shakur Stevenson can command a big guarantee, Isaac “Pitbull” Cruz can headline against more</description>
+      <guid isPermaLink="false">3052a3282449c9a526873e04ad3a813e</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/02/Shakur-Stevenson-lopez8.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 02:16:06 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/02/Shakur-Stevenson-lopez8.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Elijah Flores vs Axl Melendez Highlights | Unanimous Decision | Future Stars</title>
+      <link>https://www.boxingscene.com/clips/elijah-flores-vs-axl-melendez-highlights-unanimous-decision-future-stars</link>
+      <description>Elijah Flores vs Axl Melendez Highlights | Unanimous Decision | Future Stars</description>
+      <guid isPermaLink="false">df0d17ca59e66048043bb3f24bfe37eb</guid>
+      <enclosure url="https://www.boxingscene.com/api/share-image?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-eJ78psydec%2Fmaxresdefault.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 02:20:52 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingscene.com/api/share-image?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-eJ78psydec%2Fmaxresdefault.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ruben Aguilar Drops Guido Schramm Right Back in a Wild First Round | WBC Latino Title</title>
+      <link>https://www.boxingscene.com/clips/ruben-aguilar-drops-guido-schramm-right-back-in-a-wild-first-round-wbc-latino</link>
+      <description>Ruben Aguilar Drops Guido Schramm Right Back in a Wild First Round | WBC Latino Title</description>
+      <guid isPermaLink="false">5b88f6a4de59b9b9ee7c704f1fbf7f3b</guid>
+      <enclosure url="https://www.boxingscene.com/api/share-image?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEKK2FnBGpm8%2Fmaxresdefault.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 02:38:35 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingscene.com/api/share-image?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEKK2FnBGpm8%2Fmaxresdefault.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Ruben Aguilar Drops Schramm 3 Times To Finish It | Flores vs Nunez</title>
+      <link>https://www.boxingscene.com/clips/ruben-aguilar-drops-schramm-3-times-to-finish-it-flores-vs-nunez</link>
+      <description>Ruben Aguilar Drops Schramm 3 Times To Finish It | Flores vs Nunez</description>
+      <guid isPermaLink="false">318558e9ff9371f9e190471a28817dc3</guid>
+      <enclosure url="https://www.boxingscene.com/api/share-image?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMwrDUwt_pCA%2Fmaxresdefault.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 02:58:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingscene.com/api/share-image?src=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMwrDUwt_pCA%2Fmaxresdefault.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing 13 Flying Under the Radar in Riyadh</title>
+      <link>https://nyfights.com/boxing/zuffa-boxing-13-under-the-radar-riyadh/</link>
+      <description>The Zuffa Boxing 13 card takes place early in the morning U.S. time, and Dana White won't be present.</description>
+      <guid isPermaLink="false">2f817cc5d3d0095a36bfae84133f6062</guid>
+      <enclosure url="https://nyfights.com/wp-content/uploads/2026/11/Adames-v-Warburton_CWI_006.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 03:19:07 +0000</pubDate>
+      <media:group>
+        <media:content url="https://nyfights.com/wp-content/uploads/2026/11/Adames-v-Warburton_CWI_006.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Zuffa Boxing 13 Flying Under the Radar in Riyadh</title>
+      <link>https://sports.yahoo.com/articles/zuffa-boxing-13-flying-under-031907074.html</link>
+      <description>What to Know The final Zuffa Boxing card of the 2026 calendar takes place in Riyadh, Saudi Arabia on Saturday morning. Put the coffee on.</description>
+      <guid isPermaLink="false">719fcda2047e06705faafa1dc0d2ee89</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/f00100e863f22348bf993c7f7fc4f28f0cf6005b09e4b05a1fc37fbb173df0f1/lightyear_networkapi/resizefill_w1024_h748%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_fights_228%2F0b548b78cd6ea66cac83b11f3b9e66f8.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 03:19:07 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/f00100e863f22348bf993c7f7fc4f28f0cf6005b09e4b05a1fc37fbb173df0f1/lightyear_networkapi/resizefill_w1024_h748%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_fights_228%2F0b548b78cd6ea66cac83b11f3b9e66f8.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Bradley Urges Shakur Stevenson To Take Hearn Fights Without Signing</title>
+      <link>https://www.boxingnews24.com/2026/11/bradley-urges-shakur-stevenson-to-take-hearn-fights-without-signing/</link>
+      <description>Tim Bradley recommends that Shakur Stevenson find out ahead of time what fights he can get, but not sign with his Matchroom company. Stay a free agent and</description>
+      <guid isPermaLink="false">42571c72c87443b86a500eff414605d9</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/02/9L8A9230A.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 03:47:07 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/02/9L8A9230A.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Youth Olympics: In Dakar, Ambekar and Gunjan herald a new boxing dawn</title>
+      <link>https://timesofindia.indiatimes.com/sports/boxing/youth-olympics-in-dakar-ambekar-and-gunjan-herald-a-new-boxing-dawn/articleshow/135822075.cms</link>
+      <description>When the final bell rang in Dakar on Thursday, it probably marked a breakthrough moment for Indian sport.</description>
+      <guid isPermaLink="false">658517ed4dbb4aca14b1f7d481c3d4b2</guid>
+      <enclosure url="https://static.toiimg.com/thumb/msid-135822272,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 04:04:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://static.toiimg.com/thumb/msid-135822272,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Justin Figueroa Stops Luis Ramos In Atlantic City.</title>
+      <link>https://www.boxinginsider.com/headlines/justin-figueroa-stops-luis-ramos-in-atlantic-city/</link>
+      <description>By: Sean Crose Boxing returned to Atlantic City on Friday night as Boxing insider Promotions hosted a live card from the Tropicana. Justin Figueroa and</description>
+      <guid isPermaLink="false">3eddfa848fa8e640a12f70dab67dbf87</guid>
+      <enclosure url="https://www.boxinginsider.com/wp-content/uploads/2026/03/Figueroa.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 04:18:43 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxinginsider.com/wp-content/uploads/2026/03/Figueroa.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>All-Star boxing at Expo Saturday</title>
+      <link>https://www.wmtw.com/article/all-star-boxing-at-expo-saturday/74429268</link>
+      <description>All-Star boxing at Expo Saturday</description>
+      <guid isPermaLink="false">57d71f8e9af94f4da6d4d66621ae2542</guid>
+      <enclosure url="https://kubrick.htvapps.com/vidthumb/83989a1d-226f-4129-b679-ba9feba18f7d/2e34c212-6184-483b-bbea-d1b104f7eeb0.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&amp;resize=1200%3A*" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 04:28:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://kubrick.htvapps.com/vidthumb/83989a1d-226f-4129-b679-ba9feba18f7d/2e34c212-6184-483b-bbea-d1b104f7eeb0.jpg?crop=1xw%3A1.0xh%3Bcenter%2Ctop&amp;resize=1200%3A*" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Pacheco Vs. Fulghum Winner Could Wait Until 2028</title>
+      <link>https://www.boxing247.com/boxing-news/pacheco-vs-fulghum-winner-could-wait-until-2028/311317</link>
+      <description>Sergio Mora expects Diego Pacheco to fight for a world title next if he beats Darius Fulghum on Saturday. The WBA route could take until 2028.</description>
+      <guid isPermaLink="false">6b814bffa3bebfa4abc3e0a5c3e423dc</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/11/Pacheco-v-Fulghum-weigh-ins-254-1.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 04:36:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/11/Pacheco-v-Fulghum-weigh-ins-254-1.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Jose Nunez hammers out upset of Bryan Flores in El Paso</title>
+      <link>https://www.boxingscene.com/articles/jose-nunez-hammers-out-an-upset-of-bryan-flores-in-el-paso</link>
+      <description>Jose Nunez brought dangerous power punching to the El Paso Civic Center on Friday, upsetting ranked Bryan Flores in the ProBox TV main event</description>
+      <guid isPermaLink="false">120ae967a3e756f8d1f69aeaa7ad2d82</guid>
+      <enclosure url="https://www.boxingscene.com/api/share-image?src=https%3A%2F%2Fphoto2.boxingscene.com%2Fuploads%2Fjose-nunez-right-lands-against-bryan-flores-in-his-crop-jnvrem.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 05:01:04 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingscene.com/api/share-image?src=https%3A%2F%2Fphoto2.boxingscene.com%2Fuploads%2Fjose-nunez-right-lands-against-bryan-flores-in-his-crop-jnvrem.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Calm before the Carson storm: Pacheco and Fulghum are set for Saturday</title>
+      <link>https://www.thesportingtribune.com/2026/11/13/pacheco-fulghum-preview-carson</link>
+      <description>Diego Pacheco and Darius Fulghum made weight with respect and no trash talk, but both say they are ready to seize the moment Saturday in Carson, with the WBC Silver belt on the line.</description>
+      <guid isPermaLink="false">8d66ed0a90d623adb2961e6e775945e0</guid>
+      <enclosure url="https://www.thesportingtribune.com/img/boxing/pacheco-fulghum/pachecofulghum1-1600x900.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 05:03:31 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.thesportingtribune.com/img/boxing/pacheco-fulghum/pachecofulghum1-1600x900.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Teofimo Lopez Can Seek WBA Permit To Fight Ryan Garcia</title>
+      <link>https://www.boxingnews24.com/2026/11/teofimo-lopez-can-seek-wba-permit-to-fight-ryan-garcia/</link>
+      <description>Teofimo Lopez has a way to pursue a February 6 unification with Ryan Garcia without giving up his WBA welterweight title. The WBA has notified the parties</description>
+      <guid isPermaLink="false">96816eaea37f60724e0cbe5779635df2</guid>
+      <enclosure url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Teofimo-beats-Romero5.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 06:30:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxingnews24.com/wp-content/uploads/2026/08/Teofimo-beats-Romero5.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>ABS-CBN News</title>
+      <link>https://www.facebook.com/abscbnNEWS/posts/the-power-this-photo-holds-fil-am-singer-apldeap-shared-a-photo-with-a-couple-of/1764297762412139/</link>
+      <description>THE POWER THIS PHOTO HOLDS! Fil-Am singer Apl.de.Ap shared a photo with “a couple of GOATs” — boxing legend Manny Pacquiao and billiards icon Efren “Bata” Reyes — in a recent social media post....</description>
+      <guid isPermaLink="false">a4e0720304711d4bad50e360b232657a</guid>
+      <enclosure url="https://scontent-lga3-1.xx.fbcdn.net/v/t39.99422-6/896103976_1460072352315629_3462541096543944557_n.png?stp=dst-jpg_tt6&amp;cstp=mx1280x1707&amp;ctp=p600x600&amp;_nc_cat=101&amp;_nc_map=urlgen_bucketless&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=sIjAHmY6D_sQ7kNvwEpNm1C&amp;_nc_oc=Adr_Hboz9CJ4rhQWM9axvbqRK24PaoZn7m4g9bfQi478yPAkm3eil3E6suMJR5BA8IM&amp;_nc_zt=14&amp;_nc_ht=scontent-lga3-1.xx&amp;_nc_gid=T6WwIACtldlxXmLg410NuQ&amp;_nc_ss=7b289&amp;oh=00_AQRTSguk32pUxrfF8cIEqr3eZmcI8ytV3qyFcTQtt8fCyQ&amp;oe=6AFDE5E0" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 06:52:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://scontent-lga3-1.xx.fbcdn.net/v/t39.99422-6/896103976_1460072352315629_3462541096543944557_n.png?stp=dst-jpg_tt6&amp;cstp=mx1280x1707&amp;ctp=p600x600&amp;_nc_cat=101&amp;_nc_map=urlgen_bucketless&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=sIjAHmY6D_sQ7kNvwEpNm1C&amp;_nc_oc=Adr_Hboz9CJ4rhQWM9axvbqRK24PaoZn7m4g9bfQi478yPAkm3eil3E6suMJR5BA8IM&amp;_nc_zt=14&amp;_nc_ht=scontent-lga3-1.xx&amp;_nc_gid=T6WwIACtldlxXmLg410NuQ&amp;_nc_ss=7b289&amp;oh=00_AQRTSguk32pUxrfF8cIEqr3eZmcI8ytV3qyFcTQtt8fCyQ&amp;oe=6AFDE5E0" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Carlos Adames fights Gerome Warburton as Denzel Bentley targets shot at WBC middleweight world champion next year</title>
+      <link>https://www.skysports.com/boxing/news/13612025/carlos-adames-fights-gerome-warburton-as-denzel-bentley-targets-shot-at-wbc-middleweight-world-champion-next-year</link>
+      <description>Carlos Adames returns to action against Wales Gerome Warburton in Riyadh on Saturday; Londons Denzel Bentley is looking to challenge Adames for the WBC middleweight world title next year; Watch Adames fight Warburton live on Sky Sports Mix from 4pm</description>
+      <guid isPermaLink="false">4213886388bf87f06b3685f8aad7ec3b</guid>
+      <enclosure url="https://e0.365dm.com/26/11/1600x900/skysports-carlos-adames-gerome-warburton_7406042.jpg?20261113200008" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 07:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://e0.365dm.com/26/11/1600x900/skysports-carlos-adames-gerome-warburton_7406042.jpg?20261113200008" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Abdullah Mason Dares Schofield To Seek WBA Unification Permit</title>
+      <link>https://www.boxing247.com/boxing-news/abdullah-mason-dares-schofield-to-seek-wba-unification-permit/311320</link>
+      <description>Abdullah Mason has called on Floyd Schofield to ask the WBA to let them unify at lightweight before Schofield faces mandatory challenger José Valenzuela.</description>
+      <guid isPermaLink="false">9235d03a012ac3d95891cf4f494e4ae9</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2025/11/mason-noakes8.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 07:31:05 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2025/11/mason-noakes8.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>George Francis: Sex-test error meant boxer missed U19 World Championships</title>
+      <link>https://www.bbc.com/sport/boxing/articles/c9ly4lerj8m3o</link>
+      <description>George Francis was left “broken” after he was banned from competing at the Under-19 World Championships because his team did not organise a sex verification test to prove he is male.</description>
+      <guid isPermaLink="false">03c067168ff85db308eab3799ef7115e</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f903/live/a1302b10-dfb1-11f1-93e1-3b657b665bcf.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 07:43:44 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f903/live/a1302b10-dfb1-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>George Francis: Sex-test error meant boxer missed U19 World Championships</title>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/c9ly4lerj8m3o</link>
+      <description>George Francis was left “broken” after he was banned from competing at the Under-19 World Championships because his team did not organise a sex verification test to prove he is male.</description>
+      <guid isPermaLink="false">40b365f0410a3dcae9dcf69da0194c50</guid>
+      <enclosure url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f903/live/a1302b10-dfb1-11f1-93e1-3b657b665bcf.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 07:43:44 +0000</pubDate>
+      <media:group>
+        <media:content url="https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f903/live/a1302b10-dfb1-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>England boxer missed Worlds over sex-test mix-up</title>
+      <link>https://sports.yahoo.com/articles/england-boxer-missed-worlds-over-074357208.html</link>
+      <description>George Francis was left “broken” after he was banned from competing at the Under-19 World Championships because his team did not organise a sex verification test to prove he is male.</description>
+      <guid isPermaLink="false">8902eba2f72edaf7285d272fb2ccf752</guid>
+      <enclosure url="https://s.yimg.com/lo/mysterio/api/e0cbc559d9ad66b16b5974d23a3b7820c4e3d9d8b3b98ca0c36d98bd98990d2e/lightyear_networkapi/resizefill_w1020_h573%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd1c95615ff02ba1314335fdddfe86870.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 07:43:57 +0000</pubDate>
+      <media:group>
+        <media:content url="https://s.yimg.com/lo/mysterio/api/e0cbc559d9ad66b16b5974d23a3b7820c4e3d9d8b3b98ca0c36d98bd98990d2e/lightyear_networkapi/resizefill_w1020_h573%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd1c95615ff02ba1314335fdddfe86870.jpg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Keys to Victory: Where will the major damage land in Carlos Adames vs. Gerome Warburton?</title>
+      <link>https://www.dazn.com/en-GB/news/boxing/keys-to-victory-carlos-adames-vs-gerome-warburton-fight-preview-fight-analysis-zuffa-boxing/1kc6lba50ggwf1f2ispx6sb98i</link>
+      <description>The WBC is allowing Carlos Adames to have a non-title catchweight fight at 165 pounds tonight against Gerome Warburton in Riyadh, Saudi Arabia.</description>
+      <guid isPermaLink="false">11cd83ce0f5f924bd079da7577fe5070</guid>
+      <enclosure url="https://images.daznservices.com/di/library/DAZN_News/c3/51/carlos-adames-gerome-warburton_198v4ztq680l3110byjwggj6yw.jpg?t=-624496079" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 08:00:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://images.daznservices.com/di/library/DAZN_News/c3/51/carlos-adames-gerome-warburton_198v4ztq680l3110byjwggj6yw.jpg?t=-624496079" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>How Muhammad Ali Overwhelmed Cleveland Williams</title>
+      <link>https://www.boxing247.com/boxing-news/how-muhammad-ali-overwhelmed-cleveland-williams/311321</link>
+      <description>Cleveland Williams kept getting up. That was about all Muhammad Ali left him to do at the Houston Astrodome on November 14, 1966.</description>
+      <guid isPermaLink="false">d3432f3dd35d1683e9c2b9249cd560ff</guid>
+      <enclosure url="https://www.boxing247.com/wp-content/uploads/2026/11/Muhammad-Ali-vs-Cleveland-Williams.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 14 Nov 2026 08:10:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://www.boxing247.com/wp-content/uploads/2026/11/Muhammad-Ali-vs-Cleveland-Williams.jpg" medium="image"/>
       </media:group>
     </item>
   </channel>
